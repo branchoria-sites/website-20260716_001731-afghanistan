@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="dark" data-semantic-intent="taxonomy_list" data-relation-type="taxonomy">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --semantic-risk: #f87171;
+    --semantic-warning: #fb923c;
+    --semantic-uncertain: #fbbf24;
+    --semantic-evidence: #60a5fa;
+    --semantic-claim: #c084fc;
+    --semantic-positive: #4ade80;
+    --semantic-outcome: #22d3ee;
+    --accent-1: #a5b4fc;
+    --accent-2: #34d399;
+    --accent-3: #f472b6;
+    --accent-4: #fbbf24;
+    --accent-5: #38bdf8;
+    --accent-6: #c084fc;
+    --accent-7: #f87171;
+    --accent-8: #2dd4bf;
+    --accent-9: #fb923c;
+    --accent-10: #e879f9;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --semantic-risk: #b91c1c;
+    --semantic-warning: #c2410c;
+    --semantic-uncertain: #a16207;
+    --semantic-evidence: #1d4ed8;
+    --semantic-claim: #6d28d9;
+    --semantic-positive: #15803d;
+    --semantic-outcome: #0e7490;
+    --accent-1: #4f46e5;
+    --accent-2: #059669;
+    --accent-3: #db2777;
+    --accent-4: #d97706;
+    --accent-5: #0284c7;
+    --accent-6: #7c3aed;
+    --accent-7: #dc2626;
+    --accent-8: #0d9488;
+    --accent-9: #ea580c;
+    --accent-10: #c026d3;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="75.0" y2="75.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <filter id="svg0754de88-neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <radialGradient id="svg0754de88-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svg0754de88-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svg0754de88-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="svg0754de88-tree-roots-art-glow" cx="50%" cy="52%" r="68%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svg0754de88-tree-roots-art-sheen" x1="16%" y1="0%" x2="86%" y2="100%">
+      <stop offset="0%" stop-color="var(--inverse-text)" stop-opacity="0.22"/>
+      <stop offset="52%" stop-color="var(--inverse-text)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0.14"/>
+    </linearGradient>
+    <filter id="svg0754de88-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svg0754de88-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svg0754de88-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <ellipse id="TREE-ROOTS_ART_GLOW" cx="960" cy="600" rx="720" ry="390" fill="url(#svg0754de88-tree-roots-art-glow)" opacity="0.90"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svg0754de88-universal-edge-vignette)" opacity="0.62"/>
+  <!-- Subtle dirt/background texture behind roots -->
+  <rect x="0" y="280" width="1920" height="800" fill="var(--primary-text)" opacity="0.04"/>
+  <g transform="translate(0, 0)">
+    <!-- Ground Line -->
+    <path d="M 0 280 L 1920 280" fill="none" stroke="var(--primary-text)" stroke-width="4" stroke-dasharray="10 20" opacity="0.3"/>
+    <!-- Tree Canopy -->
+    <g id="TREE_CANOPY" opacity="0.58">
+      <circle cx="900.0" cy="210" r="70" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="2"/>
+      <circle cx="1020.0" cy="210" r="70" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="2"/>
+      <circle cx="960.0" cy="190" r="80" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="2"/>
+      <circle cx="960.0" cy="160" r="40" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="2"/>
+    </g>
+    <!-- Tree Trunk -->
+    <path d="M 910.0 280 C 910.0 235, 895.0 190, 900.0 140 L 1020.0 140 C 1025.0 190, 1010.0 235, 1010.0 280 Z" fill="var(--panel)" stroke="var(--primary-text)" stroke-width="2" filter="url(#svg0754de88-neon-glow)"/>
+    <!-- Trunk abstract rings -->
+    <ellipse cx="960.0" cy="242" rx="34.0" ry="44" fill="none" stroke="var(--background)" stroke-width="6" opacity="0.3"/>
+    <rect id="TITLE_FRAME" x="660.0" y="20" width="600" height="80" fill="none"/>
+    <text id="TITLE" x="960.0" y="59" font-size="34" font-weight="900" fill="#f1f5f9" text-anchor="middle" alignment-baseline="middle" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" data-final-font-size="60">
+      <tspan x="960.0" dy="68.00px">Swiss Satanic Panic Ecosystem</tspan>
+    </text>
+  </g>
+  <g transform="translate(0, 0)">
+    <!-- Root Core Line -->
+    <path d="M 900.0 280 C 812.0 400.0, 548.0 420.0, 460.0 480" fill="none" stroke="var(--accent-1)" stroke-width="10" stroke-linecap="round" filter="url(#svg0754de88-neon-glow)" opacity="0.9"/>
+    <path d="M 900.0 280 C 812.0 400.0, 548.0 420.0, 460.0 480" fill="none" stroke="var(--background)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Secondary stylistic root tendril -->
+    <path d="M 900.0 280 C 804.0 376.0, 516.0 392.0, 420.0 440" fill="none" stroke="var(--accent-1)" stroke-width="3" filter="url(#svg0754de88-neon-glow)" opacity="0.45"/>
+    <!-- Deep Root Terminal -->
+    <circle cx="460.0" cy="480" r="53" fill="none" stroke="var(--accent-1)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+    <circle cx="460.0" cy="480" r="45" fill="var(--panel)" stroke="var(--accent-1)" stroke-width="4" filter="url(#svg0754de88-neon-glow)"/>
+    <circle id="ITEM_1_PAD" cx="460.00" cy="480.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_1_PAD_INNER" cx="460.00" cy="480.00" r="31.20" fill="var(--accent-9)" fill-opacity="0.22"/>
+    <g id="ITEM_1_ICON" transform="translate(435.0, 455)" data-icon-size="50" stroke-dasharray="6 4">
+      <g transform="translate(-11.977777777777783,-11.977777777777781) scale(3.081481481481482)" vector-effect="non-scaling-stroke" stroke-width="2.31" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="1.0">
+        <path d="M5 8h14l-.621 2.485a2 2 0 0 1 -1.94 1.515h-8.878a2 2 0 0 1 -1.94 -1.515l-.621 -2.485z" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M7 8v-2a3 3 0 0 1 3 -3" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M8 12l1 9" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M16 12l-1 9" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+        <path d="M7 21h10" vector-effect="non-scaling-stroke" fill="none" stroke="#f1f5f9"/>
+      </g>
+    </g>
+    <rect id="ITEM_1_TEXT_BG" x="37.0" y="414.0" width="376.0" height="222.0" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--primary-text)" stroke-opacity="0.22" stroke-width="2.2"/>
+    <text id="ITEM_1_HEAD" data-bg-id="ITEM_1_TEXT_BG" x="395.0" y="430.0" font-weight="bold" font-size="25" fill="var(--accent-9)" text-anchor="end" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="395.0" dy="28.25px">Therapeutic Networks</tspan>
+    </text>
+    <rect id="ITEM_1_HEAD_FRAME" x="95.0" y="430" width="300" height="40" fill="none"/>
+    <text id="ITEM_1_BODY" data-bg-id="ITEM_1_TEXT_BG" x="395.0" y="500.0" font-size="17" fill="var(--primary-text)" text-anchor="end" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="395.0" dy="26.86px">Clinicians and trainers</tspan>
+      <tspan x="395.0" dy="29.90px">share and</tspan>
+      <tspan x="395.0" dy="29.90px">reinforce beliefs</tspan>
+    </text>
+    <rect id="ITEM_1_BODY_FRAME" x="55" y="500" width="340" height="120" fill="none"/>
+  </g>
+  <g transform="translate(0, 0)">
+    <!-- Root Core Line -->
+    <path d="M 930.0 280 C 886.0 550.0, 754.0 595.0, 710.0 730" fill="none" stroke="var(--accent-2)" stroke-width="10" stroke-linecap="round" filter="url(#svg0754de88-neon-glow)" opacity="0.9"/>
+    <path d="M 930.0 280 C 886.0 550.0, 754.0 595.0, 710.0 730" fill="none" stroke="var(--background)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Secondary stylistic root tendril -->
+    <path d="M 930.0 280 C 878.0 526.0, 722.0 567.0, 670.0 690" fill="none" stroke="var(--accent-2)" stroke-width="3" filter="url(#svg0754de88-neon-glow)" opacity="0.45"/>
+    <!-- Deep Root Terminal -->
+    <circle cx="710.0" cy="730" r="53" fill="none" stroke="var(--accent-2)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+    <circle cx="710.0" cy="730" r="45" fill="var(--panel)" stroke="var(--accent-2)" stroke-width="4" filter="url(#svg0754de88-neon-glow)"/>
+    <circle id="ITEM_2_PAD" cx="710.00" cy="730.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_2_PAD_INNER" cx="710.00" cy="730.00" r="31.20" fill="var(--accent-10)" fill-opacity="0.22"/>
+    <g id="ITEM_2_ICON" transform="translate(685.0, 705)" data-icon-size="50" stroke-dasharray="6 4">
+      <g transform="translate(-8.004958677685956,-7.747107438016536) scale(0.5157024793388431)">
+        <path fill="#62453B" d="M70.45 7.61s-.21-3.53-6.01-3.65s-7.9 4.41-10.21 3.86c-2.43-.57-1.43-2.35-1.97-2.52s-2.27.92-2.31 2.73s.29 2.02.29 2.02s-2.48.4-3.4 3.65c-1.18 4.16 1.26 6.05 1.26 6.05s-2.26 1.9-1 5.88c.86 2.73 2.56 2.62 2.52 4.17s-1.22 1.58-1.18 2.26s.72 1.24 1.55 1.64c1.24.6 2.23.17 2.23.17s.77 1.42 2.69 1.89c3.87.94 5.86-.84 5.86-.84l1.33-1.29s3.48 2.14 7.38 2.22s5.34-1.06 5.34-1.27s-.71-.97-.71-.97s1.26.34 2.69-.38s1.3-1.81 1.09-2.18s-1.91-.51-1.72-2.18c.29-2.6 2.76-2.46 2.73-6.85c-.03-3.45-2.1-4.54-2.1-4.54s2.27-2.94-.67-7.01c-2.59-3.59-5.67-2.86-5.67-2.86z"/>
+        <path fill="#FFCA26" d="M49.97 60c-.09.87-.15 1.59-.16 2.09c-.08 4-.8 11.04-.75 11.35c.11.64 1.32 1.86 1.63 5.32c.1 1.09-.06 2.34-.24 2.51c-.5.45-1.1-.07-1.37-1.54c-.16-.88-.67-1.21-.87-.67c-.3.82-.17 1.45.19 2.94c.32 1.32.73 1.91.56 2.68c-.09.4-.74 1.11-1.07.4c-.23-.5-.36-.71-.36-.71s-.33.38-1.04-.21c-1.64-1.35-3.6-3.07-3.69-4.84c-.14-2.68.8-4.8.87-5.78s-.6-5.6-.36-9.49c.07-1.11.65-3.99.79-5.91c.05-.64.13-1.35.24-2.09c2.56 2.07 3.93 2.94 5.64 3.96h-.01zm27.54-13.92s-2.03-2.13-4.65-.96c-.64.29 3.24 12.5 3.75 16.65c.49 3.97 1.93 10.9 1.91 11.22c-.04.65-1.12 1.99-1.08 5.46c.01 1.09.3 2.32.5 2.47c.54.39 1.09-.19 1.21-1.68c.07-.9.54-1.27.79-.76c.39.78.32 1.43.11 2.95c-.18 1.34-.53 1.98-.29 2.72c.13.39.85 1.03 1.11.29c.18-.52.28-.74.28-.74s.36.34 1.02-.32c1.5-1.51 3.27-3.43 3.17-5.19c-.14-2.68-1.28-4.7-1.46-5.66c-.17-.97.03-5.64-.62-9.47c-.18-1.1-1.05-3.91-1.39-5.8c-1.09-6.07-4.37-11.17-4.37-11.17z"/>
+        <path fill="#F09E00" d="m44.14 56.93l-.16 2.29s1.43 1.7 3.35 2.74c1.25.67 1.5 2.54 1.44 3.47s-.6 7.13-.44 7.73s1.31 1.46 1.58 2.23s-.82-2.61-.82-2.61s.6-6.81.71-8.55s.22-5.06.22-5.06l-5.88-2.23zm33.16 9.25s-.13-3.4.35-4.49c.53-1.22 1.86-1.89 2.64-2.3s1.85-.89 1.85-.89l-.59-2.89l-5.57 3.7s.53 2.04.63 2.46s.42 3.56.69 4.41"/>
+        <path fill="#BB6117" d="M47.29 83.95s-2.23-2.84-1.96-3.66c.09-.27.59-.18.72.25c.3.99 1.23 3.41 1.24 3.41m-1.7-.57s-2.45-2.66-1.86-2.95c.25-.13.57.81.89 1.38s.97 1.57.97 1.57m35.75-.13s1.93-3.05 1.57-3.84c-.12-.26-.61-.12-.69.32c-.2 1.02-.88 3.52-.88 3.52m1.63-.74s2.17-2.89 1.54-3.13c-.26-.1-.49.86-.74 1.47s-.8 1.66-.8 1.66m-33.3-1.31c0-.09-.29-1.48-.33-1.85s-.24-1.29-.78-1.17c-.66.14-1 .71-.87 1.51c.28 1.68.87 3.26 1.03 3.53s-.51-2.15-.56-2.98c-.05-.89.03-1.36.3-1.42c.43-.1.53.99.81 1.75c.23.62.39.62.39.62zm29.22-.79s.14-.32.19-.75s.19-1.36.5-1.4s.56.54.6 1.02s-.16 2.54-.41 3.48s-.03 1.55.15 1.68c.05-.34.11-1.11.24-1.69c.19-.85.55-2.76.41-3.72s-.54-1.5-1.24-1.28c-.56.17-.57 1.2-.57 1.61s.12 1.07.12 1.07z"/>
+        <path fill="#359" d="M53.57 110s.33 2.66-.47 4.62c-.71 1.76-2.69 3.73-3.05 6.37c-.15 1.12 1.37 2.08 1.8 2.32c2.73 1.52 6.09.52 7.01-1.92c.54-1.44.73-2.4 1.16-3.17s1.06-1.69 1.06-2.56s.02-6.06.02-6.06l-7.55.39zm21.25-.26s-.33 2.66.47 4.62c.71 1.76 2.69 3.73 3.05 6.37c.15 1.12-1.37 2.08-1.8 2.32c-2.73 1.52-6.09.52-7.01-1.92c-.54-1.44-.73-2.4-1.16-3.17s-1.06-1.69-1.06-2.56s-.02-6.06-.02-6.06l7.55.39z"/>
+        <path fill="#7C7C7C" d="M51.91 68.9s-.47 6.56-.18 21.93c.19 10.18.79 19.87.89 20.25s2.12.88 4.14.87c2.69-.02 4.68-.54 4.82-1.05s1.15-6.94 1.25-13.39c.04-2.63.06-4.92.11-6.99c.1-4.09.35-6.91 1.18-6.87c.67.03.79 3.19.93 6.49c.12 2.88.29 5.87.29 7.02c0 2.46 1.18 12.95 1.2 13.32s2.27 1.31 4.7 1.22s4.41-.52 4.45-.92s.6-11.68.6-19.88s-.48-22.61-.48-22.61l-14.22-3.94l-9.69 4.55z"/>
+        <path fill="#686868" d="m63.48 62.1l-11.6 7.34l-.13 2.84s6.62 2.52 11.96 2.31c7.94-.3 12.21-2.65 12.21-2.65l-.09-3.2l-12.35-6.65z"/>
+        <path fill="#F09E00" d="m54.91 38.19l3.88-1.61s.07-.58.05-1.24c-.05-1.54-.04-3.07-.04-3.07l8.4.04s-.01.93 0 2.63c0 .44.06 1.12.05 1.53l3.88.88l-8.45 4.12l-7.77-3.3z"/>
+        <path fill="#F06E00" d="M74.53 38.35c-2.14-1.33-7.25-2.02-7.25-2.02s-.08 3.1-4.07 3.22c-3.56.11-4.47-3.09-4.47-3.09s-4.31.73-7.46 2.25c-2.63 1.27-3.54 3.31-4.81 7.03c-1.26 3.73-4.07 9.67-3.8 10.13c.38.65 1.21 1.27 2.86 2.53s3.3 1.89 3.3 1.89l1.89-1.14l1.14 2.15s.06 1.86 0 2.68s-.41 5.35.09 5.66s5.55 2.94 12.12 2.69s11.47-2.36 11.75-3.22c.19-.6-.06-4.69-.09-5.67c-.06-1.9-.19-3.15-.19-3.15l1.14-2.97l1.83 1.52s1.29-.65 3-1.91s2.56-2.01 2.56-2.57s-3.38-6.78-5.14-9.58c-1.71-2.72-2.12-5.02-4.39-6.42h-.01z"/>
+        <path fill="#DA4C00" d="M75.54 60.29s-.26-4.08-.3-5.7s-.7-5.76.33-6.13c1.23-.44 1.63 3.24 1.86 4.91s1.08 5.47 1.08 5.47s-.75.44-1.5.81c-.68.33-1.47.65-1.47.65zm-26.71 0s.61-3.42.83-5.57s.48-5.17.82-5.74s1.19-.53 1.34.35s0 6.74 0 7.93s.08 4.21.08 4.21s-.62-.24-1.43-.52c-1.03-.35-1.63-.66-1.63-.66z"/>
+        <path fill="#E59502" d="M50.47 21.76s-2.35.37-1.78 3.55c.68 3.76 4.25 2.79 4.25 2.79l-1.73-2.16s-.37-1.1-.53-2.26s-.22-1.92-.21-1.92m24.38.27c.4-.17 2.17.16 1.97 2.88c-.25 3.44-2.54 3.51-3.1 3.51s-1.85-1.55-1.85-1.55s2.4-.84 2.62-1.43s.36-3.41.36-3.41"/>
+        <path fill="#FFCA26" d="M52.64 18.26c-.37.4-.29 7.1-.72 7.56c-.37.4-.74-.03-.74-.03s1.71 9.98 11.72 9.98c4.45 0 6.99-1.75 8.69-3.81c2.52-3.06 2.91-6.52 2.91-6.52s-.14.41-.51.36c-.22-.03-.45-.05-.54-.62c-.11-.66-.5-7.15-2.09-8.65c-1.78-1.67-3.24-1.36-3.24-1.36s-.65-1.73-3.39-2.16c-2.16-.34-3.85 1.21-7.32 3.32c-2.01 1.22-4.77 1.92-4.77 1.92z"/>
+        <path fill="#E59700" d="M62.84 26.13c-1.07.02-1.47-.34-1.85.04c-.35.35-.04.85.54 1.3c.78.61 1.99.59 2.62.03s.89-1.03.49-1.37s-.71-.02-1.8 0"/>
+        <path fill="#6D4C3F" d="M54.23 19.51c.28.45 1.22-.26 2.71-.3c1.22-.03 2.29.84 2.54.04c.3-.94-.71-1.35-2.52-1.26s-3.11.92-2.74 1.52z"/>
+        <path fill="#785446" d="M66 19.46c.62.17 1.09-.28 2.35-.19c1.18.08 2.33.6 2.67.21s-.54-1.31-2.48-1.5c-1.75-.17-2.82.3-2.95.68s.15.72.41.79z"/>
+        <path fill="#3F4040" d="M56.92 20.79c-1.43-.02-1.99 1.22-1.9 2.09s.75 1.71 2.01 1.69s1.86-.81 1.86-1.86s-.64-1.9-1.97-1.92m11.47-.04c-1.07-.11-2.05.64-2.01 1.92c.05 1.43 1.3 1.88 1.99 1.88c.98 0 1.78-.73 1.79-1.77c.02-1.18-.58-1.9-1.77-2.03"/>
+        <path fill="#785447" d="M62.92 29.61c-1.58 0-3.09-.59-3.37.03c-.42.92 1.15 1.97 3.43 1.97c2.92 0 3.88-1.47 3.51-1.99s-1.74 0-3.57 0z"/>
+      </g>
+    </g>
+    <rect id="ITEM_2_TEXT_BG" x="247.0" y="664.0" width="416.0" height="222.0" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--primary-text)" stroke-opacity="0.22" stroke-width="2.2"/>
+    <text id="ITEM_2_HEAD" data-bg-id="ITEM_2_TEXT_BG" x="645.0" y="680.0" font-weight="bold" font-size="25" fill="var(--accent-10)" text-anchor="end" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="645.0" dy="28.25px">Pastoral Support</tspan>
+    </text>
+    <rect id="ITEM_2_HEAD_FRAME" x="325.0" y="680" width="320" height="40" fill="none"/>
+    <text id="ITEM_2_BODY" data-bg-id="ITEM_2_TEXT_BG" x="645.0" y="750.0" font-size="17" fill="var(--primary-text)" text-anchor="end" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="645.0" dy="32.84px">Religious counseling blends</tspan>
+      <tspan x="645.0" dy="29.90px">with therapeutic assumptions</tspan>
+    </text>
+    <rect id="ITEM_2_BODY_FRAME" x="265" y="750" width="380" height="120" fill="none"/>
+  </g>
+  <g transform="translate(0, 0)">
+    <!-- Root Core Line -->
+    <path d="M 960.0 280 C 960.0 670.0, 960.0 735.0, 960.0 930" fill="none" stroke="var(--accent-3)" stroke-width="10" stroke-linecap="round" filter="url(#svg0754de88-neon-glow)" opacity="0.9"/>
+    <path d="M 960.0 280 C 960.0 670.0, 960.0 735.0, 960.0 930" fill="none" stroke="var(--background)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Secondary stylistic root tendril -->
+    <path d="M 960.0 280 C 952.0 646.0, 928.0 707.0, 920.0 890" fill="none" stroke="var(--accent-3)" stroke-width="3" filter="url(#svg0754de88-neon-glow)" opacity="0.45"/>
+    <!-- Deep Root Terminal -->
+    <circle cx="960.0" cy="930" r="53" fill="none" stroke="var(--accent-3)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+    <circle cx="960.0" cy="930" r="45" fill="var(--panel)" stroke="var(--accent-3)" stroke-width="4" filter="url(#svg0754de88-neon-glow)"/>
+    <circle id="ITEM_3_PAD" cx="960.00" cy="930.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_3_PAD_INNER" cx="960.00" cy="930.00" r="31.20" fill="var(--accent-1)" fill-opacity="0.22"/>
+    <g id="ITEM_3_ICON" transform="translate(935.0, 905)" data-icon-size="50" stroke-dasharray="6 4">
+      <g transform="translate(-10.65714285714286,-10.65714285714286) scale(2.2285714285714286)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+        <path fill="#f1f5f9" d="M25 16h-8a2 2 0 0 0-2 2v6H4V14H2v16h2v-4h24v4h2v-9a5.006 5.006 0 0 0-5-5m3 8H17v-6h8a3.003 3.003 0 0 1 3 3Z" vector-effect="non-scaling-stroke" stroke="none"/>
+        <path fill="#f1f5f9" d="M9.5 17A1.5 1.5 0 1 1 8 18.5A1.5 1.5 0 0 1 9.5 17m0-2a3.5 3.5 0 1 0 3.5 3.5A3.5 3.5 0 0 0 9.5 15M21 6h-4V2h-2v4h-4v2h4v4h2V8h4z" vector-effect="non-scaling-stroke" stroke="none"/>
+      </g>
+    </g>
+    <rect id="ITEM_3_TEXT_BG" x="532.0" y="824.0" width="356.0" height="210.0" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--primary-text)" stroke-opacity="0.22" stroke-width="2.2"/>
+    <text id="ITEM_3_HEAD" data-bg-id="ITEM_3_TEXT_BG" x="870.0" y="840.0" font-weight="bold" font-size="25" fill="var(--accent-1)" text-anchor="end" fill-opacity="1.0" stroke="none" style="font-size: 25px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="25">
+      <tspan x="870.0" dy="25.62px">Psychiatric Institutions</tspan>
+    </text>
+    <rect id="ITEM_3_HEAD_FRAME" x="570.0" y="840" width="300" height="40" fill="none"/>
+    <text id="ITEM_3_BODY" data-bg-id="ITEM_3_TEXT_BG" x="870.0" y="910.0" font-size="17" fill="var(--primary-text)" text-anchor="end" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="870.0" dy="22.06px">Clinics integrate ritual</tspan>
+      <tspan x="870.0" dy="29.90px">violence into trauma</tspan>
+      <tspan x="870.0" dy="29.90px">treatment</tspan>
+    </text>
+    <rect id="ITEM_3_BODY_FRAME" x="550" y="910" width="320" height="96" fill="none"/>
+  </g>
+  <g transform="translate(0, 0)">
+    <!-- Root Core Line -->
+    <path d="M 990.0 280 C 1034.0 550.0, 1166.0 595.0, 1210.0 730" fill="none" stroke="var(--accent-4)" stroke-width="10" stroke-linecap="round" filter="url(#svg0754de88-neon-glow)" opacity="0.9"/>
+    <path d="M 990.0 280 C 1034.0 550.0, 1166.0 595.0, 1210.0 730" fill="none" stroke="var(--background)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Secondary stylistic root tendril -->
+    <path d="M 990.0 280 C 1042.0 526.0, 1198.0 567.0, 1250.0 690" fill="none" stroke="var(--accent-4)" stroke-width="3" filter="url(#svg0754de88-neon-glow)" opacity="0.45"/>
+    <!-- Deep Root Terminal -->
+    <circle cx="1210.0" cy="730" r="53" fill="none" stroke="var(--accent-4)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+    <circle cx="1210.0" cy="730" r="45" fill="var(--panel)" stroke="var(--accent-4)" stroke-width="4" filter="url(#svg0754de88-neon-glow)"/>
+    <circle id="ITEM_4_PAD" cx="1210.00" cy="730.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_4_PAD_INNER" cx="1210.00" cy="730.00" r="31.20" fill="var(--accent-2)" fill-opacity="0.22"/>
+    <g id="ITEM_4_ICON" transform="translate(1185.0, 705)" data-icon-size="50" stroke-dasharray="6 4">
+      <g transform="translate(-10.65714285714286,-16.22857142857143) scale(2.2285714285714286)">
+        <path d="M29.9611 14.1L29.6311 12.63C28.901 9.34 25.9908 7 22.6205 7H9.3795C6.00924 7 3.09902 9.34 2.35897 12.63L2.03894 14.1C1.81892 15.07 2.55898 16 3.55906 16H9.17949C9.93955 16 10.5496 15.39 10.5496 14.63V13.93C10.5496 13.41 10.9696 12.99 11.4897 12.99H20.5004C21.0204 12.99 21.4404 13.41 21.4404 13.93V14.63C21.4404 15.39 22.0505 16 22.8105 16H28.431C29.441 16 30.1811 15.07 29.9611 14.1Z" fill="#CA0B4A"/>
+        <path d="M3 14C2.44772 14 2 14.4477 2 15C2 15.5523 2.44772 16 3 16H9C9.55228 16 10 15.5523 10 15C10 14.4477 9.55228 14 9 14H3ZM23 14C22.4477 14 22 14.4477 22 15C22 15.5523 22.4477 16 23 16H29C29.5523 16 30 15.5523 30 15C30 14.4477 29.5523 14 29 14H23Z" fill="#990838"/>
+        <path d="M28.12 19.5L24.46 14.62C24.17 14.23 23.71 14 23.22 14H22.31C22.14 14 22 13.86 22 13.69V11.31C22 11.14 21.86 11 21.69 11H20.31C20.14 11 20 11.14 20 11.31V13.69C20 13.86 19.86 14 19.69 14H12.31C12.14 14 12 13.86 12 13.69V11.31C12 11.14 11.86 11 11.69 11H10.31C10.14 11 10 11.14 10 11.31V13.69C10 13.86 9.86 14 9.69 14H8.78C8.29 14 7.83 14.23 7.53 14.63L3.88 19.5C2.66 21.12 2 23.1 2 25.13V28.44C2 29.3 2.7 30 3.56 30H28.44C29.3 30 30 29.3 30 28.44V25.13C30 23.1 29.34 21.12 28.12 19.5Z" fill="#F92F60"/>
+        <path d="M28.44 26.9999H3.56C2.7 26.9999 2 26.36 2 25.5V28.4399C2 29.2999 2.7 29.9999 3.56 29.9999H28.44C29.3 29.9999 30 29.2999 30 28.4399V25.5C30 26.36 29.3 26.9999 28.44 26.9999Z" fill="#990838"/>
+        <path d="M13.6981 19H12.3215C12.1407 19 12 18.8593 12 18.6884V17.3116C12 17.1407 12.1407 17 12.3115 17H13.688C13.8588 17 13.9995 17.1407 13.9995 17.3116V18.6884C14.0095 18.8593 13.8689 19 13.6981 19ZM16.6981 19H15.3215C15.1407 19 15 18.8593 15 18.6884V17.3116C15 17.1407 15.1407 17 15.3115 17H16.688C16.8588 17 16.9995 17.1407 16.9995 17.3116V18.6884C17.0095 18.8593 16.8689 19 16.6981 19ZM18.3215 19H19.6981C19.8689 19 20.0095 18.8593 19.9995 18.6884V17.3116C19.9995 17.1407 19.8588 17 19.688 17H18.3115C18.1407 17 18 17.1407 18 17.3116V18.6884C18 18.8593 18.1407 19 18.3215 19ZM13.6981 22H12.3215C12.1407 22 12 21.8593 12 21.6884V20.3116C12 20.1407 12.1407 20 12.3115 20H13.688C13.8588 20 13.9995 20.1407 13.9995 20.3116V21.6884C14.0095 21.8593 13.8689 22 13.6981 22ZM15.3215 22H16.6981C16.8689 22 17.0095 21.8593 16.9995 21.6884V20.3116C16.9995 20.1407 16.8588 20 16.688 20H15.3115C15.1407 20 15 20.1407 15 20.3116V21.6884C15 21.8593 15.1407 22 15.3215 22ZM19.6981 22H18.3215C18.1407 22 18 21.8593 18 21.6884V20.3116C18 20.1407 18.1407 20 18.3115 20H19.688C19.8588 20 19.9995 20.1407 19.9995 20.3116V21.6884C20.0095 21.8593 19.8689 22 19.6981 22ZM12.3215 25H13.6981C13.8689 25 14.0095 24.8593 13.9995 24.6884V23.3116C13.9995 23.1407 13.8588 23 13.688 23H12.3115C12.1407 23 12 23.1407 12 23.3116V24.6884C12 24.8593 12.1407 25 12.3215 25ZM16.6981 25H15.3215C15.1407 25 15 24.8593 15 24.6884V23.3116C15 23.1407 15.1407 23 15.3115 23H16.688C16.8588 23 16.9995 23.1407 16.9995 23.3116V24.6884C17.0095 24.8593 16.8689 25 16.6981 25ZM18.3215 25H19.6981C19.8689 25 20.0095 24.8593 19.9995 24.6884V23.3116C19.9995 23.1407 19.8588 23 19.688 23H18.3115C18.1407 23 18 23.1407 18 23.3116V24.6884C18 24.8593 18.1407 25 18.3215 25Z" fill="#E6E6E6"/>
+      </g>
+    </g>
+    <rect id="ITEM_4_TEXT_BG" x="1257.0" y="664.0" width="416.0" height="222.0" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--primary-text)" stroke-opacity="0.22" stroke-width="2.2"/>
+    <text id="ITEM_4_HEAD" data-bg-id="ITEM_4_TEXT_BG" x="1275.0" y="680.0" font-weight="bold" font-size="25" fill="var(--accent-2)" text-anchor="start" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1275.0" dy="28.25px">Informal Networks</tspan>
+    </text>
+    <rect id="ITEM_4_HEAD_FRAME" x="1275.0" y="680" width="320" height="40" fill="none"/>
+    <text id="ITEM_4_BODY" data-bg-id="ITEM_4_TEXT_BG" x="1275.0" y="750.0" font-size="17" fill="var(--primary-text)" text-anchor="start" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1275.0" dy="32.84px">Supervision and referrals</tspan>
+      <tspan x="1275.0" dy="29.90px">spread conspiracy narratives</tspan>
+    </text>
+    <rect id="ITEM_4_BODY_FRAME" x="1275" y="750" width="380" height="120" fill="none"/>
+  </g>
+  <g transform="translate(0, 0)">
+    <!-- Root Core Line -->
+    <path d="M 1020.0 280 C 1108.0 400.0, 1372.0 420.0, 1460.0 480" fill="none" stroke="var(--accent-5)" stroke-width="10" stroke-linecap="round" filter="url(#svg0754de88-neon-glow)" opacity="0.9"/>
+    <path d="M 1020.0 280 C 1108.0 400.0, 1372.0 420.0, 1460.0 480" fill="none" stroke="var(--background)" stroke-width="4" stroke-linecap="round"/>
+    <!-- Secondary stylistic root tendril -->
+    <path d="M 1020.0 280 C 1116.0 376.0, 1404.0 392.0, 1500.0 440" fill="none" stroke="var(--accent-5)" stroke-width="3" filter="url(#svg0754de88-neon-glow)" opacity="0.45"/>
+    <!-- Deep Root Terminal -->
+    <circle cx="1460.0" cy="480" r="53" fill="none" stroke="var(--accent-5)" stroke-width="2" stroke-dasharray="8 4" opacity="0.6"/>
+    <circle cx="1460.0" cy="480" r="45" fill="var(--panel)" stroke="var(--accent-5)" stroke-width="4" filter="url(#svg0754de88-neon-glow)"/>
+    <circle id="ITEM_5_PAD" cx="1460.00" cy="480.00" r="40.00" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" stroke-width="2" opacity="0.9"/>
+    <circle id="ITEM_5_PAD_INNER" cx="1460.00" cy="480.00" r="31.20" fill="var(--accent-3)" fill-opacity="0.22"/>
+    <g id="ITEM_5_ICON" transform="translate(1435.0, 455)" data-icon-size="50" stroke-dasharray="6 4">
+      <g transform="translate(-10.65714285714286,-20.685714285714287) scale(2.2285714285714286)">
+        <path d="M5.5 11C5.22386 11 5 11.2239 5 11.5V13H9V11.5C9 11.2239 8.77614 11 8.5 11H5.5Z" fill="#D3D3D3"/>
+        <path d="M21.5 11C21.2239 11 21 11.2239 21 11.5V13H27V11.5C27 11.2239 26.7761 11 26.5 11H21.5Z" fill="#D3D3D3"/>
+        <path d="M2 14C2 12.8954 2.89543 12 4 12H28C29.1046 12 30 12.8954 30 14V16.5L28 22L30 27.5V28C30 29.1046 29.1046 30 28 30H4C2.89543 30 2 29.1046 2 28V27.5L3.5 22L2 16.5V14Z" fill="#E6E6E6"/>
+        <path d="M2 16.5C2 16.2239 2.22386 16 2.5 16H29.5C29.7761 16 30 16.2239 30 16.5V27.5C30 27.7761 29.7761 28 29.5 28H2.5C2.22386 28 2 27.7761 2 27.5V16.5Z" fill="#533566"/>
+        <path d="M22 22C22 25.3137 19.3137 28 16 28C12.6863 28 10 25.3137 10 22C10 18.6863 12.6863 16 16 16C19.3137 16 22 18.6863 22 22Z" fill="#321B41"/>
+        <path d="M16 27C18.7614 27 21 24.7614 21 22C21 19.2386 18.7614 17 16 17C13.2386 17 11 19.2386 11 22C11 24.7614 13.2386 27 16 27ZM16 29C12.134 29 9 25.866 9 22C9 18.134 12.134 15 16 15C19.866 15 23 18.134 23 22C23 25.866 19.866 29 16 29Z" fill="#9B9B9B"/>
+        <path d="M18.5 22C18.5 23.3807 17.3807 24.5 16 24.5C14.6193 24.5 13.5 23.3807 13.5 22C13.5 20.6193 14.6193 19.5 16 19.5C17.3807 19.5 18.5 20.6193 18.5 22Z" fill="#433B6B"/>
+        <path d="M19.0825 19.875C19.4967 20.5924 19.4448 21.3979 18.9665 21.674C18.4882 21.9501 17.7647 21.5924 17.3505 20.875C16.9363 20.1575 16.9882 19.3521 17.4665 19.0759C17.9448 18.7998 18.6683 19.1575 19.0825 19.875Z" fill="white"/>
+      </g>
+    </g>
+    <rect id="ITEM_5_TEXT_BG" x="1507.0" y="414.0" width="376.0" height="222.0" rx="22" fill="var(--panel)" fill-opacity="0.97" stroke="var(--primary-text)" stroke-opacity="0.22" stroke-width="2.2"/>
+    <text id="ITEM_5_HEAD" data-bg-id="ITEM_5_TEXT_BG" x="1525.0" y="430.0" font-weight="bold" font-size="25" fill="var(--accent-3)" text-anchor="start" fill-opacity="1.0" stroke="none" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+      <tspan x="1525.0" dy="28.25px">Public Media</tspan>
+    </text>
+    <rect id="ITEM_5_HEAD_FRAME" x="1525.0" y="430" width="320" height="40" fill="none"/>
+    <text id="ITEM_5_BODY" data-bg-id="ITEM_5_TEXT_BG" x="1525.0" y="500.0" font-size="17" fill="var(--primary-text)" text-anchor="start" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" data-final-font-size="26">
+      <tspan x="1525.0" dy="26.86px">Journalism documents</tspan>
+      <tspan x="1525.0" dy="29.90px">records and prompts</tspan>
+      <tspan x="1525.0" dy="29.90px">official reviews</tspan>
+    </text>
+    <rect id="ITEM_5_BODY_FRAME" x="1525" y="500" width="340" height="120" fill="none"/>
+  </g>
+  <text id="SOURCE_NOTE" x="134.0" y="1058.0" fill="var(--muted-text)" opacity="0.88" style="font-family: var(--font-family); font-size: 20px;">Source: Introduction</text>
+  <text id="EDITORIAL_NOTE" x="1786.0" y="1058.0" fill="var(--semantic-uncertain)" opacity="0.92" style="font-family: var(--font-family); font-size: 20px;" text-anchor="end">Sensitive subject: violence, abuse, or loss of life.</text>
+</svg>
