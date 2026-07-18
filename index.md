@@ -171,15 +171,27 @@ map_view:
   items: 192
   map: /assets/maps/world.svg
   data: /assets/maps/world-countries.json
+header:
+  og_image: /assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg
+  preview_image: /assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg
+image: /assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg
 site_image_description: A crowded Kabul street, a girls' school courtyard and a vaccination worker appear within one Afghan city scene as people react to...
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="KP" data-map-preview-preload="all">
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="KP" data-map-preview-preload="8">
+<nav class="interactive-map-region-nav" aria-label="Map regions">
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-label="Focus map on Africa"><span>Africa</span><small>53</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
+</nav>
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/North_Korea_ccbbbb-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">KP</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="asia" data-uap-world-map-region-focus="asia" aria-label="Focus map on Asia">Asia</button>
