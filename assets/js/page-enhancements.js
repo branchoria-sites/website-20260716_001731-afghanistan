@@ -9595,6 +9595,7 @@
         throw new Error('Map SVG did not contain an svg element.');
       }
       var contextShapeMapLayouts = {
+        'world': true,
         'canada': true,
         'australia': true,
         'france-departments': true,
