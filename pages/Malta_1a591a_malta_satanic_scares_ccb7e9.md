@@ -352,89 +352,89 @@ For that reason, Satanic scares occupy an important place in Malta's modern soci
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Malta Facing Satanists or a Moral Panic?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Malta Facing Satanists or a Moral Panic?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
-</h4>
-<p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Foundational framework for interpreting Malta&#x27;s Satanism scares.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1205355-M.jpg" alt="Cover for Moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
-</h4>
-<p class="fr-book-author">By Thompson, Kenneth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Satanic+panic+Jeffrey+S.+Victor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satanic panic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3930611-M.jpg" alt="Cover for Satanic panic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Satanic+panic+Jeffrey+S.+Victor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satanic panic">Satanic panic</a>
+        </h4>
+        <p class="fr-book-author">By Jeffrey S. Victor</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Public opinion, Deviant behavior in mass media, Social problems in mass media, Social problems, Deviant b...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the dynamics behind Satanism scares relevant to Malta.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Satanic+panic+Jeffrey+S.+Victor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
-</h4>
-<p class="fr-book-author">By Ronald Hutton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
+        </h4>
+        <p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wider context for recurring supernatural fears.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Satanic+Panic+Kier-la+Janisse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Satanic Panic on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Satanic+Panic+Kier-la+Janisse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satanic Panic">Satanic Panic</a>
-</h4>
-<p class="fr-book-author">By Kier-la Janisse, Paul Corupe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
+        </h4>
+        <p class="fr-book-author">By Katherine Howe</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Satanism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Satanic+Panic+Kier-la+Janisse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates how societies interpret alleged supernatural threats.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Devils and Moral Panics the Creation of the Mods and Rockers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moral panics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Satanic+panic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Satanic panic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

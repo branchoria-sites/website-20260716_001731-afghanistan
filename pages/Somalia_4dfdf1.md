@@ -1321,89 +1321,89 @@ The broader lesson is that collective belief does not operate outside history. I
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Shared Beliefs Shaped Somalia&#x27;s History. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Shared Beliefs Shaped Somalia&#x27;s History. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
-</h4>
-<p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
+        </h4>
+        <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains comparative belief systems relevant to Somalia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of Somalia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/711699-M.jpg" alt="Cover for The Invention of Somalia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Somalia">The Invention of Somalia</a>
-</h4>
-<p class="fr-book-author">By Ali Jimale Ahmed</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A modern history of Somalia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12724437-M.jpg" alt="Cover for A modern history of Somalia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A modern history of Somalia">A modern history of Somalia</a>
+        </h4>
+        <p class="fr-book-author">By Lewis, I. M.</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Somalia, politics and government, Politics and government, Clans, Ethnic relations, Somalia, historiography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers religious movements and colonial history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A modern history of Somalia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12724437-M.jpg" alt="Cover for A modern history of Somalia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A modern history of Somalia">A modern history of Somalia</a>
-</h4>
-<p class="fr-book-author">By Lewis, I. M.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of Somalia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/711699-M.jpg" alt="Cover for The Invention of Somalia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Somalia">The Invention of Somalia</a>
+        </h4>
+        <p class="fr-book-author">By Ali Jimale Ahmed</p>
         
-<p class="fr-book-desc">First published 1980. Subjects: History, Somalia, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines identity and historical narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Somalia and Somaliland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Somalia and Somaliland">Understanding Somalia and Somaliland</a>
-</h4>
-<p class="fr-book-author">By Ioan Lewis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Somalia and Somaliland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Somalia and Somaliland">Understanding Somalia and Somaliland</a>
+        </h4>
+        <p class="fr-book-author">By Ioan Lewis</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: History, Somalia, history, Djibouti.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broad foundation for religion, politics and belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invention+of+Somalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invention of Somalia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+modern+history+of+Somalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A modern history of Somalia</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+modern+history+of+Somalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A modern history of Somalia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invention+of+Somalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invention of Somalia</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

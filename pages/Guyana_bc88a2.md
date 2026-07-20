@@ -1324,89 +1324,89 @@ Guyana’s record is consequently not a catalogue of bizarre beliefs. It is a hi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Fear and Belief Shaped Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Fear and Belief Shaped Guyana. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
-</h4>
-<p class="fr-book-author">By Wade Davis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
+        </h4>
+        <p class="fr-book-author">By Wade Davis</p>
         
-<p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores Caribbean belief systems relevant to regional themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
-</h4>
-<p class="fr-book-author">By Margaret Thaler Singer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The road to Jonestown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822878-M.jpg" alt="Cover for The road to Jonestown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
+        </h4>
+        <p class="fr-book-author">By Jeff Guinn</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Jonestown within broader social and political history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The road to Jonestown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8822878-M.jpg" alt="Cover for The road to Jonestown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
-</h4>
-<p class="fr-book-author">By Jeff Guinn</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cults in Our Midst on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/547993-M.jpg" alt="Cover for Cults in Our Midst" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
+        </h4>
+        <p class="fr-book-author">By Margaret Thaler Singer</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Large type books, Jonestown Mass Suicide, Jonestown, Guyana, 1978, Peoples Temple, Criminals, united stat...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain coercive influence beyond the Guyana case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raven on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4661437-M.jpg" alt="Cover for Raven" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven">Raven</a>
-</h4>
-<p class="fr-book-author">By Tim Reiterman, John Jacobs</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Raven on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4661437-M.jpg" alt="Cover for Raven" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven">Raven</a>
+        </h4>
+        <p class="fr-book-author">By Tim Reiterman, John Jacobs</p>
         
-<p class="fr-book-desc">First published 1982. Subjects: Peoples Temple, Biographie, Volkstempelsekte, Christianity - Denominations, Religious Cults.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1982. Subjects: Peoples Temple, Biographie, Volkstempelsekte, Christianity - Denominations, Religious Cults.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+road+to+Jonestown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The road to Jonestown</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+road+to+Jonestown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The road to Jonestown</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cults+in+Our+Midst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cults in Our Midst</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

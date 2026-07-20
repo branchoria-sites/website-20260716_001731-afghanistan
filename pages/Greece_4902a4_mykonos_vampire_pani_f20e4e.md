@@ -361,89 +361,89 @@ The episode therefore occupies an important place in the social history of [Gree
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Mykonos Burn a Vampire?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Mykonos Burn a Vampire?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Essential Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jTkOAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Essential Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Essential Dracula">The Essential Dracula</a>
-</h4>
-<p class="fr-book-author">By Bram Stoker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Greek myths on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5415692-M.jpg" alt="Cover for The Greek myths" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greek myths">The Greek myths</a>
+        </h4>
+        <p class="fr-book-author">By Robert Graves</p>
         
-<p class="fr-book-desc">Shows how vampire traditions entered popular culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces Greek supernatural traditions and folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bram Stoker&#x27;s Dracula omnibus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8028797-M.jpg" alt="Cover for Bram Stoker&#x27;s Dracula omnibus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bram Stoker&#x27;s Dracula omnibus">Bram Stoker&#x27;s Dracula omnibus</a>
-</h4>
-<p class="fr-book-author">By Bram Stoker, Mary Shelley et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
+        </h4>
+        <p class="fr-book-author">By Katherine Howe</p>
         
-<p class="fr-book-desc">First published 1897. Subjects: Fiction, horror, Children: Grades 3-4, Dracula, count (fictitious character), fiction, Frankenstein (fict...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broadens understanding of historical supernatural panics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Greek myths on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5415692-M.jpg" alt="Cover for The Greek myths" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greek myths">The Greek myths</a>
-</h4>
-<p class="fr-book-author">By Robert Graves</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, science, and religion, and other essays on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1171308-M.jpg" alt="Cover for Magic, science, and religion, and other essays" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, science, and religion, and other essays">Magic, science, and religion, and other essays</a>
+        </h4>
+        <p class="fr-book-author">By Bronisław Malinowski</p>
         
-<p class="fr-book-desc">First published 1955. Subjects: Greek Mythology, Trojan War, Heracles (Greek mythology), Odysseus (Greek mythology), Argonauts (Greek myt...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why supernatural beliefs spread within communities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
-</h4>
-<p class="fr-book-author">By Katherine Howe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bram Stoker&#x27;s Dracula omnibus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8028797-M.jpg" alt="Cover for Bram Stoker&#x27;s Dracula omnibus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bram Stoker&#x27;s Dracula omnibus">Bram Stoker&#x27;s Dracula omnibus</a>
+        </h4>
+        <p class="fr-book-author">By Bram Stoker, Mary Shelley et al.</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1897. Subjects: Fiction, horror, Children: Grades 3-4, Dracula, count (fictitious character), fiction, Frankenstein (fict...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Essential+Dracula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Essential Dracula</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bram+Stoker%27s+Dracula+omnibus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bram Stoker&#x27;s Dracula omnibus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Greek+myths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Greek myths</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Greek+myths&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Greek myths</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, science, and religion, and other essays</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

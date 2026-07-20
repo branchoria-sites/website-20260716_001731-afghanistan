@@ -356,89 +356,89 @@ For historians and scholars of religion, these sites demonstrate how popular bel
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Azerbaijan&#x27;s Healing Shrines Still Draw Believers. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Azerbaijan&#x27;s Healing Shrines Still Draw Believers. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
-</h4>
-<p class="fr-book-author">By William James, Dr. William James et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Varieties of Religious Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2415434-M.jpg" alt="Cover for The Varieties of Religious Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
+        </h4>
+        <p class="fr-book-author">By William James, Dr. William James et al.</p>
         
-<p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines religious experience, healing and personal belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
-</h4>
-<p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Upper Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10202579-M.jpg" alt="Cover for Gods of the Upper Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Upper Air">Gods of the Upper Air</a>
+        </h4>
+        <p class="fr-book-author">By Charles King</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces anthropological approaches to belief and ritual.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Upper Air on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10202579-M.jpg" alt="Cover for Gods of the Upper Air" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Upper Air">Gods of the Upper Air</a>
-</h4>
-<p class="fr-book-author">By Charles King</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
+        </h4>
+        <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: Boas, franz, 1858-1942, Mead, margaret, 1901-1978, Benedict, ruth, 1887-1948, Hurston, zora neale, 1901-1...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air+Charles+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frames healing shrines as lived religious practice.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Pilgrimage+Ian+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pilgrimage on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Pilgrimage+Ian+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilgrimage">Pilgrimage</a>
-</h4>
-<p class="fr-book-author">By Ian Reader</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caucasus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12510023-M.jpg" alt="Cover for The Caucasus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caucasus">The Caucasus</a>
+        </h4>
+        <p class="fr-book-author">By Thomas De Waal</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: Pilgrims and pilgrimages, Wallfahrt.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Pilgrimage+Ian+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supplies cultural background for Azerbaijani religious traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods of the Upper Air</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Varieties of Religious Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+of+the+Upper+Air&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods of the Upper Air</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

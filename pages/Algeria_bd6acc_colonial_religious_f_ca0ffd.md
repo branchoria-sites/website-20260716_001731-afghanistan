@@ -331,89 +331,89 @@ Independent Algeria inherited institutions, archives and administrative habits s
 For historians, this makes colonial Algeria an important example of how collective fear can become embedded within government itself. The central issue was not simply whether rebellion existed—it often did—but how uncertainty encouraged officials to interpret ordinary religious authority through the persistent expectation of hidden conspiracy. That expectation expanded surveillance, reshaped relations between state and religion, and left an institutional legacy extending far beyond the colonial period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnrseditions.fr/catalogue/histoire/algerie-coloniale/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnrseditions.fr">[cnrseditions.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnrseditions.fr</span><span class="citation-popover-title">CNRS Editions Algérie coloniale</span><span class="citation-popover-snippet">CNRS EditionsAlgérie coloniale - musulmans et chrétiens: le contrôle de l&#x27;Etat (1830-1914) - CNRS EditionsFebruary 12, 2015...</span><span class="citation-popover-meta">Published: February 12, 2015</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Colonial Algeria Feared Hidden Religious Revolt. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Colonial Algeria Feared Hidden Religious Revolt. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orientalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609385-M.jpg" alt="Cover for Orientalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orientalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609385-M.jpg" alt="Cover for Orientalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Examines colonial assumptions about Islam and the Arab world.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines colonial assumptions about Islam and the Arab world.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">A famous overview of collective panics and mass belief.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Savage+War+of+Peace%3A+Algeria+1954+1962+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Savage War of Peace: Algeria 1954-1962 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace%3A+Algeria+1954+1962+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Savage War of Peace: Algeria">A Savage War of Peace: Algeria</a>
-</h4>
-<p class="fr-book-author">By Alistair Horne</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Savage War of Peace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4416846-M.jpg" alt="Cover for A Savage War of Peace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Savage War of Peace">A Savage War of Peace</a>
+        </h4>
+        <p class="fr-book-author">By Alistair Horne</p>
         
-<p class="fr-book-desc">Essential background on colonial rule and security thinking.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace%3A+Algeria+1954+1962+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Essential background on colonial rule and security thinking.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wretched of the Earth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wretched of the Earth">The Wretched of the Earth</a>
-</h4>
-<p class="fr-book-author">By Frantz Fanon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics+A.+J.+ARBERRY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Muslim Saints and Mystics on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics+A.+J.+ARBERRY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Muslim Saints and Mystics">Muslim Saints and Mystics</a>
+        </h4>
+        <p class="fr-book-author">By A. J. ARBERRY</p>
         
-<p class="fr-book-desc">Explores colonial violence, resistance and political mobilisation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain religious networks viewed suspiciously by colonial authorities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics+A.+J.+ARBERRY&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Orientalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Savage+War+of+Peace%3A+Algeria+1954+1962&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Savage War of Peace: Algeria</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Wretched of the Earth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wretched of the Earth">The Wretched of the Earth</a>
+        </h4>
+        <p class="fr-book-author">By Frantz Fanon</p>
+        
+        <p class="fr-book-desc">Explores colonial violence, resistance and political mobilisation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Orientalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Savage+War+of+Peace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Savage War of Peace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Muslim Saints and Mystics</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

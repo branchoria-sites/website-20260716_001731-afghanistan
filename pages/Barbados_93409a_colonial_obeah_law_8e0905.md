@@ -314,89 +314,89 @@ Research on Caribbean legislation also demonstrates that anti-Obeah laws spread 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Did Colonial Law Invent Obeah?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Did Colonial Law Invent Obeah?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black and British on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8839319-M.jpg" alt="Cover for Black and British" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black and British">Black and British</a>
-</h4>
-<p class="fr-book-author">By David Olusoga</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black and British on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8839319-M.jpg" alt="Cover for Black and British" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black and British">Black and British</a>
+        </h4>
+        <p class="fr-book-author">By David Olusoga</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Blacks, great britain, Great britain, social conditions, Blacks, race identity, Great britain, race relat...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broad context for Caribbean colonial society.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bury the Chains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6790195-M.jpg" alt="Cover for Bury the Chains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury the Chains">Bury the Chains</a>
-</h4>
-<p class="fr-book-author">By Adam Hochschild, Derek Perkins et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bury the Chains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6790195-M.jpg" alt="Cover for Bury the Chains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury the Chains">Bury the Chains</a>
+        </h4>
+        <p class="fr-book-author">By Adam Hochschild, Derek Perkins et al.</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Abolitionismus, Abolitionisme, Mouvements antiesclavagistes, Histoire, Slavernij.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places anti-Obeah laws within slavery and empire.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bury+the+Chains%3A+Prophets+and+Rebels+in+the+Fight+to+Free+an+Empire%27s+Slaves+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bury the Chains: Prophets and Rebels in the Fight to Free an Empire&#x27;s Slaves on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bury+the+Chains%3A+Prophets+and+Rebels+in+the+Fight+to+Free+an+Empire%27s+Slaves+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury the Chains: Prophets and Rebels in the Fight to Free an Empire&#x27;s Slaves">Bury the Chains: Prophets and Rebels in the Fight to Free an...</a>
-</h4>
-<p class="fr-book-author">By Adam Hochschild</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interesting Narrative of the Life of Olaudah Equiano on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
+        </h4>
+        <p class="fr-book-author">By Olaudah Equiano</p>
         
-<p class="fr-book-desc">Places anti-Obeah laws within slavery and empire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bury+the+Chains%3A+Prophets+and+Rebels+in+the+Fight+to+Free+an+Empire%27s+Slaves+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Background on African traditions in the Atlantic world.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah, Orisa, and Religious Identity in Trinidad on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah, Orisa, and Religious Identity in Trinidad">Obeah, Orisa, and Religious Identity in Trinidad</a>
-</h4>
-<p class="fr-book-author">By Frances Henry</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah, Orisa, and Religious Identity in Trinidad on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah, Orisa, and Religious Identity in Trinidad">Obeah, Orisa, and Religious Identity in Trinidad</a>
+        </h4>
+        <p class="fr-book-author">By Frances Henry</p>
         
-<p class="fr-book-desc">Explains Obeah traditions and colonial interpretations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Obeah traditions and colonial interpretations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Obeah%2C+Orisa%2C+and+Religious+Identity+in+Trinidad+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+and+British&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black and British</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bury+the+Chains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bury the Chains</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bury+the+Chains%3A+Prophets+and+Rebels+in+the+Fight+to+Free+an+Empire%27s+Slaves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bury the Chains: Prophets and Rebels in the Fight to Free an Empire&#x27;s Slaves</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+and+British&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black and British</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bury+the+Chains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bury the Chains</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Interesting Narrative of the Life of Olaudah Equiano</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

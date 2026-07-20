@@ -342,89 +342,89 @@ Its importance lies not in demonstrating that ordinary people suddenly became ir
 For this reason, Rwanda is widely studied in history, law, psychology and media studies as an example of manufactured collective fear rather than spontaneous mass hysteria. The case illustrates how propaganda operates not merely by spreading hatred, but by convincing people that extraordinary violence is the only way to survive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://casebook.icrc.org/case-study/ictr-media-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: casebook.icrc.org">[ICRC Casebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">casebook.icrc.org</span><span class="citation-popover-title">Casebook ICTR, The Media Case &#124; How does law protect in war?</span><span class="citation-popover-snippet">ICRC CasebookICTR, The Media Case &#124; How does law protect in war? - Online casebookDecember 3, 2003...</span><span class="citation-popover-meta">Published: December 3, 2003</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Propaganda Made Genocide Seem Defensive. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Propaganda Made Genocide Seem Defensive. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-</h4>
-<p class="fr-book-author">By Robert B. Cialdini</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
+        </h4>
+        <p class="fr-book-author">By Philip Gourevitch</p>
         
-<p class="fr-book-desc">Explains mechanisms of persuasion relevant to propaganda.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses propaganda, fear and genocide.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
-</h4>
-<p class="fr-book-author">By Philip Gourevitch</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+        </h4>
+        <p class="fr-book-author">By Robert B. Cialdini</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Ethnic relations, Genocide, History, Human rights, Personal narratives.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains mechanisms of persuasion relevant to propaganda.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Influence+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;Leave none to tell the story&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
-</h4>
-<p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;Leave none to tell the story&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
+        </h4>
+        <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Atrocities, Crimes against, Ethnic relations, Genocide, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Detailed evidence on planning, propaganda and violence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machete Season on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
-</h4>
-<p class="fr-book-author">By Jean Hatzfeld, Linda Coverdale et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Machete Season on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
+        </h4>
+        <p class="fr-book-author">By Jean Hatzfeld, Linda Coverdale et al.</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Africa, central, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores motivations shaped by propaganda and authority.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">&quot;Leave none to tell the story&quot;</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Influence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Influence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">&quot;Leave none to tell the story&quot;</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

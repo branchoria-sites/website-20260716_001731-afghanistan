@@ -339,89 +339,89 @@ Today Sebastianism survives primarily as a cultural reference rather than a wide
 The disappearance of a king became a mechanism for expressing hopes that political decline could be reversed, independence restored and national purpose renewed. For historians of collective belief, Sebastianism illustrates how uncertainty, trauma and prophecy can reinforce one another without producing a conventional "cult" or a short-lived episode of mass hysteria. Its longevity demonstrates that powerful myths often endure not because they can be proved, but because they continue to offer meaning whenever societies face periods of crisis or uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brill.com/display/book/9789004443631/BP000007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brill.com">[brill.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brill.com</span><span class="citation-popover-snippet">Chapter 5 Sebastianism: A Portuguese Prophecy in: Early Modern Prophecies in Transnational, National and Regional Contexts (3 vols.)...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Portugal Waited for a Lost King. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Portugal Waited for a Lost King. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open fatima in lucia&#x27;s own words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10328428-M.jpg" alt="Cover for fatima in lucia&#x27;s own words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="fatima in lucia&#x27;s own words">fatima in lucia&#x27;s own words</a>
-</h4>
-<p class="fr-book-author">By sister lucia</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King in the Golden Mask on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10209258-M.jpg" alt="Cover for The King in the Golden Mask" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King in the Golden Mask">The King in the Golden Mask</a>
+        </h4>
+        <p class="fr-book-author">By Marcel Schwob</p>
         
-<p class="fr-book-desc">First published 2003.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Touches on legendary kings and enduring myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King in the Golden Mask on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10209258-M.jpg" alt="Cover for The King in the Golden Mask" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King in the Golden Mask">The King in the Golden Mask</a>
-</h4>
-<p class="fr-book-author">By Marcel Schwob</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese">The Portuguese</a>
+        </h4>
+        <p class="fr-book-author">By Barry Hatton</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Fiction, general, French Short stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses Portuguese identity shaped by historical myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese">The Portuguese</a>
-</h4>
-<p class="fr-book-author">By Barry Hatton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open fatima in lucia&#x27;s own words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10328428-M.jpg" alt="Cover for fatima in lucia&#x27;s own words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="fatima in lucia&#x27;s own words">fatima in lucia&#x27;s own words</a>
+        </h4>
+        <p class="fr-book-author">By sister lucia</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Portuguese National characteristics, History, National characteristics, Portugal, history, Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2003.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
-</h4>
-<p class="fr-book-author">By Roger Crowley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
+        </h4>
+        <p class="fr-book-author">By Roger Crowley</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">fatima in lucia&#x27;s own words</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The King in the Golden Mask</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The King in the Golden Mask</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">fatima in lucia&#x27;s own words</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

@@ -341,89 +341,89 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Did Knock Become a National Pilgrimage?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Did Knock Become a National Pilgrimage?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The miracle detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6796137-M.jpg" alt="Cover for The miracle detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The miracle detective">The miracle detective</a>
-</h4>
-<p class="fr-book-author">By Randall Sullivan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish fairy and folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853572-M.jpg" alt="Cover for Irish fairy and folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
+        </h4>
+        <p class="fr-book-author">By William Butler Yeats</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Apparitions and miracles, Miracles, Bosnia and hercegovina, social life and customs, Mary, blessed virgin...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wider cultural context for Irish traditions of extraordinary belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s first love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The world&#x27;s first love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
-</h4>
-<p class="fr-book-author">By Fulton J. Sheen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s first love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The world&#x27;s first love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
+        </h4>
+        <p class="fr-book-author">By Fulton J. Sheen</p>
         
-<p class="fr-book-desc">First published 1952. Subjects: Mary, Blessed Virgin, Saint, Duchowość, Mariologia, Teologia katolicka.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broader Catholic context for Marian apparitions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Knock+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7155750-M.jpg" alt="Cover for Knock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Knock+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knock">Knock</a>
-</h4>
-<p class="fr-book-author">By Eugene Hynes</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The miracle detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6796137-M.jpg" alt="Cover for The miracle detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The miracle detective">The miracle detective</a>
+        </h4>
+        <p class="fr-book-author">By Randall Sullivan</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Catholics, Apparitions and miracles, Religious life and customs, Social conditions, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Knock+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how the Catholic Church evaluates miraculous claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacul%C3%A9e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacul%C3%A9e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
-</h4>
-<p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8038408-M.jpg" alt="Cover for Our Lady of Kibeho" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
+        </h4>
+        <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Mary, blessed virgin, saint, apparitions and miracles, Catholic church, africa, Africa, east, religion, R...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacul%C3%A9e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers comparative insight into modern Marian apparitions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+first+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s first love</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Knock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Knock</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish fairy and folk tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+first+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s first love</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

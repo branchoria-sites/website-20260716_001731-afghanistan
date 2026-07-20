@@ -373,89 +373,89 @@ The episode also demonstrates why historians must read colonial records critical
 For the history of collective belief, Taki Onqoy is best understood not as an example of irrational mass hysteria but as a revitalisation movement born from extraordinary social disruption. It joined prophecy, ritual dancing and cultural resistance into a religious response to conquest. The colonial fear it provoked reveals as much about Spanish anxieties over Indigenous survival as it does about the beliefs of the participants themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/latin-american-research-review/article/taki-onqoy-and-the-andean-nation-sources-and-interpretations/ED01EFD372FCB96430BEF5FF1F365877" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentThe Taki Onqoy and the Andean Nation: Sources and Interpretations &#124; Latin American Research Review...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Taki Onqoy a Religion or Rebellion?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Taki Onqoy a Religion or Rebellion?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, witchcraft, and religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1088236-M.jpg" alt="Cover for Magic, witchcraft, and religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
-</h4>
-<p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, witchcraft, and religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1088236-M.jpg" alt="Cover for Magic, witchcraft, and religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
+        </h4>
+        <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Religion, Occultism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides comparative perspective on revitalization movements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
-</h4>
-<p class="fr-book-author">By Charles C. Mann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
+        </h4>
+        <p class="fr-book-author">By Charles C. Mann</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Origin, Nature, Indians, Antiquities, nyt:paperback_nonfiction=2011-07-23.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2005. Subjects: Origin, Nature, Indians, Antiquities, nyt:paperback_nonfiction=2011-07-23.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Andes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
-</h4>
-<p class="fr-book-author">By Sabine Hyland</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
+        </h4>
+        <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
         
-<p class="fr-book-desc">Most relevant overview for understanding Taki Onqoy&#x27;s religious background.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the historical setting of conquest and Indigenous society.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
-</h4>
-<p class="fr-book-author">By Charles C. Mann</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Andes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
+        </h4>
+        <p class="fr-book-author">By Sabine Hyland</p>
         
-<p class="fr-book-desc">Introduces pre-Columbian societies and cultural context.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Most relevant overview for understanding Taki Onqoy&#x27;s religious background.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, witchcraft, and religion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Gods+of+the+Andes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Gods of the Andes</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, witchcraft, and religion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1491&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1491</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oxford+of+the+Incas+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oxford of the Incas books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

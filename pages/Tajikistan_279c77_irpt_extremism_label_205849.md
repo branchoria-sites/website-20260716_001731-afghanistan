@@ -357,89 +357,89 @@ For Tajikistan, the long-term consequence has been the disappearance of legal Is
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Extremism Became an Elastic Political Label. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Extremism Became an Elastic Political Label. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Political order and political decay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9381734-M.jpg" alt="Cover for Political order and political decay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political order and political decay">Political order and political decay</a>
-</h4>
-<p class="fr-book-author">By Francis Fukuyama</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612408-M.jpg" alt="Cover for The new Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
+        </h4>
+        <p class="fr-book-author">By Olivier Roy</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Comparative government, History, Democracy, Order, Political aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for religion and state power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
-</h4>
-<p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Political order and political decay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9381734-M.jpg" alt="Cover for Political order and political decay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political order and political decay">Political order and political decay</a>
+        </h4>
+        <p class="fr-book-author">By Francis Fukuyama</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Political corruption, Philosophy, Political leadership, Power (Social sciences), Leadership.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful for understanding institutional change and state power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612408-M.jpg" alt="Cover for The new Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
-</h4>
-<p class="fr-book-author">By Olivier Roy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Nationalism, History, Postcommunisme, Staat, Histoire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores incentives behind authoritarian politics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-</h4>
-<p class="fr-book-author">By Adeeb Khalid</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+        </h4>
+        <p class="fr-book-author">By Adeeb Khalid</p>
         
-<p class="fr-book-desc">First published 2021.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains political development in the region.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Political+order+and+political+decay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Political order and political decay</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new Central Asia</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new Central Asia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Political+order+and+political+decay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Political order and political decay</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

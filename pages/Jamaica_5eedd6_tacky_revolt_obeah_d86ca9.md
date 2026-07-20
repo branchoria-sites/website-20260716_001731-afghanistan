@@ -341,89 +341,89 @@ Today, historians see the criminalisation of obeah less as evidence that colonia
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Tacky&#x27;s Revolt Make Obeah Illegal?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Tacky&#x27;s Revolt Make Obeah Illegal?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349222-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
-</h4>
-<p class="fr-book-author">By C. L. R. James</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
+        </h4>
+        <p class="fr-book-author">By C. L. R. James</p>
         
-<p class="fr-book-desc">Best-known introduction to resistance in the Caribbean.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Best-known introduction to resistance in the Caribbean.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The history of Jamaica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2297079-M.jpg" alt="Cover for The history of Jamaica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Jamaica">The history of Jamaica</a>
-</h4>
-<p class="fr-book-author">By Edward Long</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing the Chains: Resistance to Slavery in the British West Indies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8470612-M.jpg" alt="Cover for Testing the Chains: Resistance to Slavery in the British West Indies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
+        </h4>
+        <p class="fr-book-author">By Michael Craton</p>
         
-<p class="fr-book-desc">First published 1774. Subjects: Natural history, Slavery.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers rebellions including Jamaica in depth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
-</h4>
-<p class="fr-book-author">By Jan Rogozinski</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The history of Jamaica on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2297079-M.jpg" alt="Cover for The history of Jamaica" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Jamaica">The history of Jamaica</a>
+        </h4>
+        <p class="fr-book-author">By Edward Long</p>
         
-<p class="fr-book-desc">First published 1999.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Influential colonial account of the revolt era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+the+Chains+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing the Chains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4676530-M.jpg" alt="Cover for Testing the Chains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Testing+the+Chains+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains">Testing the Chains</a>
-</h4>
-<p class="fr-book-author">By Michael Craton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Jan Rogozinski</p>
         
-<p class="fr-book-desc">First published 1982. Subjects: Slave insurrections, Insurrections, Slavery, Slavery and bondage, Slave revolts.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Testing+the+Chains+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Tacky&#x27;s Revolt in wider Caribbean history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Jamaica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Jamaica</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing the Chains: Resistance to Slavery in the British West Indies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Jamaica&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Jamaica</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

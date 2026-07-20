@@ -331,89 +331,72 @@ Obeah continues to matter in Saint Vincent and the Grenadines because it reflect
 Its history also cautions against simple stereotypes. Colonial authorities often exaggerated obeah as an inherently criminal practice, while modern popular culture sometimes reduces it to frightening folklore. Historical research instead presents a more complicated picture: one in which healing, spiritual belief, hidden harm, family tradition and social conflict became intertwined, leaving a legacy that still shapes public attitudes toward African-derived spiritual practices today.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.research.ed.ac.uk/en/publications/obeah-acts-producing-and-policing-the-boundaries-of-religion-in-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.ed.ac.uk">[ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.ed.ac.uk</span><span class="citation-popover-snippet">University of Edinburgh ResearchObeah acts: Producing and policing the boundaries of religion in the Caribbean - University of Edinburgh...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Obeah Inspire Fear and Dependence?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Obeah Inspire Fear and Dependence?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa and Africans in the making of the Atlantic world, 1400-1800 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350520-M.jpg" alt="Cover for Africa and Africans in the making of the Atlantic world," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa and Africans in the making of the Atlantic world,">Africa and Africans in the making of the Atlantic world, 1400...</a>
-</h4>
-<p class="fr-book-author">By John K. Thornton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and other powers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11688598-M.jpg" alt="Cover for Obeah and other powers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
+        </h4>
+        <p class="fr-book-author">By Diana Paton</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: History, Slavery, Relations, Africa, relations, foreign countries, Europe, relations, foreign countries.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses fear, healing and colonial responses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and other powers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11688598-M.jpg" alt="Cover for Obeah and other powers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
-</h4>
-<p class="fr-book-author">By Diana Paton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa and Africans in the making of the Atlantic world, 1400-1800 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/350520-M.jpg" alt="Cover for Africa and Africans in the making of the Atlantic world, 1400-1800" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa and Africans in the making of the Atlantic world, 1400-1800">Africa and Africans in the making of the Atlantic world, 1400...</a>
+        </h4>
+        <p class="fr-book-author">By John K. Thornton</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Religion, Voodooism, Obeah (Cult), Religion and politics, Vodou.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical origins of African-derived traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400-1800+John+K.+Thornton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creole religions of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7025190-M.jpg" alt="Cover for Creole religions of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole religions of the Caribbean">Creole religions of the Caribbean</a>
-</h4>
-<p class="fr-book-author">By Margarite Fernández Olmos, Margarite Fernandez Olmos et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creole religions of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7025190-M.jpg" alt="Cover for Creole religions of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole religions of the Caribbean">Creole religions of the Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Margarite Fernández Olmos, Margarite Fernandez Olmos et al.</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Afro-Caribbean cults, Santeria, Religion, Voodooism, Rastafari movement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Vincentian obeah in regional context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and Other Powers: The Politics of Caribbean Religion and Healing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and Other Powers: The Politics of Caribbean Religion and Healing">Obeah and Other Powers: The Politics of Caribbean Religion an...</a>
-</h4>
-<p class="fr-book-author">By Diana Paton</p>
-        
-<p class="fr-book-desc">Directly addresses fear, healing and colonial responses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400+1800&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa and Africans in the making of the Atlantic world,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obeah+and+other+powers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obeah and other powers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creole religions of the Caribbean</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obeah+and+other+powers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obeah and other powers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa+and+Africans+in+the+making+of+the+Atlantic+world%2C+1400+1800&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa and Africans in the making of the Atlantic world, 1400 1800</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creole religions of the Caribbean</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

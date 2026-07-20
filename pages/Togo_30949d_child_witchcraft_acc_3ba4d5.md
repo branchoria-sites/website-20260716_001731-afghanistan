@@ -368,89 +368,89 @@ For the history of collective fear in Togo, this is therefore less a story of dr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Children Became Scapegoats for Family Misfortune. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Children Became Scapegoats for Family Misfortune. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
-</h4>
-<p class="fr-book-author">By Anne Fadiman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
+        </h4>
+        <p class="fr-book-author">By Anne Fadiman</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores the high stakes that arise when different explanations of childhood illness collide with medical and institutional authority.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
-</h4>
-<p class="fr-book-author">By Brian P. Levack</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil in the shape of a woman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/419772-M.jpg" alt="Cover for The devil in the shape of a woman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
+        </h4>
+        <p class="fr-book-author">By Carol F. Karlsen</p>
         
-<p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how accusation often follows pre-existing vulnerability, family conflict, dependency and contested social roles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil in the shape of a woman on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/419772-M.jpg" alt="Cover for The devil in the shape of a woman" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
-</h4>
-<p class="fr-book-author">By Carol F. Karlsen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
+        </h4>
+        <p class="fr-book-author">By Brian P. Levack</p>
         
-<p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Sorcellerie, Sorcières, Social aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how communities convert suspicion into accepted guilt and how vulnerable people become targets of collective fear.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
-</h4>
-<p class="fr-book-author">By Ronald Hutton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
+        </h4>
+        <p class="fr-book-author">By Ronald Hutton</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides comparative context for the construction of witches as scapegoats and the social fears that sustain accusation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil in the shape of a woman</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil in the shape of a woman</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

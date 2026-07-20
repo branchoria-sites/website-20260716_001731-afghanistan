@@ -397,89 +397,89 @@ In Uzbekistan, the words "Wahhabi" and "extremist" gradually evolved from relati
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Did &#x27;Extremist&#x27; Become a Catch All Label?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Did &#x27;Extremist&#x27; Become a Catch-All Label?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15148162-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
+        </h4>
+        <p class="fr-book-author">By Lawrence Wright</p>
         
-<p class="fr-book-desc">Provides background on real militant movements and terrorism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides background on real militant movements and terrorism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
-</h4>
-<p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Political order and political decay on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9381734-M.jpg" alt="Cover for Political order and political decay" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political order and political decay">Political order and political decay</a>
+        </h4>
+        <p class="fr-book-author">By Francis Fukuyama</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Political corruption, Philosophy, Political leadership, Power (Social sciences), Leadership.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines institutions, state power and governance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Political+order+and+political+decay+Francis+Fukuyama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open JIHAD: THE TRAIL OF POLITICAL ISLAM on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="JIHAD: THE TRAIL OF POLITICAL ISLAM">JIHAD: THE TRAIL OF POLITICAL ISLAM</a>
-</h4>
-<p class="fr-book-author">By Gilles Kepel</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictator&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8114194-M.jpg" alt="Cover for The dictator&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
         
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why governments may broaden political labels.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-</h4>
-<p class="fr-book-author">By Adeeb Khalid</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open JIHAD: THE TRAIL OF POLITICAL ISLAM on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="JIHAD: THE TRAIL OF POLITICAL ISLAM">JIHAD: THE TRAIL OF POLITICAL ISLAM</a>
+        </h4>
+        <p class="fr-book-author">By Gilles Kepel</p>
         
-<p class="fr-book-desc">First published 2021.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps readers distinguish Islamist movements from political labeling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM+Gilles+Kepel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=JIHAD%3A+THE+TRAIL+OF+POLITICAL+ISLAM&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">JIHAD: THE TRAIL OF POLITICAL ISLAM</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Political+order+and+political+decay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Political order and political decay</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+dictator%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The dictator&#x27;s books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

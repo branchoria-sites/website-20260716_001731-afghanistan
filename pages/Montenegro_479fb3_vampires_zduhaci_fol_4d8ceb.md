@@ -480,4 +480,91 @@ For the history of collective fear in Montenegro, these traditions are significa
 
 14.<a id="endnote-14"></a>
    Source: eap-iea.org  
-   Link:<a href="https://www.eap-iea.org/index.php/eap/article/view/1013" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/1013</a>  
+   Link:<a href="https://www.eap-iea.org/index.php/eap/article/view/1013" target="_blank" rel="noopener noreferrer nofollow">https://www.eap-iea.org/index.php/eap/article/view/1013</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Montenegro Really Have a Vampire Panic?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Bough on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8876695-M.jpg" alt="Cover for The Golden Bough" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
+        </h4>
+        <p class="fr-book-author">By James George Frazer</p>
+        
+        <p class="fr-book-desc">Explores magic, ritual and traditional belief systems relevant to revenant folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vampires, burial, and death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159676-M.jpg" alt="Cover for Vampires, burial, and death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vampires, burial, and death">Vampires, burial, and death</a>
+        </h4>
+        <p class="fr-book-author">By Paul Barber</p>
+        
+        <p class="fr-book-desc">Examines how burial customs and misunderstandings created vampire traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Atlas of Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8804520-M.jpg" alt="Cover for The Atlas of Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
+        </h4>
+        <p class="fr-book-author">By Sandra Lawrence</p>
+        
+        <p class="fr-book-desc">Includes European supernatural traditions including vampires.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro">Montenegro</a>
+        </h4>
+        <p class="fr-book-author">By Morrison, Kenneth.</p>
+        
+        <p class="fr-book-desc">First published 2009. Subjects: Montenegro, history, Politics and government, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vampires, burial, and death</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Atlas of Monsters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

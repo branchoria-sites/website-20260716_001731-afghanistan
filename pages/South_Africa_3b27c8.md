@@ -1316,89 +1316,89 @@ The country’s history therefore warns against two opposite mistakes. The first
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Fear and Prophecy Shaped South Africa. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Fear and Prophecy Shaped South Africa. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4526556-M.jpg" alt="Cover for A history of South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
-</h4>
-<p class="fr-book-author">By Leonard Monteath Thompson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Madumo, a Man Bewitched on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139556-M.jpg" alt="Cover for Madumo, a Man Bewitched" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
+        </h4>
+        <p class="fr-book-author">By Adam Ashforth</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: History, South Africa -- History, South africa, history, Histoire, Dt1787 .t48 2001.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates everyday belief and healing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
-</h4>
-<p class="fr-book-author">By Adam Ashforth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4526556-M.jpg" alt="Cover for A history of South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
+        </h4>
+        <p class="fr-book-author">By Leonard Monteath Thompson</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Witchcraft, africa, Witchcraft, Political aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Broad context for colonial pressures and belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Madumo, a Man Bewitched on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139556-M.jpg" alt="Cover for Madumo, a Man Bewitched" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
-</h4>
-<p class="fr-book-author">By Adam Ashforth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
+        </h4>
+        <p class="fr-book-author">By Adam Ashforth</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Witchcraft, Soweto (south africa), South africa, social life and customs, South africa, religion, South a...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains belief, fear and violence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dead+Will+Arise+Jeff+Peires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Will Arise on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dead+Will+Arise+Jeff+Peires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Will Arise">Dead Will Arise</a>
-</h4>
-<p class="fr-book-author">By Jeff Peires</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The trumpet shall sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10817183-M.jpg" alt="Cover for The trumpet shall sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
+        </h4>
+        <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
         
-<p class="fr-book-desc">First published 2013.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dead+Will+Arise+Jeff+Peires&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places South African prophecy in global context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of South Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Madumo, a Man Bewitched</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Madumo, a Man Bewitched</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of South Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

@@ -368,89 +368,89 @@ That ambiguity is itself part of the colonial inheritance. Because the word was 
 Understanding this history changes the question from "Did people believe in obeah?" to a more revealing one: how did a loose collection of healing, protective and spiritual practices become the colony's defining symbol of hidden supernatural danger? The answer lies less in the practices themselves than in the centuries-long interaction between slavery, colonial law, religious competition and the enduring power of collective fear.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Obeah Became The Bahamas&#x27; Great Supernatural Fear. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Obeah Became The Bahamas&#x27; Great Supernatural Fear. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
-</h4>
-<p class="fr-book-author">By Wade Davis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
+        </h4>
+        <p class="fr-book-author">By Wade Davis</p>
         
-<p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wider context for supernatural belief in the Caribbean.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
-</h4>
-<p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tell my horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/39857-M.jpg" alt="Cover for Tell my horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
+        </h4>
+        <p class="fr-book-author">By Zora Neale Hurston</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores African-derived religious traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tell my horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/39857-M.jpg" alt="Cover for Tell my horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
-</h4>
-<p class="fr-book-author">By Zora Neale Hurston</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
+        </h4>
+        <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
         
-<p class="fr-book-desc">First published 1938. Subjects: Description and travel, Fiction, Haitians, Literature, Politics and government.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places witchcraft and magic beliefs in comparative context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Religions: A History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Religions: A History">Caribbean Religions: A History</a>
-</h4>
-<p class="fr-book-author">By Ennis B. Edmonds and Michelle A. Gonzalez</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean Religions: A History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Religions: A History">Caribbean Religions: A History</a>
+        </h4>
+        <p class="fr-book-author">By Ennis B. Edmonds and Michelle A. Gonzalez</p>
         
-<p class="fr-book-desc">Directly covers Caribbean religious traditions including obeah.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers Caribbean religious traditions including obeah.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tell+my+horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tell my horse</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tell+my+horse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tell my horse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

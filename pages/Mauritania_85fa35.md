@@ -1340,89 +1340,89 @@ Mauritania offers no reliable catalogue of spectacular dancing plagues, UFO reli
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Religious Controversy Became a National Crisis. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Religious Controversy Became a National Crisis. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Jim Crow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14826736-M.jpg" alt="Cover for The New Jim Crow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Jim Crow">The New Jim Crow</a>
-</h4>
-<p class="fr-book-author">By Michelle Alexander</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
+        </h4>
+        <p class="fr-book-author">By Lawrence Wright</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Administration of Criminal justice, Race relations, Race discrimination, African American prisoners, New...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines religious ideology, politics and public mobilisation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
-</h4>
-<p class="fr-book-author">By Lawrence Wright</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Jim Crow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14826736-M.jpg" alt="Cover for The New Jim Crow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Jim Crow">The New Jim Crow</a>
+        </h4>
+        <p class="fr-book-author">By Michelle Alexander</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Current Events, September 11 Terrorist Attacks, 2001, Qaida (Organization), Intelligence service, Nonfict...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful background on how legal systems can reinforce social hierarchy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
-</h4>
-<p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1205355-M.jpg" alt="Cover for Moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
+        </h4>
+        <p class="fr-book-author">By Thompson, Kenneth</p>
         
-<p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides the core framework for interpreting collective religious alarm.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Islam+and+the+arab+awakening+Tariq+Ramadan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Islam and the arab awakening on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9737200-M.jpg" alt="Cover for Islam and the arab awakening" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Islam+and+the+arab+awakening+Tariq+Ramadan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam and the arab awakening">Islam and the arab awakening</a>
-</h4>
-<p class="fr-book-author">By Tariq Ramadan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
+        </h4>
+        <p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Democratization, Revolutions, Islam, Social movements, Arabischer Frühling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Islam+and+the+arab+awakening+Tariq+Ramadan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Jim+Crow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Jim Crow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Devils and Moral Panics the Creation of the Mods and Rockers</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Jim+Crow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Jim Crow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moral panics</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

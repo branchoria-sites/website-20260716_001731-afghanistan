@@ -1376,89 +1376,89 @@ Finally, Uganda demonstrates how labels influence public action. “Cult” invi
 Uganda’s most disturbing episodes endured in public memory not simply because people accepted extraordinary claims, but because those claims were tied to real insecurity. Apocalyptic communities promised escape from a broken world. [Spirit armies]({{ 'spirit-armies/' | relative_url }}) promised purification after war. Possession gave visible form to pressure that pupils could not easily articulate. Ritual-murder stories transformed inequality and distrust into an identifiable hidden enemy. Understanding those conditions does not excuse violence or exploitation. It explains why disbelief alone has rarely been enough to prevent them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Fear and Belief Reshaped Uganda. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Fear and Belief Reshaped Uganda. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
-</h4>
-<p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Explains how committed groups respond when apocalyptic predictions fail, a central dynamic in the Kanungu movement and related episodes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how specialised language, identity and social pressure can reinforce extraordinary beliefs and controlling groups.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Teeth May Smile but the Heart Does Not Forget on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8228108-M.jpg" alt="Cover for The Teeth May Smile but the Heart Does Not Forget" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Teeth May Smile but the Heart Does Not Forget">The Teeth May Smile but the Heart Does Not Forget</a>
-</h4>
-<p class="fr-book-author">By Andrew Rice</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When Prophecy Fails on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LezsAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for When Prophecy Fails" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
+        </h4>
+        <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Politics and government, Extrajudicial executions, Trials, litigation, Atrocities, Laki, Eliphaz, -- d. 1...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how committed groups respond when apocalyptic predictions fail, a central dynamic in the Kanungu movement and related episodes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open First kill your family on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091889-M.jpg" alt="Cover for First kill your family" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First kill your family">First kill your family</a>
-</h4>
-<p class="fr-book-author">By Peter H. Eichstaedt</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Teeth May Smile but the Heart Does Not Forget on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8228108-M.jpg" alt="Cover for The Teeth May Smile but the Heart Does Not Forget" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Teeth May Smile but the Heart Does Not Forget">The Teeth May Smile but the Heart Does Not Forget</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Rice</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Human rights, Child soldiers, Lord&#x27;s Resistance Army, Children and war, Human rights, uganda.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides essential historical context for Uganda&#x27;s violence, political insecurity, memory and distrust of institutions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget+Andrew+Rice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-</h4>
-<p class="fr-book-author">By Amanda Montell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open First kill your family on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7091889-M.jpg" alt="Cover for First kill your family" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First kill your family">First kill your family</a>
+        </h4>
+        <p class="fr-book-author">By Peter H. Eichstaedt</p>
         
-<p class="fr-book-desc">First published 2021. Subjects: Language and languages, scientology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores the Lord&#x27;s Resistance Army, spiritual claims, coercion and the way fear and belief operated during northern Uganda&#x27;s conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=First+kill+your+family+Peter+H.+Eichstaedt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Teeth May Smile but the Heart Does Not Forget</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=First+kill+your+family&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">First kill your family</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+Prophecy+Fails&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When Prophecy Fails</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Teeth+May+Smile+but+the+Heart+Does+Not+Forget&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Teeth May Smile but the Heart Does Not Forget</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

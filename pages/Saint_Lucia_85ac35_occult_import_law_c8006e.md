@@ -366,89 +366,72 @@ Whether that contradiction should be resolved by repealing the customs prohibiti
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Are Occult Objects Still Banned?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Are Occult Objects Still Banned?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and other powers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11688598-M.jpg" alt="Cover for Obeah and other powers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
-</h4>
-<p class="fr-book-author">By Diana Paton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and other powers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11688598-M.jpg" alt="Cover for Obeah and other powers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
+        </h4>
+        <p class="fr-book-author">By Diana Paton</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Religion, Voodooism, Obeah (Cult), Religion and politics, Vodou.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the colonial legal legacy behind surviving restrictions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creole religions of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7025190-M.jpg" alt="Cover for Creole religions of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole religions of the Caribbean">Creole religions of the Caribbean</a>
-</h4>
-<p class="fr-book-author">By Margarite Fernández Olmos, Margarite Fernandez Olmos et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creole religions of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7025190-M.jpg" alt="Cover for Creole religions of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole religions of the Caribbean">Creole religions of the Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Margarite Fernández Olmos, Margarite Fernandez Olmos et al.</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Afro-Caribbean cults, Santeria, Religion, Voodooism, Rastafari movement.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Discusses Caribbean magical and religious traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Obeah and Other Powers: The Politics of Caribbean Religion and Healing on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and Other Powers: The Politics of Caribbean Religion and Healing">Obeah and Other Powers: The Politics of Caribbean Religion an...</a>
-</h4>
-<p class="fr-book-author">By Diana Paton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fear of French negroes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear of French negroes">The fear of French negroes</a>
+        </h4>
+        <p class="fr-book-author">By Sara E. Johnson</p>
         
-<p class="fr-book-desc">Explains the colonial legal legacy behind surviving restrictions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2012. Subjects: Blacks, Influence, Migrations, Race identity, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Creole+Religions+of+the+Caribbean%3A+An+Introduction+from+Vodou+and+Santer%C3%ADa+to+Obeah+and+Espiritismo+Margarite+Fern%C3%A1ndez+Olmos+and+Lizabeth+Paravisini+Gebert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Creole Religions of the Caribbean: An Introduction from Vodou and Santería to Obeah and Espiritismo on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Creole+Religions+of+the+Caribbean%3A+An+Introduction+from+Vodou+and+Santer%C3%ADa+to+Obeah+and+Espiritismo+Margarite+Fern%C3%A1ndez+Olmos+and+Lizabeth+Paravisini+Gebert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole Religions of the Caribbean: An Introduction from Vodou and Santería to Obeah and Espiritismo">Creole Religions of the Caribbean: An Introduction from Vodou...</a>
-</h4>
-<p class="fr-book-author">By Margarite Fernández Olmos and Lizabeth Paravisini-Gebert</p>
-        
-<p class="fr-book-desc">Discusses Caribbean magical and religious traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Creole+Religions+of+the+Caribbean%3A+An+Introduction+from+Vodou+and+Santer%C3%ADa+to+Obeah+and+Espiritismo+Margarite+Fern%C3%A1ndez+Olmos+and+Lizabeth+Paravisini+Gebert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obeah+and+other+powers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obeah and other powers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creole religions of the Caribbean</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Obeah+and+Other+Powers%3A+The+Politics+of+Caribbean+Religion+and+Healing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obeah and Other Powers: The Politics of Caribbean Religion and Healing</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Obeah+and+other+powers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Obeah and other powers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Creole religions of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fear+of+French+negroes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fear of French negroes</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

@@ -335,89 +335,89 @@ The two Mchape movements show that periods of national crisis often revive famil
 For historians of Malawi, Mchape therefore illuminates more than an unusual healing movement. It demonstrates how collective memories can survive across generations, how epidemics reshape religious life, and how public trust influences responses to disease. It also reminds modern readers that large healing movements often reflect genuine social suffering rather than simple credulity. Understanding why hundreds of thousands of people found Mchape persuasive offers valuable insight into the relationship between health crises, political transformation and collective belief in Malawi.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/africa/article/abs/mchape-95-or-the-sudden-fame-of-billy-goodson-chisupe-healing-social-memory-and-the-enigma-of-the-public-sphere-in-postbanda-malawi/4D81F62435E551B9522379A63DCB58CA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMchape &#x27;95, or, the sudden fame of Billy Goodson Chisupe: healing, social memory and the enigma of...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Mchape Draw Such Enormous Crowds?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Mchape Draw Such Enormous Crowds?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-</h4>
-<p class="fr-book-author">By Charles Mackay</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-<p class="fr-book-desc">Classic survey of collective beliefs and panics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+by+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Immortal Life of Henrietta Lacks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8364866-M.jpg" alt="Cover for The Immortal Life of Henrietta Lacks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Immortal Life of Henrietta Lacks">The Immortal Life of Henrietta Lacks</a>
-</h4>
-<p class="fr-book-author">By Rebecca Skloot</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Immortal Life of Henrietta Lacks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8364866-M.jpg" alt="Cover for The Immortal Life of Henrietta Lacks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Immortal Life of Henrietta Lacks">The Immortal Life of Henrietta Lacks</a>
+        </h4>
+        <p class="fr-book-author">By Rebecca Skloot</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Cancer, Cell culture, Research, Patients, Health.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wider context on medicine, trust and public belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
-</h4>
-<p class="fr-book-author">By Anne Fadiman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
+        </h4>
+        <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores ritual, danger and social order.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
-</h4>
-<p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
+        </h4>
+        <p class="fr-book-author">By Anne Fadiman</p>
         
-<p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines encounters between healing traditions and modern medicine.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Immortal Life of Henrietta Lacks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
+        </h4>
+        <p class="fr-book-author">By Mbiti, John S.</p>
+        
+        <p class="fr-book-desc">Places healing movements within African religious traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Immortal Life of Henrietta Lacks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Purity+and+danger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purity and danger</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

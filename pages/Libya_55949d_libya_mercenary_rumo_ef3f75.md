@@ -355,89 +355,89 @@ For historians and scholars of collective belief, Libya provides a cautionary ex
 The legacy of these events has continued to influence discussions of migration, racism and human rights in post-2011 Libya. It also serves as a reminder that even rumours containing a kernel of truth can become socially dangerous when fear replaces careful investigation and individual evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Mercenary Rumours Put Migrants in Danger. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Mercenary Rumours Put Migrants in Danger. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return: Fathers, Sons and the Land in Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8543276-M.jpg" alt="Cover for The Return: Fathers, Sons and the Land in Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
-</h4>
-<p class="fr-book-author">By Hisham Matar</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return: Fathers, Sons and the Land in Between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8543276-M.jpg" alt="Cover for The Return: Fathers, Sons and the Land in Between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
+        </h4>
+        <p class="fr-book-author">By Hisham Matar</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Matar, Hisham, 1970-, Matar, Hisham, 1970- -- Travel -- Libya, Matar, Hisham, 1970- -- Family, Matar, Jab...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores the legacy of the Libyan regime.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9280487-M.jpg" alt="Cover for Black wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black wave">Black wave</a>
-</h4>
-<p class="fr-book-author">By Kim Ghattas</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabs: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8444558-M.jpg" alt="Cover for The Arabs: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
+        </h4>
+        <p class="fr-book-author">By Eugene L. Rogan</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: Islam and politics, Middle east, history, 20th century, Middle east, history, 21st century, Iran, history...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places the Libyan conflict into regional history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabs: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8444558-M.jpg" alt="Cover for The Arabs: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
-</h4>
-<p class="fr-book-author">By Eugene L. Rogan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9280487-M.jpg" alt="Cover for Black wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black wave">Black wave</a>
+        </h4>
+        <p class="fr-book-author">By Kim Ghattas</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Petroleum industry and trade, Arab nationalism, Islam and politics, Imperialism, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wider regional political context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
-</h4>
-<p class="fr-book-author">By Ronald Bruce St John</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
+        </h4>
+        <p class="fr-book-author">By Ronald Bruce St John</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return: Fathers, Sons and the Land in Between</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black wave</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabs: A History</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return: Fathers, Sons and the Land in Between</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabs: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black wave</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

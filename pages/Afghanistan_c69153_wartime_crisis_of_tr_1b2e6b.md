@@ -373,89 +373,89 @@ This does not mean every rumour reflected reality. Rather, repeated exposure to 
 For historians and social scientists, Afghanistan therefore provides an important reminder that collective scares often grow from real historical experience rather than simple irrationality. Propaganda succeeded most readily where institutions lacked credibility, while false rumours flourished because they echoed authentic memories of conflict, secrecy and betrayal. Understanding that distinction is essential for interpreting Afghanistan's episodes of panic without dismissing the lived experiences that made those fears so compelling.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Rumours Felt Plausible in Wartime Afghanistan. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Rumours Felt Plausible in Wartime Afghanistan. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8Qxf-33dxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
-</h4>
-<p class="fr-book-author">By Steve Coll</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Wars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N8Qxf-33dxMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost Wars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
+        </h4>
+        <p class="fr-book-author">By Steve Coll</p>
         
-<p class="fr-book-desc">Directly addresses the conflict that shaped public trust.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the conflict that shaped public trust.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No good men among the living on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11687006-M.jpg" alt="Cover for No good men among the living" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No good men among the living">No good men among the living</a>
-</h4>
-<p class="fr-book-author">By Anand Gopal</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kite Runner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12728870-M.jpg" alt="Cover for The Kite Runner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kite Runner">The Kite Runner</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Counterinsurgency, Afghani Personal narratives, Taliban, Internal security, POLITICAL SCIENCE / Political...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides human context for decades of conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Wars+12-copy+floor+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost  Wars 12-copy floor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13482051-M.jpg" alt="Cover for Ghost  Wars 12-copy floor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ghost+Wars+12-copy+floor+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost  Wars 12-copy floor">Ghost Wars 12-copy floor</a>
-</h4>
-<p class="fr-book-author">By Steve Coll</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No good men among the living on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11687006-M.jpg" alt="Cover for No good men among the living" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No good men among the living">No good men among the living</a>
+        </h4>
+        <p class="fr-book-author">By Anand Gopal</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: History, Nonfiction, Politics, United States, United States. Central Intelligence Agency.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ghost+Wars+12-copy+floor+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how civilians navigated competing narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PLACES IN BETWEEN on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6817424-M.jpg" alt="Cover for PLACES IN BETWEEN" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PLACES IN BETWEEN">PLACES IN BETWEEN</a>
-</h4>
-<p class="fr-book-author">By RORY STEWART, Rory Stewart</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open PLACES IN BETWEEN on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6817424-M.jpg" alt="Cover for PLACES IN BETWEEN" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PLACES IN BETWEEN">PLACES IN BETWEEN</a>
+        </h4>
+        <p class="fr-book-author">By RORY STEWART, Rory Stewart</p>
         
-<p class="fr-book-desc">First published 1970. Subjects: Social life and customs, Travel, Description and travel, Manners and customs, Open Library Staff Picks.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Captures the atmosphere of post-conflict Afghanistan.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=No+good+men+among+the+living&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No good men among the living</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars+12+copy+floor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars 12 copy floor</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kite Runner</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+good+men+among+the+living&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No good men among the living</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

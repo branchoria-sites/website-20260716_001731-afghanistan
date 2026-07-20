@@ -399,89 +399,89 @@ Their significance lies not only in the misinformation itself but in how collect
 For historians, sociologists and psychologists, Lebanon therefore offers an important contemporary example of how moral panics operate: not through irrationality alone, but through the interaction of real insecurity, weak institutional trust, emotionally powerful rumours and political incentives that transform isolated events into stories about entire communities.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How do rumours become modern moral panics?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How do rumours become modern moral panics?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Explains how rumours become disproportionate social fears.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how rumours become disproportionate social fears.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
-</h4>
-<p class="fr-book-author">By Jan-Willem van Prooijen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
+        </h4>
+        <p class="fr-book-author">By Malcolm Gladwell</p>
         
-<p class="fr-book-desc">Shows how misinformation and distrust spread.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores misunderstanding, trust and social judgment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Talking+to+Strangers+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Talking to Strangers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FTiGDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Talking to Strangers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Talking to Strangers">Talking to Strangers</a>
-</h4>
-<p class="fr-book-author">By Malcolm Gladwell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
+        </h4>
+        <p class="fr-book-author">By Jan-Willem van Prooijen</p>
         
-<p class="fr-book-desc">Explores misunderstanding, trust and social judgment.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Talking+to+Strangers+by+Malcolm+Gladwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how misinformation and distrust spread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modern Lebanon: A History, 1860–2020 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern Lebanon: A History, 1860–2020">Modern Lebanon: A History, 1860–2020</a>
-</h4>
-<p class="fr-book-author">By Fawwaz Traboulsi</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modern Lebanon: A History, 1860–2020 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modern Lebanon: A History, 1860–2020">Modern Lebanon: A History, 1860–2020</a>
+        </h4>
+        <p class="fr-book-author">By Fawwaz Traboulsi</p>
         
-<p class="fr-book-desc">Explains Lebanon&#x27;s political and social setting.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Lebanon&#x27;s political and social setting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Modern+Lebanon%3A+A+History%2C+1860%E2%80%932020+Fawwaz+Traboulsi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Talking+to+Strangers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Talking to Strangers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

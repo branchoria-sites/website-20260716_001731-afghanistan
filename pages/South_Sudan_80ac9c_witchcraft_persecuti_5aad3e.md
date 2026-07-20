@@ -348,89 +348,89 @@ Within the broader history of collective fear in South Sudan, witchcraft accusat
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Witchcraft Accusations Become Collective Violence. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Witchcraft Accusations Become Collective Violence. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Better Angels of Our Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3cWa-GnsfMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Better Angels of Our Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Better Angels of Our Nature">The Better Angels of Our Nature</a>
-</h4>
-<p class="fr-book-author">By Steven Pinker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
+        </h4>
+        <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
         
-<p class="fr-book-desc">Places episodes of collective violence within broader historical patterns and explanations.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides influential frameworks for understanding pollution, blame, social order and collective reactions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
-</h4>
-<p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1538373-M.jpg" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
+        </h4>
+        <p class="fr-book-author">By Philip G. Zimbardo</p>
         
-<p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain how ordinary people can participate in group hostility and violence under social pressure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1538373-M.jpg" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
-</h4>
-<p class="fr-book-author">By Philip G. Zimbardo</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Better Angels of Our Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3cWa-GnsfMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Better Angels of Our Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Better Angels of Our Nature">The Better Angels of Our Nature</a>
+        </h4>
+        <p class="fr-book-author">By Steven Pinker</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Nonfiction, Psychology, Zelfbeheersing, Psychologische aspecten, Mishandeling.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places episodes of collective violence within broader historical patterns and explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Madumo, a Man Bewitched on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139556-M.jpg" alt="Cover for Madumo, a Man Bewitched" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
-</h4>
-<p class="fr-book-author">By Adam Ashforth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Madumo, a Man Bewitched on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139556-M.jpg" alt="Cover for Madumo, a Man Bewitched" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
+        </h4>
+        <p class="fr-book-author">By Adam Ashforth</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Witchcraft, Soweto (south africa), South africa, social life and customs, South africa, religion, South a...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores lived experiences of witchcraft beliefs, fear and community dynamics in southern Africa.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Purity+and+danger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purity and danger</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Purity+and+danger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purity and danger</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

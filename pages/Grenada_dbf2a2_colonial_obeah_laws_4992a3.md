@@ -360,89 +360,72 @@ The legal construction of obeah as a public danger outlived slavery itself. Thro
 Today, historians generally interpret these laws less as objective responses to a clearly defined danger than as instruments through which colonial power classified acceptable and unacceptable belief. Rather than revealing a uniquely dangerous religious tradition, Grenada's anti-obeah legislation reveals how law, fear and empire combined to transform diverse African-derived spiritual practices into a lasting social threat in the colonial imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ecda.northeastern.edu/home/about-exhibits/obeah-narratives-exhibit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecda.northeastern.edu">[northeastern.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecda.northeastern.edu</span><span class="citation-popover-title">ECDAObeah: “Magical Art of Resistance” – ECDA</span><span class="citation-popover-snippet">ECDAObeah: “Magical Art of Resistance” – ECDA</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Colonial Law Turned Obeah Into a Threat. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Colonial Law Turned Obeah Into a Threat. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
-</h4>
-<p class="fr-book-author">By Wade Davis</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
+        </h4>
+        <p class="fr-book-author">By Wade Davis</p>
         
-<p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces readers to Caribbean belief systems often labelled as obeah.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14392116-M.jpg" alt="Cover for Caribbean history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean history">Caribbean history</a>
-</h4>
-<p class="fr-book-author">By Martin, Tony, Tony Martin et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14392116-M.jpg" alt="Cover for Caribbean history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean history">Caribbean history</a>
+        </h4>
+        <p class="fr-book-author">By Martin, Tony, Tony Martin et al.</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Race relations, History, Caribbean area, history, West indies, race relations, HISTORY.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers slavery and colonial administration relevant to Grenada.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caribbean: A History of the Region and Its Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caribbean: A History of the Region and Its Peoples">The Caribbean: A History of the Region and Its Peoples</a>
-</h4>
-<p class="fr-book-author">By Stephan Palmié and Francisco A. Scarano</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caribbean: A History of the Region and Its Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caribbean: A History of the Region and Its Peoples">The Caribbean: A History of the Region and Its Peoples</a>
+        </h4>
+        <p class="fr-book-author">By Stephan Palmié and Francisco A. Scarano</p>
         
-<p class="fr-book-desc">Provides historical background for colonial law and slavery.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical background for colonial law and slavery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean+History%3A+From+Pre+Colonial+Origins+to+the+Present+Tony+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean History: From Pre-Colonial Origins to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean+History%3A+From+Pre+Colonial+Origins+to+the+Present+Tony+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean History: From Pre-Colonial Origins to the Present">Caribbean History: From Pre-Colonial Origins to the Present</a>
-</h4>
-<p class="fr-book-author">By Tony Martin</p>
-        
-<p class="fr-book-desc">Covers slavery and colonial administration relevant to Grenada.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean+History%3A+From+Pre+Colonial+Origins+to+the+Present+Tony+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Caribbean: A History of the Region and Its Peoples</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Caribbean+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Caribbean history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Caribbean: A History of the Region and Its Peoples</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

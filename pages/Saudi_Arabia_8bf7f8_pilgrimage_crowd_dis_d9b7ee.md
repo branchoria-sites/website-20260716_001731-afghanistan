@@ -345,89 +345,89 @@ Current official Hajj safety guidance likewise focuses on avoiding overcrowding,
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Were Pilgrimage Disasters Really Caused by Panic?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Were Pilgrimage Disasters Really Caused by Panic?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/746505-M.jpg" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lucifer Effect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1538373-M.jpg" alt="Cover for The Lucifer Effect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
+        </h4>
+        <p class="fr-book-author">By Philip G. Zimbardo</p>
         
-<p class="fr-book-desc">Provides accessible background on collective human behavior and challenges simplistic explanations of group actions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides accessible background on collective human behavior and challenges simplistic explanations of group actions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the Kingdom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6625403-M.jpg" alt="Cover for Inside the Kingdom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
-</h4>
-<p class="fr-book-author">By Robert Lacey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hajj on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/440458-M.jpg" alt="Cover for The Hajj" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hajj">The Hajj</a>
+        </h4>
+        <p class="fr-book-author">By F. E. Peters</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Politics and government, Social conditions, Travel, Description and travel, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides essential context on the Hajj, its rituals, and why crowd management is uniquely challenging.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hajj on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/440458-M.jpg" alt="Cover for The Hajj" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hajj">The Hajj</a>
-</h4>
-<p class="fr-book-author">By F. E. Peters</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Inside the Kingdom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6625403-M.jpg" alt="Cover for Inside the Kingdom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
+        </h4>
+        <p class="fr-book-author">By Robert Lacey</p>
         
-<p class="fr-book-desc">First published 1994. Subjects: Muslim pilgrims and pilgrimages, Mecca, Saudi Arabia, History, Pèlerins et pèlerinages musulmans.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2009. Subjects: Politics and government, Social conditions, Travel, Description and travel, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Crowd Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Crowd Science">Introduction to Crowd Science</a>
-</h4>
-<p class="fr-book-author">By G. Keith Still</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Crowd Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Crowd Science">Introduction to Crowd Science</a>
+        </h4>
+        <p class="fr-book-author">By G. Keith Still</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Riots, Crowds, Collective behavior, Social control, Crowd control.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses on the mechanics of crowd behavior, density, movement, and safety engineering.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+Kingdom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the Kingdom</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hajj&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hajj</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lucifer+Effect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lucifer Effect</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hajj&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hajj</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Inside+the+Kingdom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Inside the Kingdom</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

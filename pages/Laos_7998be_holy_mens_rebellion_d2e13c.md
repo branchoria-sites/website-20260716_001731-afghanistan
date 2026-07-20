@@ -346,89 +346,89 @@ The movement also illustrates why historians are cautious about applying labels 
 The promise of a coming righteous kingdom provided more than spiritual comfort. It offered a shared language through which diverse communities could organise resistance across ethnic boundaries and across the Mekong itself. Although the rebellion ultimately failed militarily, it remained one of the longest-running challenges to French authority in Laos and continues to shape historical understanding of anti-colonial movements in mainland Southeast Asia.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.5367/sear.2013.0147" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsMillenarian Movements in Southern Laos and North Eastern Siam (Thailand) at the Turn of the Twentieth Century - Ian G. Baird...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Holy Men Inspire a Colonial Revolt?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Holy Men Inspire a Colonial Revolt?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
-</h4>
-<p class="fr-book-author">By Anne Fadiman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
+        </h4>
+        <p class="fr-book-author">By Anne Fadiman</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers accessible background on Hmong beliefs in Laos.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Not Being Governed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6289268-M.jpg" alt="Cover for The Art of Not Being Governed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Not Being Governed">The Art of Not Being Governed</a>
-</h4>
-<p class="fr-book-author">By James C. Scott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Laos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/348641-M.jpg" alt="Cover for A history of Laos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Laos">A history of Laos</a>
+        </h4>
+        <p class="fr-book-author">By Martin Stuart-Fox</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Politics and government, Rural conditions, Peasantry, Ethnology, Political activity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly covers colonial Laos and the Holy Men&#x27;s Rebellion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of the weak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159489-M.jpg" alt="Cover for Weapons of the weak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of the weak">Weapons of the weak</a>
-</h4>
-<p class="fr-book-author">By James C. Scott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Not Being Governed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6289268-M.jpg" alt="Cover for The Art of Not Being Governed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Not Being Governed">The Art of Not Being Governed</a>
+        </h4>
+        <p class="fr-book-author">By James C. Scott</p>
         
-<p class="fr-book-desc">First published 1985. Subjects: Social conflict, Passive resistance, Peasantry, Political activity, Social conditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Interprets millenarian resistance in Southeast Asian uplands.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Laos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/348641-M.jpg" alt="Cover for A history of Laos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Laos">A history of Laos</a>
-</h4>
-<p class="fr-book-author">By Martin Stuart-Fox</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weapons of the weak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159489-M.jpg" alt="Cover for Weapons of the weak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of the weak">Weapons of the weak</a>
+        </h4>
+        <p class="fr-book-author">By James C. Scott</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: History, Laos, history, Asian studies, Political science.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides a framework for resistance under domination.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Not Being Governed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Weapons+of+the+weak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weapons of the weak</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Laos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Laos</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Not Being Governed</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

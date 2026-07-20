@@ -357,89 +357,89 @@ For historians of collective belief and social panic, the episode demonstrates h
 The enduring question is not simply whether there was a conspiracy, but how a society founded on coercion produced evidence about rebellion. The surviving records preserve both the determination of enslaved people to seek freedom and the ways in which panic, unequal justice and exemplary punishment could transform a criminal investigation into a narrative whose precise scale remains impossible to reconstruct with certainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.smithsonianmag.com/history/antiguas-disputed-slave-conspiracy-of-1736-117569/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">antiguas disputed slave conspiracy of 1736 117569</span><span class="citation-popover-snippet">Smithsonian MagazineAntigua’s Disputed Slave Conspiracy of 1736January 2, 2013...</span><span class="citation-popover-meta">Published: January 2, 2013</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Antigua&#x27;s 1736 Conspiracy Real or Enlarged?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Antigua&#x27;s 1736 Conspiracy Real or Enlarged?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
-</h4>
-<p class="fr-book-author">By C. L. R. James</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
+        </h4>
+        <p class="fr-book-author">By C. L. R. James</p>
         
-<p class="fr-book-desc">First published 1935. Subjects: History, Biography, Revolutionaries, Generals, Revolution, 1791-1804.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frames plantation rebellion and colonial fear.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing the Chains: Resistance to Slavery in the British West Indies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8470612-M.jpg" alt="Cover for Testing the Chains: Resistance to Slavery in the British West Indies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
-</h4>
-<p class="fr-book-author">By Michael Craton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Jan Rogozinski</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Slavery, west indies, Slave insurrections, History, Caribbean &amp; west indies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Antigua within regional developments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
-</h4>
-<p class="fr-book-author">By Jan Rogozinski</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Testing the Chains: Resistance to Slavery in the British West Indies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8470612-M.jpg" alt="Cover for Testing the Chains: Resistance to Slavery in the British West Indies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
+        </h4>
+        <p class="fr-book-author">By Michael Craton</p>
         
-<p class="fr-book-desc">First published 1999.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly relevant to interpreting the Antigua conspiracy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fear of French negroes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear of French negroes">The fear of French negroes</a>
-</h4>
-<p class="fr-book-author">By Sara E. Johnson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interesting Narrative of the Life of Olaudah Equiano on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
+        </h4>
+        <p class="fr-book-author">By Olaudah Equiano</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Blacks, Influence, Migrations, Race identity, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides firsthand context for slavery in the Atlantic world.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing the Chains: Resistance to Slavery in the British West Indies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Testing the Chains: Resistance to Slavery in the British West Indies</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

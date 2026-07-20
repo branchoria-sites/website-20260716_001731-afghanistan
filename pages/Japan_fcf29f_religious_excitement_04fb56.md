@@ -348,89 +348,89 @@ Taken together, these episodes illustrate why historians avoid treating all inte
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Religious Belief Became Celebration or Terror. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Religious Belief Became Celebration or Terror. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chrysanthemum and the Sword on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/255861-M.jpg" alt="Cover for The Chrysanthemum and the Sword" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chrysanthemum and the Sword">The Chrysanthemum and the Sword</a>
-</h4>
-<p class="fr-book-author">By Ruth Benedict</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Destroying the World to Save It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580609-M.jpg" alt="Cover for Destroying the World to Save It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destroying the World to Save It">Destroying the World to Save It</a>
+        </h4>
+        <p class="fr-book-author">By Robert Jay Lifton</p>
         
-<p class="fr-book-desc">First published 1946. Subjects: Social life and customs, Japanese National characteristics, Japanners, Volkskarakter, Civilización.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines Japan&#x27;s most infamous modern religious movement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
-</h4>
-<p class="fr-book-author">By James L. McClain</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chrysanthemum and the Sword on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/255861-M.jpg" alt="Cover for The Chrysanthemum and the Sword" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chrysanthemum and the Sword">The Chrysanthemum and the Sword</a>
+        </h4>
+        <p class="fr-book-author">By Ruth Benedict</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: History, Japan, history, New York Times reviewed.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Influential interpretation of Japanese culture and social norms.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Modern History of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/123599-M.jpg" alt="Cover for A Modern History of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
-</h4>
-<p class="fr-book-author">By Andrew Gordon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
+        </h4>
+        <p class="fr-book-author">By James L. McClain</p>
         
-<p class="fr-book-desc">First published 2002. Subjects: History, Nonfiction, Japan, history, Edo-Zeit, Meiji-Periode.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places religious movements in modern Japan.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Destroying the World to Save It on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580609-M.jpg" alt="Cover for Destroying the World to Save It" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destroying the World to Save It">Destroying the World to Save It</a>
-</h4>
-<p class="fr-book-author">By Robert Jay Lifton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Modern History of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/123599-M.jpg" alt="Cover for A Modern History of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Gordon</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Oumu Shinrikyō (Religious organization), Cults, Terrorism, Apocalyptic literature, Violence, religious as...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Historical background for social and religious change.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chrysanthemum and the Sword</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japan, a modern history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Modern History of Japan</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Destroying the World to Save It</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chrysanthemum and the Sword</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japan, a modern history</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

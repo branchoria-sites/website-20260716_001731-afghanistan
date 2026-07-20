@@ -1310,89 +1310,89 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Belief, Fear and Crisis Swept Vietnam. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Belief, Fear and Crisis Swept Vietnam. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the lake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4506639-M.jpg" alt="Cover for Fire in the lake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the lake">Fire in the lake</a>
-</h4>
-<p class="fr-book-author">By Frances FitzGerald</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam, a history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5349680-M.jpg" alt="Cover for Vietnam, a history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
+        </h4>
+        <p class="fr-book-author">By Stanley Karnow</p>
         
-<p class="fr-book-desc">First published 1972. Subjects: Politics and government, Vietnamese Conflict, 1961-1975, Vietnam War, 1961-1975, United States, Umschulun...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides essential historical background for religious and political movements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam, a history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5349680-M.jpg" alt="Cover for Vietnam, a history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
-</h4>
-<p class="fr-book-author">By Stanley Karnow</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the lake on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4506639-M.jpg" alt="Cover for Fire in the lake" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the lake">Fire in the lake</a>
+        </h4>
+        <p class="fr-book-author">By Frances FitzGerald</p>
         
-<p class="fr-book-desc">First published 1983. Subjects: History, Vietnam War, 1961-1975, Vietnamese Conflict, 1961-1975, Historia, Histoire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores culture, religion and politics during conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred Willow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/124343-M.jpg" alt="Cover for The Sacred Willow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Willow">The Sacred Willow</a>
-</h4>
-<p class="fr-book-author">By Duong Van Mai Elliott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred Willow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/124343-M.jpg" alt="Cover for The Sacred Willow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Willow">The Sacred Willow</a>
+        </h4>
+        <p class="fr-book-author">By Duong Van Mai Elliott</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Genealogy, History, Family, Families, Généalogies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Illustrates Vietnamese beliefs and social change across generations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7167932-M.jpg" alt="Cover for Vietnam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
-</h4>
-<p class="fr-book-author">By Bill Hayton</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7167932-M.jpg" alt="Cover for Vietnam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
+        </h4>
+        <p class="fr-book-author">By Bill Hayton</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the lake</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+Willow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred Willow</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the lake</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+Willow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred Willow</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

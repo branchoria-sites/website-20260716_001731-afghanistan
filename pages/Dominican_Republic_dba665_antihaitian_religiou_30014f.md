@@ -312,89 +312,89 @@ Modern historians therefore interpret anti-Haitian religious repression as an ex
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How Religion Became a Tool of Border Control. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Religion Became a Tool of Border Control. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
-</h4>
-<p class="fr-book-author">By Michel-Rolph Trouillot</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why the cocks fight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/592511-M.jpg" alt="Cover for Why the cocks fight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
+        </h4>
+        <p class="fr-book-author">By Michele Wucker</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Historiography, Historicism, Power (Social sciences), Historiographie, Historicisme.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly examines Dominican-Haitian relations and anti-Haitianism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why the cocks fight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/592511-M.jpg" alt="Cover for Why the cocks fight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
-</h4>
-<p class="fr-book-author">By Michele Wucker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Silencing the past on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/587956-M.jpg" alt="Cover for Silencing the past" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
+        </h4>
+        <p class="fr-book-author">By Michel-Rolph Trouillot</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Haiti, Haitians, Relations, International relations, Außenpolitik.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frames how national narratives marginalize minority histories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Why+the+Cocks+Fight%3A+Dominicans%2C+Haitians%2C+and+the+Struggle+for+Hispaniola+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Why+the+Cocks+Fight%3A+Dominicans%2C+Haitians%2C+and+the+Struggle+for+Hispaniola+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola">Why the Cocks Fight: Dominicans, Haitians, and the Struggle f...</a>
-</h4>
-<p class="fr-book-author">By Michele Wucker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open By Alejo Carpentier The Kingdom of This World (Tra) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Alejo Carpentier The Kingdom of This World (Tra)">By Alejo Carpentier The Kingdom of This World (Tra)</a>
+        </h4>
+        <p class="fr-book-author">By Alejo Carpentier</p>
         
-<p class="fr-book-desc">Directly examines Dominican-Haitian relations and anti-Haitianism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Why+the+Cocks+Fight%3A+Dominicans%2C+Haitians%2C+and+the+Struggle+for+Hispaniola+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2006.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdom of This World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of This World">The Kingdom of This World</a>
-</h4>
-<p class="fr-book-author">By Alejo Carpentier</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kingdom of This World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of This World">The Kingdom of This World</a>
+        </h4>
+        <p class="fr-book-author">By Alejo Carpentier</p>
         
-<p class="fr-book-desc">Rich literary portrayal of Caribbean religion and power.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Rich literary portrayal of Caribbean religion and power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+the+cocks+fight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why the cocks fight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+the+Cocks+Fight%3A+Dominicans%2C+Haitians%2C+and+the+Struggle+for+Hispaniola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why the Cocks Fight: Dominicans, Haitians, and the Struggle for Hispaniola</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+the+cocks+fight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why the cocks fight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Silencing+the+past&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Silencing the past</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">By Alejo Carpentier The Kingdom of This World (Tra)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

@@ -337,89 +337,89 @@ The reverence shown to Saint Marinus created a powerful shared identity that las
 Rather than abandoning its founding legend, San Marino reinterpreted it. The republic continues to celebrate Saint Marinus as the symbolic founder of its independence, while recognising that loyalty to the state no longer requires citizens or elected representatives to profess a particular religious faith. That balance between historical memory and individual liberty has become one of the country's most distinctive constitutional legacies.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Sacred Tradition Entered San Marino&#x27;s Parliament. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Sacred Tradition Entered San Marino&#x27;s Parliament. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
-</h4>
-<p class="fr-book-author">By Brian P. Levack</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Christianity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6412210-M.jpg" alt="Cover for A history of Christianity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Christianity">A history of Christianity</a>
+        </h4>
+        <p class="fr-book-author">By Diarmaid MacCulloch</p>
         
-<p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the development of Christian traditions that shaped San Marino&#x27;s civic culture.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The European Convention on Human Rights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349335-M.jpg" alt="Cover for The European Convention on Human Rights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The European Convention on Human Rights">The European Convention on Human Rights</a>
-</h4>
-<p class="fr-book-author">By Steven Greer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dominion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9094964-M.jpg" alt="Cover for Dominion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dominion">Dominion</a>
+        </h4>
+        <p class="fr-book-author">By Tom Holland, Mark Meadows et al.</p>
         
-<p class="fr-book-desc">First published 2006. Subjects: Human rights, Convention for the Protection of Human Rights and Fundamental Freedoms.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines Christianity&#x27;s influence on Western political and moral institutions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dominion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9094964-M.jpg" alt="Cover for Dominion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dominion">Dominion</a>
-</h4>
-<p class="fr-book-author">By Tom Holland, Mark Meadows et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The European Convention on Human Rights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/349335-M.jpg" alt="Cover for The European Convention on Human Rights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The European Convention on Human Rights">The European Convention on Human Rights</a>
+        </h4>
+        <p class="fr-book-author">By Steven Greer</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: genre:history, Church history, Christian civilization, Christianity and culture, Christianity.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps explain the legal principles behind the parliamentary oath dispute.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
-</h4>
-<p class="fr-book-author">By T. H. Bingham</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
+        </h4>
+        <p class="fr-book-author">By T. H. Bingham</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Human rights, Law, Rule of law, Social aspects, Political aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful background for constitutional rights, oaths and freedom of conscience.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The European Convention on Human Rights</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dominion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dominion</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Christianity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Christianity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dominion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dominion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The European Convention on Human Rights</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

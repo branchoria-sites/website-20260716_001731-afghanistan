@@ -338,89 +338,89 @@ Instead, they show how collective beliefs can organise care. The same shared ass
 Within the broader history of unusual beliefs in Oman—including folklore about spirits, stories associated with places such as Bahla and modern rumours spread through social media—possession healing stands apart because its primary purpose is therapeutic. Its enduring significance lies not in whether spirits can be proven to exist, but in how communities have used shared ritual, music and social solidarity to interpret suffering and promote recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://squ.elsevierpure.com/en/publications/zar-group-distress-and-healing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: squ.elsevierpure.com">[Sultan Qaboos University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">squ.elsevierpure.com</span><span class="citation-popover-title">Sultan Qaboos University Zar: Group distress and healing</span><span class="citation-popover-snippet">Sultan Qaboos UniversityZar: Group distress and healing - Sultan Qaboos University House of Expertise...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Were Oman&#x27;s Possession Rituals Hysteria or Healing?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Were Oman&#x27;s Possession Rituals Hysteria or Healing?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-</h4>
-<p class="fr-book-author">By Carl Sagan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
+        </h4>
+        <p class="fr-book-author">By Anne Fadiman</p>
         
-<p class="fr-book-desc">Encourages evidence-based thinking about supernatural claims.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how healing beliefs and medical systems interact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Spirit Catches You and You Fall Down on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10091198-M.jpg" alt="Cover for The Spirit Catches You and You Fall Down" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
-</h4>
-<p class="fr-book-author">By Anne Fadiman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Man Who Mistook His Wife for a Hat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6986188-M.jpg" alt="Cover for The Man Who Mistook His Wife for a Hat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Mistook His Wife for a Hat">The Man Who Mistook His Wife for a Hat</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Sacks</p>
         
-<p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores neurological experiences that challenge everyday assumptions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
-</h4>
-<p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
+        </h4>
+        <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides anthropological frameworks for possession and healing rituals.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
-</h4>
-<p class="fr-book-author">By Oliver Sacks</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hallucinations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10107284-M.jpg" alt="Cover for Hallucinations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hallucinations">Hallucinations</a>
+        </h4>
+        <p class="fr-book-author">By Oliver Sacks</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Hallucinations, Perceptual Disorders, Hallucinations and illusions, Cognition disorders, New York Times b...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines unusual experiences often interpreted spiritually.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hallucinations+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Spirit Catches You and You Fall Down</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Man Who Mistook His Wife for a Hat</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

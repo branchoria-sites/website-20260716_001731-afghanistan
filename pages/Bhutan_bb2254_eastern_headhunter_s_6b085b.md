@@ -349,89 +349,89 @@ Reliable contemporary reporting documents widespread fear, altered behaviour and
 That distinction makes the Eastern Bhutan headhunter rumour panic an important case in Bhutan's social history. It demonstrates how collective fear can reshape everyday life without requiring the feared threat to be real. The lasting lesson is less about supernatural belief than about the enduring power of rumour, trusted social networks and cultural memory to influence behaviour during periods of uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jab.bt/wp-content/uploads/2022/10/Combating-Disinformation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jab.bt">[Jab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jab.bt</span><span class="citation-popover-snippet">Disinformation: A ToolkitJournalists’ As...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Did Bhutan&#x27;s Headhunter Rumour Feel Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Did Bhutan&#x27;s Headhunter Rumour Feel Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
-</h4>
-<p class="fr-book-author">By Chip Heath, Dan Heath</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Made to Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kW9nrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Made to Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
+        </h4>
+        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-<p class="fr-book-desc">Explains why memorable legends persist.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains why memorable legends persist.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of world holidays on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1532845-M.jpg" alt="Cover for The folklore of world holidays" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of world holidays">The folklore of world holidays</a>
-</h4>
-<p class="fr-book-author">By Robert Griffin, Ann H. Shurgin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+        </h4>
+        <p class="fr-book-author">By Jan Harold Brunvand</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Festivals, Folklore, Holidays.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Shows how folklore and rumour become believable.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-</h4>
-<p class="fr-book-author">By Jan Harold Brunvand</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of world holidays on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1532845-M.jpg" alt="Cover for The folklore of world holidays" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of world holidays">The folklore of world holidays</a>
+        </h4>
+        <p class="fr-book-author">By Robert Griffin, Ann H. Shurgin</p>
         
-<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides comparative background on enduring folk beliefs and legends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Rumor on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
-</h4>
-<p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Rumor on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
+        </h4>
+        <p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
         
-<p class="fr-book-desc">First published 1947.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explains why frightening rumours spread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+world+holidays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of world holidays</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Made+to+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Made to Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The vanishing hitchhiker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+world+holidays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of world holidays</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

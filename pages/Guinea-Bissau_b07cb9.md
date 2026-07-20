@@ -1291,89 +1291,89 @@ The lasting issue is not whether every participant was simply credulous. It is h
 The most promising responses therefore combine criminal accountability with prevention. Prosecution can establish that poisoning and killing are crimes regardless of the explanation offered for them. Accessible healthcare can reduce the vacuum in which sudden illness acquires a supernatural culprit. Local education and mediation can challenge coercive ordeals without portraying entire communities or indigenous religions as primitive. Above all, accused people need protection before communal suspicion hardens into a public test from which innocence may be impossible to prove.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Fear Becomes Belief in Guinea Bissau. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Fear Becomes Belief in Guinea-Bissau. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
-</h4>
-<p class="fr-book-author">By Adam Ashforth</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
+        </h4>
+        <p class="fr-book-author">By Adam Ashforth</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Witchcraft, africa, Witchcraft, Political aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how fear, accusation and uncertainty become collective violence in African societies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7503891-M.jpg" alt="Cover for African Religions A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions A Very Short Introduction">African Religions A Very Short Introduction</a>
-</h4>
-<p class="fr-book-author">By Jacob K. Olupona</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+        </h4>
+        <p class="fr-book-author">By Martin Meredith</p>
         
-<p class="fr-book-desc">First published 2013. Subjects: Religion and culture, Religion, Religious life and customs, Africa, religion, Africa, social life and cus...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Guinea-Bissau within wider historical and political developments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-</h4>
-<p class="fr-book-author">By Martin Meredith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7503891-M.jpg" alt="Cover for African Religions A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions A Very Short Introduction">African Religions A Very Short Introduction</a>
+        </h4>
+        <p class="fr-book-author">By Jacob K. Olupona</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2013. Subjects: Religion and culture, Religion, Religious life and customs, Africa, religion, Africa, social life and cus...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions: A Very Short Introduction">African Religions: A Very Short Introduction</a>
-</h4>
-<p class="fr-book-author">By Jacob K. Olupona</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions: A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions: A Very Short Introduction">African Religions: A Very Short Introduction</a>
+        </h4>
+        <p class="fr-book-author">By Jacob K. Olupona</p>
         
-<p class="fr-book-desc">Provides accessible background on African religious beliefs and practices.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides accessible background on African religious beliefs and practices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=African+Religions%3A+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions A Very Short books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions A Very Short books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

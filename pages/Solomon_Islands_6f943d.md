@@ -1329,89 +1329,89 @@ For readers interested in cults, panics and mass hysteria, Solomon Islands offer
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Belief Became Resistance in Solomon Islands. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Belief Became Resistance in Solomon Islands. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The happy isles of Oceania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3972761-M.jpg" alt="Cover for The happy isles of Oceania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
-</h4>
-<p class="fr-book-author">By Paul Theroux</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The trumpet shall sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10817183-M.jpg" alt="Cover for The trumpet shall sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
+        </h4>
+        <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
         
-<p class="fr-book-desc">First published 1992. Subjects: Travel, Description and travel, Local History, Sea kayaking, Oceania, description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frames cargo cults and prophetic resistance historically.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The trumpet shall sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10817183-M.jpg" alt="Cover for The trumpet shall sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
-</h4>
-<p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The happy isles of Oceania on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3972761-M.jpg" alt="Cover for The happy isles of Oceania" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
+        </h4>
+        <p class="fr-book-author">By Paul Theroux</p>
         
-<p class="fr-book-desc">First published 1957. Subjects: Cargo cults, Melanesia, Religion, Cargo movement, Cargo (Movimiento).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces readers to Pacific societies and history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
-</h4>
-<p class="fr-book-author">By Lamont Lindstrom</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
+        </h4>
+        <p class="fr-book-author">By Lamont Lindstrom</p>
         
-<p class="fr-book-desc">First published 1993. Subjects: Cargo cults.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses the movements discussed across the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social Change in Melanesia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/354803-M.jpg" alt="Cover for Social Change in Melanesia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social Change in Melanesia">Social Change in Melanesia</a>
-</h4>
-<p class="fr-book-author">By Paul Sillitoe</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Social Change in Melanesia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/354803-M.jpg" alt="Cover for Social Change in Melanesia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social Change in Melanesia">Social Change in Melanesia</a>
+        </h4>
+        <p class="fr-book-author">By Paul Sillitoe</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Melanesia, Social conditions, History, Conditions sociales, Histoire.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2000. Subjects: Melanesia, Social conditions, History, Conditions sociales, Histoire.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Social+Change+in+Melanesia+Paul+Sillitoe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The happy isles of Oceania</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+trumpet+shall+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The trumpet shall sound</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+trumpet+shall+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The trumpet shall sound</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The happy isles of Oceania</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes
