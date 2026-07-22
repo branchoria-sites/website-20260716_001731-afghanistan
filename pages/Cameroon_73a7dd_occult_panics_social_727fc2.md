@@ -396,23 +396,6 @@ Seen this way, Cameroon's recurring occult panics are less about resistance to m
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Provides the core framework for understanding social panics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil and commodity fetishism in South America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4397816-M.jpg" alt="Cover for The devil and commodity fetishism in South America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -447,6 +430,23 @@ Seen this way, Cameroon's recurring occult panics are less about resistance to m
     </article>
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modernity and its malcontents on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4608301-M.jpg" alt="Cover for Modernity and its malcontents" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modernity and its malcontents">Modernity and its malcontents</a>
+        </h4>
+        <p class="fr-book-author">By Jean Comaroff, John L. Comaroff</p>
+
+        <p class="fr-book-desc">Explains why rumours adapt to political and economic change.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -464,7 +464,7 @@ Seen this way, Cameroon's recurring occult panics are less about resistance to m
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil and commodity fetishism in South America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil and commodity fetishism in South America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Modernity+and+its+malcontents&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Modernity and its malcontents</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
