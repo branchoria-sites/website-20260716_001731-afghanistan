@@ -404,7 +404,7 @@ The episode also demonstrates that rumours are not harmless stories. Even when t
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Provides a substantial account of how witchcraft beliefs, fear and social insecurity can produce accusations and real violence in modern...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The episode also demonstrates that rumours are not harmless stories. Even when t
           <a href="https://www.amazon.com/s?k=On+Rumors+Cass+R.+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Rumors">On Rumors</a>
         </h4>
         <p class="fr-book-author">By Cass R. Sunstein</p>
-        
+
         <p class="fr-book-desc">Explains why alarming claims spread through groups, become reinforced by social pressure and persist even when supporting evidence is abs...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+Rumors+Cass+R.+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ The episode also demonstrates that rumours are not harmless stories. Even when t
           <a href="https://www.amazon.com/s?k=The+Sex+Thieves%3A+The+Anthropology+of+a+Rumor+Julien+Bonhomme&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sex Thieves: The Anthropology of a Rumor">The Sex Thieves: The Anthropology of a Rumor</a>
         </h4>
         <p class="fr-book-author">By Julien Bonhomme</p>
-        
+
         <p class="fr-book-desc">Examines accusations that strangers magically stole or shrank genitals, how the rumour spread across African cities, and why accused peop...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sex+Thieves%3A+The+Anthropology+of+a+Rumor+Julien+Bonhomme&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

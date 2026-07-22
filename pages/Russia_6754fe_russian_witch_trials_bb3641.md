@@ -335,7 +335,7 @@ For that reason, "Russian witch trials without a great witch hunt" is not a cont
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Background on magic and traditional belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ For that reason, "Russian witch trials without a great witch hunt" is not a cont
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Excellent comparative framework for Russian trials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For that reason, "Russian witch trials without a great witch hunt" is not a cont
           <a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Russia">A history of Russia</a>
         </h4>
         <p class="fr-book-author">By Nicholas Valentine Riasanovsky, Mark D. Steinberg</p>
-        
+
         <p class="fr-book-desc">Provides legal and cultural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For that reason, "Russian witch trials without a great witch hunt" is not a cont
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Europe, 400-1700">Witchcraft in Europe, 400-1700</a>
         </h4>
         <p class="fr-book-author">By Alan Charles Kors, Edward Peters</p>
-        
+
         <p class="fr-book-desc">Places Russian cases alongside European evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -395,7 +395,7 @@ The long-term consequences remain visible in modern Azerbaijan. Public life reta
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
         </h4>
         <p class="fr-book-author">By Sheila Fitzpatrick</p>
-        
+
         <p class="fr-book-desc">Shows how ideology affected ordinary citizens.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The long-term consequences remain visible in modern Azerbaijan. Public life reta
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soviet century">The Soviet century</a>
         </h4>
         <p class="fr-book-author">By Moshe Lewin</p>
-        
+
         <p class="fr-book-desc">Strong background on Soviet ideology and everyday life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The long-term consequences remain visible in modern Azerbaijan. Public life reta
           <a href="https://www.amazon.com/s?k=The+House+of+Government+Yuri+Slezkine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The House of Government">The House of Government</a>
         </h4>
         <p class="fr-book-author">By Yuri Slezkine</p>
-        
+
         <p class="fr-book-desc">Explores belief, ideology and revolutionary culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+House+of+Government+Yuri+Slezkine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,16 +440,16 @@ The long-term consequences remain visible in modern Azerbaijan. Public life reta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Caucasus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12510023-M.jpg" alt="Cover for The Caucasus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
+          <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caucasus">The Caucasus</a>
         </h4>
-        <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-        
-        <p class="fr-book-desc">First published 1973.</p>
+        <p class="fr-book-author">By Thomas De Waal</p>
+
+        <p class="fr-book-desc">Connects Soviet history with the Caucasus region.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -369,7 +369,7 @@ Seen in this way, witchcraft fears tell us less about magic itself than about th
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Places witchcraft accusations into a wider historical framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Seen in this way, witchcraft fears tell us less about magic itself than about th
           <a href="https://www.amazon.com/s?k=Religion+in+ancient+Mesopotamia+Jean+Bott%C3%A9ro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religion in ancient Mesopotamia">Religion in ancient Mesopotamia</a>
         </h4>
         <p class="fr-book-author">By Jean Bottéro</p>
-        
+
         <p class="fr-book-desc">Explains the religious setting behind ritual and sorcery beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religion+in+ancient+Mesopotamia+Jean+Bott%C3%A9ro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Seen in this way, witchcraft fears tell us less about magic itself than about th
           <a href="https://www.amazon.com/s?k=The+Mandaeans+Jorunn+Jacobsen+Buckley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mandaeans">The Mandaeans</a>
         </h4>
         <p class="fr-book-author">By Jorunn Jacobsen Buckley</p>
-        
+
         <p class="fr-book-desc">Explains the beliefs of the community often stereotyped in Iraq.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mandaeans+Jorunn+Jacobsen+Buckley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Seen in this way, witchcraft fears tell us less about magic itself than about th
           <a href="https://www.amazon.com/s?k=Ancient+Mesopotamia%3A+portrait+of+a+dead+civilization+A.+Leo+Oppenheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ancient Mesopotamia: portrait of a dead civilization">Ancient Mesopotamia: portrait of a dead civilization</a>
         </h4>
         <p class="fr-book-author">By A. Leo Oppenheim</p>
-        
+
         <p class="fr-book-desc">Provides context for ancient beliefs about ritual and magic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ancient+Mesopotamia%3A+portrait+of+a+dead+civilization+A.+Leo+Oppenheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

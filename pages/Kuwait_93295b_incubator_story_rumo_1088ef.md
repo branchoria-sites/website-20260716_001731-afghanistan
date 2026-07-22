@@ -345,7 +345,7 @@ Within Kuwait's history of collective belief and wartime fear, the incubator sto
           <a href="https://www.amazon.com/s?k=The+First+Casualty+Phillip+Knightley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The First Casualty">The First Casualty</a>
         </h4>
         <p class="fr-book-author">By Phillip Knightley</p>
-        
+
         <p class="fr-book-desc">Examines how wartime misinformation and atrocity stories influence public opinion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+First+Casualty+Phillip+Knightley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ Within Kuwait's history of collective belief and wartime fear, the incubator sto
           <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
         </h4>
         <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
-        
+
         <p class="fr-book-desc">Explores media, political messaging and the shaping of public narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Manufacturing+Consent+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Within Kuwait's history of collective belief and wartime fear, the incubator sto
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
         <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
         <p class="fr-book-desc">Explains why emotionally powerful stories can override careful evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Within Kuwait's history of collective belief and wartime fear, the incubator sto
           <a href="https://www.amazon.com/s?k=Propaganda+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Propaganda">Propaganda</a>
         </h4>
         <p class="fr-book-author">By Edward L. Bernays</p>
-        
+
         <p class="fr-book-desc">Helps explain how persuasive narratives gain influence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Propaganda+Edward+L.+Bernays&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

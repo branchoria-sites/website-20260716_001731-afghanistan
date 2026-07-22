@@ -382,7 +382,7 @@ Within Sri Lanka's wider history of collective scares, the school illness outbre
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
 </h4>
 <p class="fr-book-author">By Steven Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Within Sri Lanka's wider history of collective scares, the school illness outbre
 <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools%3A+A+Worldwide+History+Since+1566+Robert+E.+Bartholomew+and+Simon+Wessely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mass Hysteria in Schools: A Worldwide History Since 1566">Mass Hysteria in Schools: A Worldwide History Since 1566</a>
 </h4>
 <p class="fr-book-author">By Robert E. Bartholomew and Simon Wessely</p>
-        
+
 <p class="fr-book-desc">Directly addresses episodes like the Sri Lankan school illnesses.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools%3A+A+Worldwide+History+Since+1566+Robert+E.+Bartholomew+and+Simon+Wessely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Within Sri Lanka's wider history of collective scares, the school illness outbre
 <a href="https://www.amazon.com/s?k=Outbreak%21+The+Encyclopedia+of+Extraordinary+Social+Behavior+Robert+E.+Bartholomew+and+Hilary+Evans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outbreak! The Encyclopedia of Extraordinary Social Behavior">Outbreak! The Encyclopedia of Extraordinary Social Behavior</a>
 </h4>
 <p class="fr-book-author">By Robert E. Bartholomew and Hilary Evans</p>
-        
+
 <p class="fr-book-desc">Covers psychogenic illness and related phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Outbreak%21+The+Encyclopedia+of+Extraordinary+Social+Behavior+Robert+E.+Bartholomew+and+Hilary+Evans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

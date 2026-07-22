@@ -369,7 +369,7 @@ For [Canada]({{ 'when-fear-and-faith-gripped-canada/' | relative_url }})'s wider
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">Provides the best comparative background for New France.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For [Canada]({{ 'when-fear-and-faith-gripped-canada/' | relative_url }})'s wider
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Accessible context for witchcraft beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For [Canada]({{ 'when-fear-and-faith-gripped-canada/' | relative_url }})'s wider
           <a href="https://www.amazon.com/s?k=Witches+and+Neighbors+Robin+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witches and Neighbors">Witches and Neighbors</a>
         </h4>
         <p class="fr-book-author">By Robin Briggs</p>
-        
+
         <p class="fr-book-desc">Explores local accusations and legal practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witches+and+Neighbors+Robin+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For [Canada]({{ 'when-fear-and-faith-gripped-canada/' | relative_url }})'s wider
           <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Witchcraft+in+Early+Modern+Europe+and+Colonial+America+%28Oxford+Handbooks%29+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Handbook of Witchcraft in Early Modern Europe and Colonial America (Oxford Handbooks)">The Oxford Handbook of Witchcraft in Early Modern Europe and...</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">First published 2013.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+Handbook+of+Witchcraft+in+Early+Modern+Europe+and+Colonial+America+%28Oxford+Handbooks%29+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

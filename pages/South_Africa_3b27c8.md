@@ -1333,7 +1333,7 @@ The country’s history therefore warns against two opposite mistakes. The first
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Illustrates everyday belief and healing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The country’s history therefore warns against two opposite mistakes. The first
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
         </h4>
         <p class="fr-book-author">By Leonard Monteath Thompson</p>
-        
+
         <p class="fr-book-desc">Broad context for colonial pressures and belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ The country’s history therefore warns against two opposite mistakes. The first
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Explains belief, fear and violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ The country’s history therefore warns against two opposite mistakes. The first
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
         </h4>
         <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
-        
+
         <p class="fr-book-desc">Places South African prophecy in global context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

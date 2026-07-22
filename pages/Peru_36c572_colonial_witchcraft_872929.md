@@ -333,7 +333,7 @@ The campaigns left a lasting legacy. Many Indigenous healing traditions survived
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Shows how witchcraft accusations developed historically.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ The campaigns left a lasting legacy. Many Indigenous healing traditions survived
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
         </h4>
         <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-        
+
         <p class="fr-book-desc">Supplies wider colonial and Indigenous context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The campaigns left a lasting legacy. Many Indigenous healing traditions survived
           <a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sorcery: A History of Fear, from Ancient Times to the Present">Sorcery: A History of Fear, from Ancient Times to the Present</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Provides comparative history of witchcraft accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The campaigns left a lasting legacy. Many Indigenous healing traditions survived
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
         </h4>
         <p class="fr-book-author">By Sabine Hyland</p>
-        
+
         <p class="fr-book-desc">Explains Indigenous ritual traditions targeted by colonial authorities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -366,7 +366,7 @@ For these reasons, "Salem" has become shorthand in legal and political debate fo
           <a href="https://www.amazon.com/s?k=The+Crucible+Arthur+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crucible">The Crucible</a>
         </h4>
         <p class="fr-book-author">By Arthur Miller</p>
-        
+
         <p class="fr-book-desc">Dramatises the dangers of abandoning evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Crucible+Arthur+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For these reasons, "Salem" has become shorthand in legal and political debate fo
           <a href="https://www.amazon.com/s?k=The+witches%3A+Salem%2C+1692+Stacy+Schiff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witches: Salem, 1692">The witches: Salem, 1692</a>
         </h4>
         <p class="fr-book-author">By Stacy Schiff</p>
-        
+
         <p class="fr-book-desc">Detailed account of the Salem trials and their evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witches%3A+Salem%2C+1692+Stacy+Schiff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For these reasons, "Salem" has become shorthand in legal and political debate fo
           <a href="https://www.amazon.com/s?k=The+Devil+in+Massachusetts+Marion+Lena+Starkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil in Massachusetts">The Devil in Massachusetts</a>
         </h4>
         <p class="fr-book-author">By Marion Lena Starkey</p>
-        
+
         <p class="fr-book-desc">Explores how accusations and testimony spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Devil+in+Massachusetts+Marion+Lena+Starkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For these reasons, "Salem" has become shorthand in legal and political debate fo
           <a href="https://www.amazon.com/s?k=A+storm+of+witchcraft+Emerson+W.+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A storm of witchcraft">A storm of witchcraft</a>
         </h4>
         <p class="fr-book-author">By Emerson W. Baker</p>
-        
+
         <p class="fr-book-desc">Places Salem in its political and religious context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+storm+of+witchcraft+Emerson+W.+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

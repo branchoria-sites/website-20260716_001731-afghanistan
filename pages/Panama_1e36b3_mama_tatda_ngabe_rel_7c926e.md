@@ -343,7 +343,7 @@ For historians of collective belief, Mama Tatda demonstrates why prophetic movem
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Useful for understanding identity, colonialism and religious change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For historians of collective belief, Mama Tatda demonstrates why prophetic movem
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
         </h4>
         <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
         <p class="fr-book-desc">Helps readers understand why the cult label is often contested.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For historians of collective belief, Mama Tatda demonstrates why prophetic movem
           <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God is red">God is red</a>
         </h4>
         <p class="fr-book-author">By Vine Deloria, Vine Deloria Jr. et al.</p>
-        
+
         <p class="fr-book-desc">Provides comparative context for Indigenous religious renewal movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For historians of collective belief, Mama Tatda demonstrates why prophetic movem
           <a href="https://www.amazon.com/s?k=The+Invention+of+World+Religions+Tomoko+Masuzawa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of World Religions">The Invention of World Religions</a>
         </h4>
         <p class="fr-book-author">By Tomoko Masuzawa</p>
-        
+
         <p class="fr-book-desc">Explains how unfamiliar religions came to be labelled by outsiders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+World+Religions+Tomoko+Masuzawa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

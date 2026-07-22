@@ -361,7 +361,7 @@ Within the broader history of collective belief in the Democratic Republic of th
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Essential colonial context for Kimbanguism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Within the broader history of collective belief in the Democratic Republic of th
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains political and religious developments in colonial Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Within the broader history of collective belief in the Democratic Republic of th
           <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa&#x27;s world war">Africa&#x27;s world war</a>
         </h4>
         <p class="fr-book-author">By Gérard Prunier</p>
-        
+
         <p class="fr-book-desc">Useful wider context for Congo&#x27;s political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Within the broader history of collective belief in the Democratic Republic of th
           <a href="https://www.amazon.com/s?k=Christianity+in+Africa+Kwame+Bediako&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Christianity in Africa">Christianity in Africa</a>
         </h4>
         <p class="fr-book-author">By Kwame Bediako</p>
-        
+
         <p class="fr-book-desc">Provides context for African-led Christian movements like Kimbanguism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Christianity+in+Africa+Kwame+Bediako&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

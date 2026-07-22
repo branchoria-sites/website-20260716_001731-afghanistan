@@ -337,7 +337,7 @@ For historians of Togo, the crisis therefore marks an important intersection bet
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa since independence">Africa since independence</a>
         </h4>
         <p class="fr-book-author">By Paul Nugent</p>
-        
+
         <p class="fr-book-desc">Places Togo&#x27;s democratic crisis in wider African politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+since+independence+Paul+Nugent&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For historians of Togo, the crisis therefore marks an important intersection bet
           <a href="https://www.amazon.com/s?k=The+Wizard+and+the+Prophet+Charles+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wizard and the Prophet">The Wizard and the Prophet</a>
         </h4>
         <p class="fr-book-author">By Charles Mann</p>
-        
+
         <p class="fr-book-desc">Explores competing narratives of expertise and belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Wizard+and+the+Prophet+Charles+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For historians of Togo, the crisis therefore marks an important intersection bet
           <a href="https://www.amazon.com/s?k=Political+spiritualities+Ruth+A.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political spiritualities">Political spiritualities</a>
         </h4>
         <p class="fr-book-author">By Ruth A. Marshall</p>
-        
+
         <p class="fr-book-desc">Examines spiritual interpretations of political power in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Political+spiritualities+Ruth+A.+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians of Togo, the crisis therefore marks an important intersection bet
           <a href="https://www.amazon.com/s?k=African+Politics+in+Comparative+Perspective+Goran+Hyden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Politics in Comparative Perspective">African Politics in Comparative Perspective</a>
         </h4>
         <p class="fr-book-author">By Goran Hyden</p>
-        
+
         <p class="fr-book-desc">Provides context for authoritarianism and democratic transition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Politics+in+Comparative+Perspective+Goran+Hyden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

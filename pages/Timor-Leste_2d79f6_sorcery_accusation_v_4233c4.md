@@ -362,7 +362,7 @@ For historians and social scientists, these incidents illustrate that accusation
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">Explains how accusations, communal tensions and legal or extralegal punishment can turn supernatural suspicion into deadly violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For historians and social scientists, these incidents illustrate that accusation
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
         </h4>
         <p class="fr-book-author">By Carol F. Karlsen</p>
-        
+
         <p class="fr-book-desc">Shows how accusations often attach to existing disputes over family position, inheritance, vulnerability and social power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For historians and social scientists, these incidents illustrate that accusation
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Traces how societies construct feared supernatural enemies and how those ideas can legitimise exclusion or punishment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For historians and social scientists, these incidents illustrate that accusation
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Directly connects supernatural insecurity with political transition, social strain, accusation and real-world violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

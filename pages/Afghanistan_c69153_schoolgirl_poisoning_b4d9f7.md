@@ -466,7 +466,7 @@ The legacy extends beyond the individual incidents. The scares disrupted educati
 <a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
 </h4>
 <p class="fr-book-author">By Steve Coll</p>
-        
+
 <p class="fr-book-desc">Provides wartime context behind public fears.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -483,7 +483,7 @@ The legacy extends beyond the individual incidents. The scares disrupted educati
 <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
 </h4>
 <p class="fr-book-author">By Adam Kucharski</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: New York Times reviewed, Social psychology, Social networks, Epidemics, Contagion (Social psychology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -500,7 +500,7 @@ The legacy extends beyond the individual incidents. The scares disrupted educati
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
 </h4>
 <p class="fr-book-author">By Steven Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

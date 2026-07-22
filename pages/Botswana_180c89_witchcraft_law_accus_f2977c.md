@@ -349,7 +349,7 @@ The continuing debate is less about whether Botswana should protect people from 
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Highly relevant to legal responses to witchcraft accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ The continuing debate is less about whether Botswana should protect people from 
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Explains belief systems underlying accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ The continuing debate is less about whether Botswana should protect people from 
           <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Beliefs">Extraordinary Beliefs</a>
         </h4>
         <p class="fr-book-author">By Peter Lamont</p>
-        
+
         <p class="fr-book-desc">Explores belief formation and supernatural claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The continuing debate is less about whether Botswana should protect people from 
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
         </h4>
         <p class="fr-book-author">By T. H. Bingham</p>
-        
+
         <p class="fr-book-desc">Provides accessible legal context for regulation and public order.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

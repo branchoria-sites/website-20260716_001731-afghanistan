@@ -1326,7 +1326,7 @@ The lasting lesson is that collective belief is neither uniquely Greek nor proof
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Useful for understanding social responses to perceived threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ The lasting lesson is that collective belief is neither uniquely Greek nor proof
           <a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greek myths">The Greek myths</a>
         </h4>
         <p class="fr-book-author">By Robert Graves</p>
-        
+
         <p class="fr-book-desc">Introduces the wider supernatural landscape of Greek tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greek+myths+Robert+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ The lasting lesson is that collective belief is neither uniquely Greek nor proof
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Provides broad context for supernatural fears and persecution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ The lasting lesson is that collective belief is neither uniquely Greek nor proof
           <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, science, and religion, and other essays">Magic, science, and religion, and other essays</a>
         </h4>
         <p class="fr-book-author">By Bronisław Malinowski</p>
-        
+
         <p class="fr-book-desc">Explains collective belief under conditions of uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -364,7 +364,7 @@ Rather than fitting neatly into categories such as "mass hysteria" or "fraud", M
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
         </h4>
         <p class="fr-book-author">By William James, Dr. William James et al.</p>
-        
+
         <p class="fr-book-desc">Examines visionary and mystical experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Rather than fitting neatly into categories such as "mass hysteria" or "fraud", M
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Places miracle traditions in wider religious history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Rather than fitting neatly into categories such as "mass hysteria" or "fraud", M
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Relevant to evaluating reported healings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Rather than fitting neatly into categories such as "mass hysteria" or "fraud", M
           <a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Religions">The World&#x27;s Religions</a>
         </h4>
         <p class="fr-book-author">By Huston Smith</p>
-        
+
         <p class="fr-book-desc">Provides context for pilgrimage and religious devotion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

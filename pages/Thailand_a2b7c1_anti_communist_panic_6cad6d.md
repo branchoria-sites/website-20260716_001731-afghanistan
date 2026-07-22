@@ -359,7 +359,7 @@ For Thailand, the lesson extends beyond the Cold War. The episode shows how fear
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
         </h4>
         <p class="fr-book-author">By Vincent Bevins</p>
-        
+
         <p class="fr-book-desc">Places Thailand’s anti-communist panic within the wider regional and global pattern of Cold War propaganda, repression and mass killing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For Thailand, the lesson extends beyond the Cold War. The episode shows how fear
           <a href="https://www.amazon.com/s?k=The+king+never+smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The king never smiles">The king never smiles</a>
         </h4>
         <p class="fr-book-author">By Paul M. Handley</p>
-        
+
         <p class="fr-book-desc">Illuminates the monarchy’s political position and the royalist atmosphere that shaped anti-communist mobilisation in modern Thailand.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+king+never+smiles+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For Thailand, the lesson extends beyond the Cold War. The episode shows how fear
           <a href="https://www.amazon.com/s?k=Thailand+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thailand">Thailand</a>
         </h4>
         <p class="fr-book-author">By David K. Wyatt</p>
-        
+
         <p class="fr-book-desc">First published 1984. Subjects: History, Thailand, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thailand+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For Thailand, the lesson extends beyond the Cold War. The episode shows how fear
           <a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Thailand">History of Thailand</a>
         </h4>
         <p class="fr-book-author">By Chris Baker, Pasuk Phongpaichit</p>
-        
+
         <p class="fr-book-desc">Explains Thailand’s twentieth-century political development, authoritarianism, social conflict and the broader setting of the Thammasat v...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -346,7 +346,7 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Discusses modern miracle claims relevant to pilgrimage traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
         </h4>
         <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
-        
+
         <p class="fr-book-desc">Offers comparison with another Church-recognised apparition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
           <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of the end">Visions of the end</a>
         </h4>
         <p class="fr-book-author">By Bernard McGinn</p>
-        
+
         <p class="fr-book-desc">Provides broader context for visionary experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,16 +391,16 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6979711-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for Miracles" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Miracles+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
+          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
         </h4>
-        <p class="fr-book-author">By Craig S. Keener</p>
-        
-        <p class="fr-book-desc">First published 2011. Subjects: Miracles, Bible, Christianity, Evidences, authority, Spiritual healing.</p>
+        <p class="fr-book-author">By C. S. Lewis</p>
+
+        <p class="fr-book-desc">First published 1947. Subjects: Miracles, Nonfiction, Religion &amp; Spirituality, Christianity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Miracles+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

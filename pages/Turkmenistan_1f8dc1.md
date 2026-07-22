@@ -1344,7 +1344,7 @@ Turkmenistan’s history is therefore less a tale of a population mysteriously f
           <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future Is History: How Totalitarianism Reclaimed Russia">The Future Is History: How Totalitarianism Reclaimed Russia</a>
         </h4>
         <p class="fr-book-author">By Masha Gessen</p>
-        
+
         <p class="fr-book-desc">Provides broader regional context for political conformity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ Turkmenistan’s history is therefore less a tale of a population mysteriously f
           <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Successor">The Great Successor</a>
         </h4>
         <p class="fr-book-author">By Anna Fifield</p>
-        
+
         <p class="fr-book-desc">Useful comparative reading on enforced public loyalty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ Turkmenistan’s history is therefore less a tale of a population mysteriously f
           <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+A.+Cooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dictators Without Borders">Dictators Without Borders</a>
         </h4>
         <p class="fr-book-author">By Alexander A. Cooley, John Heathershaw</p>
-        
+
         <p class="fr-book-desc">Explains how authoritarian systems sustain themselves.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dictators+Without+Borders+Alexander+A.+Cooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1395,7 +1395,7 @@ Turkmenistan’s history is therefore less a tale of a population mysteriously f
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
         </h4>
         <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
         <p class="fr-book-desc">Places Turkmenistan within regional historical developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

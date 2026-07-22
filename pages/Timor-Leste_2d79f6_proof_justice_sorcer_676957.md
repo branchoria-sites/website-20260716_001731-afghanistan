@@ -350,7 +350,7 @@ The gradual expansion of criminal investigations, forensic examination and forma
           <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The poisoner&#x27;s handbook">The poisoner&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Deborah Blum</p>
-        
+
         <p class="fr-book-desc">Demonstrates how scientific investigation can replace rumour and suspicion with evidence when causes of death are disputed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The gradual expansion of criminal investigations, forensic examination and forma
           <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
         </h4>
         <p class="fr-book-author">By Matthew Jardine</p>
-        
+
         <p class="fr-book-desc">Helps explain the post-conflict state, competing authorities and fragile institutions within which sorcery-related disputes were adjudica...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The gradual expansion of criminal investigations, forensic examination and forma
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
         </h4>
         <p class="fr-book-author">By Joseph Nevins</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Autonomy and independence movements, Violence, Political atrocities, History, Timor island.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The gradual expansion of criminal investigations, forensic examination and forma
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
         </h4>
         <p class="fr-book-author">By T. H. Bingham</p>
-        
+
         <p class="fr-book-desc">Clarifies why courts require evidence, procedural fairness and legal standards rather than supernatural accusation or communal certainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

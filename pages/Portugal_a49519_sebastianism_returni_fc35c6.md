@@ -356,7 +356,7 @@ The disappearance of a king became a mechanism for expressing hopes that politic
           <a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King in the Golden Mask">The King in the Golden Mask</a>
         </h4>
         <p class="fr-book-author">By Marcel Schwob</p>
-        
+
         <p class="fr-book-desc">Touches on legendary kings and enduring myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask+Marcel+Schwob&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The disappearance of a king became a mechanism for expressing hopes that politic
           <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese">The Portuguese</a>
         </h4>
         <p class="fr-book-author">By Barry Hatton</p>
-        
+
         <p class="fr-book-desc">Discusses Portuguese identity shaped by historical myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The disappearance of a king became a mechanism for expressing hopes that politic
           <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="fatima in lucia&#x27;s own words">fatima in lucia&#x27;s own words</a>
         </h4>
         <p class="fr-book-author">By sister lucia</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words+sister+lucia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The disappearance of a king became a mechanism for expressing hopes that politic
           <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
         </h4>
         <p class="fr-book-author">By Roger Crowley</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

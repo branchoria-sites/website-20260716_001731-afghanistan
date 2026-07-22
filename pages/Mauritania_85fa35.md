@@ -1357,7 +1357,7 @@ Mauritania offers no reliable catalogue of spectacular dancing plagues, UFO reli
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Examines religious ideology, politics and public mobilisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ Mauritania offers no reliable catalogue of spectacular dancing plagues, UFO reli
           <a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Jim Crow">The New Jim Crow</a>
         </h4>
         <p class="fr-book-author">By Michelle Alexander</p>
-        
+
         <p class="fr-book-desc">Useful background on how legal systems can reinforce social hierarchy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+New+Jim+Crow+Michelle+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1391,7 +1391,7 @@ Mauritania offers no reliable catalogue of spectacular dancing plagues, UFO reli
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
         </h4>
         <p class="fr-book-author">By Thompson, Kenneth</p>
-        
+
         <p class="fr-book-desc">Provides the core framework for interpreting collective religious alarm.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1408,7 +1408,7 @@ Mauritania offers no reliable catalogue of spectacular dancing plagues, UFO reli
           <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
         </h4>
         <p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
-        
+
         <p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

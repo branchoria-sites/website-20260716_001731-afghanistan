@@ -1316,7 +1316,7 @@ The central collective fear in this history was not that Vincentian society succ
           <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
         </h4>
         <p class="fr-book-author">By Diana Paton</p>
-        
+
         <p class="fr-book-desc">Explains colonial suppression of African-derived traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1333,7 +1333,7 @@ The central collective fear in this history was not that Vincentian society succ
           <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Creole religions of the Caribbean">Creole religions of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Margarite Fernández Olmos, Margarite Fernandez Olmos et al.</p>
-        
+
         <p class="fr-book-desc">Places Spiritual Baptists and obeah within regional religious history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Creole+religions+of+the+Caribbean+Margarite+Fern%C3%A1ndez+Olmos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The central collective fear in this history was not that Vincentian society succ
           <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+An+Introduction+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Religions: An Introduction">Caribbean Religions: An Introduction</a>
         </h4>
         <p class="fr-book-author">By Ennis B. Edmonds and Michelle A. Gonzalez</p>
-        
+
         <p class="fr-book-desc">Explains Afro-Caribbean Christianity and related traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+An+Introduction+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

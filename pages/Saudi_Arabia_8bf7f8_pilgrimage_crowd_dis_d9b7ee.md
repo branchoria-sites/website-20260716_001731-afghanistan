@@ -362,7 +362,7 @@ Current official Hajj safety guidance likewise focuses on avoiding overcrowding,
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on collective human behavior and challenges simplistic explanations of group actions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Current official Hajj safety guidance likewise focuses on avoiding overcrowding,
           <a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hajj">The Hajj</a>
         </h4>
         <p class="fr-book-author">By F. E. Peters</p>
-        
+
         <p class="fr-book-desc">Provides essential context on the Hajj, its rituals, and why crowd management is uniquely challenging.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hajj+F.+E.+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Current official Hajj safety guidance likewise focuses on avoiding overcrowding,
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
         </h4>
         <p class="fr-book-author">By Robert Lacey</p>
-        
+
         <p class="fr-book-desc">First published 2009. Subjects: Politics and government, Social conditions, Travel, Description and travel, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Current official Hajj safety guidance likewise focuses on avoiding overcrowding,
           <a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Crowd Science">Introduction to Crowd Science</a>
         </h4>
         <p class="fr-book-author">By G. Keith Still</p>
-        
+
         <p class="fr-book-desc">Focuses on the mechanics of crowd behavior, density, movement, and safety engineering.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Crowd+Science+G.+Keith+Still&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

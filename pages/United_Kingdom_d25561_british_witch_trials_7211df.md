@@ -416,7 +416,7 @@ For historians, the witch trials are therefore less a story about irrational cro
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">Explains legal, religious and social causes of witch trials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For historians, the witch trials are therefore less a story about irrational cro
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Comprehensive account including Britain and changing beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ For historians, the witch trials are therefore less a story about irrational cro
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Collects historical documents illustrating witch beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ For historians, the witch trials are therefore less a story about irrational cro
           <a href="https://www.amazon.com/s?k=WITCHES+AND+NEIGHBOURS%3A+THE+SOCIAL+AND+CULTURAL+CONTEXT+OF+EUROPEAN+WITCHCRAFT+ROBIN+BRIGGS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="WITCHES AND NEIGHBOURS: THE SOCIAL AND CULTURAL CONTEXT OF EUROPEAN WITCHCRAFT">WITCHES AND NEIGHBOURS: THE SOCIAL AND CULTURAL CONTEXT OF EU...</a>
         </h4>
         <p class="fr-book-author">By ROBIN BRIGGS</p>
-        
+
         <p class="fr-book-desc">Shows how local accusations developed into prosecutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=WITCHES+AND+NEIGHBOURS%3A+THE+SOCIAL+AND+CULTURAL+CONTEXT+OF+EUROPEAN+WITCHCRAFT+ROBIN+BRIGGS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -347,7 +347,7 @@ For historians of collective belief, the Temple Mount is therefore less a story 
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
 <p class="fr-book-desc">Explains apocalyptic commitment and failed prophecy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ For historians of collective belief, the Temple Mount is therefore less a story 
 <a href="https://www.amazon.com/s?k=The+End+Is+Always+Near+Dan+Carlin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The End Is Always Near">The End Is Always Near</a>
 </h4>
 <p class="fr-book-author">By Dan Carlin</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: World history, Imaginary histories, Civilization, History, HISTORY / World.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+End+Is+Always+Near+Dan+Carlin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For historians of collective belief, the Temple Mount is therefore less a story 
 <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem">Jerusalem</a>
 </h4>
 <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: History, New York Times bestseller, nyt:hardcover_political_books=2011-12-24, Middle East, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For historians of collective belief, the Temple Mount is therefore less a story 
 <a href="https://www.amazon.com/s?k=Zealot+-+the+life+and+times+of+Jesus+of+Nazareth+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Zealot - the life and times of Jesus of Nazareth">Zealot - the life and times of Jesus of Nazareth</a>
 </h4>
 <p class="fr-book-author">By Reza Aslan</p>
-        
+
 <p class="fr-book-desc">First published 2013.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Zealot+-+the+life+and+times+of+Jesus+of+Nazareth+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

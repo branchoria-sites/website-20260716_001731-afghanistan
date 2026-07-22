@@ -1331,7 +1331,7 @@ Austria’s record is therefore best understood as a history of contested credib
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
         <p class="fr-book-desc">Explains conspiracy myths behind witchcraft and persecution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ Austria’s record is therefore best understood as a history of contested credib
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Excellent overview of witch beliefs and persecutions relevant to Austria.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ Austria’s record is therefore best understood as a history of contested credib
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Introduces original sources on European witch persecutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ Austria’s record is therefore best understood as a history of contested credib
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
         </h4>
         <p class="fr-book-author">By Carol F. Karlsen</p>
-        
+
         <p class="fr-book-desc">Examines broader patterns in witch-hunting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

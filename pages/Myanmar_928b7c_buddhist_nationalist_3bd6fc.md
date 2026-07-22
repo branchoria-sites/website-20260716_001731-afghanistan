@@ -367,7 +367,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Rohingyas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rohingyas">Rohingyas</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Documents the persecution of the Rohingya and discusses the role of Buddhist clergy, state discrimination and nationalist narratives in l...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rohingyas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Islam+and+the+State+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam and the State in Myanmar">Islam and the State in Myanmar</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Traces Muslim-Buddhist relations and state policy, helping explain the historical grievances and legal structures that enabled Muslims to...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Islam+and+the+State+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Buddhism%2C+Politics+and+Political+Thought+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buddhism, Politics and Political Thought in Myanmar">Buddhism, Politics and Political Thought in Myanmar</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Provides the intellectual and historical background needed to understand how Buddhist concepts became intertwined with nationalism, polit...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Buddhism%2C+Politics+and+Political+Thought+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
 </h4>
 <p class="fr-book-author">By Francis Wade</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Islam and state, Buddhism and state, Burma, politics and government, Burma, religion, Rohingya (Burmese p...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

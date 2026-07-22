@@ -342,16 +342,16 @@ For historians, this makes colonial Algeria an important example of how collecti
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orientalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14609385-M.jpg" alt="Cover for Orientalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orientalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/254331-M.jpg" alt="Cover for Orientalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
+          <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orientalism">Orientalism</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
+        <p class="fr-book-author">By Edward W. Said</p>
+
         <p class="fr-book-desc">Examines colonial assumptions about Islam and the Arab world.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Orientalism&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Orientalism+Edward+W.+Said&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -365,7 +365,7 @@ For historians, this makes colonial Algeria an important example of how collecti
           <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Savage War of Peace">A Savage War of Peace</a>
         </h4>
         <p class="fr-book-author">By Alistair Horne</p>
-        
+
         <p class="fr-book-desc">Essential background on colonial rule and security thinking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Savage+War+of+Peace+Alistair+Horne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For historians, this makes colonial Algeria an important example of how collecti
           <a href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics+A.+J.+ARBERRY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Muslim Saints and Mystics">Muslim Saints and Mystics</a>
         </h4>
         <p class="fr-book-author">By A. J. ARBERRY</p>
-        
+
         <p class="fr-book-desc">Helps explain religious networks viewed suspiciously by colonial authorities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Muslim+Saints+and+Mystics+A.+J.+ARBERRY&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For historians, this makes colonial Algeria an important example of how collecti
           <a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Wretched of the Earth">The Wretched of the Earth</a>
         </h4>
         <p class="fr-book-author">By Frantz Fanon</p>
-        
+
         <p class="fr-book-desc">Explores colonial violence, resistance and political mobilisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Wretched+of+the+Earth+Frantz+Fanon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

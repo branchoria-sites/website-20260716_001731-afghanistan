@@ -378,7 +378,7 @@ For this reason, historians view the Slovenian trials not as proof that hidden w
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
         <p class="fr-book-desc">Explains how judicial narratives developed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For this reason, historians view the Slovenian trials not as proof that hidden w
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Strong background for Slovenian witch trials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For this reason, historians view the Slovenian trials not as proof that hidden w
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Shows how accusations expanded in practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For this reason, historians view the Slovenian trials not as proof that hidden w
           <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witch craze">Witch craze</a>
         </h4>
         <p class="fr-book-author">By Lyndal Roper</p>
-        
+
         <p class="fr-book-desc">Focuses on the dynamics of persecution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

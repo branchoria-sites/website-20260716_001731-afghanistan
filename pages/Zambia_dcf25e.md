@@ -1353,7 +1353,7 @@ The lasting lesson is therefore not that Zambia is unusually prone to irrational
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides broad context for belief systems discussed across Zambia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ The lasting lesson is therefore not that Zambia is unusually prone to irrational
           <a href="https://www.amazon.com/s?k=The+sociology+of+religion+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sociology of religion">The sociology of religion</a>
         </h4>
         <p class="fr-book-author">By Max Weber</p>
-        
+
         <p class="fr-book-desc">Provides theory for analysing religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sociology+of+religion+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ The lasting lesson is therefore not that Zambia is unusually prone to irrational
           <a href="https://www.amazon.com/s?k=Africa%27s+Tarnished+Name+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa&#x27;s Tarnished Name">Africa&#x27;s Tarnished Name</a>
         </h4>
         <p class="fr-book-author">By Chinua Achebe</p>
-        
+
         <p class="fr-book-desc">Encourages critical thinking about narratives surrounding Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa%27s+Tarnished+Name+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

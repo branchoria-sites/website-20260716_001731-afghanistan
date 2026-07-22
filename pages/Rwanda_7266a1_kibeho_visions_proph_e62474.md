@@ -366,7 +366,7 @@ Instead, Kibeho demonstrates how reported supernatural experiences can become in
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
         </h4>
         <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
         <p class="fr-book-desc">Provides historical background to later interpretations of Kibeho.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,27 +383,10 @@ Instead, Kibeho demonstrates how reported supernatural experiences can become in
           <a href="https://www.amazon.com/s?k=Left+to+Tell+Immacul%C3%A9e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Left to Tell">Left to Tell</a>
         </h4>
         <p class="fr-book-author">By Immaculée Ilibagiza, Lisa Reneé Pitts et al.</p>
-        
+
         <p class="fr-book-desc">Provides personal and religious context surrounding Rwanda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Left+to+Tell+Immacul%C3%A9e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8038408-M.jpg" alt="Cover for Our Lady of Kibeho" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
-        </h4>
-        <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
-        
-        <p class="fr-book-desc">Focused entirely on the Kibeho apparitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -417,7 +400,7 @@ Instead, Kibeho demonstrates how reported supernatural experiences can become in
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
         </h4>
         <p class="fr-book-author">By Fulton J. Sheen</p>
-        
+
         <p class="fr-book-desc">Relevant background for Marian devotion and apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,9 +409,26 @@ Instead, Kibeho demonstrates how reported supernatural experiences can become in
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza%2C+Steve+Erwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8038408-M.jpg" alt="Cover for Our Lady of Kibeho" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza%2C+Steve+Erwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
+        </h4>
+        <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
+
+        <p class="fr-book-desc">Focused entirely on the Kibeho apparitions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza%2C+Steve+Erwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+to+Tell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left to Tell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Our Lady of Kibeho</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Left+to+Tell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Left to Tell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+first+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s first love</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

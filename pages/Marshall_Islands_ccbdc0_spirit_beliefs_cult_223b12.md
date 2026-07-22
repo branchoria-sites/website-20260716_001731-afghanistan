@@ -356,7 +356,7 @@ Instead, the evidence points to a different pattern:
           <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God is red">God is red</a>
         </h4>
         <p class="fr-book-author">By Vine Deloria, Vine Deloria Jr. et al.</p>
-        
+
         <p class="fr-book-desc">Helps readers understand non-Western religious traditions without sensationalism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Instead, the evidence points to a different pattern:
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Provides broader context for distinguishing belief from panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Instead, the evidence points to a different pattern:
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Offers comparative material on supernatural belief and accusation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Instead, the evidence points to a different pattern:
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
         </h4>
         <p class="fr-book-author">By Lamont Lindstrom</p>
-        
+
         <p class="fr-book-desc">Explains why &#x27;cargo cult&#x27; labels are often misapplied in the Pacific.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

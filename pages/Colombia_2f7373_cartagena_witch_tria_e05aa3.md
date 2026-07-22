@@ -335,7 +335,7 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Primary sources illuminate witchcraft accusations and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
         </h4>
         <p class="fr-book-author">By Carol F. Karlsen</p>
-        
+
         <p class="fr-book-desc">Examines gender and witchcraft accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
           <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft">Witchcraft</a>
         </h4>
         <p class="fr-book-author">By Marion Gibson</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Witchcraft, History, Sorcellerie, Histoire, BODY, MIND &amp; SPIRIT / Parapsychology / General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Explains colonial structures that shaped racial hierarchy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

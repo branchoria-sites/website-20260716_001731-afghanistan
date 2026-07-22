@@ -329,7 +329,7 @@ Modern historians therefore interpret anti-Haitian religious repression as an ex
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
         </h4>
         <p class="fr-book-author">By Michele Wucker</p>
-        
+
         <p class="fr-book-desc">Directly examines Dominican-Haitian relations and anti-Haitianism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ Modern historians therefore interpret anti-Haitian religious repression as an ex
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
         </h4>
         <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-        
+
         <p class="fr-book-desc">Frames how national narratives marginalize minority histories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Modern historians therefore interpret anti-Haitian religious repression as an ex
           <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Alejo Carpentier The Kingdom of This World (Tra)">By Alejo Carpentier The Kingdom of This World (Tra)</a>
         </h4>
         <p class="fr-book-author">By Alejo Carpentier</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Modern historians therefore interpret anti-Haitian religious repression as an ex
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom of This World">The Kingdom of This World</a>
         </h4>
         <p class="fr-book-author">By Alejo Carpentier</p>
-        
+
         <p class="fr-book-desc">Rich literary portrayal of Caribbean religion and power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kingdom+of+This+World+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

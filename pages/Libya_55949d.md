@@ -1356,7 +1356,7 @@ The most useful way to understand Libya is therefore not as a collection of biza
           <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
         </h4>
         <p class="fr-book-author">By Hisham Matar</p>
-        
+
         <p class="fr-book-desc">Explores dictatorship, repression and memory in Libya.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ The most useful way to understand Libya is therefore not as a collection of biza
           <a href="https://www.amazon.com/s?k=In+the+Country+of+Men+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In the Country of Men">In the Country of Men</a>
         </h4>
         <p class="fr-book-author">By Hisham Matar</p>
-        
+
         <p class="fr-book-desc">Illustrates fear and authoritarian rule in Libya.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+the+Country+of+Men+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1390,7 +1390,7 @@ The most useful way to understand Libya is therefore not as a collection of biza
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Rogan</p>
-        
+
         <p class="fr-book-desc">Places Libya within broader regional developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1407,7 +1407,7 @@ The most useful way to understand Libya is therefore not as a collection of biza
           <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
         </h4>
         <p class="fr-book-author">By Ronald Bruce St John</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

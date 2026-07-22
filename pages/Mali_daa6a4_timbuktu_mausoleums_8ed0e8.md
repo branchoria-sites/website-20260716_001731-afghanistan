@@ -348,7 +348,7 @@ The episode demonstrates how sacred places can become targets because they embod
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ The episode demonstrates how sacred places can become targets because they embod
 <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ornament of the world">The ornament of the world</a>
 </h4>
 <p class="fr-book-author">By Maria Rosa Menocal</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Spain, Toleration, Jews, Religions, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ornament+of+the+world+Maria+Rosa+Menocal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ The episode demonstrates how sacred places can become targets because they embod
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
 </h4>
 <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Religion, Occultism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ The episode demonstrates how sacred places can become targets because they embod
 <a href="https://www.amazon.com/s?k=The+Bad+Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bad-Ass Librarians of Timbuktu">The Bad-Ass Librarians of Timbuktu</a>
 </h4>
 <p class="fr-book-author">By Joshua Hammer</p>
-        
+
 <p class="fr-book-desc">Covers the occupation of Timbuktu and threats to its heritage.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Bad+Ass+Librarians+of+Timbuktu+Joshua+Hammer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

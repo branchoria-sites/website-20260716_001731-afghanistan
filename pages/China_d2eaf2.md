@@ -1333,7 +1333,7 @@ The most durable lesson is that extraordinary beliefs become socially powerful w
           <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Chinese Son">God&#x27;s Chinese Son</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Central to understanding religious upheaval in China.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The most durable lesson is that extraordinary beliefs become socially powerful w
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Provides broad context for belief, politics and crises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ The most durable lesson is that extraordinary beliefs become socially powerful w
           <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boxer Rebellion and the Great Game in China">The Boxer Rebellion and the Great Game in China</a>
         </h4>
         <p class="fr-book-author">By David J. Silbey</p>
-        
+
         <p class="fr-book-desc">Examines millenarian violence and foreign intervention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ The most durable lesson is that extraordinary beliefs become socially powerful w
           <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Soulstealers">Soulstealers</a>
         </h4>
         <p class="fr-book-author">By Philip A. Kuhn</p>
-        
+
         <p class="fr-book-desc">Explains the 1768 soul-stealing panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

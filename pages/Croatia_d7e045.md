@@ -1342,7 +1342,7 @@ The central historical question is therefore not simply why people believed stra
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains the wider history of witchcraft beliefs reflected across Croatian episodes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ The central historical question is therefore not simply why people believed stra
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Provides primary sources illuminating witch persecutions similar to those in Croatia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ The central historical question is therefore not simply why people believed stra
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The triumph of Christianity">The triumph of Christianity</a>
         </h4>
         <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
-        
+
         <p class="fr-book-desc">Offers context for religious change and belief in Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ The central historical question is therefore not simply why people believed stra
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vampires, burial, and death">Vampires, burial, and death</a>
         </h4>
         <p class="fr-book-author">By Paul Barber</p>
-        
+
         <p class="fr-book-desc">Explains beliefs behind stories such as Jure Grando.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

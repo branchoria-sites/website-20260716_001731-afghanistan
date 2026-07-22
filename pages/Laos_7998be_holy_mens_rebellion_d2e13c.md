@@ -363,7 +363,7 @@ The promise of a coming righteous kingdom provided more than spiritual comfort. 
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Offers accessible background on Hmong beliefs in Laos.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The promise of a coming righteous kingdom provided more than spiritual comfort. 
           <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Laos">A history of Laos</a>
         </h4>
         <p class="fr-book-author">By Martin Stuart-Fox</p>
-        
+
         <p class="fr-book-desc">Directly covers colonial Laos and the Holy Men&#x27;s Rebellion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The promise of a coming righteous kingdom provided more than spiritual comfort. 
           <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Not Being Governed">The Art of Not Being Governed</a>
         </h4>
         <p class="fr-book-author">By James C. Scott</p>
-        
+
         <p class="fr-book-desc">Interprets millenarian resistance in Southeast Asian uplands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The promise of a coming righteous kingdom provided more than spiritual comfort. 
           <a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weapons of the weak">Weapons of the weak</a>
         </h4>
         <p class="fr-book-author">By James C. Scott</p>
-        
+
         <p class="fr-book-desc">Provides a framework for resistance under domination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weapons+of+the+weak+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

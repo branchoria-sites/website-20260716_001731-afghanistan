@@ -369,7 +369,7 @@ Today, the history of Winti's criminalisation remains an important example of ho
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Explores African-derived religious traditions in the Americas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Today, the history of Winti's criminalisation remains an important example of ho
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Useful for understanding colonial ideas about ritual and disorder.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Today, the history of Winti's criminalisation remains an important example of ho
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides religious background for Winti&#x27;s African roots.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Today, the history of Winti's criminalisation remains an important example of ho
           <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Arts of the Black Atlantic">The Sacred Arts of the Black Atlantic</a>
         </h4>
         <p class="fr-book-author">By Robert Farris Thompson</p>
-        
+
         <p class="fr-book-desc">Directly relevant to Afro-Atlantic religions including Winti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

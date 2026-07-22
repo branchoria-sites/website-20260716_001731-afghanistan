@@ -368,7 +368,7 @@ For historians of collective fear and moral panic, these episodes illustrate an 
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Provides broader context for attitudes toward Vodou.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For historians of collective fear and moral panic, these episodes illustrate an 
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
         </h4>
         <p class="fr-book-author">By Zora Neale Hurston</p>
-        
+
         <p class="fr-book-desc">Documents Haitian religious life before later campaigns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For historians of collective fear and moral panic, these episodes illustrate an 
           <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses of Haiti">The uses of Haiti</a>
         </h4>
         <p class="fr-book-author">By Paul Farmer</p>
-        
+
         <p class="fr-book-desc">Explains structural forces behind persecution and inequality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For historians of collective fear and moral panic, these episodes illustrate an 
           <a href="https://www.amazon.com/s?k=Divine+horsemen+Maya+Deren&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Divine horsemen">Divine horsemen</a>
         </h4>
         <p class="fr-book-author">By Maya Deren</p>
-        
+
         <p class="fr-book-desc">Influential portrayal of Haitian Vodou traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Divine+horsemen+Maya+Deren&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

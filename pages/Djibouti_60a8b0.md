@@ -1329,7 +1329,7 @@ The most defensible account of Djibouti therefore resists the temptation to inve
           <a href="https://www.amazon.com/s?k=The+Fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunes of Africa">The Fortunes of Africa</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Provides historical context for colonialism, society and belief across Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ The most defensible account of Djibouti therefore resists the temptation to inve
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horn of Africa">The Horn of Africa</a>
         </h4>
         <p class="fr-book-author">By Christopher CLAPHAM</p>
-        
+
         <p class="fr-book-desc">Explains the wider regional setting that shaped Djibouti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ The most defensible account of Djibouti therefore resists the temptation to inve
           <a href="https://www.amazon.com/s?k=Spirits%2C+Saints%2C+and+Somalis+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spirits, Saints, and Somalis">Spirits, Saints, and Somalis</a>
         </h4>
         <p class="fr-book-author">By I. M. Lewis</p>
-        
+
         <p class="fr-book-desc">Covers spirit beliefs and healing traditions relevant to Djibouti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spirits%2C+Saints%2C+and+Somalis+I.+M.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

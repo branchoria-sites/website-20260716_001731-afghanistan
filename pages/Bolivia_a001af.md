@@ -1366,7 +1366,7 @@ Finally, panic labels themselves can be weapons. Calling Indigenous protesters f
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hold life has">The hold life has</a>
         </h4>
         <p class="fr-book-author">By Catherine J. Allen</p>
-        
+
         <p class="fr-book-desc">Explains Andean religion, ritual and worldview central to Bolivian belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ Finally, panic labels themselves can be weapons. Calling Indigenous protesters f
           <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin history of Latin America">The Penguin history of Latin America</a>
         </h4>
         <p class="fr-book-author">By Edwin Williamson</p>
-        
+
         <p class="fr-book-desc">Places Bolivia&#x27;s episodes within wider Latin American history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ Finally, panic labels themselves can be weapons. Calling Indigenous protesters f
           <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic : A History">Magic : A History</a>
         </h4>
         <p class="fr-book-author">By Chris Gosden, Clark, Roger</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how supernatural beliefs become socially persuasive.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1417,7 +1417,7 @@ Finally, panic labels themselves can be weapons. Calling Indigenous protesters f
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for power, exploitation and belief in Bolivia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

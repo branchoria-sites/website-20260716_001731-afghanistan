@@ -379,7 +379,7 @@ For historians of collective belief, the kharisiri therefore represents neither 
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hold life has">The hold life has</a>
         </h4>
         <p class="fr-book-author">By Catherine J. Allen</p>
-        
+
         <p class="fr-book-desc">Provides the cultural framework behind kharisiri beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For historians of collective belief, the kharisiri therefore represents neither 
           <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic : A History">Magic : A History</a>
         </h4>
         <p class="fr-book-author">By Chris Gosden, Clark, Roger</p>
-        
+
         <p class="fr-book-desc">Places enduring supernatural beliefs in comparative perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For historians of collective belief, the kharisiri therefore represents neither 
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Helps explain why extraction themes resonate in Andean folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ For historians of collective belief, the kharisiri therefore represents neither 
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
         </h4>
         <p class="fr-book-author">By Sabine Hyland</p>
-        
+
         <p class="fr-book-desc">Explains Indigenous concepts of ritual and supernatural danger.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

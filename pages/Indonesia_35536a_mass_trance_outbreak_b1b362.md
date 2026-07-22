@@ -397,7 +397,7 @@ Within Indonesia's wider history of collective fears and contagious beliefs, the
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains psychological contagion and collective responses to perceived threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Within Indonesia's wider history of collective fears and contagious beliefs, the
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Explores belief reinforcement and group dynamics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ Within Indonesia's wider history of collective fears and contagious beliefs, the
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
         </h4>
         <p class="fr-book-author">By Clifford Geertz</p>
-        
+
         <p class="fr-book-desc">Helps interpret possession beliefs in cultural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1331,7 +1331,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
 </h4>
 <p class="fr-book-author">By Philip Gourevitch</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Ethnic relations, Genocide, History, Human rights, Personal narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake hands with the devil">Shake hands with the devil</a>
 </h4>
 <p class="fr-book-author">By Roméo Dallaire</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Atrocities, Canadian Personal narratives, Genocide, History, Peacekeeping forces.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
 </h4>
 <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Atrocities, Crimes against, Ethnic relations, Genocide, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
 </h4>
 <p class="fr-book-author">By Jean Hatzfeld, Linda Coverdale et al.</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Africa, central, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -377,7 +377,7 @@ For historians and social scientists, the episode demonstrates that collective v
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Examines how ordinary people participate in violence under social pressure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For historians and social scientists, the episode demonstrates that collective v
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Provides broader context for Indonesian society and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For historians and social scientists, the episode demonstrates that collective v
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
         </h4>
         <p class="fr-book-author">By Vincent Bevins</p>
-        
+
         <p class="fr-book-desc">Places the Banyuwangi violence within Indonesia&#x27;s broader political transition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

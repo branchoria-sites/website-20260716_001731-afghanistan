@@ -1346,7 +1346,7 @@ The most durable interpretation is therefore neither “people believed somethin
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
 </h4>
 <p class="fr-book-author">By José Rizal</p>
-        
+
 <p class="fr-book-desc">First published 1902. Subjects: Economics, Classic Literature, Fiction, Fiction, historical, general, Philippines, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ The most durable interpretation is therefore neither “people believed somethin
 <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pasyon and revolution">Pasyon and revolution</a>
 </h4>
 <p class="fr-book-author">By Reynaldo Clemeña Ileto</p>
-        
+
 <p class="fr-book-desc">First published 1979. Subjects: History, Kasaysayan ng pasiong mahal ni Hesukristong Panginoon natin, Revolutions, Casaysayan nang pasion...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ The most durable interpretation is therefore neither “people believed somethin
 <a href="https://www.amazon.com/s?k=An+Anarchy+of+Families+Alfred+W.+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Anarchy of Families">An Anarchy of Families</a>
 </h4>
 <p class="fr-book-author">By Alfred W. McCoy</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Politics and government, Family, Families, History, Family, asia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=An+Anarchy+of+Families+Alfred+W.+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1397,7 +1397,7 @@ The most durable interpretation is therefore neither “people believed somethin
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
 </h4>
 <p class="fr-book-author">By William Henry Scott</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

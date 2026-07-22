@@ -390,7 +390,7 @@ These French controversies also anticipated later debates about crowd behaviour,
           <a href="https://www.amazon.com/s?k=The+devils+of+Loudun+Aldous+Huxley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devils of Loudun">The devils of Loudun</a>
         </h4>
         <p class="fr-book-author">By Aldous Huxley</p>
-        
+
         <p class="fr-book-desc">Directly addresses Loudun and religious politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devils+of+Loudun+Aldous+Huxley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ These French controversies also anticipated later debates about crowd behaviour,
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">Places French possession episodes within wider persecution history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ These French controversies also anticipated later debates about crowd behaviour,
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
         <p class="fr-book-desc">Background to beliefs that shaped possession narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ These French controversies also anticipated later debates about crowd behaviour,
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Europe, 400-1700">Witchcraft in Europe, 400-1700</a>
         </h4>
         <p class="fr-book-author">By Alan Charles Kors, Edward Peters</p>
-        
+
         <p class="fr-book-desc">Includes documents on exorcism, witchcraft and religious conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

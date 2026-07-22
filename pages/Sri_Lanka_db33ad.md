@@ -1366,7 +1366,7 @@ These episodes remain culturally important because their consequences survived t
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
 </h4>
 <p class="fr-book-author">By Jan-Willem van Prooijen</p>
-        
+
 <p class="fr-book-desc">Relevant to rumor-driven scares in Sri Lanka.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ These episodes remain culturally important because their consequences survived t
 <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
 </h4>
 <p class="fr-book-author">By Kate Summerscale</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Detectives, biography, Murder, great britain, Murder, Wiltshire, Case studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ These episodes remain culturally important because their consequences survived t
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crowds and Power by Elias Canetti (1984-04-01)">Crowds and Power by Elias Canetti (1984-04-01)</a>
 </h4>
 <p class="fr-book-author">By Elias Canetti</p>
-        
+
 <p class="fr-book-desc">First published 1783.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

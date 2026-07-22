@@ -380,7 +380,7 @@ For historians of moral panics and collective belief, the Saudi experience illus
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
         </h4>
         <p class="fr-book-author">By Robert Lacey</p>
-        
+
         <p class="fr-book-desc">Provides context for religious policing and legal practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For historians of moral panics and collective belief, the Saudi experience illus
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Saudi Arabia">A history of Saudi Arabia</a>
         </h4>
         <p class="fr-book-author">By Madawi Al-Rasheed</p>
-        
+
         <p class="fr-book-desc">Explains the legal and religious framework behind witchcraft prosecutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For historians of moral panics and collective belief, the Saudi experience illus
           <a href="https://www.amazon.com/s?k=The+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kingdom">The Kingdom</a>
         </h4>
         <p class="fr-book-author">By Robert Lacey</p>
-        
+
         <p class="fr-book-desc">Examines state, religion and social control in Saudi Arabia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ For historians of moral panics and collective belief, the Saudi experience illus
           <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black wave">Black wave</a>
         </h4>
         <p class="fr-book-author">By Kim Ghattas</p>
-        
+
         <p class="fr-book-desc">Explores the wider religious climate surrounding Saudi policy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+wave+Kim+Ghattas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

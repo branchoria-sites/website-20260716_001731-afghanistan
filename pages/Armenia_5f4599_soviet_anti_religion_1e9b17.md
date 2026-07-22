@@ -351,7 +351,7 @@ The campaign also shaped later debates. After Armenia regained independence in 1
           <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise History of the Armenian People">A Concise History of the Armenian People</a>
         </h4>
         <p class="fr-book-author">By George A. Bournoutian</p>
-        
+
         <p class="fr-book-desc">Explains Armenia&#x27;s religious and political development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The campaign also shaped later debates. After Armenia regained independence in 1
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soviet century">The Soviet century</a>
         </h4>
         <p class="fr-book-author">By Moshe Lewin</p>
-        
+
         <p class="fr-book-desc">Provides context for Soviet ideological campaigns including religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The campaign also shaped later debates. After Armenia regained independence in 1
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
         </h4>
         <p class="fr-book-author">By Sheila Fitzpatrick</p>
-        
+
         <p class="fr-book-desc">Illustrates how Soviet policies shaped everyday life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The campaign also shaped later debates. After Armenia regained independence in 1
           <a href="https://www.amazon.com/s?k=Religion+Explained+Pascal+Boyer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religion Explained">Religion Explained</a>
         </h4>
         <p class="fr-book-author">By Pascal Boyer</p>
-        
+
         <p class="fr-book-desc">Helps frame why religion persisted despite repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religion+Explained+Pascal+Boyer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

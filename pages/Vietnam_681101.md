@@ -1327,7 +1327,7 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">Provides essential historical background for religious and political movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
           <a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the lake">Fire in the lake</a>
         </h4>
         <p class="fr-book-author">By Frances FitzGerald</p>
-        
+
         <p class="fr-book-desc">Explores culture, religion and politics during conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fire+in+the+lake+Frances+FitzGerald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
           <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Willow">The Sacred Willow</a>
         </h4>
         <p class="fr-book-author">By Duong Van Mai Elliott</p>
-        
+
         <p class="fr-book-desc">Illustrates Vietnamese beliefs and social change across generations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
           <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
         </h4>
         <p class="fr-book-author">By Bill Hayton</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

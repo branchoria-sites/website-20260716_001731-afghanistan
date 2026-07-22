@@ -367,7 +367,7 @@ Seen together, these competing forms of supernatural meaning reveal less about i
           <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
         </h4>
         <p class="fr-book-author">By B. R. Myers</p>
-        
+
         <p class="fr-book-desc">Explains official narratives surrounding the Kim family.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Seen together, these competing forms of supernatural meaning reveal less about i
           <a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Loving Care of the Fatherly Leader">Under the Loving Care of the Fatherly Leader</a>
         </h4>
         <p class="fr-book-author">By Bradley K. Martin, Bradley K. Martin</p>
-        
+
         <p class="fr-book-desc">Covers official miracle narratives and state ideology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Seen together, these competing forms of supernatural meaning reveal less about i
           <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
         </h4>
         <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-        
+
         <p class="fr-book-desc">Shows how private beliefs persist under repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Seen together, these competing forms of supernatural meaning reveal less about i
           <a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real North Korea">Real North Korea</a>
         </h4>
         <p class="fr-book-author">By Andrei Lankov</p>
-        
+
         <p class="fr-book-desc">Discusses ideology alongside unofficial beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

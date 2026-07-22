@@ -350,7 +350,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
 </h4>
 <p class="fr-book-author">By Simon Winchester</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Geologists, Stratigraphic Geology, Biography, History, Geography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=The+earthquake+that+never+went+away+David+Stewart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earthquake that never went away">The earthquake that never went away</a>
 </h4>
 <p class="fr-book-author">By David Stewart</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Earthquakes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+earthquake+that+never+went+away+David+Stewart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
 </h4>
 <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
 <p class="fr-book-desc">First published 2008.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
 </h4>
 <p class="fr-book-author">By Arana, Marie (Writer)</p>
-        
+
 <p class="fr-book-desc">First published 2013. Subjects: Wars of Independence (South America : 1806-1830) fast (OCoLC)fst01355310, Heads of state, Biography, Hist...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

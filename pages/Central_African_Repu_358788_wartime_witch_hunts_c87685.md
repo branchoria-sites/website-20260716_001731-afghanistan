@@ -406,7 +406,7 @@ Understanding this distinction is important for interpreting the Central African
           <a href="https://www.amazon.com/s?k=The+logic+of+violence+in+civil+war+Stathis+N.+Kalyvas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The logic of violence in civil war">The logic of violence in civil war</a>
         </h4>
         <p class="fr-book-author">By Stathis N. Kalyvas</p>
-        
+
         <p class="fr-book-desc">Explains how violence and local accusations become tools of control.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+logic+of+violence+in+civil+war+Stathis+N.+Kalyvas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Understanding this distinction is important for interpreting the Central African
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Examines fear-driven persecution across history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ Understanding this distinction is important for interpreting the Central African
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Supplies cultural context for beliefs exploited during conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -457,7 +457,7 @@ Understanding this distinction is important for interpreting the Central African
           <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dancing in the Glory of Monsters">Dancing in the Glory of Monsters</a>
         </h4>
         <p class="fr-book-author">By Jason K. Stearns</p>
-        
+
         <p class="fr-book-desc">Provides regional insight into conflict dynamics in Central Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1373,7 +1373,7 @@ Tunisia’s cases show that the healthiest response to public scares is neither 
           <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Nations Fail">Why Nations Fail</a>
         </h4>
         <p class="fr-book-author">By Daron Acemoglu, James A. Robinson</p>
-        
+
         <p class="fr-book-desc">Provides broader political and institutional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1390,7 +1390,7 @@ Tunisia’s cases show that the healthiest response to public scares is neither 
           <a href="https://www.amazon.com/s?k=The+Arab+Spring+Mark+L.+Haas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arab Spring">The Arab Spring</a>
         </h4>
         <p class="fr-book-author">By Mark L. Haas, David W. Lesch</p>
-        
+
         <p class="fr-book-desc">Provides context for Tunisia&#x27;s modern upheavals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arab+Spring+Mark+L.+Haas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1407,7 +1407,7 @@ Tunisia’s cases show that the healthiest response to public scares is neither 
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Useful for understanding belief and conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

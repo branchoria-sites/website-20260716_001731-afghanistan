@@ -411,7 +411,7 @@ For the wider history of collective fear, Malta demonstrates that belief in magi
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Directly explains why witch persecutions differed across regions including Catholic Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For the wider history of collective fear, Malta demonstrates that belief in magi
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
         <p class="fr-book-desc">Explains the intellectual background to European witch beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ For the wider history of collective fear, Malta demonstrates that belief in magi
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Offers primary accounts illustrating common accusations and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ For the wider history of collective fear, Malta demonstrates that belief in magi
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Europe, 400-1700">Witchcraft in Europe, 400-1700</a>
         </h4>
         <p class="fr-book-author">By Alan Charles Kors, Edward Peters</p>
-        
+
         <p class="fr-book-desc">Provides comparative evidence for Malta&#x27;s distinctive pattern.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

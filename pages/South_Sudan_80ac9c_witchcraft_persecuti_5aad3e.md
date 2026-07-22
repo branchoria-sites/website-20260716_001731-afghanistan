@@ -365,7 +365,7 @@ Within the broader history of collective fear in South Sudan, witchcraft accusat
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Provides influential frameworks for understanding pollution, blame, social order and collective reactions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Within the broader history of collective fear in South Sudan, witchcraft accusat
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Helps explain how ordinary people can participate in group hostility and violence under social pressure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Within the broader history of collective fear in South Sudan, witchcraft accusat
           <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Better Angels of Our Nature">The Better Angels of Our Nature</a>
         </h4>
         <p class="fr-book-author">By Steven Pinker</p>
-        
+
         <p class="fr-book-desc">Places episodes of collective violence within broader historical patterns and explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Within the broader history of collective fear in South Sudan, witchcraft accusat
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Explores lived experiences of witchcraft beliefs, fear and community dynamics in southern Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

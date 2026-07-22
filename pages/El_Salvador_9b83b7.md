@@ -1332,7 +1332,7 @@ The most useful test is therefore not whether Salvadorans were “hysterical”.
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
 </h4>
 <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The most useful test is therefore not whether Salvadorans were “hysterical”.
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
 </h4>
 <p class="fr-book-author">By Mark Danner</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Massacres, History, El salvador, politics and government, El salvador, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The most useful test is therefore not whether Salvadorans were “hysterical”.
 <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Nations Fail">Why Nations Fail</a>
 </h4>
 <p class="fr-book-author">By Daron Acemoglu, James A. Robinson</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Revolutions, Economic development, Economics, Social policy, Poverty.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The most useful test is therefore not whether Salvadorans were “hysterical”.
 <a href="https://www.amazon.com/s?k=The+Devil%27s+Highway+Luis+Alberto+Urrea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil&#x27;s Highway">The Devil&#x27;s Highway</a>
 </h4>
 <p class="fr-book-author">By Luis Alberto Urrea</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Social aspects, Crimes against, Human smuggling, Illegal aliens, Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Devil%27s+Highway+Luis+Alberto+Urrea&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

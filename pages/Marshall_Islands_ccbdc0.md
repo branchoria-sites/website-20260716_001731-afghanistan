@@ -1350,7 +1350,7 @@ Climate change now reactivates many of the same fears: outsiders once again deba
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
 </h4>
 <p class="fr-book-author">By Eric Schlosser</p>
-        
+
 <p class="fr-book-desc">Provides accessible context for nuclear weapons and risk.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ Climate change now reactivates many of the same fears: outsiders once again deba
 <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Highlights the human consequences of nuclear weapons.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ Climate change now reactivates many of the same fears: outsiders once again deba
 <a href="https://www.amazon.com/s?k=The+Uninhabitable+Earth+by+David+Wallace-Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uninhabitable Earth">The Uninhabitable Earth</a>
 </h4>
 <p class="fr-book-author">By David Wallace-Wells</p>
-        
+
 <p class="fr-book-desc">Relevant to the Marshall Islands&#x27; continuing climate-related fears.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Uninhabitable+Earth+by+David+Wallace-Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,7 +1401,7 @@ Climate change now reactivates many of the same fears: outsiders once again deba
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Before the fallout">Before the fallout</a>
 </h4>
 <p class="fr-book-author">By Diana Preston</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Social aspects, Science, Moral and ethical aspects, Atomic bomb, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

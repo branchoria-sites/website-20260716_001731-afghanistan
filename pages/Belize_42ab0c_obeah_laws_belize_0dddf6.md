@@ -351,7 +351,7 @@ For Belize, the issue is less about large numbers of modern prosecutions than ab
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Introduces wider Afro-Caribbean religious practices.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For Belize, the issue is less about large numbers of modern prosecutions than ab
           <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah and other powers">Obeah and other powers</a>
         </h4>
         <p class="fr-book-author">By Diana Paton</p>
-        
+
         <p class="fr-book-desc">Directly addresses law, power and colonial repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Obeah+and+other+powers+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For Belize, the issue is less about large numbers of modern prosecutions than ab
           <a href="https://www.amazon.com/s?k=The+Book+of+Negroes+Lawrence+Hill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Negroes">The Book of Negroes</a>
         </h4>
         <p class="fr-book-author">By Lawrence Hill</p>
-        
+
         <p class="fr-book-desc">Explores the wider Atlantic world shaped by slavery and colonialism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Negroes+Lawrence+Hill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Belize, the issue is less about large numbers of modern prosecutions than ab
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">First published 1966. Subjects: Antiquities, Antiquitiess, Indians of Central America, Indians of Mexico, Mayas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

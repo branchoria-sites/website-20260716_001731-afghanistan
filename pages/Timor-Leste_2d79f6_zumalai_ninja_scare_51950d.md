@@ -375,7 +375,7 @@ The episode continues to attract attention because it highlights several broader
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Explores how situational pressures, authority and perceived threats can drive individuals and institutions toward harmful conduct.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ The episode continues to attract attention because it highlights several broader
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
         </h4>
         <p class="fr-book-author">By Vincent Bevins</p>
-        
+
         <p class="fr-book-desc">Provides background on Indonesian security culture, clandestine violence and historical memories that shaped the meaning of alleged maske...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ The episode continues to attract attention because it highlights several broader
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
         </h4>
         <p class="fr-book-author">By Joseph Nevins</p>
-        
+
         <p class="fr-book-desc">Explains the occupation-era violence, fear and institutional legacies behind later rumours of secret armed groups.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ The episode continues to attract attention because it highlights several broader
           <a href="https://www.amazon.com/s?k=On+Rumors+Cass+R.+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Rumors">On Rumors</a>
         </h4>
         <p class="fr-book-author">By Cass R. Sunstein</p>
-        
+
         <p class="fr-book-desc">Directly addresses the social mechanisms through which uncertain reports become widely believed and trigger official action.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+Rumors+Cass+R.+Sunstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

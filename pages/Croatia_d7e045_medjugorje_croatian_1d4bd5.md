@@ -339,7 +339,7 @@ The continuing debate also illustrates an important distinction in the study of 
 <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
 </h4>
 <p class="fr-book-author">By Fulton J. Sheen</p>
-        
+
 <p class="fr-book-desc">First published 1952. Subjects: Mary, Blessed Virgin, Saint, Duchowość, Mariologia, Teologia katolicka.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ The continuing debate also illustrates an important distinction in the study of 
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Christianity">The Oxford illustrated history of Christianity</a>
 </h4>
 <p class="fr-book-author">By John McManners</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Église, Christendom, Church history, Historia eclesiástica, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The continuing debate also illustrates an important distinction in the study of 
 <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The triumph of Christianity">The triumph of Christianity</a>
 </h4>
 <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Church history, Influence, Christian civilization, History, Constantine i, emperor of rome, -337.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The continuing debate also illustrates an important distinction in the study of 
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medjugorje the Message (Christian Classics)">Medjugorje the Message (Christian Classics)</a>
 </h4>
 <p class="fr-book-author">By Wayne Weible</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Apparitions and miracles, Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

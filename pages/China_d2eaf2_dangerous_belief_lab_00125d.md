@@ -424,7 +424,7 @@ Keeping these questions separate helps explain why debates over "dangerous belie
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
 </h4>
 <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: History, Historia, Histoire, Qing Dynasty (China), China, history, qing dynasty, 1644-1912.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ Keeping these questions separate helps explain why debates over "dangerous belie
 <a href="https://www.amazon.com/s?k=Falun+Gong+and+the+Future+of+China+David+Ownby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Falun Gong and the Future of China">Falun Gong and the Future of China</a>
 </h4>
 <p class="fr-book-author">By David Ownby</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Falun gong (organization), Qi gong, China, politics and government, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Falun+Gong+and+the+Future+of+China+David+Ownby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ Keeping these questions separate helps explain why debates over "dangerous belie
 <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Chinese Son">God&#x27;s Chinese Son</a>
 </h4>
 <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: History, Historia, Taipingbewegung, Chiliasme, Taiping Rebellion (China : 1850-1864) fast (OCoLC)fst01355...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ Keeping these questions separate helps explain why debates over "dangerous belie
 <a href="https://www.amazon.com/s?k=Religion+in+China+Adam+Yuet+Chau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religion in China">Religion in China</a>
 </h4>
 <p class="fr-book-author">By Adam Yuet Chau</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: China, religion, Religion, Faith.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Religion+in+China+Adam+Yuet+Chau&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

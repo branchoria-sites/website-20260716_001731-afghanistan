@@ -390,27 +390,10 @@ For historians and social scientists, Afghanistan therefore provides an importan
           <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
         </h4>
         <p class="fr-book-author">By Steve Coll</p>
-        
+
         <p class="fr-book-desc">Directly addresses the conflict that shaped public trust.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Wars+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kite Runner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12728870-M.jpg" alt="Cover for The Kite Runner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kite Runner">The Kite Runner</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides human context for decades of conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,7 +407,7 @@ For historians and social scientists, Afghanistan therefore provides an importan
           <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No good men among the living">No good men among the living</a>
         </h4>
         <p class="fr-book-author">By Anand Gopal</p>
-        
+
         <p class="fr-book-desc">Shows how civilians navigated competing narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +424,7 @@ For historians and social scientists, Afghanistan therefore provides an importan
           <a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="PLACES IN BETWEEN">PLACES IN BETWEEN</a>
         </h4>
         <p class="fr-book-author">By RORY STEWART, Rory Stewart</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere of post-conflict Afghanistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN+RORY+STEWART&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,9 +433,26 @@ For historians and social scientists, Afghanistan therefore provides an importan
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kite+Runner+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kite Runner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12728870-M.jpg" alt="Cover for The Kite Runner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kite+Runner+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kite Runner">The Kite Runner</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides human context for decades of conflict.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kite+Runner+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kite+Runner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kite Runner</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+good+men+among+the+living&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No good men among the living</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Wars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Wars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+good+men+among+the+living&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No good men among the living</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=PLACES+IN+BETWEEN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">PLACES IN BETWEEN</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

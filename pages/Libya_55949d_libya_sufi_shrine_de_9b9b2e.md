@@ -366,7 +366,7 @@ Within Libya's wider history of collective belief and social conflict, the shrin
 <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return: Fathers, Sons and the Land in Between">The Return: Fathers, Sons and the Land in Between</a>
 </h4>
 <p class="fr-book-author">By Hisham Matar</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Matar, Hisham, 1970-, Matar, Hisham, 1970- -- Travel -- Libya, Matar, Hisham, 1970- -- Family, Matar, Jab...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Return%3A+Fathers%2C+Sons+and+the+Land+in+Between+Hisham+Matar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Within Libya's wider history of collective belief and social conflict, the shrin
 <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
 </h4>
 <p class="fr-book-author">By Ronald Bruce St John</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Within Libya's wider history of collective belief and social conflict, the shrin
 <a href="https://www.amazon.com/s?k=Sufism+William+Chittick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sufism">Sufism</a>
 </h4>
 <p class="fr-book-author">By William Chittick</p>
-        
+
 <p class="fr-book-desc">First published 2000.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sufism+William+Chittick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Within Libya's wider history of collective belief and social conflict, the shrin
 <a href="https://www.amazon.com/s?k=Sufism%3A+A+Very+Short+Introduction+William+C.+Chittick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sufism: A Very Short Introduction">Sufism: A Very Short Introduction</a>
 </h4>
 <p class="fr-book-author">By William C. Chittick</p>
-        
+
 <p class="fr-book-desc">Explains Sufi beliefs and shrine traditions central to the topic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sufism%3A+A+Very+Short+Introduction+William+C.+Chittick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

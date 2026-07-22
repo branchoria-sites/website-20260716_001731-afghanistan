@@ -1342,7 +1342,7 @@ Uzbekistan’s most revealing “panic” history is therefore a history of clas
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
         </h4>
         <p class="fr-book-author">By Peter Hopkirk</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for Central Asia and Uzbekistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ Uzbekistan’s most revealing “panic” history is therefore a history of clas
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-        
+
         <p class="fr-book-desc">Explains incentives behind authoritarian governance and political control.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ Uzbekistan’s most revealing “panic” history is therefore a history of clas
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
         </h4>
         <p class="fr-book-author">By Sheila Fitzpatrick</p>
-        
+
         <p class="fr-book-desc">Illuminates how fear and authoritarian systems functioned in the Soviet world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ Uzbekistan’s most revealing “panic” history is therefore a history of clas
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
         </h4>
         <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
         <p class="fr-book-desc">Explains political and social developments shaping modern Uzbekistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

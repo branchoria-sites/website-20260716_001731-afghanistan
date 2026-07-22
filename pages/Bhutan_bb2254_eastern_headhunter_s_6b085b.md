@@ -366,7 +366,7 @@ That distinction makes the Eastern Bhutan headhunter rumour panic an important c
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
         </h4>
         <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
         <p class="fr-book-desc">Explains why memorable legends persist.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Made+to+Stick+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ That distinction makes the Eastern Bhutan headhunter rumour panic an important c
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Shows how folklore and rumour become believable.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That distinction makes the Eastern Bhutan headhunter rumour panic an important c
           <a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of world holidays">The folklore of world holidays</a>
         </h4>
         <p class="fr-book-author">By Robert Griffin, Ann H. Shurgin</p>
-        
+
         <p class="fr-book-desc">Provides comparative background on enduring folk beliefs and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+folklore+of+world+holidays+Robert+Griffin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ That distinction makes the Eastern Bhutan headhunter rumour panic an important c
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
         </h4>
         <p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
-        
+
         <p class="fr-book-desc">Directly explains why frightening rumours spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

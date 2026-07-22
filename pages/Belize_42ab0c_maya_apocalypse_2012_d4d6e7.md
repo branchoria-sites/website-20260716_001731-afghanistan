@@ -352,7 +352,7 @@ The legacy of the scare is therefore less about failed predictions than about hi
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">Corrects misconceptions behind the 2012 myth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The legacy of the scare is therefore less about failed predictions than about hi
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Introduces authentic Maya cosmology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The legacy of the scare is therefore less about failed predictions than about hi
           <a href="https://www.amazon.com/s?k=2012+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2012">2012</a>
         </h4>
         <p class="fr-book-author">By Daniel Pinchbeck</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Consciouness, Hallucinogenic drugs and religious experience, Maya calendar, Maya philosophy, New Age.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=2012+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The legacy of the scare is therefore less about failed predictions than about hi
           <a href="https://www.amazon.com/s?k=2012%3A+The+Return+of+Quetzalcoatl+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2012: The Return of Quetzalcoatl">2012: The Return of Quetzalcoatl</a>
         </h4>
         <p class="fr-book-author">By Daniel Pinchbeck</p>
-        
+
         <p class="fr-book-desc">Represents influential popular interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=2012%3A+The+Return+of+Quetzalcoatl+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

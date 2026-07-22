@@ -390,7 +390,7 @@ The enduring image of Eric Gairy as Grenada's "warlock" says as much about revol
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Provides context for Caribbean supernatural traditions and stereotypes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The enduring image of Eric Gairy as Grenada's "warlock" says as much about revol
           <a href="https://www.amazon.com/s?k=Occult+America+Mitch+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Occult America">Occult America</a>
         </h4>
         <p class="fr-book-author">By Mitch Horowitz, Paul Michael Garcia</p>
-        
+
         <p class="fr-book-desc">Explores cultural construction of supernatural reputations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Occult+America+Mitch+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The enduring image of Eric Gairy as Grenada's "warlock" says as much about revol
           <a href="https://www.amazon.com/s?k=Political+Ponerology+Michael+Rectenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political Ponerology">Political Ponerology</a>
         </h4>
         <p class="fr-book-author">By Michael Rectenwald, Andrew M. Lobaczewski</p>
-        
+
         <p class="fr-book-desc">Helps explain how personality myths arise around rulers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Political+Ponerology+Michael+Rectenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The enduring image of Eric Gairy as Grenada's "warlock" says as much about revol
           <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean history">Caribbean history</a>
         </h4>
         <p class="fr-book-author">By Martin, Tony, Tony Martin et al.</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Race relations, History, Caribbean area, history, West indies, race relations, HISTORY.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

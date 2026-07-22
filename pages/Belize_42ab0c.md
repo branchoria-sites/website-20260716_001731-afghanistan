@@ -1392,7 +1392,7 @@ Those questions do not drain strange history of its fascination. They reveal its
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">Provides historical background for Belize&#x27;s Maya heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1409,7 +1409,7 @@ Those questions do not drain strange history of its fascination. They reveal its
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explores belief, fear and supernatural traditions comparatively.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1426,7 +1426,7 @@ Those questions do not drain strange history of its fascination. They reveal its
           <a href="https://www.amazon.com/s?k=Myth+of+the+Twelve+Tribes+of+Israel+Andrew+Tobolowsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myth of the Twelve Tribes of Israel">Myth of the Twelve Tribes of Israel</a>
         </h4>
         <p class="fr-book-author">By Andrew Tobolowsky</p>
-        
+
         <p class="fr-book-desc">Encourages critical reading of historical traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myth+of+the+Twelve+Tribes+of+Israel+Andrew+Tobolowsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

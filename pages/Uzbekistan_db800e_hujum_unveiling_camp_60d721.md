@@ -337,7 +337,7 @@ Within the broader history of collective fears in Uzbekistan, the Hujum is signi
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
         </h4>
         <p class="fr-book-author">By Peter Hopkirk</p>
-        
+
         <p class="fr-book-desc">Offers readers broader regional historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Within the broader history of collective fears in Uzbekistan, the Hujum is signi
           <a href="https://www.amazon.com/s?k=Veiled+empire+Douglas+Taylor+Northrop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Veiled empire">Veiled empire</a>
         </h4>
         <p class="fr-book-author">By Douglas Taylor Northrop</p>
-        
+
         <p class="fr-book-desc">Directly examines unveiling campaigns in Soviet Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Veiled+empire+Douglas+Taylor+Northrop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Within the broader history of collective fears in Uzbekistan, the Hujum is signi
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
         </h4>
         <p class="fr-book-author">By Sheila Fitzpatrick</p>
-        
+
         <p class="fr-book-desc">Explains the wider political culture surrounding coercive reform.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Within the broader history of collective fears in Uzbekistan, the Hujum is signi
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
         </h4>
         <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
         <p class="fr-book-desc">Provides historical background for Soviet-era Uzbekistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

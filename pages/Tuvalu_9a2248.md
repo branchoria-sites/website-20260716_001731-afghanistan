@@ -1322,7 +1322,7 @@ Tuvalu matters to the history of panics and collective belief precisely because 
 <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
 </h4>
 <p class="fr-book-author">By Bill Gates</p>
-        
+
 <p class="fr-book-desc">Relevant to discussions of climate risks facing Tuvalu.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1339,7 +1339,7 @@ Tuvalu matters to the history of panics and collective belief precisely because 
 <a href="https://www.amazon.com/s?k=The+god+species+Mark+Lynas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The god species">The god species</a>
 </h4>
 <p class="fr-book-author">By Mark Lynas</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Climatic changes, Environmental protection, Effect of climate on, Human beings, Biotic communities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+god+species+Mark+Lynas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ Tuvalu matters to the history of panics and collective belief precisely because 
 <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
 </h4>
 <p class="fr-book-author">By Christina Thompson</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Polynesia, history, Polynesians, History, Navigation, Discovery and exploration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ Tuvalu matters to the history of panics and collective belief precisely because 
 <a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Island">The Last Island</a>
 </h4>
 <p class="fr-book-author">By Adam Goodheart</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Last+Island+Adam+Goodheart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

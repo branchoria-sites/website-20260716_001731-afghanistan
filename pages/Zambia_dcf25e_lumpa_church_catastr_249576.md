@@ -364,7 +364,7 @@ For historians of collective belief, the Lumpa conflict is therefore less an exa
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Explains nationalism during state formation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For historians of collective belief, the Lumpa conflict is therefore less an exa
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides context for African independent churches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For historians of collective belief, the Lumpa conflict is therefore less an exa
           <a href="https://www.amazon.com/s?k=The+sociology+of+religion+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sociology of religion">The sociology of religion</a>
         </h4>
         <p class="fr-book-author">By Max Weber</p>
-        
+
         <p class="fr-book-desc">Useful framework for religious authority and legitimacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sociology+of+religion+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For historians of collective belief, the Lumpa conflict is therefore less an exa
           <a href="https://www.amazon.com/s?k=The+sacred+canopy+Peter+L.+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sacred canopy">The sacred canopy</a>
         </h4>
         <p class="fr-book-author">By Peter L. Berger</p>
-        
+
         <p class="fr-book-desc">Helps interpret conflict involving religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sacred+canopy+Peter+L.+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

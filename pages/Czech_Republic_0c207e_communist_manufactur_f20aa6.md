@@ -350,7 +350,7 @@ This distinction is important within the wider history of collective fears in th
           <a href="https://www.amazon.com/s?k=The+Captive+Mind+Czes%C5%82aw+Mi%C5%82osz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Captive Mind">The Captive Mind</a>
         </h4>
         <p class="fr-book-author">By Czesław Miłosz</p>
-        
+
         <p class="fr-book-desc">Explains how Communist systems shaped belief, conformity and public truth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Captive+Mind+Czes%C5%82aw+Mi%C5%82osz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ This distinction is important within the wider history of collective fears in th
           <a href="https://www.amazon.com/s?k=Prague+winter+Madeleine+Korbel+Albright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague winter">Prague winter</a>
         </h4>
         <p class="fr-book-author">By Madeleine Korbel Albright</p>
-        
+
         <p class="fr-book-desc">Covers Communist rule and its impact on Czech society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prague+winter+Madeleine+Korbel+Albright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ This distinction is important within the wider history of collective fears in th
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Curtain">Iron Curtain</a>
         </h4>
         <p class="fr-book-author">By Anne Applebaum</p>
-        
+
         <p class="fr-book-desc">Examines how Communist regimes imposed ideological conformity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Iron+Curtain+Anne+Applebaum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ This distinction is important within the wider history of collective fears in th
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

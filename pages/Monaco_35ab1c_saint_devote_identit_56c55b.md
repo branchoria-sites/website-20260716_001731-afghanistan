@@ -357,7 +357,7 @@ For readers interested in the history of collective belief, this makes Saint Dev
           <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Christianity">The Oxford illustrated history of Christianity</a>
         </h4>
         <p class="fr-book-author">By John McManners</p>
-        
+
         <p class="fr-book-desc">Explains the historical development of saint veneration and Christian identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For readers interested in the history of collective belief, this makes Saint Dev
           <a href="https://www.amazon.com/s?k=A+little+history+of+religion+Holloway%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A little history of religion">A little history of religion</a>
         </h4>
         <p class="fr-book-author">By Holloway, Richard</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how religious stories shape communities and identities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+little+history+of+religion+Holloway%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For readers interested in the history of collective belief, this makes Saint Dev
           <a href="https://www.amazon.com/s?k=The+Age+of+Faith+Part+1+of+3+Will+Durant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Faith Part 1 of 3">The Age of Faith Part 1 of 3</a>
         </h4>
         <p class="fr-book-author">By Will Durant</p>
-        
+
         <p class="fr-book-desc">First published 1995.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Age+of+Faith+Part+1+of+3+Will+Durant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For readers interested in the history of collective belief, this makes Saint Dev
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Saints+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Saints">The Penguin Book of Saints</a>
         </h4>
         <p class="fr-book-author">By John Julian</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding of Saint Devote within the wider tradition of Christian saints.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Saints+John+Julian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

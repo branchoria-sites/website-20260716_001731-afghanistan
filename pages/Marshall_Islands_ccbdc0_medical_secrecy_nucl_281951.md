@@ -372,7 +372,7 @@ Historians therefore tend to interpret Marshallese medical distrust as a rationa
           <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Immortal Life of Henrietta Lacks">The Immortal Life of Henrietta Lacks</a>
         </h4>
         <p class="fr-book-author">By Rebecca Skloot</p>
-        
+
         <p class="fr-book-desc">Provides powerful context for debates about patients and research subjects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Immortal+Life+of+Henrietta+Lacks+Rebecca+Skloot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Historians therefore tend to interpret Marshallese medical distrust as a rationa
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
         </h4>
         <p class="fr-book-author">By Eric Schlosser</p>
-        
+
         <p class="fr-book-desc">Explains the broader military context behind nuclear testing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Command+and+Control+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Historians therefore tend to interpret Marshallese medical distrust as a rationa
           <a href="https://www.amazon.com/s?k=Medical+Apartheid+Harriet+A.+Washington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medical Apartheid">Medical Apartheid</a>
         </h4>
         <p class="fr-book-author">By Harriet A. Washington</p>
-        
+
         <p class="fr-book-desc">Frames questions of consent, trust and experimentation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Medical+Apartheid+Harriet+A.+Washington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Historians therefore tend to interpret Marshallese medical distrust as a rationa
           <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Before the fallout">Before the fallout</a>
         </h4>
         <p class="fr-book-author">By Diana Preston</p>
-        
+
         <p class="fr-book-desc">Provides background to the era that produced the Marshall Islands studies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

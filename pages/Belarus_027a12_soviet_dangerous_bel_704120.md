@@ -375,7 +375,7 @@ Within the broader history of collective belief in Belarus, Soviet atheism marks
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
         </h4>
         <p class="fr-book-author">By Sheila Fitzpatrick</p>
-        
+
         <p class="fr-book-desc">Shows how Soviet ideology affected daily life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within the broader history of collective belief in Belarus, Soviet atheism marks
           <a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century">The Penguin History Of Modern Russia From Tsarism To The Twen...</a>
         </h4>
         <p class="fr-book-author">By Robert Service</p>
-        
+
         <p class="fr-book-desc">First published 2009. Subjects: Soviet union, history, Russia (federation), history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within the broader history of collective belief in Belarus, Soviet atheism marks
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Within the broader history of collective belief in Belarus, Soviet atheism marks
           <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
         </h4>
         <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-        
+
         <p class="fr-book-desc">First published 1973.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

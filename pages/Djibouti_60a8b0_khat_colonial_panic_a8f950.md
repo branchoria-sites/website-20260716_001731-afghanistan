@@ -331,7 +331,7 @@ Modern discussions in Djibouti still debate the economic costs of widespread che
           <a href="https://www.amazon.com/s?k=The+Fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fortunes of Africa">The Fortunes of Africa</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Explains colonial settings in which khat debates developed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fortunes+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Modern discussions in Djibouti still debate the economic costs of widespread che
           <a href="https://www.amazon.com/s?k=High+price+Carl+L.+Hart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High price">High price</a>
         </h4>
         <p class="fr-book-author">By Carl L. Hart</p>
-        
+
         <p class="fr-book-desc">Useful for understanding evidence versus stigma in drug debates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=High+price+Carl+L.+Hart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Modern discussions in Djibouti still debate the economic costs of widespread che
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Horn of Africa">The Horn of Africa</a>
         </h4>
         <p class="fr-book-author">By Christopher CLAPHAM</p>
-        
+
         <p class="fr-book-desc">Places Djibouti&#x27;s social concerns in regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Horn+of+Africa+Christopher+CLAPHAM&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Modern discussions in Djibouti still debate the economic costs of widespread che
           <a href="https://www.amazon.com/s?k=Drugs+Without+The+Hot+Air+Minimising+The+Harms+Of+Legal+And+Illegal+Drugs+David+Nutt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drugs Without The Hot Air Minimising The Harms Of Legal And Illegal Drugs">Drugs Without The Hot Air Minimising The Harms Of Legal And I...</a>
         </h4>
         <p class="fr-book-author">By David Nutt</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Drugs of abuse, Drug abuse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Drugs+Without+The+Hot+Air+Minimising+The+Harms+Of+Legal+And+Illegal+Drugs+David+Nutt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

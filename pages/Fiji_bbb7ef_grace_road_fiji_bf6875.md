@@ -333,7 +333,7 @@ Within Fiji's broader history of collective belief and social conflict, Grace Ro
           <a href="https://www.amazon.com/s?k=Under+the+Banner+of+Heaven+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Banner of Heaven">Under the Banner of Heaven</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Explores extremism and authority within religious communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+Banner+of+Heaven+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ Within Fiji's broader history of collective belief and social conflict, Grace Ro
           <a href="https://www.amazon.com/s?k=Combatting+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combatting cult mind control">Combatting cult mind control</a>
         </h4>
         <p class="fr-book-author">By Steven Hassan</p>
-        
+
         <p class="fr-book-desc">Explains dynamics relevant to high-control religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Combatting+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Within Fiji's broader history of collective belief and social conflict, Grace Ro
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
         </h4>
         <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
         <p class="fr-book-desc">Provides framework for understanding Grace Road.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Within Fiji's broader history of collective belief and social conflict, Grace Ro
           <a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdom of Matthias">The kingdom of Matthias</a>
         </h4>
         <p class="fr-book-author">By Johnson, Paul E.</p>
-        
+
         <p class="fr-book-desc">Comparable charismatic religious movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

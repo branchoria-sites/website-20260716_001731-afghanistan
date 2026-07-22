@@ -349,7 +349,7 @@ Within Bhutan's broader history of collective fears, the COVID-19 pandemic there
 <a href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apollo&#x27;s Arrow">Apollo&#x27;s Arrow</a>
 </h4>
 <p class="fr-book-author">By Nicholas A. Christakis</p>
-        
+
 <p class="fr-book-desc">Explains how societies respond to pandemics and public information.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ Within Bhutan's broader history of collective fears, the COVID-19 pandemic there
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-        
+
 <p class="fr-book-desc">Explains why misinformation spreads effectively.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Within Bhutan's broader history of collective fears, the COVID-19 pandemic there
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-        
+
 <p class="fr-book-desc">Helps readers understand and evaluate misinformation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Within Bhutan's broader history of collective fears, the COVID-19 pandemic there
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
 </h4>
 <p class="fr-book-author">By Steven Taylor</p>
-        
+
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

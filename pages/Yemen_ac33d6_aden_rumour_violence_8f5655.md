@@ -354,7 +354,7 @@ Within the wider history of collective fear in Yemen, the riots are significant 
           <a href="https://www.amazon.com/s?k=A+History+of+the+Jews+in+the+Modern+World+Howard+M.+Sachar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Jews in the Modern World">A History of the Jews in the Modern World</a>
         </h4>
         <p class="fr-book-author">By Howard M. Sachar</p>
-        
+
         <p class="fr-book-desc">Provides context for post-war anti-Jewish violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Jews+in+the+Modern+World+Howard+M.+Sachar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Within the wider history of collective fear in Yemen, the riots are significant 
           <a href="https://www.amazon.com/s?k=The+Arab-Israeli+conflict+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arab-Israeli conflict">The Arab-Israeli conflict</a>
         </h4>
         <p class="fr-book-author">By Martin Gilbert</p>
-        
+
         <p class="fr-book-desc">Explains the regional crisis surrounding the 1947 riots.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arab-Israeli+conflict+Martin+Gilbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Within the wider history of collective fear in Yemen, the riots are significant 
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jews of Arab Lands in Modern Times">The Jews of Arab Lands in Modern Times</a>
         </h4>
         <p class="fr-book-author">By Norman A. Stillman</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Jews, Ethnic relations, Sources, Zionism, Jewish-Arab relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

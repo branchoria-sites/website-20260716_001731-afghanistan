@@ -347,7 +347,7 @@ Within Myanmar's recent history, the Mandalay rumour stands as one of the cleare
           <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
         </h4>
         <p class="fr-book-author">By Max Fisher</p>
-        
+
         <p class="fr-book-desc">Investigates how engagement-driven platforms amplify outrage, misinformation and group hostility, including their role in real-world ethn...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ Within Myanmar's recent history, the Mandalay rumour stands as one of the cleare
           <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
         </h4>
         <p class="fr-book-author">By Francis Wade</p>
-        
+
         <p class="fr-book-desc">Explains the Buddhist nationalism, communal prejudice and political conditions that made inflammatory rumours capable of triggering viole...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Within Myanmar's recent history, the Mandalay rumour stands as one of the cleare
           <a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Ugly Truth">An Ugly Truth</a>
         </h4>
         <p class="fr-book-author">By Sheera Frenkel, Cecilia Kang</p>
-        
+
         <p class="fr-book-desc">Examines Facebook&#x27;s failures to control misinformation, hate speech and violent rhetoric, providing corporate context for the platform dy...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Within Myanmar's recent history, the Mandalay rumour stands as one of the cleare
           <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century">The Hidden History of Burma: Race, Capitalism, and the Crisis...</a>
         </h4>
         <p class="fr-book-author">By Thant Myint-U</p>
-        
+
         <p class="fr-book-desc">Supplies the broader historical, ethnic, economic and political background needed to understand Myanmar&#x27;s communal tensions and fragile i...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

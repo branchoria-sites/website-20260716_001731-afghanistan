@@ -351,7 +351,7 @@ Today, the Swiss case is widely cited as a cautionary example of why trauma-info
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
         </h4>
         <p class="fr-book-author">By Dr. Elizabeth Loftus, Katherine Ketcham</p>
-        
+
         <p class="fr-book-desc">Highly relevant to recovered-memory controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+Dr.+Elizabeth+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Today, the Swiss case is widely cited as a cautionary example of why trauma-info
           <a href="https://www.amazon.com/s?k=Satanic+panic+Jeffrey+S.+Victor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Satanic panic">Satanic panic</a>
         </h4>
         <p class="fr-book-author">By Jeffrey S. Victor</p>
-        
+
         <p class="fr-book-desc">Directly addresses satanic panic claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Satanic+panic+Jeffrey+S.+Victor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Today, the Swiss case is widely cited as a cautionary example of why trauma-info
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
         </h4>
         <p class="fr-book-author">By Thompson, Kenneth</p>
-        
+
         <p class="fr-book-desc">Broad context for conspiracy-driven scares.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Today, the Swiss case is widely cited as a cautionary example of why trauma-info
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (But Not by Me)">Mistakes Were Made (But Not by Me)</a>
         </h4>
         <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
-        
+
         <p class="fr-book-desc">Explains belief persistence and professional error.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28But+Not+by+Me%29+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -358,7 +358,7 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
         </h4>
         <p class="fr-book-author">By William Butler Yeats</p>
-        
+
         <p class="fr-book-desc">Provides wider cultural context for Irish traditions of extraordinary belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
         </h4>
         <p class="fr-book-author">By Fulton J. Sheen</p>
-        
+
         <p class="fr-book-desc">Provides broader Catholic context for Marian apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
           <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The miracle detective">The miracle detective</a>
         </h4>
         <p class="fr-book-author">By Randall Sullivan</p>
-        
+
         <p class="fr-book-desc">Explains how the Catholic Church evaluates miraculous claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
         </h4>
         <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
-        
+
         <p class="fr-book-desc">Offers comparative insight into modern Marian apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

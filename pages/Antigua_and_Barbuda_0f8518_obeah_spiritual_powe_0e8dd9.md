@@ -345,7 +345,7 @@ This tension explains why obeah occupies such an important place in the history 
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Explains why enslavers feared organized resistance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ This tension explains why obeah occupies such an important place in the history 
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Supplies historical context for Antigua and Caribbean slavery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ This tension explains why obeah occupies such an important place in the history 
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
         </h4>
         <p class="fr-book-author">By Michael Craton</p>
-        
+
         <p class="fr-book-desc">Examines resistance and plantation society across the British Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ This tension explains why obeah occupies such an important place in the history 
           <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear of French negroes">The fear of French negroes</a>
         </h4>
         <p class="fr-book-author">By Sara E. Johnson</p>
-        
+
         <p class="fr-book-desc">Explores how fear magnified perceived spiritual and political threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -400,7 +400,7 @@ Today, the case continues to be discussed in Singapore not simply as a historica
 <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Third World to First : The Singapore Story">From Third World to First : The Singapore Story</a>
 </h4>
 <p class="fr-book-author">By Lee Kuan Yew</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Social conditions, Economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Today, the case continues to be discussed in Singapore not simply as a historica
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
 </h4>
 <p class="fr-book-author">By Mark Ravinder Frost</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ Today, the case continues to be discussed in Singapore not simply as a historica
 <a href="https://www.amazon.com/s?k=Gustave+Bon+Classics%3A+the+Crowd+a+Study+of+the+Popular+Mind+by+Gustave+Bon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gustave Bon Classics: the Crowd a Study of the Popular Mind">Gustave Bon Classics: the Crowd a Study of the Popular Mind</a>
 </h4>
 <p class="fr-book-author">By Gustave Bon</p>
-        
+
 <p class="fr-book-desc">Explains crowd dynamics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Gustave+Bon+Classics%3A+the+Crowd+a+Study+of+the+Popular+Mind+by+Gustave+Bon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

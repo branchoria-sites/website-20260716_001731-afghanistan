@@ -403,7 +403,7 @@ For historians, the episode is valuable precisely because it is so thoroughly do
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Provides Qing-era historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ For historians, the episode is valuable precisely because it is so thoroughly do
           <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Soulstealers">Soulstealers</a>
         </h4>
         <p class="fr-book-author">By Philip A. Kuhn</p>
-        
+
         <p class="fr-book-desc">Directly studies the 1768 soul-stealing panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ For historians, the episode is valuable precisely because it is so thoroughly do
           <a href="https://www.amazon.com/s?k=Religion+in+China+Adam+Yuet+Chau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religion in China">Religion in China</a>
         </h4>
         <p class="fr-book-author">By Adam Yuet Chau</p>
-        
+
         <p class="fr-book-desc">Explains belief systems underlying the panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religion+in+China+Adam+Yuet+Chau&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

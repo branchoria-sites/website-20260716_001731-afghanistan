@@ -340,7 +340,7 @@ The legacy extends beyond the conflict itself. Canudos remains a warning about t
           <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brazilians">The Brazilians</a>
         </h4>
         <p class="fr-book-author">By Joseph A. Page</p>
-        
+
         <p class="fr-book-desc">Adds wider historical background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ The legacy extends beyond the conflict itself. Canudos remains a warning about t
           <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brazil">Brazil</a>
         </h4>
         <p class="fr-book-author">By Lilia M. Schwarcz, Heloisa M. Starling</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Brazil, history, Brazil, civilization, Brazil, description and travel, History, Civilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The legacy extends beyond the conflict itself. Canudos remains a warning about t
           <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebellion in the Backlands">Rebellion in the Backlands</a>
         </h4>
         <p class="fr-book-author">By Euclides da Cunha</p>
-        
+
         <p class="fr-book-desc">Primary literary and historical account of the conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The legacy extends beyond the conflict itself. Canudos remains a warning about t
           <a href="https://www.amazon.com/s?k=The+Devil+to+Pay+in+the+Backlands+Robert+M.+Levine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Devil to Pay in the Backlands">The Devil to Pay in the Backlands</a>
         </h4>
         <p class="fr-book-author">By Robert M. Levine</p>
-        
+
         <p class="fr-book-desc">Explains political myths and military campaigns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Devil+to+Pay+in+the+Backlands+Robert+M.+Levine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

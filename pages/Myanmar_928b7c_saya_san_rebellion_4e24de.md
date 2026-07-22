@@ -347,89 +347,89 @@ Rather than being remembered simply as a strange episode of magical thinking, th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Saya San&#x27;s Revolt Really Mass Delusion?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Saya San&#x27;s Revolt Really Mass Delusion?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Moral Economy of the Peasant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159345-M.jpg" alt="Cover for The Moral Economy of the Peasant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Moral Economy of the Peasant">The Moral Economy of the Peasant</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Explains how threats to subsistence, taxation and disruption of customary obligations can drive peasant rebellion, providing a powerful f...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prophets of rebellion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8485112-M.jpg" alt="Cover for Prophets of rebellion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prophets of rebellion">Prophets of rebellion</a>
+        </h4>
+        <p class="fr-book-author">By Michael Adas, Michael Adas</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prophets of rebellion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8485112-M.jpg" alt="Cover for Prophets of rebellion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prophets of rebellion">Prophets of rebellion</a>
-</h4>
-<p class="fr-book-author">By Michael Adas, Michael Adas</p>
-        
-<p class="fr-book-desc">First published 1979. Subjects: Case studies, Millennialism, Colonies, Protest movements, Indigenous peoples.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes the 1930–32 Burma rebellion as a major case study and examines how millenarian belief, political grievances and colonial disrupt...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Prophets+of+rebellion+Michael+Adas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+return+of+the+Galon+king&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The return of the Galon king on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+return+of+the+Galon+king&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The return of the Galon king">The return of the Galon king</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Directly reassesses the colonial legal records and inherited narrative that portrayed Saya San’s followers as irrational, while examining...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+return+of+the+Galon+king&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Moral Economy of the Peasant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159345-M.jpg" alt="Cover for The Moral Economy of the Peasant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Moral Economy of the Peasant">The Moral Economy of the Peasant</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=River+of+Lost+Footsteps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open River of Lost Footsteps on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=River+of+Lost+Footsteps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="River of Lost Footsteps">River of Lost Footsteps</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
-        
-<p class="fr-book-desc">Places British colonialism, Burmese kingship, nationalism and twentieth-century upheaval within a readable account of the country’s longe...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=River+of+Lost+Footsteps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how threats to subsistence, taxation and disruption of customary obligations can drive peasant rebellion, providing a powerful f...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Moral Economy of the Peasant</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prophets+of+rebellion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prophets of rebellion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+return+of+the+Galon+king&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The return of the Galon king</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Return+of+the+Galon+King%3A+History%2C+Law%2C+and+Rebellion+in+Colonial+Burma+Maitrii+Aung-Thwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Return of the Galon King: History, Law, and Rebellion in Colonial Burma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Return+of+the+Galon+King%3A+History%2C+Law%2C+and+Rebellion+in+Colonial+Burma+Maitrii+Aung-Thwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Return of the Galon King: History, Law, and Rebellion in Colonial Burma">The Return of the Galon King: History, Law, and Rebellion in...</a>
+        </h4>
+        <p class="fr-book-author">By Maitrii Aung-Thwin</p>
+
+        <p class="fr-book-desc">Directly reassesses the colonial legal records and inherited narrative that portrayed Saya San’s followers as irrational, while examining...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Return+of+the+Galon+King%3A+History%2C+Law%2C+and+Rebellion+in+Colonial+Burma+Maitrii+Aung-Thwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+A+Personal+History+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The River of Lost Footsteps: A Personal History of Burma on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+A+Personal+History+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: A Personal History of Burma">The River of Lost Footsteps: A Personal History of Burma</a>
+        </h4>
+        <p class="fr-book-author">By Thant Myint-U</p>
+
+        <p class="fr-book-desc">Places British colonialism, Burmese kingship, nationalism and twentieth-century upheaval within a readable account of the country’s longe...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+A+Personal+History+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prophets+of+rebellion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prophets of rebellion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Moral+Economy+of+the+Peasant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Moral Economy of the Peasant</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Return+of+the+Galon+King%3A+History%2C+Law%2C+and+Rebellion+in+Colonial+Burma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Return of the Galon King: History, Law, and Rebellion in Colonial Burma</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

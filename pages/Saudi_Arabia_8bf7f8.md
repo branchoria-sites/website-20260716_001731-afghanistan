@@ -1332,7 +1332,7 @@ The broader lesson is that collective fear becomes most dangerous when no instit
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Explores the ideological background of modern Islamist movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The broader lesson is that collective fear becomes most dangerous when no instit
           <a href="https://www.amazon.com/s?k=The+Siege+of+Mecca+Yaroslav+Trofimov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Siege of Mecca">The Siege of Mecca</a>
         </h4>
         <p class="fr-book-author">By Yaroslav Trofimov</p>
-        
+
         <p class="fr-book-desc">Covers the central historical event discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Siege+of+Mecca+Yaroslav+Trofimov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The broader lesson is that collective fear becomes most dangerous when no instit
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
         </h4>
         <p class="fr-book-author">By Robert Lacey</p>
-        
+
         <p class="fr-book-desc">Provides broad context for religion, politics and social change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The broader lesson is that collective fear becomes most dangerous when no instit
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Saudi Arabia">A history of Saudi Arabia</a>
         </h4>
         <p class="fr-book-author">By Madawi Al-Rasheed</p>
-        
+
         <p class="fr-book-desc">Explains the kingdom&#x27;s political and religious development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

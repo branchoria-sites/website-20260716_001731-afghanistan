@@ -1315,7 +1315,7 @@ The most durable lesson is not that crowds are foolish. People facing illness, r
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Addresses evidence, skepticism and extraordinary public beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ The most durable lesson is not that crowds are foolish. People facing illness, r
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Relevant to Dutch witch persecutions within European context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The most durable lesson is not that crowds are foolish. People facing illness, r
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Embarrassment of Riches">The Embarrassment of Riches</a>
         </h4>
         <p class="fr-book-author">By Simon Schama</p>
-        
+
         <p class="fr-book-desc">Provides broad context for Dutch culture, belief and public anxieties.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The most durable lesson is not that crowds are foolish. People facing illness, r
           <a href="https://www.amazon.com/s?k=The+Dutch+Republic+Jonathan+Irvine+Israel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dutch Republic">The Dutch Republic</a>
         </h4>
         <p class="fr-book-author">By Jonathan Irvine Israel, Jonathan I. Israel et al.</p>
-        
+
         <p class="fr-book-desc">Covers the political and religious background to multiple episodes discussed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dutch+Republic+Jonathan+Irvine+Israel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

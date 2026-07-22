@@ -360,7 +360,7 @@ For historians of collective belief, the episode demonstrates how political powe
           <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future Is History: How Totalitarianism Reclaimed Russia">The Future Is History: How Totalitarianism Reclaimed Russia</a>
         </h4>
         <p class="fr-book-author">By Masha Gessen</p>
-        
+
         <p class="fr-book-desc">Examines ideology and authoritarianism in the post-Soviet world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For historians of collective belief, the episode demonstrates how political powe
           <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Successor">The Great Successor</a>
         </h4>
         <p class="fr-book-author">By Anna Fifield</p>
-        
+
         <p class="fr-book-desc">Illustrates modern personality cults and political symbolism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For historians of collective belief, the episode demonstrates how political powe
           <a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)">The Italian Road to Totalitarianism (Totalitarianism Movement...</a>
         </h4>
         <p class="fr-book-author">By Emilio Gentile</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Totalitarianism, Fascism, Italy, politics and government, Politics and government.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For historians of collective belief, the episode demonstrates how political powe
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
         </h4>
         <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
         <p class="fr-book-desc">Supplies historical background to Turkmen nation-building.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

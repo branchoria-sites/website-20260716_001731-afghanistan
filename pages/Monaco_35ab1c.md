@@ -1316,7 +1316,7 @@ The sparse record is itself instructive. Small countries are easily drawn into s
           <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of Christianity">The Oxford illustrated history of Christianity</a>
         </h4>
         <p class="fr-book-author">By John McManners</p>
-        
+
         <p class="fr-book-desc">Helps explain the development of Christian traditions, saints and collective religious belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+Christianity+John+McManners&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1333,7 +1333,7 @@ The sparse record is itself instructive. Small countries are easily drawn into s
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains how societies have interpreted fear, superstition and accusations across Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The sparse record is itself instructive. Small countries are easily drawn into s
           <a href="https://www.amazon.com/s?k=A+little+history+of+religion+Holloway%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A little history of religion">A little history of religion</a>
         </h4>
         <p class="fr-book-author">By Holloway, Richard</p>
-        
+
         <p class="fr-book-desc">Places Monaco&#x27;s religious traditions within the wider history of belief and culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+little+history+of+religion+Holloway%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ The sparse record is itself instructive. Small countries are easily drawn into s
           <a href="https://www.amazon.com/s?k=Monaco%3A+Business+and+Pleasure+on+the+Riviera+Nicholas+Foulkes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monaco: Business and Pleasure on the Riviera">Monaco: Business and Pleasure on the Riviera</a>
         </h4>
         <p class="fr-book-author">By Nicholas Foulkes</p>
-        
+
         <p class="fr-book-desc">Provides broad historical and cultural context for Monaco&#x27;s identity, traditions and public memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monaco%3A+Business+and+Pleasure+on+the+Riviera+Nicholas+Foulkes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

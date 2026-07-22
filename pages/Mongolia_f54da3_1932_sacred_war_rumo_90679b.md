@@ -350,7 +350,7 @@ For historians of collective belief, the episode is valuable because it sits bet
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
         </h4>
         <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-        
+
         <p class="fr-book-desc">Explores dynamics behind ideological and religious mobilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ For historians of collective belief, the episode is valuable because it sits bet
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Helps explain how shared narratives and beliefs mobilize populations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For historians of collective belief, the episode is valuable because it sits bet
           <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Mongolia">The history of Mongolia</a>
         </h4>
         <p class="fr-book-author">By David Sneath, C. Kaplonski</p>
-        
+
         <p class="fr-book-desc">Places the 1932 rebellion within wider political and religious change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For historians of collective belief, the episode is valuable because it sits bet
           <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mongolia">Mongolia</a>
         </h4>
         <p class="fr-book-author">By Michael Dillon</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Mongolia, history, Asia, politics and government, History, Politics and government.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

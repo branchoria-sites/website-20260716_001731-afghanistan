@@ -1339,7 +1339,7 @@ The central lesson is that collective belief in Yemen cannot be separated from p
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of Islam">The Oxford history of Islam</a>
         </h4>
         <p class="fr-book-author">By John L. Esposito</p>
-        
+
         <p class="fr-book-desc">Places Yemen&#x27;s religious history in broader Islamic context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ The central lesson is that collective belief in Yemen cannot be separated from p
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jews of Arab Lands in Modern Times">The Jews of Arab Lands in Modern Times</a>
         </h4>
         <p class="fr-book-author">By Norman A. Stillman</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Jews, Ethnic relations, Sources, Zionism, Jewish-Arab relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ The central lesson is that collective belief in Yemen cannot be separated from p
           <a href="https://www.amazon.com/s?k=Yemen+Tim+Mackintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim Mackintosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Journeys, Travel, Yemen, Arab countries, guidebooks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+Mackintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

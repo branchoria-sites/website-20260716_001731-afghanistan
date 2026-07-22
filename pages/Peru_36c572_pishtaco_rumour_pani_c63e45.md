@@ -366,7 +366,7 @@ Seen in this light, the pishtaco is less a supernatural killer than a recurring 
 <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Not Being Governed">The Art of Not Being Governed</a>
 </h4>
 <p class="fr-book-author">By James C. Scott</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Politics and government, Rural conditions, Peasantry, Ethnology, Political activity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Seen in this light, the pishtaco is less a supernatural killer than a recurring 
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
 </h4>
 <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Religion, Occultism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Seen in this light, the pishtaco is less a supernatural killer than a recurring 
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
 </h4>
 <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
 <p class="fr-book-desc">First published 2008.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Seen in this light, the pishtaco is less a supernatural killer than a recurring 
 <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
 </h4>
 <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Incas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

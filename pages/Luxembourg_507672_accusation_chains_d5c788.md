@@ -379,7 +379,7 @@ The eventual decline of witch trials across Europe likewise followed legal chang
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-        
+
 <p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The eventual decline of witch trials across Europe likewise followed legal chang
 <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
 </h4>
 <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
 <p class="fr-book-desc">First published 1975. Subjects: Witchcraft, History, Demonology, Church history, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The eventual decline of witch trials across Europe likewise followed legal chang
 <a href="https://www.amazon.com/s?k=Thinking+with+Demons+Stuart+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking with Demons">Thinking with Demons</a>
 </h4>
 <p class="fr-book-author">By Stuart Clark</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Religion, Witchcraft, History, Witchcraft, europe, Europe, religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking+with+Demons+Stuart+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The eventual decline of witch trials across Europe likewise followed legal chang
 <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witch craze">Witch craze</a>
 </h4>
 <p class="fr-book-author">By Lyndal Roper</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Trials (Witchcraft), Witchcraft, History, Witchcraft, europe, Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

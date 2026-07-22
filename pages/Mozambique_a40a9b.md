@@ -1337,7 +1337,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
 </h4>
 <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
 <p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1354,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1371,7 +1371,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Mozambique">A history of Mozambique</a>
 </h4>
 <p class="fr-book-author">By M. D. D. Newitt</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: History, Mozambique, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1388,7 +1388,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=The+War+Within%3A+New+Perspectives+on+the+Civil+War+in+Mozambique+Eric+Morier+Genoud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War Within: New Perspectives on the Civil War in Mozambique">The War Within: New Perspectives on the Civil War in Mozambique</a>
 </h4>
 <p class="fr-book-author">By Eric Morier-Genoud</p>
-        
+
 <p class="fr-book-desc">Explains conflict and insecurity shaping rumor and belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+War+Within%3A+New+Perspectives+on+the+Civil+War+in+Mozambique+Eric+Morier+Genoud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1302,7 +1302,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=Rumor%2C+Fear+and+the+Madness+of+Crowds+J.+P.+Chaplin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rumor, Fear and the Madness of Crowds">Rumor, Fear and the Madness of Crowds</a>
 </h4>
 <p class="fr-book-author">By J. P. Chaplin</p>
-        
+
 <p class="fr-book-desc">First published 1959. Subjects: Hysteria (social psychology), Hysteria (Social psychology), Case studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rumor%2C+Fear+and+the+Madness+of+Crowds+J.+P.+Chaplin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1319,7 +1319,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=Believing+in+magic+Stuart+A.+Vyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Believing in magic">Believing in magic</a>
 </h4>
 <p class="fr-book-author">By Stuart A. Vyse, T. Gotterbarm et al.</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Superstition, PSYCHOLOGY / General, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Believing+in+magic+Stuart+A.+Vyse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1336,7 +1336,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
 </h4>
 <p class="fr-book-author">By Joseph Nevins</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Autonomy and independence movements, Violence, Political atrocities, History, Timor island.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
 </h4>
 <p class="fr-book-author">By Matthew Jardine</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: East Timor, Politics and government, Political atrocities, Autonomy and independence movements, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

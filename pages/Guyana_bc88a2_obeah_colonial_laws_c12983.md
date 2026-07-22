@@ -339,7 +339,7 @@ Within the wider history of collective fears in Guyana, anti-obeah laws represen
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ Within the wider history of collective fears in Guyana, anti-obeah laws represen
 <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
 </h4>
 <p class="fr-book-author">By Jeff Guinn</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Large type books, Jonestown Mass Suicide, Jonestown, Guyana, 1978, Peoples Temple, Criminals, united stat...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Within the wider history of collective fears in Guyana, anti-obeah laws represen
 <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven">Raven</a>
 </h4>
 <p class="fr-book-author">By Tim Reiterman, John Jacobs</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: Peoples Temple, Biographie, Volkstempelsekte, Christianity - Denominations, Religious Cults.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Within the wider history of collective fears in Guyana, anti-obeah laws represen
 <a href="https://www.amazon.com/s?k=Mama+Lola%3A+A+Vodou+Priestess+in+Brooklyn+Karen+McCarthy+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mama Lola: A Vodou Priestess in Brooklyn">Mama Lola: A Vodou Priestess in Brooklyn</a>
 </h4>
 <p class="fr-book-author">By Karen McCarthy Brown</p>
-        
+
 <p class="fr-book-desc">Provides context for African-derived Caribbean religions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mama+Lola%3A+A+Vodou+Priestess+in+Brooklyn+Karen+McCarthy+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

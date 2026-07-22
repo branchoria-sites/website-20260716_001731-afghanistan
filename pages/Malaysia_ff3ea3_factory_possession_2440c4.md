@@ -399,7 +399,7 @@ The factory possession cases therefore remain central to understanding Malaysia'
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Provides cultural frameworks for symbolic danger.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ The factory possession cases therefore remain central to understanding Malaysia'
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Explores behaviour under institutional pressure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ The factory possession cases therefore remain central to understanding Malaysia'
           <a href="https://www.amazon.com/s?k=The+Managed+Heart+Arlie+Russell+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Managed Heart">The Managed Heart</a>
         </h4>
         <p class="fr-book-author">By Arlie Russell Hochschild</p>
-        
+
         <p class="fr-book-desc">Explores emotional labour and workplace pressures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Managed+Heart+Arlie+Russell+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ The factory possession cases therefore remain central to understanding Malaysia'
           <a href="https://www.amazon.com/s?k=Working+Studs+Terkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working">Working</a>
         </h4>
         <p class="fr-book-author">By Studs Terkel</p>
-        
+
         <p class="fr-book-desc">Offers broader context on lived workplace experience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Working+Studs+Terkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

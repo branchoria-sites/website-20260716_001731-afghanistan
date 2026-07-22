@@ -365,7 +365,7 @@ International organisations, including United Nations experts, the United States
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">Explains moral polarization and group conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ International organisations, including United Nations experts, the United States
           <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blood of Brothers">Blood of Brothers</a>
         </h4>
         <p class="fr-book-author">By Stephen Kinzer</p>
-        
+
         <p class="fr-book-desc">Explains the political-religious conflicts central to the topic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ International organisations, including United Nations experts, the United States
           <a href="https://www.amazon.com/s?k=How+Democracies+Die+Steven+Levitsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Democracies Die">How Democracies Die</a>
         </h4>
         <p class="fr-book-author">By Steven Levitsky, Daniel Ziblatt</p>
-        
+
         <p class="fr-book-desc">Provides wider context for attacks on democratic institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Democracies+Die+Steven+Levitsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ International organisations, including United Nations experts, the United States
           <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Alejo Carpentier The Kingdom of This World (Tra)">By Alejo Carpentier The Kingdom of This World (Tra)</a>
         </h4>
         <p class="fr-book-author">By Alejo Carpentier</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

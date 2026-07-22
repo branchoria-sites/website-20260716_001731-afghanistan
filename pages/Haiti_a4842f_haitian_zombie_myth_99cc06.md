@@ -370,7 +370,7 @@ Recognising this distinction also helps avoid treating Haitian Vodou as merely a
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Directly addresses zombification traditions and interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Recognising this distinction also helps avoid treating Haitian Vodou as merely a
           <a href="https://www.amazon.com/s?k=World+War+Z+Max+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World War Z">World War Z</a>
         </h4>
         <p class="fr-book-author">By Max Brooks</p>
-        
+
         <p class="fr-book-desc">Illustrates how Haitian zombie ideas evolved into global fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=World+War+Z+Max+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Recognising this distinction also helps avoid treating Haitian Vodou as merely a
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
         </h4>
         <p class="fr-book-author">By Zora Neale Hurston</p>
-        
+
         <p class="fr-book-desc">Includes influential discussions of Haitian zombies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Recognising this distinction also helps avoid treating Haitian Vodou as merely a
           <a href="https://www.amazon.com/s?k=The+Zombie+Survival+Guide+Max+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Zombie Survival Guide">The Zombie Survival Guide</a>
         </h4>
         <p class="fr-book-author">By Max Brooks</p>
-        
+
         <p class="fr-book-desc">Shows the modern pop-culture transformation of the zombie concept.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Zombie+Survival+Guide+Max+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

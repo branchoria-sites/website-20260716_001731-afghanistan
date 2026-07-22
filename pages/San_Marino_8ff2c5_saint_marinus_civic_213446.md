@@ -354,7 +354,7 @@ Rather than abandoning its founding legend, San Marino reinterpreted it. The rep
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Christianity">A history of Christianity</a>
         </h4>
         <p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
+
         <p class="fr-book-desc">Explains the development of Christian traditions that shaped San Marino&#x27;s civic culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Rather than abandoning its founding legend, San Marino reinterpreted it. The rep
           <a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dominion">Dominion</a>
         </h4>
         <p class="fr-book-author">By Tom Holland, Mark Meadows et al.</p>
-        
+
         <p class="fr-book-desc">Examines Christianity&#x27;s influence on Western political and moral institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dominion+Tom+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Rather than abandoning its founding legend, San Marino reinterpreted it. The rep
           <a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The European Convention on Human Rights">The European Convention on Human Rights</a>
         </h4>
         <p class="fr-book-author">By Steven Greer</p>
-        
+
         <p class="fr-book-desc">Helps explain the legal principles behind the parliamentary oath dispute.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+European+Convention+on+Human+Rights+Steven+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Rather than abandoning its founding legend, San Marino reinterpreted it. The rep
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
         </h4>
         <p class="fr-book-author">By T. H. Bingham</p>
-        
+
         <p class="fr-book-desc">Useful background for constitutional rights, oaths and freedom of conscience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

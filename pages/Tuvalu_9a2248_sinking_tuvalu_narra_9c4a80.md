@@ -402,7 +402,7 @@ Tuvalu is not a case of a nation vanishing overnight beneath the ocean, nor is i
 <a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The water will come">The water will come</a>
 </h4>
 <p class="fr-book-author">By Jeff Goodell</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Floods, Sea level, Forecasts, Climatic changes, Forecasting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Tuvalu is not a case of a nation vanishing overnight beneath the ocean, nor is i
 <a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Great Displacement">Great Displacement</a>
 </h4>
 <p class="fr-book-author">By Jake Bittle</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Tuvalu is not a case of a nation vanishing overnight beneath the ocean, nor is i
 <a href="https://www.amazon.com/s?k=Rising+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rising">Rising</a>
 </h4>
 <p class="fr-book-author">By Elizabeth Rush</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Coast changes, Climatic factors, Travel, Coasts, Sea level.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rising+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ Tuvalu is not a case of a nation vanishing overnight beneath the ocean, nor is i
 <a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Climate justice">Climate justice</a>
 </h4>
 <p class="fr-book-author">By Mary Robinson, Mary Robinson</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Social aspects, Climatic changes, Environmental justice.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

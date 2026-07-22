@@ -1345,7 +1345,7 @@ In Guinea, the most consequential contagious beliefs were not bizarre curiositie
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
 </h4>
 <p class="fr-book-author">By David Quammen</p>
-        
+
 <p class="fr-book-desc">Explores emerging diseases and human reactions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ In Guinea, the most consequential contagious beliefs were not bizarre curiositie
 <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
 </h4>
 <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ In Guinea, the most consequential contagious beliefs were not bizarre curiositie
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ In Guinea, the most consequential contagious beliefs were not bizarre curiositie
 <a href="https://www.amazon.com/s?k=Ebola+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ebola">Ebola</a>
 </h4>
 <p class="fr-book-author">By David Quammen</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Epidemics, Ebola virus disease, Popular works, History, nyt:health=2014-12-07.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ebola+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1433,7 +1433,7 @@ Brazil’s history consequently supports a more careful vocabulary than “mass 
 <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brazilians">The Brazilians</a>
 </h4>
 <p class="fr-book-author">By Joseph A. Page</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Brazilian National characteristics, Características nacionales brasileñas, Condiciones económicas, Condic...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1450,7 +1450,7 @@ Brazil’s history consequently supports a more careful vocabulary than “mass 
 <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brazil">Brazil</a>
 </h4>
 <p class="fr-book-author">By Lilia M. Schwarcz, Heloisa M. Starling</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Brazil, history, Brazil, civilization, Brazil, description and travel, History, Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1467,7 +1467,7 @@ Brazil’s history consequently supports a more careful vocabulary than “mass 
 <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha (1957-09-15)">Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha...</a>
 </h4>
 <p class="fr-book-author">By Euclides da Cunha</p>
-        
+
 <p class="fr-book-desc">First published 1716.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

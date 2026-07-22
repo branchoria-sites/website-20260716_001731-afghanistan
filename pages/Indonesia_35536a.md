@@ -1369,7 +1369,7 @@ Indonesia’s history therefore offers a broader warning about collective belief
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Helps explain nationalism, identity and collective belief in Southeast Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1386,7 +1386,7 @@ Indonesia’s history therefore offers a broader warning about collective belief
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method">The Jakarta Method</a>
         </h4>
         <p class="fr-book-author">By Vincent Bevins</p>
-        
+
         <p class="fr-book-desc">Provides political context for fear, violence and social upheaval in modern Indonesia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jakarta+Method+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1403,7 +1403,7 @@ Indonesia’s history therefore offers a broader warning about collective belief
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
         </h4>
         <p class="fr-book-author">By Clifford Geertz</p>
-        
+
         <p class="fr-book-desc">Introduces cultural interpretation useful for understanding belief, ritual and social behaviour.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

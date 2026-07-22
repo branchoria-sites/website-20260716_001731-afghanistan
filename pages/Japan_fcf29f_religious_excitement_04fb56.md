@@ -365,7 +365,7 @@ Taken together, these episodes illustrate why historians avoid treating all inte
           <a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destroying the World to Save It">Destroying the World to Save It</a>
         </h4>
         <p class="fr-book-author">By Robert Jay Lifton</p>
-        
+
         <p class="fr-book-desc">Directly examines Japan&#x27;s most infamous modern religious movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Destroying+the+World+to+Save+It+Robert+Jay+Lifton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Taken together, these episodes illustrate why historians avoid treating all inte
           <a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chrysanthemum and the Sword">The Chrysanthemum and the Sword</a>
         </h4>
         <p class="fr-book-author">By Ruth Benedict</p>
-        
+
         <p class="fr-book-desc">Influential interpretation of Japanese culture and social norms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Chrysanthemum+and+the+Sword+Ruth+Benedict&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Taken together, these episodes illustrate why historians avoid treating all inte
           <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
         </h4>
         <p class="fr-book-author">By James L. McClain</p>
-        
+
         <p class="fr-book-desc">Places religious movements in modern Japan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Taken together, these episodes illustrate why historians avoid treating all inte
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
         </h4>
         <p class="fr-book-author">By Andrew Gordon</p>
-        
+
         <p class="fr-book-desc">Historical background for social and religious change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

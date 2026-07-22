@@ -1345,7 +1345,7 @@ Together, these cases reveal a society repeatedly debating where religion ends a
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Provides essential Caribbean context on slavery, resistance and colonial power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ Together, these cases reveal a society repeatedly debating where religion ends a
           <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Jamaica">The history of Jamaica</a>
         </h4>
         <p class="fr-book-author">By Edward Long</p>
-        
+
         <p class="fr-book-desc">Influential colonial account central to understanding official attitudes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Together, these cases reveal a society repeatedly debating where religion ends a
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places Jamaican religious and political history in regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ Together, these cases reveal a society repeatedly debating where religion ends a
           <a href="https://www.amazon.com/s?k=Born+Fi%27dead+Laurie+Gunst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born Fi&#x27;dead">Born Fi&#x27;dead</a>
         </h4>
         <p class="fr-book-author">By Laurie Gunst</p>
-        
+
         <p class="fr-book-desc">Offers modern social context for authority, fear and community.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Born+Fi%27dead+Laurie+Gunst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

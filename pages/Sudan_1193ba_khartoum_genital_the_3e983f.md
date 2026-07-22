@@ -360,7 +360,7 @@ Within [Sudan]({{ 'sudan/' | relative_url }})'s wider history of collective beli
           <a href="https://www.amazon.com/s?k=The+Anatomy+of+Human+Destructiveness+Erich+Fromm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anatomy of Human Destructiveness">The Anatomy of Human Destructiveness</a>
         </h4>
         <p class="fr-book-author">By Erich Fromm</p>
-        
+
         <p class="fr-book-desc">Explores fear, suspicion and social behavior.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anatomy+of+Human+Destructiveness+Erich+Fromm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Within [Sudan]({{ 'sudan/' | relative_url }})'s wider history of collective beli
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
         </h4>
         <p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
-        
+
         <p class="fr-book-desc">Explains how rumors spread under uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Within [Sudan]({{ 'sudan/' | relative_url }})'s wider history of collective beli
           <a href="https://www.amazon.com/s?k=Social+Contagion+Damon+Centola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Social Contagion">Social Contagion</a>
         </h4>
         <p class="fr-book-author">By Damon Centola</p>
-        
+
         <p class="fr-book-desc">Helps explain rapid diffusion of urban rumor.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Social+Contagion+Damon+Centola&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

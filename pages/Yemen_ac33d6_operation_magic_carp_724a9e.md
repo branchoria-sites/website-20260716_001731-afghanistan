@@ -333,7 +333,7 @@ Seen this way, Operation Magic Carpet is best understood not as either miracle o
           <a href="https://www.amazon.com/s?k=Exodus+Leon+Uris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Exodus">Exodus</a>
         </h4>
         <p class="fr-book-author">By Leon Uris</p>
-        
+
         <p class="fr-book-desc">Introduces the broader era of Jewish migration to Israel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Exodus+Leon+Uris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ Seen this way, Operation Magic Carpet is best understood not as either miracle o
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jews of Arab Lands in Modern Times">The Jews of Arab Lands in Modern Times</a>
         </h4>
         <p class="fr-book-author">By Norman A. Stillman</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Jews, Ethnic relations, Sources, Zionism, Jewish-Arab relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+in+Modern+Times+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Seen this way, Operation Magic Carpet is best understood not as either miracle o
           <a href="https://www.amazon.com/s?k=Yemen+Tim+Mackintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim Mackintosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Journeys, Travel, Yemen, Arab countries, guidebooks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+Mackintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Seen this way, Operation Magic Carpet is best understood not as either miracle o
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jews of Arab Lands">The Jews of Arab Lands</a>
         </h4>
         <p class="fr-book-author">By Norman A. Stillman</p>
-        
+
         <p class="fr-book-desc">Provides the wider history behind the Yemenite Jewish airlift.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Jews+of+Arab+Lands+Norman+A.+Stillman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

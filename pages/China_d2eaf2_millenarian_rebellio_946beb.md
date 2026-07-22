@@ -365,7 +365,7 @@ For historians of religion, psychology and social movements, these sacred rebell
           <a href="https://www.amazon.com/s?k=Autumn+in+the+Heavenly+Kingdom+Stephen+R.+Platt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Autumn in the Heavenly Kingdom">Autumn in the Heavenly Kingdom</a>
         </h4>
         <p class="fr-book-author">By Stephen R. Platt</p>
-        
+
         <p class="fr-book-desc">Explores the Taiping conflict in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Autumn+in+the+Heavenly+Kingdom+Stephen+R.+Platt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For historians of religion, psychology and social movements, these sacred rebell
           <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Chinese Son">God&#x27;s Chinese Son</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Directly covers millenarian belief and civil war.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For historians of religion, psychology and social movements, these sacred rebell
           <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boxer Rebellion and the Great Game in China">The Boxer Rebellion and the Great Game in China</a>
         </h4>
         <p class="fr-book-author">By David J. Silbey</p>
-        
+
         <p class="fr-book-desc">Explains Boxer beliefs and violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For historians of religion, psychology and social movements, these sacred rebell
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
         </h4>
         <p class="fr-book-author">By Jonathan D. Spence</p>
-        
+
         <p class="fr-book-desc">Places rebellions in long-term Chinese history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -388,7 +388,7 @@ The lasting lesson is that outbreaks like Lempu require both medical investigati
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains fear, symptom spread and social contagion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The lasting lesson is that outbreaks like Lempu require both medical investigati
           <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influential mind">The influential mind</a>
         </h4>
         <p class="fr-book-author">By Tali Sharot</p>
-        
+
         <p class="fr-book-desc">Explores how beliefs spread within groups.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The lasting lesson is that outbreaks like Lempu require both medical investigati
           <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Beliefs">Extraordinary Beliefs</a>
         </h4>
         <p class="fr-book-author">By Peter Lamont</p>
-        
+
         <p class="fr-book-desc">Examines why people adopt extraordinary explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Extraordinary+Beliefs+Peter+Lamont&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The lasting lesson is that outbreaks like Lempu require both medical investigati
           <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools+Robert+E.+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mass Hysteria in Schools">Mass Hysteria in Schools</a>
         </h4>
         <p class="fr-book-author">By Robert E. Bartholomew, Bob Rickard</p>
-        
+
         <p class="fr-book-desc">Directly addresses school-based mass psychogenic illness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools+Robert+E.+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

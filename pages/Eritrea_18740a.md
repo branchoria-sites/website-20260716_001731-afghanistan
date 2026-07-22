@@ -1333,7 +1333,7 @@ The country’s story is therefore less about spectacular outbreaks than about t
 <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: History, Politics and government, Africa, history, Africa, politics and government.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The country’s story is therefore less about spectacular outbreaks than about t
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ The country’s story is therefore less about spectacular outbreaks than about t
 <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Didn&#x27;t Do It for You">I Didn&#x27;t Do It for You</a>
 </h4>
 <p class="fr-book-author">By Michela Wrong</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: History, Foreign relations, Biography &amp; Autobiography, Nonfiction, Politics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ The country’s story is therefore less about spectacular outbreaks than about t
 <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Eritrea">Understanding Eritrea</a>
 </h4>
 <p class="fr-book-author">By Martin Plaut</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Politics and government, History, Eritrea, Asia, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

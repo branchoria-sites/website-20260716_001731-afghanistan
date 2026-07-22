@@ -374,7 +374,7 @@ The enduring question is not simply whether there was a conspiracy, but how a so
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Frames plantation rebellion and colonial fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The enduring question is not simply whether there was a conspiracy, but how a so
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places Antigua within regional developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The enduring question is not simply whether there was a conspiracy, but how a so
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
         </h4>
         <p class="fr-book-author">By Michael Craton</p>
-        
+
         <p class="fr-book-desc">Directly relevant to interpreting the Antigua conspiracy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The enduring question is not simply whether there was a conspiracy, but how a so
           <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
         </h4>
         <p class="fr-book-author">By Olaudah Equiano</p>
-        
+
         <p class="fr-book-desc">Provides firsthand context for slavery in the Atlantic world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

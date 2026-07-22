@@ -343,7 +343,7 @@ For the [Netherlands]({{ 'netherlands/' | relative_url }})' wider history of col
           <a href="https://www.amazon.com/s?k=The+Anabaptist+story+William+Roscoe+Estep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anabaptist story">The Anabaptist story</a>
         </h4>
         <p class="fr-book-author">By William Roscoe Estep</p>
-        
+
         <p class="fr-book-desc">Explains the wider movement beyond the violent minority.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anabaptist+story+William+Roscoe+Estep&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For the [Netherlands]({{ 'netherlands/' | relative_url }})' wider history of col
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Embarrassment of Riches">The Embarrassment of Riches</a>
         </h4>
         <p class="fr-book-author">By Simon Schama</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for religious fear and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For the [Netherlands]({{ 'netherlands/' | relative_url }})' wider history of col
           <a href="https://www.amazon.com/s?k=The+tailor+king+Anthony+Arthur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tailor king">The tailor king</a>
         </h4>
         <p class="fr-book-author">By Anthony Arthur</p>
-        
+
         <p class="fr-book-desc">Essential background to the Amsterdam Anabaptist revolt.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+tailor+king+Anthony+Arthur&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For the [Netherlands]({{ 'netherlands/' | relative_url }})' wider history of col
           <a href="https://www.amazon.com/s?k=The+Dutch+Republic+Jonathan+Irvine+Israel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dutch Republic">The Dutch Republic</a>
         </h4>
         <p class="fr-book-author">By Jonathan Irvine Israel, Jonathan I. Israel et al.</p>
-        
+
         <p class="fr-book-desc">Places the revolt within wider Dutch religious history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dutch+Republic+Jonathan+Irvine+Israel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

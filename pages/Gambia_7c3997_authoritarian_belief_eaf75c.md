@@ -394,7 +394,7 @@ This distinction remains important when interpreting episodes of collective fear
           <a href="https://www.amazon.com/s?k=On+Tyranny+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On Tyranny">On Tyranny</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">Discusses how authoritarian systems suppress dissent.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+Tyranny+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ This distinction remains important when interpreting episodes of collective fear
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-        
+
         <p class="fr-book-desc">Directly explains incentives that sustain coercive regimes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ This distinction remains important when interpreting episodes of collective fear
           <a href="https://www.amazon.com/s?k=How+Tyrants+Fall+Marcel+Dirsus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Tyrants Fall">How Tyrants Fall</a>
         </h4>
         <p class="fr-book-author">By Marcel Dirsus</p>
-        
+
         <p class="fr-book-desc">Explains the dynamics of authoritarian power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Tyrants+Fall+Marcel+Dirsus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ This distinction remains important when interpreting episodes of collective fear
           <a href="https://www.amazon.com/s?k=Strongmen+Ruth+Ben-Ghiat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strongmen">Strongmen</a>
         </h4>
         <p class="fr-book-author">By Ruth Ben-Ghiat</p>
-        
+
         <p class="fr-book-desc">Shows how authoritarian leaders cultivate belief and fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Strongmen+Ruth+Ben-Ghiat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

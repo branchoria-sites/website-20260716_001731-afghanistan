@@ -339,7 +339,7 @@ Within Spain's broader history of apparitions, moral panics and contested religi
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The triumph of Christianity">The triumph of Christianity</a>
         </h4>
         <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of how religious movements become institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ Within Spain's broader history of apparitions, moral panics and contested religi
           <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford handbook of new religious movements">The Oxford handbook of new religious movements</a>
         </h4>
         <p class="fr-book-author">By James R Lewis, James R. Lewis</p>
-        
+
         <p class="fr-book-desc">Places the Palmarian Church within wider new religious movement scholarship.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+handbook+of+new+religious+movements+James+R+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Within Spain's broader history of apparitions, moral panics and contested religi
           <a href="https://www.amazon.com/s?k=Cults+Marc+Galanter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults">Cults</a>
         </h4>
         <p class="fr-book-author">By Marc Galanter</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Religious Psychology, Cults, Spiritual healing, Sects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+Marc+Galanter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Within Spain's broader history of apparitions, moral panics and contested religi
           <a href="https://www.amazon.com/s?k=The+pope+who+would+be+king+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pope who would be king">The pope who would be king</a>
         </h4>
         <p class="fr-book-author">By David I. Kertzer</p>
-        
+
         <p class="fr-book-desc">Explains the modern Catholic context from which schismatic movements emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+pope+who+would+be+king+David+I.+Kertzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

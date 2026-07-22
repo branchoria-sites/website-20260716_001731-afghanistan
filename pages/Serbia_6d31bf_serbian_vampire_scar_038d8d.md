@@ -365,7 +365,7 @@ Rather than treating the episodes as simple examples of gullibility, historians 
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vampires, burial, and death">Vampires, burial, and death</a>
         </h4>
         <p class="fr-book-author">By Paul Barber</p>
-        
+
         <p class="fr-book-desc">Examines historical vampire scares, exhumations, and the cultural beliefs behind them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Rather than treating the episodes as simple examples of gullibility, historians 
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Places eighteenth-century vampire panics within the wider history of European supernatural fears.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Rather than treating the episodes as simple examples of gullibility, historians 
           <a href="https://www.amazon.com/s?k=The+Vampire+Book+J.+Gordon+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire Book">The Vampire Book</a>
         </h4>
         <p class="fr-book-author">By J. Gordon Melton</p>
-        
+
         <p class="fr-book-desc">Covers Serbian vampire traditions alongside the broader development of vampire legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Vampire+Book+J.+Gordon+Melton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ Rather than treating the episodes as simple examples of gullibility, historians 
           <a href="https://www.amazon.com/s?k=The+Vampire%3A+A+New+History+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire: A New History">The Vampire: A New History</a>
         </h4>
         <p class="fr-book-author">By Nick Groom</p>
-        
+
         <p class="fr-book-desc">Explains how early eighteenth-century Serbian vampire reports shaped the modern vampire tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Vampire%3A+A+New+History+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

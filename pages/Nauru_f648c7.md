@@ -1308,16 +1308,16 @@ That makes Nauru culturally important within the wider history of panics and con
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Undesirables&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Undesirables on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14528792-M.jpg" alt="Cover for Undesirables" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Friend+But+the+Mountains+Behrouz+Boochani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Friend But the Mountains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9173161-M.jpg" alt="Cover for No Friend But the Mountains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Undesirables&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Undesirables">Undesirables</a>
+          <a href="https://www.amazon.com/s?k=No+Friend+But+the+Mountains+Behrouz+Boochani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Friend But the Mountains">No Friend But the Mountains</a>
         </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Documents daily life, despair, self-harm and political secrecy inside Australia&#x27;s Nauru detention centre, showing the human consequences...</p>
+        <p class="fr-book-author">By Behrouz Boochani, BEHROUZ BOOCHANI et al.</p>
+
+        <p class="fr-book-desc">Although centred on Manus Island rather than Nauru, it powerfully examines the same offshore-processing regime, political narratives of t...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Undesirables&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=No+Friend+But+the+Mountains+Behrouz+Boochani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1325,16 +1325,16 @@ That makes Nauru culturally important within the wider history of panics and con
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Friend+but+the+Mountains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Friend but the Mountains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10471075-M.jpg" alt="Cover for No Friend but the Mountains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Undesirables+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Undesirables on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14528792-M.jpg" alt="Cover for Undesirables" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=No+Friend+but+the+Mountains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Friend but the Mountains">No Friend but the Mountains</a>
+          <a href="https://www.amazon.com/s?k=Undesirables+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Undesirables">Undesirables</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Although centred on Manus Island rather than Nauru, it powerfully examines the same offshore-processing regime, political narratives of t...</p>
+
+        <p class="fr-book-desc">Documents daily life, despair, self-harm and political secrecy inside Australia&#x27;s Nauru detention centre, showing the human consequences...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=No+Friend+but+the+Mountains&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Undesirables+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1348,7 +1348,7 @@ That makes Nauru culturally important within the wider history of panics and con
           <a href="https://www.amazon.com/s?k=Asylum+and+Extraction+in+the+Republic+of+Nauru+Julia+Caroline+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asylum and Extraction in the Republic of Nauru">Asylum and Extraction in the Republic of Nauru</a>
         </h4>
         <p class="fr-book-author">By Julia Caroline Morris</p>
-        
+
         <p class="fr-book-desc">Connects Nauru&#x27;s colonial phosphate economy with its later role in Australia&#x27;s asylum industry, placing modern border fears within the is...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asylum+and+Extraction+in+the+Republic+of+Nauru+Julia+Caroline+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ That makes Nauru culturally important within the wider history of panics and con
           <a href="https://www.amazon.com/s?k=Offshore%3A+Behind+the+Wire+on+Manus+and+Nauru+Madeline+Gleeson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Offshore: Behind the Wire on Manus and Nauru">Offshore: Behind the Wire on Manus and Nauru</a>
         </h4>
         <p class="fr-book-author">By Madeline Gleeson</p>
-        
+
         <p class="fr-book-desc">Directly explains the political, legal and humanitarian development of detention on Nauru and Manus, including the rhetoric used to justi...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Offshore%3A+Behind+the+Wire+on+Manus+and+Nauru+Madeline+Gleeson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ That makes Nauru culturally important within the wider history of panics and con
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Undesirables&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Undesirables</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Friend+but+the+Mountains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Friend but the Mountains</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asylum+and+Extraction+in+the+Republic+of+Nauru&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asylum and Extraction in the Republic of Nauru</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Friend+But+the+Mountains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Friend But the Mountains</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Undesirables&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Undesirables</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Asylum+and+Extraction+in+the+Republic+of+Nauru&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Asylum and Extraction in the Republic of Nauru</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

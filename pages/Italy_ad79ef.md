@@ -1360,7 +1360,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Europe+John+Morris+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin history of Europe">The Penguin history of Europe</a>
 </h4>
 <p class="fr-book-author">By John Morris Roberts</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: History, Europe, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Europe+John+Morris+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=The+Cheese+and+the+Worms+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cheese and the Worms">The Cheese and the Worms</a>
 </h4>
 <p class="fr-book-author">By Carlo Ginzburg</p>
-        
+
 <p class="fr-book-desc">Explores belief, authority and popular religion in Italy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cheese+and+the+Worms+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=Ecstasies%3A+Deciphering+the+Witches%27+Sabbath+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ecstasies: Deciphering the Witches&#x27; Sabbath">Ecstasies: Deciphering the Witches&#x27; Sabbath</a>
 </h4>
 <p class="fr-book-author">By Carlo Ginzburg</p>
-        
+
 <p class="fr-book-desc">Examines witch beliefs, folklore and persecution.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ecstasies%3A+Deciphering+the+Witches%27+Sabbath+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

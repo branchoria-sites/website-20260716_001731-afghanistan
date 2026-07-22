@@ -353,7 +353,7 @@ For readers interested in Kazakhstan's wider history of collective fears, this d
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Explores modern Islamist militancy and security responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For readers interested in Kazakhstan's wider history of collective fears, this d
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">Explains moral and ideological divisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For readers interested in Kazakhstan's wider history of collective fears, this d
           <a href="https://www.amazon.com/s?k=Inside+Terrorism+Bruce+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside Terrorism">Inside Terrorism</a>
         </h4>
         <p class="fr-book-author">By Bruce Hoffman</p>
-        
+
         <p class="fr-book-desc">Provides evidence-based understanding of extremism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Inside+Terrorism+Bruce+Hoffman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For readers interested in Kazakhstan's wider history of collective fears, this d
           <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
         </h4>
         <p class="fr-book-author">By Olivier Roy</p>
-        
+
         <p class="fr-book-desc">Places Kazakhstan&#x27;s policies in broader regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -370,7 +370,7 @@ Rather than representing a spontaneous outbreak of "mass hysteria", the campaign
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">Explores moral foundations behind ideological conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Rather than representing a spontaneous outbreak of "mass hysteria", the campaign
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Connects religion, nationhood and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Rather than representing a spontaneous outbreak of "mass hysteria", the campaign
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
         </h4>
         <p class="fr-book-author">By Thompson, Kenneth</p>
-        
+
         <p class="fr-book-desc">Explains rhetoric that turns minorities into perceived threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Rather than representing a spontaneous outbreak of "mass hysteria", the campaign
           <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox Church in the history of Russia">The Orthodox Church in the history of Russia</a>
         </h4>
         <p class="fr-book-author">By Dimitry Pospielovsky</p>
-        
+
         <p class="fr-book-desc">Offers regional Orthodox historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

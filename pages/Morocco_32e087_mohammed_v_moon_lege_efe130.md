@@ -345,7 +345,7 @@ Today, the story occupies an unusual place in Morocco's history of collective be
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
         </h4>
         <p class="fr-book-author">By Susan Gilson Miller</p>
-        
+
         <p class="fr-book-desc">Covers Mohammed V and the independence era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ Today, the story occupies an unusual place in Morocco's history of collective be
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Helps explain how shared national myths emerge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Today, the story occupies an unusual place in Morocco's history of collective be
           <a href="https://www.amazon.com/s?k=Morocco+since+1830+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco since 1830">Morocco since 1830</a>
         </h4>
         <p class="fr-book-author">By C. R. Pennell</p>
-        
+
         <p class="fr-book-desc">Explains the historical background to the moon legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Morocco+since+1830+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Today, the story occupies an unusual place in Morocco's history of collective be
           <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco">Morocco</a>
         </h4>
         <p class="fr-book-author">By C. R. Pennell</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

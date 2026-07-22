@@ -1356,7 +1356,7 @@ Guatemala’s experience therefore changes the usual lesson of moral-panic histo
           <a href="https://www.amazon.com/s?k=Harvest+of+Violence+Robert+M.+Carmack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Harvest of Violence">Harvest of Violence</a>
         </h4>
         <p class="fr-book-author">By Robert M. Carmack</p>
-        
+
         <p class="fr-book-desc">Explains how fear and conflict affected Maya communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Harvest+of+Violence+Robert+M.+Carmack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ Guatemala’s experience therefore changes the usual lesson of moral-panic histo
           <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guatemala reader">The Guatemala reader</a>
         </h4>
         <p class="fr-book-author">By Greg Grandin, Elizabeth Oglesby</p>
-        
+
         <p class="fr-book-desc">Covers colonialism, civil war, Indigenous history and modern society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1390,7 +1390,7 @@ Guatemala’s experience therefore changes the usual lesson of moral-panic histo
           <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bitter fruit">Bitter fruit</a>
         </h4>
         <p class="fr-book-author">By Stephen C. Schlesinger, Stephen Schlesinger et al.</p>
-        
+
         <p class="fr-book-desc">Explains political instability underlying later rumour panics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bitter+fruit+Stephen+C.+Schlesinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1401,16 +1401,16 @@ Guatemala’s experience therefore changes the usual lesson of moral-panic histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rigoberta+Rigoberta+Menchu%CC%81&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rigoberta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12629804-M.jpg" alt="Cover for Rigoberta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rigoberta+Rigoberta+Menchu%CC%81&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rigoberta">Rigoberta</a>
+          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
-        <p class="fr-book-author">By Rigoberta Menchú</p>
-        
-        <p class="fr-book-desc">First published 1997. Subjects: Indiani Quiché, Diari e memorie.</p>
+        <p class="fr-book-author">By Eduardo Galeano</p>
+
+        <p class="fr-book-desc">Provides regional historical background to inequality and distrust.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rigoberta+Rigoberta+Menchu%CC%81&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

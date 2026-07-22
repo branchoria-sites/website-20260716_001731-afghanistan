@@ -351,7 +351,7 @@ Today, historians generally treat the Zoila Díaz case as one of the clearest ex
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,23 +364,23 @@ Today, historians generally treat the Zoila Díaz case as one of the clearest ex
 <article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
 
-            
+
 
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
 
-            
+
 
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
 <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
 
-            
+
 
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
 </h4>
 <p class="fr-book-author">By Julia E. Sweig</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Today, historians generally treat the Zoila Díaz case as one of the clearest ex
 <a href="https://www.amazon.com/s?k=Santeri%CC%81a+Joseph+M.+Murphy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Santería">Santería</a>
 </h4>
 <p class="fr-book-author">By Joseph M. Murphy, Joseph M. Murray et al.</p>
-        
+
 <p class="fr-book-desc">First published 1988. Subjects: Religion, Santeria, Santeria (Culte), General, Ethnic &amp; Tribal.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Santeri%CC%81a+Joseph+M.+Murphy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -342,7 +342,7 @@ For historians and anthropologists, they also demonstrate why ritual healing sho
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
 </h4>
 <p class="fr-book-author">By Anne Fadiman</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +359,7 @@ For historians and anthropologists, they also demonstrate why ritual healing sho
 <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
 </h4>
 <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For historians and anthropologists, they also demonstrate why ritual healing sho
 <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A modern history of Somalia">A modern history of Somalia</a>
 </h4>
 <p class="fr-book-author">By Lewis, I. M.</p>
-        
+
 <p class="fr-book-desc">First published 1980. Subjects: History, Somalia, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For historians and anthropologists, they also demonstrate why ritual healing sho
 <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Somalia and Somaliland">Understanding Somalia and Somaliland</a>
 </h4>
 <p class="fr-book-author">By Ioan Lewis</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: History, Somalia, history, Djibouti.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

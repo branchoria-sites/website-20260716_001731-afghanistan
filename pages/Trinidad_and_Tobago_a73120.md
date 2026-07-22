@@ -1329,7 +1329,7 @@ In each case, belief became socially powerful when supported by an institution, 
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Provides colonial Caribbean context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ In each case, belief became socially powerful when supported by an institution, 
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Trinidad, 1783-1962">A history of modern Trinidad, 1783-1962</a>
         </h4>
         <p class="fr-book-author">By Bridget Brereton</p>
-        
+
         <p class="fr-book-desc">Background for religion and politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Trinidad%2C+1783-1962+Bridget+Brereton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ In each case, belief became socially powerful when supported by an institution, 
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Introduces wider Caribbean discussions of supernatural belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ In each case, belief became socially powerful when supported by an institution, 
           <a href="https://www.amazon.com/s?k=Obeah%2C+Race+and+Racism%3A+Caribbean+Witchcraft+in+the+English+Imagination+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Obeah, Race and Racism: Caribbean Witchcraft in the English Imagination">Obeah, Race and Racism: Caribbean Witchcraft in the English I...</a>
         </h4>
         <p class="fr-book-author">By Diana Paton</p>
-        
+
         <p class="fr-book-desc">Explains obeah, colonial fears and persecution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Obeah%2C+Race+and+Racism%3A+Caribbean+Witchcraft+in+the+English+Imagination+Diana+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

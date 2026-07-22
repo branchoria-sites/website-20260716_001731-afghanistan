@@ -1367,30 +1367,13 @@ The clearest lesson is to ask what evidence exists for specific harm. Charisma, 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genghis Khan and the Making of the Modern World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/391676-M.jpg" alt="Cover for Genghis Khan and the Making of the Modern World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genghis Khan and the Making of the Modern World">Genghis Khan and the Making of the Modern World</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Provides broad historical context for later Mongolian developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+History+of+the+Mongol+Queens+Jack+Weatherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret History of the Mongol Queens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6699480-M.jpg" alt="Cover for The Secret History of the Mongol Queens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+Mongol+Queens+Jack+Weatherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret History of the Mongol Queens">The Secret History of the Mongol Queens</a>
         </h4>
         <p class="fr-book-author">By Jack Weatherford</p>
-        
+
         <p class="fr-book-desc">Introduces Mongolian culture, leadership and historical traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+History+of+the+Mongol+Queens+Jack+Weatherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1407,7 +1390,7 @@ The clearest lesson is to ask what evidence exists for specific harm. Charisma, 
           <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Mongolia">The history of Mongolia</a>
         </h4>
         <p class="fr-book-author">By David Sneath, C. Kaplonski</p>
-        
+
         <p class="fr-book-desc">Covers the political and religious background behind the featured episodes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1424,7 +1407,7 @@ The clearest lesson is to ask what evidence exists for specific harm. Charisma, 
           <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mongolia">Mongolia</a>
         </h4>
         <p class="fr-book-author">By Michael Dillon</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Mongolia, history, Asia, politics and government, History, Politics and government.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1433,9 +1416,26 @@ The clearest lesson is to ask what evidence exists for specific harm. Charisma, 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genghis Khan and the Making of the Modern World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/391676-M.jpg" alt="Cover for Genghis Khan and the Making of the Modern World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genghis Khan and the Making of the Modern World">Genghis Khan and the Making of the Modern World</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides broad historical context for later Mongolian developments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Genghis Khan and the Making of the Modern World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+the+Mongol+Queens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of the Mongol Queens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Mongolia</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+History+of+the+Mongol+Queens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret History of the Mongol Queens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Mongolia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mongolia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

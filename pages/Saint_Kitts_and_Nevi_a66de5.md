@@ -1344,7 +1344,7 @@ The surviving evidence therefore supports a careful conclusion. Saint Kitts and 
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
 </h4>
 <p class="fr-book-author">By C. L. R. James</p>
-        
+
 <p class="fr-book-desc">First published 1935. Subjects: History, Biography, Revolutionaries, Generals, Revolution, 1791-1804.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The surviving evidence therefore supports a careful conclusion. Saint Kitts and 
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ The surviving evidence therefore supports a careful conclusion. Saint Kitts and 
 <a href="https://www.amazon.com/s?k=Caribbean+Religions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Religions">Caribbean Religions</a>
 </h4>
 <p class="fr-book-author">By Frances Henry</p>
-        
+
 <p class="fr-book-desc">Covers Afro-Caribbean religious traditions including obeah.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Religions+Frances+Henry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

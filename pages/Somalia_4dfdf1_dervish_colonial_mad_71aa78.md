@@ -369,7 +369,7 @@ Within Somalia's wider history of collective belief, the episode shows why histo
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Provides broader perspective on colonial propaganda and power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within Somalia's wider history of collective belief, the episode shows why histo
           <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A modern history of Somalia">A modern history of Somalia</a>
         </h4>
         <p class="fr-book-author">By Lewis, I. M.</p>
-        
+
         <p class="fr-book-desc">Major coverage of the Dervish movement.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within Somalia's wider history of collective belief, the episode shows why histo
           <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Somalia">The Invention of Somalia</a>
         </h4>
         <p class="fr-book-author">By Ali Jimale Ahmed</p>
-        
+
         <p class="fr-book-desc">Explores historical memory and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within Somalia's wider history of collective belief, the episode shows why histo
           <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Somalia and Somaliland">Understanding Somalia and Somaliland</a>
         </h4>
         <p class="fr-book-author">By Ioan Lewis</p>
-        
+
         <p class="fr-book-desc">Explains religious and political context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

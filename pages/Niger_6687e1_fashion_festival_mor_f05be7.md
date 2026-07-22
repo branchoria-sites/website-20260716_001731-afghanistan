@@ -360,30 +360,13 @@ For historians of Niger, the episode continues to stand as an example of how deb
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7281935-M.jpg" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-        
-        <p class="fr-book-desc">Useful for understanding how social reactions can rapidly spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+beauty+myth+%3A+how+images+of+beauty+are+used+against+women+Naomi+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The beauty myth : how images of beauty are used against women on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4036992-M.jpg" alt="Cover for The beauty myth : how images of beauty are used against women" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+beauty+myth+%3A+how+images+of+beauty+are+used+against+women+Naomi+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beauty myth : how images of beauty are used against women">The beauty myth : how images of beauty are used against women</a>
         </h4>
         <p class="fr-book-author">By Naomi Wolf, Suzy Jackson</p>
-        
+
         <p class="fr-book-desc">Explores tensions over women&#x27;s appearance and social expectations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+beauty+myth+%3A+how+images+of+beauty+are+used+against+women+Naomi+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +383,7 @@ For historians of Niger, the episode continues to stand as an example of how deb
           <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
         </h4>
         <p class="fr-book-author">By Shahab Ahmed</p>
-        
+
         <p class="fr-book-desc">Helps explain debates over morality, religion and public life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +400,7 @@ For historians of Niger, the episode continues to stand as an example of how deb
           <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear">The fear</a>
         </h4>
         <p class="fr-book-author">By Peter Godwin</p>
-        
+
         <p class="fr-book-desc">Offers wider context on politics and social conflict in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,9 +409,26 @@ For historians of Niger, the episode continues to stand as an example of how deb
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tipping Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7281935-M.jpg" alt="Cover for The Tipping Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tipping Point">The Tipping Point</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Useful for understanding how social reactions can rapidly spread.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Tipping+Point+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tipping+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tipping Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+beauty+myth+%3A+how+images+of+beauty+are+used+against+women&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The beauty myth : how images of beauty are used against women</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+Islam%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is Islam?</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+beauty+myth+%3A+how+images+of+beauty+are+used+against+women&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The beauty myth : how images of beauty are used against women</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+Islam%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is Islam?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fear</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

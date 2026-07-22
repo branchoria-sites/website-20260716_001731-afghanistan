@@ -1328,7 +1328,7 @@ Grenada’s experience is therefore not a catalogue of bizarre national delusion
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ Grenada’s experience is therefore not a catalogue of bizarre national delusion
 <a href="https://www.amazon.com/s?k=Occult+America+Mitch+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Occult America">Occult America</a>
 </h4>
 <p class="fr-book-author">By Mitch Horowitz, Paul Michael Garcia</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: New Age, Nonfiction, Occultism, Parapsychology, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Occult+America+Mitch+Horowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ Grenada’s experience is therefore not a catalogue of bizarre national delusion
 <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean history">Caribbean history</a>
 </h4>
 <p class="fr-book-author">By Martin, Tony, Tony Martin et al.</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Race relations, History, Caribbean area, history, West indies, race relations, HISTORY.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+history+Martin%2C+Tony&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Grenada’s experience is therefore not a catalogue of bizarre national delusion
 <a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caribbean: A History of the Region and Its Peoples">The Caribbean: A History of the Region and Its Peoples</a>
 </h4>
 <p class="fr-book-author">By Stephan Palmié and Francisco A. Scarano</p>
-        
+
 <p class="fr-book-desc">Places Grenada&#x27;s political and religious history in regional context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1363,7 +1363,7 @@ The enduring challenge is to remain sceptical in two directions at once—scepti
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Explains indigenous religious traditions underlying many Kenyan cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1380,7 +1380,7 @@ The enduring challenge is to remain sceptical in two directions at once—scepti
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Useful for understanding rumours, panic and collective fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1397,7 +1397,7 @@ The enduring challenge is to remain sceptical in two directions at once—scepti
           <a href="https://www.amazon.com/s?k=The+dynamics+of+violence+in+central+Africa+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dynamics of violence in central Africa">The dynamics of violence in central Africa</a>
         </h4>
         <p class="fr-book-author">By René Lemarchand, René Lemarchand et al.</p>
-        
+
         <p class="fr-book-desc">Helps frame political and social tensions behind episodes of fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dynamics+of+violence+in+central+Africa+Rene%CC%81+Lemarchand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1414,7 +1414,7 @@ The enduring challenge is to remain sceptical in two directions at once—scepti
           <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+Valentin-Yves+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Africa">The Invention of Africa</a>
         </h4>
         <p class="fr-book-author">By Valentin-Yves Mudimbe</p>
-        
+
         <p class="fr-book-desc">Provides broad context for colonial power, belief and religious authority in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+Africa+Valentin-Yves+Mudimbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

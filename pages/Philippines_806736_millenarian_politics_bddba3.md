@@ -391,7 +391,7 @@ The Philippine experience therefore illustrates a broader historical lesson. Rel
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
         </h4>
         <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-        
+
         <p class="fr-book-desc">Helps readers compare theories of committed social movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The Philippine experience therefore illustrates a broader historical lesson. Rel
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Explains nationalism and identity relevant to prophetic political movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The Philippine experience therefore illustrates a broader historical lesson. Rel
           <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
         </h4>
         <p class="fr-book-author">By José Rizal</p>
-        
+
         <p class="fr-book-desc">Classic exploration of colonial society and reform.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -442,7 +442,7 @@ The Philippine experience therefore illustrates a broader historical lesson. Rel
           <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pasyon and revolution">Pasyon and revolution</a>
         </h4>
         <p class="fr-book-author">By Reynaldo Clemeña Ileto</p>
-        
+
         <p class="fr-book-desc">The definitive book on Philippine millenarian movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

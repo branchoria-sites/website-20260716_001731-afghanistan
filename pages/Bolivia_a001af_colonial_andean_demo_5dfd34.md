@@ -343,7 +343,7 @@ The legacy remains visible in Bolivia today. Religious festivals, pilgrimages an
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hold life has">The hold life has</a>
         </h4>
         <p class="fr-book-author">By Catherine J. Allen</p>
-        
+
         <p class="fr-book-desc">Explains surviving Andean ritual traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hold+life+has+Catherine+J.+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ The legacy remains visible in Bolivia today. Religious festivals, pilgrimages an
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in blood and fire">Born in blood and fire</a>
         </h4>
         <p class="fr-book-author">By John Charles Chasteen</p>
-        
+
         <p class="fr-book-desc">Explains colonial Latin America and Indigenous-European encounters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Born+in+blood+and+fire+John+Charles+Chasteen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The legacy remains visible in Bolivia today. Religious festivals, pilgrimages an
           <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin history of Latin America">The Penguin history of Latin America</a>
         </h4>
         <p class="fr-book-author">By Edwin Williamson</p>
-        
+
         <p class="fr-book-desc">First published 1992. Subjects: History, Latin america, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Latin+America+Edwin+Williamson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The legacy remains visible in Bolivia today. Religious festivals, pilgrimages an
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Provides colonial context behind religious repression.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

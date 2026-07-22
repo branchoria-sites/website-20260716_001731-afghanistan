@@ -337,7 +337,7 @@ For readers interested in cults, moral panics and collective belief, María Lion
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and commodity fetishism in South America">The devil and commodity fetishism in South America</a>
         </h4>
         <p class="fr-book-author">By Michael T. Taussig, Michael Taussig</p>
-        
+
         <p class="fr-book-desc">Examines spirit belief and ritual in Latin America.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For readers interested in cults, moral panics and collective belief, María Lion
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Supplies wider Venezuelan and Latin American context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For readers interested in cults, moral panics and collective belief, María Lion
           <a href="https://www.amazon.com/s?k=Shamanism%3A+Archaic+Techniques+of+Ecstasy+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shamanism: Archaic Techniques of Ecstasy">Shamanism: Archaic Techniques of Ecstasy</a>
         </h4>
         <p class="fr-book-author">By Mircea Eliade</p>
-        
+
         <p class="fr-book-desc">Provides context for trance and spirit possession.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shamanism%3A+Archaic+Techniques+of+Ecstasy+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For readers interested in cults, moral panics and collective belief, María Lion
           <a href="https://www.amazon.com/s?k=Magic%3A+A+Theory+from+the+South+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic: A Theory from the South">Magic: A Theory from the South</a>
         </h4>
         <p class="fr-book-author">By David Graeber</p>
-        
+
         <p class="fr-book-desc">Explores how ritual and belief operate socially.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic%3A+A+Theory+from+the+South+David+Graeber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

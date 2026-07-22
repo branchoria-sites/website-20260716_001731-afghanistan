@@ -333,7 +333,7 @@ Their legacy continues to influence South African historical memory. The Xhosa c
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of South Africa">A history of South Africa</a>
         </h4>
         <p class="fr-book-author">By Leonard Monteath Thompson</p>
-        
+
         <p class="fr-book-desc">Provides colonial background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+South+Africa+Leonard+Monteath+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ Their legacy continues to influence South African historical memory. The Xhosa c
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
         </h4>
         <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
-        
+
         <p class="fr-book-desc">Explains millenarian religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ Their legacy continues to influence South African historical memory. The Xhosa c
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Madumo, a Man Bewitched">Madumo, a Man Bewitched</a>
         </h4>
         <p class="fr-book-author">By Adam Ashforth</p>
-        
+
         <p class="fr-book-desc">Shows continuing interaction of belief and society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Madumo%2C+a+Man+Bewitched+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Their legacy continues to influence South African historical memory. The Xhosa c
           <a href="https://www.amazon.com/s?k=Dead+Will+Arise+Jeff+Peires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Will Arise">Dead Will Arise</a>
         </h4>
         <p class="fr-book-author">By Jeff Peires</p>
-        
+
         <p class="fr-book-desc">The essential book for this topic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dead+Will+Arise+Jeff+Peires&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

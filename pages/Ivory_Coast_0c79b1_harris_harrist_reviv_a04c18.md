@@ -375,7 +375,7 @@ For studies of collective belief, the Harrist revival demonstrates why rapid mas
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides context for the Harrist revival.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For studies of collective belief, the Harrist revival demonstrates why rapid mas
           <a href="https://www.amazon.com/s?k=The+Next+Christendom+Philip+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Next Christendom">The Next Christendom</a>
         </h4>
         <p class="fr-book-author">By Philip Jenkins</p>
-        
+
         <p class="fr-book-desc">Places African Christian growth into broader perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Next+Christendom+Philip+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For studies of collective belief, the Harrist revival demonstrates why rapid mas
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The triumph of Christianity">The triumph of Christianity</a>
         </h4>
         <p class="fr-book-author">By Bart D. Ehrman, Bart D. Ehrman</p>
-        
+
         <p class="fr-book-desc">Offers historical context for Christian expansion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+triumph+of+Christianity+Bart+D.+Ehrman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For studies of collective belief, the Harrist revival demonstrates why rapid mas
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
         </h4>
         <p class="fr-book-author">By Jacob K. Olupona</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

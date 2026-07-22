@@ -376,7 +376,7 @@ Seen in this light, the recurring search for a Hmong deliverer belongs not prima
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Best-known English-language book introducing Hmong culture and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Seen in this light, the recurring search for a Hmong deliverer belongs not prima
           <a href="https://www.amazon.com/s?k=Seeing+Like+a+State+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seeing Like a State">Seeing Like a State</a>
         </h4>
         <p class="fr-book-author">By James C. Scott</p>
-        
+
         <p class="fr-book-desc">Useful framework for understanding state responses to prophetic movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seeing+Like+a+State+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Seen in this light, the recurring search for a Hmong deliverer belongs not prima
           <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Not Being Governed">The Art of Not Being Governed</a>
         </h4>
         <p class="fr-book-author">By James C. Scott</p>
-        
+
         <p class="fr-book-desc">Explains upland autonomy and recurring resistance movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Art+of+Not+Being+Governed+James+C.+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Seen in this light, the recurring search for a Hmong deliverer belongs not prima
           <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Laos">A history of Laos</a>
         </h4>
         <p class="fr-book-author">By Martin Stuart-Fox</p>
-        
+
         <p class="fr-book-desc">Places deliverer movements in colonial and national history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

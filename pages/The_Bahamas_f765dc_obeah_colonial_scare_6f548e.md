@@ -385,7 +385,7 @@ Understanding this history changes the question from "Did people believe in obea
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Provides wider context for supernatural belief in the Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Understanding this history changes the question from "Did people believe in obea
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
         </h4>
         <p class="fr-book-author">By Zora Neale Hurston</p>
-        
+
         <p class="fr-book-desc">Explores African-derived religious traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Understanding this history changes the question from "Did people believe in obea
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Places witchcraft and magic beliefs in comparative context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Understanding this history changes the question from "Did people believe in obea
           <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Religions: A History">Caribbean Religions: A History</a>
         </h4>
         <p class="fr-book-author">By Ennis B. Edmonds and Michelle A. Gonzalez</p>
-        
+
         <p class="fr-book-desc">Directly covers Caribbean religious traditions including obeah.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Caribbean+Religions%3A+A+History+Ennis+B.+Edmonds+and+Michelle+A.+Gonzalez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

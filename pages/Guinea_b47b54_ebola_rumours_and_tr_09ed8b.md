@@ -341,7 +341,7 @@ The lessons from Guinea have influenced later outbreak responses beyond West Afr
           <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explains disease emergence and public misunderstanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ The lessons from Guinea have influenced later outbreak responses beyond West Afr
           <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
         </h4>
         <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-        
+
         <p class="fr-book-desc">Builds reader understanding of Ebola and outbreak fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ The lessons from Guinea have influenced later outbreak responses beyond West Afr
           <a href="https://www.amazon.com/s?k=The+Great+Influenza+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Influenza">The Great Influenza</a>
         </h4>
         <p class="fr-book-author">By John M. Barry</p>
-        
+
         <p class="fr-book-desc">Shows how fear and trust affect public health crises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Influenza+John+M.+Barry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ The lessons from Guinea have influenced later outbreak responses beyond West Afr
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides political context for Guinea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -329,7 +329,7 @@ For historians of Morocco, the rebellion demonstrates that sacred authority and 
 <a href="https://www.amazon.com/s?k=Morocco+since+1830+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco since 1830">Morocco since 1830</a>
 </h4>
 <p class="fr-book-author">By C. R. Pennell</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: History, Morocco, history, Geschichte 1830-1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Morocco+since+1830+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ For historians of Morocco, the rebellion demonstrates that sacred authority and 
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
 </h4>
 <p class="fr-book-author">By Susan Gilson Miller</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: HISTORY / Middle East / General, History, Morocco, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ For historians of Morocco, the rebellion demonstrates that sacred authority and 
 <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco">Morocco</a>
 </h4>
 <p class="fr-book-author">By C. R. Pennell</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For historians of Morocco, the rebellion demonstrates that sacred authority and 
 <a href="https://www.amazon.com/s?k=The+commander+of+the+faithful%3A+the+Moroccan+political+elite+John+Waterbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The commander of the faithful: the Moroccan political elite">The commander of the faithful: the Moroccan political elite</a>
 </h4>
 <p class="fr-book-author">By John Waterbury</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: Politics and government, Morocco, politics and government, Political parties.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+commander+of+the+faithful%3A+the+Moroccan+political+elite+John+Waterbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

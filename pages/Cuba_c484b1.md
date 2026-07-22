@@ -1309,7 +1309,7 @@ The larger lesson is that collective fear seldom begins from nothing. It grows w
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of Caribbean politics and race.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1326,7 +1326,7 @@ The larger lesson is that collective fear seldom begins from nothing. It grows w
           <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil&#x27;s chessboard">The devil&#x27;s chessboard</a>
         </h4>
         <p class="fr-book-author">By David Talbot</p>
-        
+
         <p class="fr-book-desc">Explores Cold War intelligence culture relevant to Cuban fear narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ The larger lesson is that collective fear seldom begins from nothing. It grows w
           <a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Insane clown president">Insane clown president</a>
         </h4>
         <p class="fr-book-author">By Matt Taibbi</p>
-        
+
         <p class="fr-book-desc">Helps explain how public narratives and panic can spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,18 +1355,18 @@ The larger lesson is that collective fear seldom begins from nothing. It grows w
 
     <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
-            
+
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
-            
+
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
-            
+
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
         </h4>
         <p class="fr-book-author">By Julia E. Sweig</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

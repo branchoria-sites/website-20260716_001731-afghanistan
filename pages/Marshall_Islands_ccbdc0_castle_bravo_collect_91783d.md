@@ -369,7 +369,7 @@ Within the wider history of collective fear in the Marshall Islands, Castle Brav
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
 </h4>
 <p class="fr-book-author">By Eric Schlosser</p>
-        
+
 <p class="fr-book-desc">Provides broad context for Castle Bravo and nuclear testing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within the wider history of collective fear in the Marshall Islands, Castle Brav
 <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuclear War">Nuclear War</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Illustrates the realities and consequences of nuclear weapons.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Nuclear+War+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within the wider history of collective fear in the Marshall Islands, Castle Brav
 <a href="https://www.amazon.com/s?k=Hiroshima+John+Hersey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hiroshima">Hiroshima</a>
 </h4>
 <p class="fr-book-author">By John Hersey</p>
-        
+
 <p class="fr-book-desc">First published 1702. Subjects: Kernwapens, World War, 1939-1945, Atomic bomb, Blast effect, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hiroshima+John+Hersey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within the wider history of collective fear in the Marshall Islands, Castle Brav
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Before the fallout">Before the fallout</a>
 </h4>
 <p class="fr-book-author">By Diana Preston</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Social aspects, Science, Moral and ethical aspects, Atomic bomb, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

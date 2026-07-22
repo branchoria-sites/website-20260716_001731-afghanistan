@@ -421,7 +421,7 @@ Rather than serving as evidence either for or against supernatural beliefs, the 
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Explores group influence and social behaviour.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ Rather than serving as evidence either for or against supernatural beliefs, the 
           <a href="https://www.amazon.com/s?k=Zur+psychopathologie+des+alltagslebens+%28The+psychopathology+of+everyday+life%29+Sigmund+Freud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Zur psychopathologie des alltagslebens (The psychopathology of everyday life)">Zur psychopathologie des alltagslebens (The psychopathology o...</a>
         </h4>
         <p class="fr-book-author">By Sigmund Freud</p>
-        
+
         <p class="fr-book-desc">First published 1904. Subjects: Psychopathology, Mémoire, Troubles de la, Psychology, Repression (Psychology), Psychoanalytic Interpretat...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Zur+psychopathologie+des+alltagslebens+%28The+psychopathology+of+everyday+life%29+Sigmund+Freud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ Rather than serving as evidence either for or against supernatural beliefs, the 
           <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools+Robert+E.+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mass Hysteria in Schools">Mass Hysteria in Schools</a>
         </h4>
         <p class="fr-book-author">By Robert E. Bartholomew, Bob Rickard</p>
-        
+
         <p class="fr-book-desc">Directly addresses mass psychogenic illness in school settings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mass+Hysteria+in+Schools+Robert+E.+Bartholomew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

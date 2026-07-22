@@ -364,44 +364,10 @@ Unlike episodes of mass psychogenic illness, the Kielce pogrom was not driven by
           <a href="https://www.amazon.com/s?k=Fear%3A+Anti-Semitism+in+Poland+after+Auschwitz+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fear: Anti-Semitism in Poland after Auschwitz">Fear: Anti-Semitism in Poland after Auschwitz</a>
         </h4>
         <p class="fr-book-author">By Jan T. Gross</p>
-        
+
         <p class="fr-book-desc">Directly examines post-war antisemitism including Kielce.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fear%3A+Anti-Semitism+in+Poland+after+Auschwitz+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neighbors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/442395-M.jpg" alt="Cover for Neighbors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neighbors">Neighbors</a>
-        </h4>
-        <p class="fr-book-author">By Jan T. Gross</p>
-        
-        <p class="fr-book-desc">Explores mechanisms of communal violence and antisemitic accusation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Holocaust on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9223026-M.jpg" alt="Cover for The Holocaust" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holocaust">The Holocaust</a>
-        </h4>
-        <p class="fr-book-author">By Laurence Rees, S. P. Bavin</p>
-        
-        <p class="fr-book-desc">Provides essential historical background to the post-war period.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,7 +381,7 @@ Unlike episodes of mass psychogenic illness, the Kielce pogrom was not driven by
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
         </h4>
         <p class="fr-book-author">By Timothy Snyder</p>
-        
+
         <p class="fr-book-desc">Places the pogrom within the broader post-war regional context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,9 +390,43 @@ Unlike episodes of mass psychogenic illness, the Kielce pogrom was not driven by
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Holocaust on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9223026-M.jpg" alt="Cover for The Holocaust" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holocaust">The Holocaust</a>
+        </h4>
+        <p class="fr-book-author">By Laurence Rees, S. P. Bavin</p>
+
+        <p class="fr-book-desc">Provides essential historical background to the post-war period.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Holocaust+Laurence+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neighbors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/442395-M.jpg" alt="Cover for Neighbors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neighbors">Neighbors</a>
+        </h4>
+        <p class="fr-book-author">By Jan T. Gross</p>
+
+        <p class="fr-book-desc">Explores mechanisms of communal violence and antisemitic accusation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Neighbors+Jan+T.+Gross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fear%3A+Anti+Semitism+in+Poland+after+Auschwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fear: Anti Semitism in Poland after Auschwitz</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Neighbors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neighbors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Holocaust&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Holocaust</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fear%3A+Anti+Semitism+in+Poland+after+Auschwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fear: Anti Semitism in Poland after Auschwitz</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Holocaust&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Holocaust</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

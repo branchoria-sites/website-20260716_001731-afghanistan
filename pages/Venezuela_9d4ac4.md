@@ -1330,7 +1330,7 @@ Venezuela’s history therefore rewards careful distinctions rather than sensati
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and commodity fetishism in South America">The devil and commodity fetishism in South America</a>
         </h4>
         <p class="fr-book-author">By Michael T. Taussig, Michael Taussig</p>
-        
+
         <p class="fr-book-desc">Explores belief, ritual and social change in Latin America.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ Venezuela’s history therefore rewards careful distinctions rather than sensati
           <a href="https://www.amazon.com/s?k=Comandante%3A+Hugo+Ch%C3%A1vez%27s+Venezuela+Rory+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Comandante: Hugo Chávez&#x27;s Venezuela">Comandante: Hugo Chávez&#x27;s Venezuela</a>
         </h4>
         <p class="fr-book-author">By Rory Carroll</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Presidents, Venezuela, politics and government, Venezuela, foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Comandante%3A+Hugo+Ch%C3%A1vez%27s+Venezuela+Rory+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ Venezuela’s history therefore rewards careful distinctions rather than sensati
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for Venezuelan society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ Venezuela’s history therefore rewards careful distinctions rather than sensati
           <a href="https://www.amazon.com/s?k=Hugo+Ch%C3%A1vez+Rory+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hugo Chávez">Hugo Chávez</a>
         </h4>
         <p class="fr-book-author">By Rory Carroll</p>
-        
+
         <p class="fr-book-desc">Covers the personality cult aspects of modern Venezuela.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hugo+Ch%C3%A1vez+Rory+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

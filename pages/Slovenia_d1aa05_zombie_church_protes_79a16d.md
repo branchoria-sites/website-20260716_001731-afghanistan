@@ -359,7 +359,7 @@ Within Slovenia's wider history of fears, panics and contested belief, the Zombi
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
         </h4>
         <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-        
+
         <p class="fr-book-desc">Provides context for collective identity and political mobilization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ Within Slovenia's wider history of fears, panics and contested belief, the Zombi
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Dictatorship to Democracy">From Dictatorship to Democracy</a>
         </h4>
         <p class="fr-book-author">By Gene Sharp</p>
-        
+
         <p class="fr-book-desc">Explains nonviolent resistance relevant to Slovenian protests.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Within Slovenia's wider history of fears, panics and contested belief, the Zombi
           <a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beautiful trouble">Beautiful trouble</a>
         </h4>
         <p class="fr-book-author">By Boyd, Andrew, Dave Oswald Mitchell</p>
-        
+
         <p class="fr-book-desc">Matches the page&#x27;s focus on satire and political performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Within Slovenia's wider history of fears, panics and contested belief, the Zombi
           <a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of protest">The art of protest</a>
         </h4>
         <p class="fr-book-author">By T. V. Reed</p>
-        
+
         <p class="fr-book-desc">Explores symbolism and performance in protest movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

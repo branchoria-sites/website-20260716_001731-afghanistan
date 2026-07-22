@@ -347,7 +347,7 @@ At the same time, scholars caution against treating the episode as an example of
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Links the siege to later Islamist movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ At the same time, scholars caution against treating the episode as an example of
           <a href="https://www.amazon.com/s?k=The+Siege+of+Mecca+Yaroslav+Trofimov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Siege of Mecca">The Siege of Mecca</a>
         </h4>
         <p class="fr-book-author">By Yaroslav Trofimov</p>
-        
+
         <p class="fr-book-desc">Directly covers Juhayman, the Mahdi claim and the siege.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Siege+of+Mecca+Yaroslav+Trofimov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ At the same time, scholars caution against treating the episode as an example of
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the Kingdom">Inside the Kingdom</a>
         </h4>
         <p class="fr-book-author">By Robert Lacey</p>
-        
+
         <p class="fr-book-desc">Explains how the siege reshaped Saudi society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Inside+the+Kingdom+Robert+Lacey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ At the same time, scholars caution against treating the episode as an example of
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Saudi Arabia">A history of Saudi Arabia</a>
         </h4>
         <p class="fr-book-author">By Madawi Al-Rasheed</p>
-        
+
         <p class="fr-book-desc">Provides political and religious context for the uprising.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Saudi+Arabia+Madawi+Al-Rasheed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

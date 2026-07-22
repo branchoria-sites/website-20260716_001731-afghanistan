@@ -353,7 +353,7 @@ It also provides an example of how collective beliefs adapt over time. As floodi
           <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
         </h4>
         <p class="fr-book-author">By Bill Gates</p>
-        
+
         <p class="fr-book-desc">Provides accessible climate science relevant to Tuvalu.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ It also provides an example of how collective beliefs adapt over time. As floodi
           <a href="https://www.amazon.com/s?k=Field+notes+from+a+catastrophe+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field notes from a catastrophe">Field notes from a catastrophe</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Kolbert, Hope Davis</p>
-        
+
         <p class="fr-book-desc">Explains the impacts of climate change on vulnerable regions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+notes+from+a+catastrophe+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ It also provides an example of how collective beliefs adapt over time. As floodi
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Adds broader Pacific cultural context to Tuvalu&#x27;s experience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ It also provides an example of how collective beliefs adapt over time. As floodi
           <a href="https://www.amazon.com/s?k=The+Bible+of+Cock+Various+Authors+-+Compiled+by+Mark+T&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible of Cock">The Bible of Cock</a>
         </h4>
         <p class="fr-book-author">By Various Authors - Compiled by Mark T, JohnPriapusDog</p>
-        
+
         <p class="fr-book-desc">First published 2012.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bible+of+Cock+Various+Authors+-+Compiled+by+Mark+T&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

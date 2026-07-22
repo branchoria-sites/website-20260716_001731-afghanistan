@@ -374,7 +374,7 @@ For historians of moral panic and religious policy, Azerbaijan therefore offers 
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">Explores why groups divide over moral and religious issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For historians of moral panic and religious policy, Azerbaijan therefore offers 
           <a href="https://www.amazon.com/s?k=Religious+Literacy+Stephen+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religious Literacy">Religious Literacy</a>
         </h4>
         <p class="fr-book-author">By Stephen Prothero</p>
-        
+
         <p class="fr-book-desc">Helps readers understand diverse religious traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religious+Literacy+Stephen+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For historians of moral panic and religious policy, Azerbaijan therefore offers 
           <a href="https://www.amazon.com/s?k=God+Is+Not+One+Stephen+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God Is Not One">God Is Not One</a>
         </h4>
         <p class="fr-book-author">By Stephen Prothero</p>
-        
+
         <p class="fr-book-desc">Useful background on differing faith traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God+Is+Not+One+Stephen+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For historians of moral panic and religious policy, Azerbaijan therefore offers 
           <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caucasus">The Caucasus</a>
         </h4>
         <p class="fr-book-author">By Thomas De Waal</p>
-        
+
         <p class="fr-book-desc">Explains political and religious context in Azerbaijan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

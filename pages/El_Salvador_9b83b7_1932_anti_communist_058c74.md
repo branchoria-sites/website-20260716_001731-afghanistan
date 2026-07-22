@@ -326,7 +326,7 @@ The memory of 1932 remains deeply contested because it touches on questions of s
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
         </h4>
         <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
         <p class="fr-book-desc">Useful for understanding ideological polarization.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -343,7 +343,7 @@ The memory of 1932 remains deeply contested because it touches on questions of s
           <a href="https://www.amazon.com/s?k=The+Shock+Doctrine+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shock Doctrine">The Shock Doctrine</a>
         </h4>
         <p class="fr-book-author">By Naomi Klein</p>
-        
+
         <p class="fr-book-desc">Examines fear and crisis in political decision-making.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Shock+Doctrine+Naomi+Klein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ The memory of 1932 remains deeply contested because it touches on questions of s
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The massacre at El Mozote">The massacre at El Mozote</a>
         </h4>
         <p class="fr-book-author">By Mark Danner</p>
-        
+
         <p class="fr-book-desc">Provides important historical context for repression and collective fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+massacre+at+El+Mozote+Mark+Danner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The memory of 1932 remains deeply contested because it touches on questions of s
           <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Nations Fail">Why Nations Fail</a>
         </h4>
         <p class="fr-book-author">By Daron Acemoglu, James A. Robinson</p>
-        
+
         <p class="fr-book-desc">Helps explain institutional roots of conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Nations+Fail+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

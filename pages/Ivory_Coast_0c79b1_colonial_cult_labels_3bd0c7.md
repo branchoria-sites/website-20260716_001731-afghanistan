@@ -372,7 +372,7 @@ For Ivory Coast, modern scholarship places less emphasis on sensational stories 
           <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
         </h4>
         <p class="fr-book-author">By Chinua Achebe</p>
-        
+
         <p class="fr-book-desc">Illustrates colonial encounters with African belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ For Ivory Coast, modern scholarship places less emphasis on sensational stories 
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Explains African religious traditions beyond colonial labels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ For Ivory Coast, modern scholarship places less emphasis on sensational stories 
           <a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decolonising the Mind">Decolonising the Mind</a>
         </h4>
         <p class="fr-book-author">By Ngũgĩ wa Thiongʼo, Blanca Busquets</p>
-        
+
         <p class="fr-book-desc">Supports understanding of colonial narratives and labels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ For Ivory Coast, modern scholarship places less emphasis on sensational stories 
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
         </h4>
         <p class="fr-book-author">By Jacob K. Olupona</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

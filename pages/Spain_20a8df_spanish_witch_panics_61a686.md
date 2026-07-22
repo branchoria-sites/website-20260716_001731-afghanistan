@@ -370,7 +370,7 @@ That lesson gives the Zugarramurdi investigations an enduring place in the histo
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
         </h4>
         <p class="fr-book-author">By Brian P. Levack</p>
-        
+
         <p class="fr-book-desc">Explains how legal procedure, interrogation, confession and institutional incentives transformed accusations into large-scale European wi...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ That lesson gives the Zugarramurdi investigations an enduring place in the histo
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Provides the wider intellectual and cultural history of witch beliefs, helping readers understand the stereotypes and fears that made fab...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ That lesson gives the Zugarramurdi investigations an enduring place in the histo
           <a href="https://www.amazon.com/s?k=The+witches%27+advocate+Gustav+Henningsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witches&#x27; advocate">The witches&#x27; advocate</a>
         </h4>
         <p class="fr-book-author">By Gustav Henningsen</p>
-        
+
         <p class="fr-book-desc">Directly examines the Basque accusations, Logroño trial, unreliable confessions and Salazar&#x27;s evidence-testing investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witches%27+advocate+Gustav+Henningsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ That lesson gives the Zugarramurdi investigations an enduring place in the histo
           <a href="https://www.amazon.com/s?k=WITCHES+AND+NEIGHBOURS%3A+THE+SOCIAL+AND+CULTURAL+CONTEXT+OF+EUROPEAN+WITCHCRAFT+ROBIN+BRIGGS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="WITCHES AND NEIGHBOURS: THE SOCIAL AND CULTURAL CONTEXT OF EUROPEAN WITCHCRAFT">WITCHES AND NEIGHBOURS: THE SOCIAL AND CULTURAL CONTEXT OF EU...</a>
         </h4>
         <p class="fr-book-author">By ROBIN BRIGGS</p>
-        
+
         <p class="fr-book-desc">Shows how rumours, interpersonal tensions, denunciations and community beliefs created self-reinforcing accusations like those seen aroun...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=WITCHES+AND+NEIGHBOURS%3A+THE+SOCIAL+AND+CULTURAL+CONTEXT+OF+EUROPEAN+WITCHCRAFT+ROBIN+BRIGGS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

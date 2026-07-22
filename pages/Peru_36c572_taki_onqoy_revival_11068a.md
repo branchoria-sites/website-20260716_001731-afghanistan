@@ -390,7 +390,7 @@ For the history of collective belief, Taki Onqoy is best understood not as an ex
           <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
         </h4>
         <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
-        
+
         <p class="fr-book-desc">Provides comparative perspective on revitalization movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For the history of collective belief, Taki Onqoy is best understood not as an ex
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491">1491</a>
         </h4>
         <p class="fr-book-author">By Charles C. Mann</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Origin, Nature, Indians, Antiquities, nyt:paperback_nonfiction=2011-07-23.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1491+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For the history of collective belief, Taki Onqoy is best understood not as an ex
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
         </h4>
         <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-        
+
         <p class="fr-book-desc">Explains the historical setting of conquest and Indigenous society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For the history of collective belief, Taki Onqoy is best understood not as an ex
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
         </h4>
         <p class="fr-book-author">By Sabine Hyland</p>
-        
+
         <p class="fr-book-desc">Most relevant overview for understanding Taki Onqoy&#x27;s religious background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

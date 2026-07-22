@@ -1319,7 +1319,7 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains how fear spreads through communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1336,7 +1336,7 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
           <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of gold">City of gold</a>
         </h4>
         <p class="fr-book-author">By Jim Krane</p>
-        
+
         <p class="fr-book-desc">Provides background on the modern UAE.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
           <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
-        
+
         <p class="fr-book-desc">First published 2022.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
         </h4>
         <p class="fr-book-author">By Steven Novella</p>
-        
+
         <p class="fr-book-desc">Helps readers evaluate extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

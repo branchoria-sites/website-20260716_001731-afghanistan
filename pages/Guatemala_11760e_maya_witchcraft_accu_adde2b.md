@@ -372,7 +372,7 @@ Although Maya spirituality today is increasingly recognised as a living religiou
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Introduces Maya cosmology often misunderstood by outsiders.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Although Maya spirituality today is increasingly recognised as a living religiou
           <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Maya code">Breaking the Maya code</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe</p>
-        
+
         <p class="fr-book-desc">Provides deeper understanding of Maya civilisation and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Although Maya spirituality today is increasingly recognised as a living religiou
           <a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maya cosmos">Maya cosmos</a>
         </h4>
         <p class="fr-book-author">By David A. Freidel, Linda Schele et al.</p>
-        
+
         <p class="fr-book-desc">Helps distinguish Maya spirituality from witchcraft stereotypes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Although Maya spirituality today is increasingly recognised as a living religiou
           <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guatemala reader">The Guatemala reader</a>
         </h4>
         <p class="fr-book-author">By Greg Grandin, Elizabeth Oglesby</p>
-        
+
         <p class="fr-book-desc">Explains Indigenous religion, colonialism and cultural conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

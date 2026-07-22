@@ -363,7 +363,7 @@ The story therefore belongs as much to the history of information warfare and mo
           <a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+Carlos+Eire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Waiting for Snow in Havana">Waiting for Snow in Havana</a>
         </h4>
         <p class="fr-book-author">By Carlos Eire, Carlos M. N. Eire</p>
-        
+
         <p class="fr-book-desc">Memoir by a Pedro Pan child.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Waiting+for+Snow+in+Havana+Carlos+Eire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The story therefore belongs as much to the history of information warfare and mo
           <a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+Yvonne+M.+Conde&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Pedro Pan">Operation Pedro Pan</a>
         </h4>
         <p class="fr-book-author">By Yvonne M. Conde</p>
-        
+
         <p class="fr-book-desc">Directly recounts Operation Pedro Pan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Operation+Pedro+Pan+Yvonne+M.+Conde&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,18 +392,18 @@ The story therefore belongs as much to the history of information warfare and mo
 
     <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
-            
+
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
-            
+
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
-            
+
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
         </h4>
         <p class="fr-book-author">By Julia E. Sweig</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The story therefore belongs as much to the history of information warfare and mo
           <a href="https://www.amazon.com/s?k=A+History+of+the+Cuban+Revolution+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Cuban Revolution">A History of the Cuban Revolution</a>
         </h4>
         <p class="fr-book-author">By Aviva Chomsky</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Cuba, history, 1959-, Influence, History, Influence (Literary, artistic, etc.), Revolution (Cuba : 1959)...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Cuban+Revolution+Aviva+Chomsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

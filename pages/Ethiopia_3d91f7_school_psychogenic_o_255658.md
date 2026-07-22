@@ -414,7 +414,7 @@ Taken together, the outbreaks in Bati, Haraza and Addis Ababa show how genuine i
           <a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s All in Your Head">It&#x27;s All in Your Head</a>
         </h4>
         <p class="fr-book-author">By Suzanne O&#x27;Sullivan</p>
-        
+
         <p class="fr-book-desc">Directly addresses real symptoms without clear physical causes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ Taken together, the outbreaks in Bati, Haraza and Addis Ababa show how genuine i
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Useful for understanding communication during health crises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -448,7 +448,7 @@ Taken together, the outbreaks in Bati, Haraza and Addis Ababa show how genuine i
           <a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crazy like us">Crazy like us</a>
         </h4>
         <p class="fr-book-author">By Ethan Watters</p>
-        
+
         <p class="fr-book-desc">Shows how culture shapes illness outbreaks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -465,7 +465,7 @@ Taken together, the outbreaks in Bati, Haraza and Addis Ababa show how genuine i
           <a href="https://www.amazon.com/s?k=Anthropology+of+Biomedicine+Margaret+M.+Lock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anthropology of Biomedicine">Anthropology of Biomedicine</a>
         </h4>
         <p class="fr-book-author">By Margaret M. Lock, Vinh-Kim Nguyen</p>
-        
+
         <p class="fr-book-desc">Places school outbreaks in broader social context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Anthropology+of+Biomedicine+Margaret+M.+Lock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

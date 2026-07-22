@@ -327,7 +327,7 @@ For historians of Chile, Peñablanca therefore stands at the intersection of rel
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
         </h4>
         <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-        
+
         <p class="fr-book-desc">Foundational study of belief and committed groups.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ For historians of Chile, Peñablanca therefore stands at the intersection of rel
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
         </h4>
         <p class="fr-book-author">By William James, Dr. William James et al.</p>
-        
+
         <p class="fr-book-desc">Frames extraordinary religious experiences historically.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ For historians of Chile, Peñablanca therefore stands at the intersection of rel
           <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
         </h4>
         <p class="fr-book-author">By Peter Kornbluh</p>
-        
+
         <p class="fr-book-desc">Explains the political setting of the apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ For historians of Chile, Peñablanca therefore stands at the intersection of rel
           <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of the end">Visions of the end</a>
         </h4>
         <p class="fr-book-author">By Bernard McGinn</p>
-        
+
         <p class="fr-book-desc">Explores how visionary movements gain followers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

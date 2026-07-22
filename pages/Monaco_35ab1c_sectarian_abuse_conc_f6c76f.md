@@ -350,7 +350,7 @@ That distinction matters because it protects two principles at once. Freedom of 
 <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combating cult mind control">Combating cult mind control</a>
 </h4>
 <p class="fr-book-author">By Steven Hassan</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Cults, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Combating+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ That distinction matters because it protects two principles at once. Freedom of 
 <a href="https://www.amazon.com/s?k=Terror%2C+Love+and+Brainwashing+Alexandra+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Terror, Love and Brainwashing">Terror, Love and Brainwashing</a>
 </h4>
 <p class="fr-book-author">By Alexandra Stein</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Brainwashing, Ideology, Totalitarianism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Terror%2C+Love+and+Brainwashing+Alexandra+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That distinction matters because it protects two principles at once. Freedom of 
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
 </h4>
 <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That distinction matters because it protects two principles at once. Freedom of 
 <a href="https://www.amazon.com/s?k=The+Cult+of+We+Eliot+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cult of We">The Cult of We</a>
 </h4>
 <p class="fr-book-author">By Eliot Brown, Maureen Farrell</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Economic history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cult+of+We+Eliot+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

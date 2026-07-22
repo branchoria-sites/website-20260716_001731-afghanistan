@@ -1341,7 +1341,7 @@ Guyana’s record is consequently not a catalogue of bizarre beliefs. It is a hi
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Explores Caribbean belief systems relevant to regional themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ Guyana’s record is consequently not a catalogue of bizarre beliefs. It is a hi
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
         </h4>
         <p class="fr-book-author">By Jeff Guinn</p>
-        
+
         <p class="fr-book-desc">Places Jonestown within broader social and political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1375,7 +1375,7 @@ Guyana’s record is consequently not a catalogue of bizarre beliefs. It is a hi
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
         </h4>
         <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
         <p class="fr-book-desc">Helps explain coercive influence beyond the Guyana case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1392,7 +1392,7 @@ Guyana’s record is consequently not a catalogue of bizarre beliefs. It is a hi
           <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Raven">Raven</a>
         </h4>
         <p class="fr-book-author">By Tim Reiterman, John Jacobs</p>
-        
+
         <p class="fr-book-desc">First published 1982. Subjects: Peoples Temple, Biographie, Volkstempelsekte, Christianity - Denominations, Religious Cults.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Raven+Tim+Reiterman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

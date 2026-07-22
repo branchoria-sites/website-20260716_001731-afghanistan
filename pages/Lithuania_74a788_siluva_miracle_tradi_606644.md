@@ -371,7 +371,7 @@ For historians of collective belief, Šiluva provides an example of how institut
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Discusses reported miracles and how believers evaluate them.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians of collective belief, Šiluva provides an example of how institut
           <a href="https://www.amazon.com/s?k=The+wonder+of+Guadalupe+Francis+W.+Johnston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The wonder of Guadalupe">The wonder of Guadalupe</a>
         </h4>
         <p class="fr-book-author">By Francis W. Johnston</p>
-        
+
         <p class="fr-book-desc">Helps readers understand Catholic apparition traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+wonder+of+Guadalupe+Francis+W.+Johnston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For historians of collective belief, Šiluva provides an example of how institut
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
         </h4>
         <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
-        
+
         <p class="fr-book-desc">Provides historical background to Lithuania&#x27;s religious landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For historians of collective belief, Šiluva provides an example of how institut
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

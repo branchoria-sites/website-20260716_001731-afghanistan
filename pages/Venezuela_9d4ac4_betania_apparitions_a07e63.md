@@ -377,7 +377,7 @@ Within Venezuela's wider history of collective belief, Betania therefore stands 
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
         </h4>
         <p class="fr-book-author">By Fulton J. Sheen</p>
-        
+
         <p class="fr-book-desc">Provides wider context for Marian apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Within Venezuela's wider history of collective belief, Betania therefore stands 
           <a href="https://www.amazon.com/s?k=Meetings+with+Mary+Janice+T.+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meetings with Mary">Meetings with Mary</a>
         </h4>
         <p class="fr-book-author">By Janice T. Connell</p>
-        
+
         <p class="fr-book-desc">Places Betania alongside other apparition reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meetings+with+Mary+Janice+T.+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Within Venezuela's wider history of collective belief, Betania therefore stands 
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Explores modern miracle claims and investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Within Venezuela's wider history of collective belief, Betania therefore stands 
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and commodity fetishism in South America">The devil and commodity fetishism in South America</a>
         </h4>
         <p class="fr-book-author">By Michael T. Taussig, Michael Taussig</p>
-        
+
         <p class="fr-book-desc">First published 1980. Subjects: Case studies, Plantations, Social aspects, Economic development, Tin mines and mining.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

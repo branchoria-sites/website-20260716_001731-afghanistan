@@ -378,7 +378,7 @@ For Micronesia, these questions usually lead to a more nuanced picture. Rather t
 <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
 </h4>
 <p class="fr-book-author">By Margaret Mead</p>
-        
+
 <p class="fr-book-desc">First published 1928. Subjects: Adolescence, Children, Children in the Samoan Islands, Girls, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For Micronesia, these questions usually lead to a more nuanced picture. Rather t
 <a href="https://www.amazon.com/s?k=Illness+as+metaphor+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illness as metaphor">Illness as metaphor</a>
 </h4>
 <p class="fr-book-author">By Susan Sontag</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: AIDS (Disease), Acquired Immunodeficiency Syndrome, Cancer, Cancer in literature, Literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Illness+as+metaphor+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For Micronesia, these questions usually lead to a more nuanced picture. Rather t
 <a href="https://www.amazon.com/s?k=The+Elementary+Forms+Of+Religious+Life+%C3%89mile+Durkheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elementary Forms Of Religious Life">The Elementary Forms Of Religious Life</a>
 </h4>
 <p class="fr-book-author">By Émile Durkheim</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Sociology, philosophy, Religion and sociology, Sociology, Philosophy, Long Now Manual for Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Elementary+Forms+Of+Religious+Life+%C3%89mile+Durkheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For Micronesia, these questions usually lead to a more nuanced picture. Rather t
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
 </h4>
 <p class="fr-book-author">By Clifford Geertz</p>
-        
+
 <p class="fr-book-desc">First published 1973. Subjects: Culturele antropologie, Culture, Ethnology, Ethnologie, Ethnolo.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

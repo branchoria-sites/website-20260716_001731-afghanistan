@@ -388,7 +388,7 @@ The recurring panics therefore illustrate a broader lesson. Rumours are most res
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Provides frameworks for understanding fear and symbolic danger.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ The recurring panics therefore illustrate a broader lesson. Rumours are most res
           <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
         </h4>
         <p class="fr-book-author">By Gavin de Becker</p>
-        
+
         <p class="fr-book-desc">Useful for thinking about fear, threat perception and rumours.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The recurring panics therefore illustrate a broader lesson. Rumours are most res
           <a href="https://www.amazon.com/s?k=Speaking+with+Vampires+Luise+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speaking with Vampires">Speaking with Vampires</a>
         </h4>
         <p class="fr-book-author">By Luise White</p>
-        
+
         <p class="fr-book-desc">Examines African blood rumours and vampire stories, including Central Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Speaking+with+Vampires+Luise+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

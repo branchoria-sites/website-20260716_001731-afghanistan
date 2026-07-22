@@ -392,7 +392,7 @@ For historians of collective belief and moral panic, Farkhunda's killing stands 
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lucifer Effect">The Lucifer Effect</a>
         </h4>
         <p class="fr-book-author">By Philip G. Zimbardo</p>
-        
+
         <p class="fr-book-desc">Explains crowd behaviour and violence following accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lucifer+Effect+Philip+G.+Zimbardo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For historians of collective belief and moral panic, Farkhunda's killing stands 
           <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No good men among the living">No good men among the living</a>
         </h4>
         <p class="fr-book-author">By Anand Gopal</p>
-        
+
         <p class="fr-book-desc">Illustrates institutional failures during wartime Afghanistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=No+good+men+among+the+living+Anand+Gopal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For historians of collective belief and moral panic, Farkhunda's killing stands 
           <a href="https://www.amazon.com/s?k=Ghost+Wars+12-copy+floor+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost  Wars 12-copy floor">Ghost Wars 12-copy floor</a>
         </h4>
         <p class="fr-book-author">By Steve Coll</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: History, Nonfiction, Politics, United States, United States. Central Intelligence Agency.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Wars+12-copy+floor+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

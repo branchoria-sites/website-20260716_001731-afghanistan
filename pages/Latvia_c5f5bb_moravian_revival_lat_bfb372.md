@@ -345,7 +345,7 @@ Within Latvia's wider history of unusual beliefs and social scares, the Moravian
           <a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reformation">The Reformation</a>
         </h4>
         <p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
+
         <p class="fr-book-desc">Explains the religious world from which Moravianism emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Reformation+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ Within Latvia's wider history of unusual beliefs and social scares, the Moravian
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Christianity">A history of Christianity</a>
         </h4>
         <p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
+
         <p class="fr-book-desc">Provides broader Protestant revival context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Within Latvia's wider history of unusual beliefs and social scares, the Moravian
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Places the Latvian revival in Baltic history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Within Latvia's wider history of unusual beliefs and social scares, the Moravian
           <a href="https://www.amazon.com/s?k=A+History+of+the+Moravian+Church+Hutton%2C+J.+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Moravian Church">A History of the Moravian Church</a>
         </h4>
         <p class="fr-book-author">By Hutton, J. E.</p>
-        
+
         <p class="fr-book-desc">First published 2016.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Moravian+Church+Hutton%2C+J.+E.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1336,7 +1336,7 @@ The most useful distinction is therefore not between rational modern people and 
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ The most useful distinction is therefore not between rational modern people and 
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
 </h4>
 <p class="fr-book-author">By Francis Wade</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Islam and state, Buddhism and state, Burma, politics and government, Burma, religion, Rohingya (Burmese p...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ The most useful distinction is therefore not between rational modern people and 
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-        
+
 <p class="fr-book-desc">Provides essential historical context for colonialism, nationalism, religion and political conflict behind the themes discussed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ The most useful distinction is therefore not between rational modern people and 
 <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century">The Hidden History of Burma: Race, Capitalism, and the Crisis...</a>
 </h4>
 <p class="fr-book-author">By Thant Myint-U</p>
-        
+
 <p class="fr-book-desc">Explains how ethnic tensions, military rule, misinformation and democratic crisis intersect in modern Myanmar.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint+U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

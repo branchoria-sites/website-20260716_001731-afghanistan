@@ -350,7 +350,7 @@ For that reason, the episode is remembered not simply as a medieval tragedy but 
           <a href="https://www.amazon.com/s?k=The+devil+and+the+Jews+Joshua+Trachtenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and the Jews">The devil and the Jews</a>
         </h4>
         <p class="fr-book-author">By Joshua Trachtenberg</p>
-        
+
         <p class="fr-book-desc">Directly explains the false accusations behind the Vienna Gesera.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+and+the+Jews+Joshua+Trachtenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ For that reason, the episode is remembered not simply as a medieval tragedy but 
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
         </h4>
         <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-        
+
         <p class="fr-book-desc">Explains conspiracy myths and fabricated threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For that reason, the episode is remembered not simply as a medieval tragedy but 
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Provides wider context on fear-driven persecution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For that reason, the episode is remembered not simply as a medieval tragedy but 
           <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anti-Judaism">Anti-Judaism</a>
         </h4>
         <p class="fr-book-author">By David Nirenberg</p>
-        
+
         <p class="fr-book-desc">Explores the long history of anti-Jewish ideas in Europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

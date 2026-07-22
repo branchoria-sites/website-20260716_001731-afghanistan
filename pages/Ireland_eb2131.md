@@ -1362,7 +1362,7 @@ Ireland’s record is therefore most valuable when read without mockery. The imp
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
         </h4>
         <p class="fr-book-author">By William Butler Yeats</p>
-        
+
         <p class="fr-book-desc">Introduces the folklore underlying many Irish belief traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Ireland’s record is therefore most valuable when read without mockery. The imp
           <a href="https://www.amazon.com/s?k=The+Burning+of+Bridget+Cleary+Angela+Bourke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Burning of Bridget Cleary">The Burning of Bridget Cleary</a>
         </h4>
         <p class="fr-book-author">By Angela Bourke</p>
-        
+
         <p class="fr-book-desc">Explores folklore, belief and one of Ireland&#x27;s best-known supernatural cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Burning+of+Bridget+Cleary+Angela+Bourke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ Ireland’s record is therefore most valuable when read without mockery. The imp
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains changing ideas about witchcraft and fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1413,7 +1413,7 @@ Ireland’s record is therefore most valuable when read without mockery. The imp
           <a href="https://www.amazon.com/s?k=Meeting+the+other+crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the other crowd">Meeting the other crowd</a>
         </h4>
         <p class="fr-book-author">By Eddie Lenihan, Carolyn Eve Green</p>
-        
+
         <p class="fr-book-desc">Documents living Irish supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+other+crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

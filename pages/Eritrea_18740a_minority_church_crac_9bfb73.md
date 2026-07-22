@@ -373,7 +373,7 @@ Within the wider history of collective fear in Eritrea, the crackdown stands out
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Places religious policy in continental perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Within the wider history of collective fear in Eritrea, the crackdown stands out
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Explains governance patterns influencing religious freedom.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Within the wider history of collective fear in Eritrea, the crackdown stands out
           <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Eritrea">Understanding Eritrea</a>
         </h4>
         <p class="fr-book-author">By Martin Plaut</p>
-        
+
         <p class="fr-book-desc">Discusses religious restrictions and state control.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ Within the wider history of collective fear in Eritrea, the crackdown stands out
           <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Didn&#x27;t Do It for You">I Didn&#x27;t Do It for You</a>
         </h4>
         <p class="fr-book-author">By Michela Wrong</p>
-        
+
         <p class="fr-book-desc">Historical background for Eritrea&#x27;s political trajectory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

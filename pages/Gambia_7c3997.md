@@ -1318,7 +1318,7 @@ What remains culturally important is therefore not the strangeness of the ritual
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides context for modern Gambian politics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ What remains culturally important is therefore not the strangeness of the ritual
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictator&#x27;s handbook">The dictator&#x27;s handbook</a>
         </h4>
         <p class="fr-book-author">By Bruce Bueno de Mesquita, Alastair Smith et al.</p>
-        
+
         <p class="fr-book-desc">Explains how authoritarian leaders sustain power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictator%27s+handbook+Bruce+Bueno+de+Mesquita&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ What remains culturally important is therefore not the strangeness of the ritual
           <a href="https://www.amazon.com/s?k=How+Tyrants+Fall+Marcel+Dirsus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Tyrants Fall">How Tyrants Fall</a>
         </h4>
         <p class="fr-book-author">By Marcel Dirsus</p>
-        
+
         <p class="fr-book-desc">Examines authoritarian systems similar to Jammeh&#x27;s rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+Tyrants+Fall+Marcel+Dirsus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ What remains culturally important is therefore not the strangeness of the ritual
           <a href="https://www.amazon.com/s?k=Strongmen+Ruth+Ben-Ghiat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Strongmen">Strongmen</a>
         </h4>
         <p class="fr-book-author">By Ruth Ben-Ghiat</p>
-        
+
         <p class="fr-book-desc">Helps explain how personal power shapes public belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Strongmen+Ruth+Ben-Ghiat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -387,7 +387,7 @@ The enduring significance of these cases lies less in evidence that supernatural
 <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
 </h4>
 <p class="fr-book-author">By Gavin de Becker</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Violent crimes, Intuition, Psychology, Violence, Crimes against.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The enduring significance of these cases lies less in evidence that supernatural
 <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of gold">City of gold</a>
 </h4>
 <p class="fr-book-author">By Jim Krane</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Capitalism, Economic conditions, History, Dubayy (united arab emirates : emirate), history, United arab e...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ The enduring significance of these cases lies less in evidence that supernatural
 <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">First published 2022.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ The enduring significance of these cases lies less in evidence that supernatural
 <a href="https://www.amazon.com/s?k=Magic+in+Islam+Michael+Muhammad+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic in Islam">Magic in Islam</a>
 </h4>
 <p class="fr-book-author">By Michael Muhammad Knight</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Islamic magic, Magic, Islam, RELIGION / Islam / General, RELIGION / Mysticism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic+in+Islam+Michael+Muhammad+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

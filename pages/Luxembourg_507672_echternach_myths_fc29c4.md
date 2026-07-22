@@ -374,7 +374,7 @@ Instead, Echternach demonstrates something more historically interesting. It sho
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-        
+
 <p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Instead, Echternach demonstrates something more historically interesting. It sho
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of witchcraft and magic">The Oxford illustrated history of witchcraft and magic</a>
 </h4>
 <p class="fr-book-author">By Owen Davies</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: History, Magic, Witchcraft, Magic, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Instead, Echternach demonstrates something more historically interesting. It sho
 <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic : A History">Magic : A History</a>
 </h4>
 <p class="fr-book-author">By Chris Gosden, Clark, Roger</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Psychology, Ethnology, Religion, history, Magic, Social history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic+%3A+A+History+Chris+Gosden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Instead, Echternach demonstrates something more historically interesting. It sho
 <a href="https://www.amazon.com/s?k=The+dancing+plague+Waller%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dancing plague">The dancing plague</a>
 </h4>
 <p class="fr-book-author">By Waller, John</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Social conditions, Epidemic Chorea, Biography, History, Strasbourg (france).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+dancing+plague+Waller%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

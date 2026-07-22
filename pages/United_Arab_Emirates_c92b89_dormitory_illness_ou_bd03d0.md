@@ -419,7 +419,7 @@ Within the broader history of contagious fears in the United Arab Emirates, the 
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains mass responses to perceived health threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Within the broader history of contagious fears in the United Arab Emirates, the 
           <a href="https://www.amazon.com/s?k=The+Inflamed+Mind+Edward+Bullmore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Inflamed Mind">The Inflamed Mind</a>
         </h4>
         <p class="fr-book-author">By Edward Bullmore</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based thinking about symptoms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Inflamed+Mind+Edward+Bullmore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ Within the broader history of contagious fears in the United Arab Emirates, the 
           <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of gold">City of gold</a>
         </h4>
         <p class="fr-book-author">By Jim Krane</p>
-        
+
         <p class="fr-book-desc">Provides local social background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

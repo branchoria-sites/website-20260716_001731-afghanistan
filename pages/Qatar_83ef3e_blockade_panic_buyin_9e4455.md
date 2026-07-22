@@ -401,7 +401,7 @@ Within the wider history of collective fear in Qatar, the supermarket panic stan
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
         <p class="fr-book-author">By Nate Silver</p>
-        
+
         <p class="fr-book-desc">Helps readers think about uncertainty and risk.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ Within the wider history of collective fear in Qatar, the supermarket panic stan
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains panic buying and collective responses to uncertainty.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ Within the wider history of collective fear in Qatar, the supermarket panic stan
           <a href="https://www.amazon.com/s?k=The+Fear+Factor%3A+How+One+Emotion+Connects+Altruists%2C+Psychopaths%2C+and+Everyone+In-Between+Abigail+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fear Factor: How One Emotion Connects Altruists, Psychopaths, and Everyone In-Between">The Fear Factor: How One Emotion Connects Altruists, Psychopa...</a>
         </h4>
         <p class="fr-book-author">By Abigail Marsh</p>
-        
+
         <p class="fr-book-desc">Explores how fear shapes human decisions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fear+Factor%3A+How+One+Emotion+Connects+Altruists%2C+Psychopaths%2C+and+Everyone+In-Between+Abigail+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

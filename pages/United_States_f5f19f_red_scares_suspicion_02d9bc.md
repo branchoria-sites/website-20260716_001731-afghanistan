@@ -367,7 +367,7 @@ For that reason, the Red Scares occupy an important place within the broader his
           <a href="https://www.amazon.com/s?k=The+Crucible+Arthur+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crucible">The Crucible</a>
         </h4>
         <p class="fr-book-author">By Arthur Miller</p>
-        
+
         <p class="fr-book-desc">Uses Salem as an allegory for McCarthyism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Crucible+Arthur+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For that reason, the Red Scares occupy an important place within the broader his
           <a href="https://www.amazon.com/s?k=The+paranoid+style+in+American+politics+Richard+Hofstadter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The paranoid style in American politics">The paranoid style in American politics</a>
         </h4>
         <p class="fr-book-author">By Richard Hofstadter, Richard Hofstadter</p>
-        
+
         <p class="fr-book-desc">Examines recurring patterns of conspiracy thinking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+paranoid+style+in+American+politics+Richard+Hofstadter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For that reason, the Red Scares occupy an important place within the broader his
           <a href="https://www.amazon.com/s?k=Many+are+the+crimes+Ellen+Schrecker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Many are the crimes">Many are the crimes</a>
         </h4>
         <p class="fr-book-author">By Ellen Schrecker</p>
-        
+
         <p class="fr-book-desc">Explains suspicion, blacklists and civil-liberty consequences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Many+are+the+crimes+Ellen+Schrecker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For that reason, the Red Scares occupy an important place within the broader his
           <a href="https://www.amazon.com/s?k=Red+Scare+Clay+Risen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red Scare">Red Scare</a>
         </h4>
         <p class="fr-book-author">By Clay Risen</p>
-        
+
         <p class="fr-book-desc">Modern account of Cold War anti-communist fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Red+Scare+Clay+Risen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

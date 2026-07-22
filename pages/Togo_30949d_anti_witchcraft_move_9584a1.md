@@ -358,7 +358,7 @@ This interpretation also helps explain why the history of southern Togo cannot b
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains how witch figures and protective responses emerge, circulate and change across different societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ This interpretation also helps explain why the history of southern Togo cannot b
           <a href="https://www.amazon.com/s?k=The+healing+wisdom+of+Africa+Malidoma+Patrice+Som%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The healing wisdom of Africa">The healing wisdom of Africa</a>
         </h4>
         <p class="fr-book-author">By Malidoma Patrice Somé, Malidoma Patrice Some</p>
-        
+
         <p class="fr-book-desc">Provides context for the healing and protective dimensions of religious movements that could become entangled with accusation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+healing+wisdom+of+Africa+Malidoma+Patrice+Som%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ This interpretation also helps explain why the history of southern Togo cannot b
           <a href="https://www.amazon.com/s?k=The+modernity+of+witchcraft+Peter+Geschiere&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The modernity of witchcraft">The modernity of witchcraft</a>
         </h4>
         <p class="fr-book-author">By Peter Geschiere</p>
-        
+
         <p class="fr-book-desc">Directly examines how witchcraft discourse adapts to mobility, modernisation, political change and social insecurity in Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+modernity+of+witchcraft+Peter+Geschiere&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ This interpretation also helps explain why the history of southern Togo cannot b
           <a href="https://www.amazon.com/s?k=Of+water+and+the+spirit+Malidoma+Patrice+Som%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Of water and the spirit">Of water and the spirit</a>
         </h4>
         <p class="fr-book-author">By Malidoma Patrice Somé, Malidoma Patrice Some</p>
-        
+
         <p class="fr-book-desc">Offers an accessible insider-oriented account of ritual, spiritual protection and community authority in a West African setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Of+water+and+the+spirit+Malidoma+Patrice+Som%C3%A9&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

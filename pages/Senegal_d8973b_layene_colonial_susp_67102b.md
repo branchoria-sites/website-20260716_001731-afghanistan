@@ -333,7 +333,7 @@ The episode also shows how labels can outlive the circumstances that produced th
           <a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Muslim societies in African history">Muslim societies in African history</a>
         </h4>
         <p class="fr-book-author">By Robinson, David</p>
-        
+
         <p class="fr-book-desc">Explains how African Muslim communities developed and how religious authority interacted with political power.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ The episode also shows how labels can outlive the circumstances that produced th
           <a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="West Africa before the colonial era">West Africa before the colonial era</a>
         </h4>
         <p class="fr-book-author">By Basil Davidson</p>
-        
+
         <p class="fr-book-desc">Provides useful background on West African societies and religious traditions preceding French colonial rule.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ The episode also shows how labels can outlive the circumstances that produced th
           <a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizen and subject">Citizen and subject</a>
         </h4>
         <p class="fr-book-author">By Mahmood Mamdani</p>
-        
+
         <p class="fr-book-desc">Helps explain the colonial administrative mindset that viewed independent religious authority with suspicion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The episode also shows how labels can outlive the circumstances that produced th
           <a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mourides of Senegal">The Mourides of Senegal</a>
         </h4>
         <p class="fr-book-author">By Donal Brian Cruise O&#x27;Brien</p>
-        
+
         <p class="fr-book-desc">Although focused on the Mourides, it illuminates the relationship between colonial authorities and Senegalese religious movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

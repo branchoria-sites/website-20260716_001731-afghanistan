@@ -355,7 +355,7 @@ The case remains significant because it demonstrates how political neutrality ca
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Frames religious policy within African political history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ The case remains significant because it demonstrates how political neutrality ca
           <a href="https://www.amazon.com/s?k=God%27s+Secretaries+Adam+Nicolson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Secretaries">God&#x27;s Secretaries</a>
         </h4>
         <p class="fr-book-author">By Adam Nicolson</p>
-        
+
         <p class="fr-book-desc">Provides wider context on Bible-centered Christian traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=God%27s+Secretaries+Adam+Nicolson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The case remains significant because it demonstrates how political neutrality ca
           <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Eritrea">Understanding Eritrea</a>
         </h4>
         <p class="fr-book-author">By Martin Plaut</p>
-        
+
         <p class="fr-book-desc">Covers state repression and religious freedom issues.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Eritrea+Martin+Plaut&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The case remains significant because it demonstrates how political neutrality ca
           <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Didn&#x27;t Do It for You">I Didn&#x27;t Do It for You</a>
         </h4>
         <p class="fr-book-author">By Michela Wrong</p>
-        
+
         <p class="fr-book-desc">Explains historical roots of state power and dissent.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=I+Didn%27t+Do+It+for+You+Michela+Wrong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -371,7 +371,7 @@ For Comoros, Karthala is therefore significant not simply as an active volcano b
           <a href="https://www.amazon.com/s?k=The+Unthinkable+Amanda+Ripley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unthinkable">The Unthinkable</a>
         </h4>
         <p class="fr-book-author">By Amanda Ripley</p>
-        
+
         <p class="fr-book-desc">Explains human behaviour during emergencies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Unthinkable+Amanda+Ripley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For Comoros, Karthala is therefore significant not simply as an active volcano b
           <a href="https://www.amazon.com/s?k=Eruptions+that+shook+the+world+Clive+Oppenheimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eruptions that shook the world">Eruptions that shook the world</a>
         </h4>
         <p class="fr-book-author">By Clive Oppenheimer</p>
-        
+
         <p class="fr-book-desc">Shows how eruptions shape societies and responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eruptions+that+shook+the+world+Clive+Oppenheimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For Comoros, Karthala is therefore significant not simply as an active volcano b
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Useful for understanding fear and rumours in crises.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For Comoros, Karthala is therefore significant not simply as an active volcano b
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes and the earth&#x27;s interior">Volcanoes and the earth&#x27;s interior</a>
         </h4>
         <p class="fr-book-author">By Robert W. Decker, Barbara Decker</p>
-        
+
         <p class="fr-book-desc">First published 1982. Subjects: Internal structure, Volcanoes, Earthquakes &amp; Volcanoes, Nature, Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1360,7 +1360,7 @@ On Tabiteuea, these forces helped produce conquest and forced conversion. On Ono
 <a href="https://www.amazon.com/s?k=Guns%2C+Germs%2C+and+Steel+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guns, Germs, and Steel">Guns, Germs, and Steel</a>
 </h4>
 <p class="fr-book-author">By Jared Diamond</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: prize:pulitzer=1998, Ethnology, Criticism and interpretation, Culture diffusion, Effect of environment on.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Guns%2C+Germs%2C+and+Steel+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ On Tabiteuea, these forces helped produce conquest and forced conversion. On Ono
 <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
 </h4>
 <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
 <p class="fr-book-desc">First published 1972. Subjects: Navigation, Micronesians, Polynesians, Micronésiens, Entdeckung.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ On Tabiteuea, these forces helped produce conquest and forced conversion. On Ono
 <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Road of the Winds">On the Road of the Winds</a>
 </h4>
 <p class="fr-book-author">By Patrick Vinton Kirch</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Prehistoric peoples, Antiquities, Oceania, antiquities, Préhistoire, Homme préhistorique.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=On+the+Road+of+the+Winds+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1411,7 +1411,7 @@ On Tabiteuea, these forces helped produce conquest and forced conversion. On Ono
 <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
 </h4>
 <p class="fr-book-author">By Lamont Lindstrom</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Cargo cults.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

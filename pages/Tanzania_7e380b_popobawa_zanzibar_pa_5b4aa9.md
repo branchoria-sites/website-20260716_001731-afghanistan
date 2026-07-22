@@ -370,7 +370,7 @@ For historians, it provides insight into Zanzibar's political and social climate
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
         </h4>
         <p class="fr-book-author">By Matthew Walker</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on sleep phenomena including paralysis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For historians, it provides insight into Zanzibar's political and social climate
           <a href="https://www.amazon.com/s?k=The+terror+that+comes+in+the+night+David+J.+Hufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The terror that comes in the night">The terror that comes in the night</a>
         </h4>
         <p class="fr-book-author">By David J. Hufford</p>
-        
+
         <p class="fr-book-desc">Directly addresses sleep paralysis experiences linked to supernatural beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+terror+that+comes+in+the+night+David+J.+Hufford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For historians, it provides insight into Zanzibar's political and social climate
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Places spirit beliefs within African religious traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

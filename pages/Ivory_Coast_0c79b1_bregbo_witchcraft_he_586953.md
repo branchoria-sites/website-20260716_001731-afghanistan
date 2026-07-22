@@ -338,7 +338,7 @@ For historians of religion, Bregbo demonstrates that Christian healing movements
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Frames healing and witchcraft beliefs behind Bregbo.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ For historians of religion, Bregbo demonstrates that Christian healing movements
           <a href="https://www.amazon.com/s?k=Religion+and+the+Decline+of+Magic+Keith+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religion and the Decline of Magic">Religion and the Decline of Magic</a>
         </h4>
         <p class="fr-book-author">By Keith Thomas</p>
-        
+
         <p class="fr-book-desc">Compares changing ideas of supernatural causation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religion+and+the+Decline+of+Magic+Keith+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ For historians of religion, Bregbo demonstrates that Christian healing movements
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Provides wider context for witchcraft beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ For historians of religion, Bregbo demonstrates that Christian healing movements
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
         </h4>
         <p class="fr-book-author">By Jacob K. Olupona</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

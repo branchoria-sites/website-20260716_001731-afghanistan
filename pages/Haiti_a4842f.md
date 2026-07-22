@@ -1351,7 +1351,7 @@ The most persistent myth is that Haiti is uniquely governed by superstition. Its
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Explores Haitian belief, zombies and Vodou.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ The most persistent myth is that Haiti is uniquely governed by superstition. Its
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
         </h4>
         <p class="fr-book-author">By Zora Neale Hurston</p>
-        
+
         <p class="fr-book-desc">Early firsthand exploration of Caribbean religious traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ The most persistent myth is that Haiti is uniquely governed by superstition. Its
           <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses of Haiti">The uses of Haiti</a>
         </h4>
         <p class="fr-book-author">By Paul Farmer</p>
-        
+
         <p class="fr-book-desc">Explains Haiti&#x27;s political and historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1402,7 +1402,7 @@ The most persistent myth is that Haiti is uniquely governed by superstition. Its
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
         </h4>
         <p class="fr-book-author">By Michele Wucker</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of Haiti&#x27;s historical challenges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

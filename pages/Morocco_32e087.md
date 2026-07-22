@@ -1345,7 +1345,7 @@ The most responsible way to study them is therefore to ask four separate questio
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of modern Morocco">A history of modern Morocco</a>
         </h4>
         <p class="fr-book-author">By Susan Gilson Miller</p>
-        
+
         <p class="fr-book-desc">Provides political and cultural background for multiple episodes on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+modern+Morocco+Susan+Gilson+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ The most responsible way to study them is therefore to ask four separate questio
           <a href="https://www.amazon.com/s?k=Dreams+of+Trespass+Mernissi%2C+Fatima.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dreams of Trespass">Dreams of Trespass</a>
         </h4>
         <p class="fr-book-author">By Mernissi, Fatima.</p>
-        
+
         <p class="fr-book-desc">Offers insight into Moroccan society and belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dreams+of+Trespass+Mernissi%2C+Fatima.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ The most responsible way to study them is therefore to ask four separate questio
           <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco">Morocco</a>
         </h4>
         <p class="fr-book-author">By C. R. Pennell</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Morocco+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1396,7 +1396,7 @@ The most responsible way to study them is therefore to ask four separate questio
           <a href="https://www.amazon.com/s?k=Morocco%3A+From+Empire+to+Independence+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Morocco: From Empire to Independence">Morocco: From Empire to Independence</a>
         </h4>
         <p class="fr-book-author">By C. R. Pennell</p>
-        
+
         <p class="fr-book-desc">Covers Morocco&#x27;s political and social development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Morocco%3A+From+Empire+to+Independence+C.+R.+Pennell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

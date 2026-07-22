@@ -358,7 +358,7 @@ Today, historians see the criminalisation of obeah less as evidence that colonia
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Best-known introduction to resistance in the Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Today, historians see the criminalisation of obeah less as evidence that colonia
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Testing the Chains: Resistance to Slavery in the British West Indies">Testing the Chains: Resistance to Slavery in the British West...</a>
         </h4>
         <p class="fr-book-author">By Michael Craton</p>
-        
+
         <p class="fr-book-desc">Covers rebellions including Jamaica in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Testing+the+Chains%3A+Resistance+to+Slavery+in+the+British+West+Indies+Michael+Craton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Today, historians see the criminalisation of obeah less as evidence that colonia
           <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Jamaica">The history of Jamaica</a>
         </h4>
         <p class="fr-book-author">By Edward Long</p>
-        
+
         <p class="fr-book-desc">Influential colonial account of the revolt era.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+history+of+Jamaica+Edward+Long&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Today, historians see the criminalisation of obeah less as evidence that colonia
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Places Tacky&#x27;s Revolt in wider Caribbean history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

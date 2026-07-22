@@ -361,7 +361,7 @@ For historians of collective fear and moral panic, these campaigns illustrate ho
           <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
         </h4>
         <p class="fr-book-author">By Olivier Roy</p>
-        
+
         <p class="fr-book-desc">Frames religion and identity in Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ For historians of collective fear and moral panic, these campaigns illustrate ho
           <a href="https://www.amazon.com/s?k=Islam+without+extremes+Mustafa+Akyol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam without extremes">Islam without extremes</a>
         </h4>
         <p class="fr-book-author">By Mustafa Akyol</p>
-        
+
         <p class="fr-book-desc">Examines religion, liberty and state responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Islam+without+extremes+Mustafa+Akyol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For historians of collective fear and moral panic, these campaigns illustrate ho
           <a href="https://www.amazon.com/s?k=Political+Islam+Nazih+N.+M.+Ayubi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Political Islam">Political Islam</a>
         </h4>
         <p class="fr-book-author">By Nazih N. M. Ayubi, Nazih Ayubi et al.</p>
-        
+
         <p class="fr-book-desc">Useful background on political interpretations of Islam.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Political+Islam+Nazih+N.+M.+Ayubi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,16 +406,16 @@ For historians of collective fear and moral panic, these campaigns illustrate ho
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is Islam? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881756-M.jpg" alt="Cover for What Is Islam?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
         </h4>
-        <p class="fr-book-author">By Adeeb Khalid</p>
-        
-        <p class="fr-book-desc">Explains modern state approaches to religion.</p>
+        <p class="fr-book-author">By Shahab Ahmed</p>
+
+        <p class="fr-book-desc">Broadens understanding of Islamic practice and identity.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

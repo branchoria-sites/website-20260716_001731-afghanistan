@@ -364,7 +364,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=The+formation+of+a+persecuting+society+R.+I.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The formation of a persecuting society">The formation of a persecuting society</a>
 </h4>
 <p class="fr-book-author">By R. I. Moore</p>
-        
+
 <p class="fr-book-desc">First published 1987. Subjects: Deviant behavior, History, Persecution, Power (Social sciences), Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+formation+of+a+persecuting+society+R.+I.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise History of the Armenian People">A Concise History of the Armenian People</a>
 </h4>
 <p class="fr-book-author">By George A. Bournoutian</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: History, Armenians.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=The+medieval+Manichee+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The medieval Manichee">The medieval Manichee</a>
 </h4>
 <p class="fr-book-author">By Steven Runciman</p>
-        
+
 <p class="fr-book-desc">First published 1947. Subjects: Christian sects, Medieval, Dualism, Manichaeism, Medieval Christian sects, Medieval Sects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+medieval+Manichee+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=Armenians+Edmund+Herzig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenians">Armenians</a>
 </h4>
 <p class="fr-book-author">By Edmund Herzig, Marina Kurkchiyan</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Armenia (republic), history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Armenians+Edmund+Herzig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

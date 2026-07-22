@@ -390,7 +390,7 @@ The historical episode involved a genuine speculative surge among a limited circ
           <a href="https://www.amazon.com/s?k=Manias%2C+panics%2C+and+crashes+Charles+Poor+Kindleberger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manias, panics, and crashes">Manias, panics, and crashes</a>
         </h4>
         <p class="fr-book-author">By Charles Poor Kindleberger, Robert Aliber et al.</p>
-        
+
         <p class="fr-book-desc">Places tulip speculation within the history of financial manias.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Manias%2C+panics%2C+and+crashes+Charles+Poor+Kindleberger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The historical episode involved a genuine speculative surge among a limited circ
           <a href="https://www.amazon.com/s?k=Devil+Take+the+Hindmost+Edward+Chancellor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Devil Take the Hindmost">Devil Take the Hindmost</a>
         </h4>
         <p class="fr-book-author">By Edward Chancellor</p>
-        
+
         <p class="fr-book-desc">Explains recurring investment bubbles including tulip mania.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Devil+Take+the+Hindmost+Edward+Chancellor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The historical episode involved a genuine speculative surge among a limited circ
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Embarrassment of Riches">The Embarrassment of Riches</a>
         </h4>
         <p class="fr-book-author">By Simon Schama</p>
-        
+
         <p class="fr-book-desc">Adds cultural context to the Dutch Golden Age.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Embarrassment+of+Riches+Simon+Schama&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

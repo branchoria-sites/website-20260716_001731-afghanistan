@@ -371,7 +371,7 @@ For Burundi, the attacks also exposed the limits of treating such violence purel
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Explores the intersection of belief and health.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For Burundi, the attacks also exposed the limits of treating such violence purel
           <a href="https://www.amazon.com/s?k=Invisible+Women+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invisible Women">Invisible Women</a>
         </h4>
         <p class="fr-book-author">By Caroline Criado Perez</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of systemic vulnerability and exclusion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Invisible+Women+Caroline+Criado+Perez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For Burundi, the attacks also exposed the limits of treating such violence purel
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides context for beliefs exploited by criminal networks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For Burundi, the attacks also exposed the limits of treating such violence purel
           <a href="https://www.amazon.com/s?k=Half+the+sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Half the sky">Half the sky</a>
         </h4>
         <p class="fr-book-author">By Nicholas D. Kristof, Sheryl WuDunn</p>
-        
+
         <p class="fr-book-desc">Examines vulnerable populations and violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Half+the+sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -362,7 +362,7 @@ Modern scholarship increasingly interprets the Babi upheavals as an example of h
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
 </h4>
 <p class="fr-book-author">By Jonathan Haidt</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Modern scholarship increasingly interprets the Babi upheavals as an example of h
 <a href="https://www.amazon.com/s?k=God+passes+by+Shoghi+Effendi.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God passes by">God passes by</a>
 </h4>
 <p class="fr-book-author">By Shoghi Effendi.</p>
-        
+
 <p class="fr-book-desc">First published 1944. Subjects: Bahai Faith, History, Bahais.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=God+passes+by+Shoghi+Effendi.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Modern scholarship increasingly interprets the Babi upheavals as an example of h
 <a href="https://www.amazon.com/s?k=The+dawn-breakers+Nabil-i-A%27zam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dawn-breakers">The dawn-breakers</a>
 </h4>
 <p class="fr-book-author">By Nabil-i-A&#x27;zam</p>
-        
+
 <p class="fr-book-desc">First published 1962. Subjects: Bahai Faith, Babism, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+dawn-breakers+Nabil-i-A%27zam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -369,7 +369,7 @@ Within Bolivia's wider history of rumours, religious fears and collective belief
           <a href="https://www.amazon.com/s?k=Women+Talking+Miriam+Toews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Women Talking">Women Talking</a>
         </h4>
         <p class="fr-book-author">By Miriam Toews</p>
-        
+
         <p class="fr-book-desc">Inspired by the Manitoba Colony assaults in Bolivia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Women+Talking+Miriam+Toews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within Bolivia's wider history of rumours, religious fears and collective belief
           <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
         </h4>
         <p class="fr-book-author">By Gavin de Becker</p>
-        
+
         <p class="fr-book-desc">Relevant to understanding belief, vulnerability and overlooked warning signs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within Bolivia's wider history of rumours, religious fears and collective belief
           <a href="https://www.amazon.com/s?k=Bookclub+in+a+Box+Discusses+the+Novel+A+Complicated+Kindness%2C+by+Miriam+Toews+Miriam+Toews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bookclub in a Box Discusses the Novel A Complicated Kindness, by Miriam Toews">Bookclub in a Box Discusses the Novel A Complicated Kindness,...</a>
         </h4>
         <p class="fr-book-author">By Miriam Toews</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bookclub+in+a+Box+Discusses+the+Novel+A+Complicated+Kindness%2C+by+Miriam+Toews+Miriam+Toews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within Bolivia's wider history of rumours, religious fears and collective belief
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
         </h4>
         <p class="fr-book-author">By Eduardo Galeano</p>
-        
+
         <p class="fr-book-desc">Supplies broader Bolivian historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

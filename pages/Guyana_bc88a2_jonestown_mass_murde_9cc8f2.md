@@ -402,7 +402,7 @@ The enduring lesson is not that large groups inevitably succumb to irrational pa
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The road to Jonestown">The road to Jonestown</a>
         </h4>
         <p class="fr-book-author">By Jeff Guinn</p>
-        
+
         <p class="fr-book-desc">Examines how Peoples Temple evolved into catastrophe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+road+to+Jonestown+Jeff+Guinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ The enduring lesson is not that large groups inevitably succumb to irrational pa
           <a href="https://www.amazon.com/s?k=Seductive+poison+Deborah+Layton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Seductive poison">Seductive poison</a>
         </h4>
         <p class="fr-book-author">By Deborah Layton</p>
-        
+
         <p class="fr-book-desc">First-hand account of coercion inside Peoples Temple.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Seductive+poison+Deborah+Layton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ The enduring lesson is not that large groups inevitably succumb to irrational pa
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
         </h4>
         <p class="fr-book-author">By Margaret Thaler Singer</p>
-        
+
         <p class="fr-book-desc">Explains mechanisms of coercive persuasion relevant to Jonestown.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ The enduring lesson is not that large groups inevitably succumb to irrational pa
           <a href="https://www.amazon.com/s?k=A+Thousand+Lives+Julia+Scheeres&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Thousand Lives">A Thousand Lives</a>
         </h4>
         <p class="fr-book-author">By Julia Scheeres, Robin Miles</p>
-        
+
         <p class="fr-book-desc">Shows why many victims were trapped rather than willing participants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Thousand+Lives+Julia+Scheeres&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

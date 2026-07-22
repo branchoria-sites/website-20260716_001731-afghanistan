@@ -364,7 +364,7 @@ For historians of collective belief, the episode illustrates how genuine apocaly
 <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
 </h4>
 <p class="fr-book-author">By Lawrence Wright</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Current Events, September 11 Terrorist Attacks, 2001, Qaida (Organization), Intelligence service, Nonfict...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For historians of collective belief, the episode illustrates how genuine apocaly
 <a href="https://www.amazon.com/s?k=The+Shia+Revival+Vali+Nasr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shia Revival">The Shia Revival</a>
 </h4>
 <p class="fr-book-author">By Vali Nasr</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Islam and politics, Sunnites, Middle east, politics and government, Shiites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Shia+Revival+Vali+Nasr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For historians of collective belief, the episode illustrates how genuine apocaly
 <a href="https://www.amazon.com/s?k=Republic+of+fear+Kanan+Makiya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Republic of fear">Republic of fear</a>
 </h4>
 <p class="fr-book-author">By Kanan Makiya</p>
-        
+
 <p class="fr-book-desc">First published 1989. Subjects: Politics and government, Iraq, politics and government, HISTORY, General, Baʹthpartij.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Republic+of+fear+Kanan+Makiya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For historians of collective belief, the episode illustrates how genuine apocaly
 <a href="https://www.amazon.com/s?k=Black+flags+Joby+Warrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black flags">Black flags</a>
 </h4>
 <p class="fr-book-author">By Joby Warrick</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Politics and government, POLITICAL SCIENCE / Political Freedom &amp; Security / Terrorism, Islamic fundamenta...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Black+flags+Joby+Warrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

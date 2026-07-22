@@ -1338,7 +1338,7 @@ The broader lesson is that collective belief does not operate outside history. I
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Explains comparative belief systems relevant to Somalia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ The broader lesson is that collective belief does not operate outside history. I
           <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A modern history of Somalia">A modern history of Somalia</a>
         </h4>
         <p class="fr-book-author">By Lewis, I. M.</p>
-        
+
         <p class="fr-book-desc">Covers religious movements and colonial history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+modern+history+of+Somalia+Lewis%2C+I.+M.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ The broader lesson is that collective belief does not operate outside history. I
           <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Somalia">The Invention of Somalia</a>
         </h4>
         <p class="fr-book-author">By Ali Jimale Ahmed</p>
-        
+
         <p class="fr-book-desc">Examines identity and historical narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+Somalia+Ali+Jimale+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ The broader lesson is that collective belief does not operate outside history. I
           <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Somalia and Somaliland">Understanding Somalia and Somaliland</a>
         </h4>
         <p class="fr-book-author">By Ioan Lewis</p>
-        
+
         <p class="fr-book-desc">Broad foundation for religion, politics and belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Understanding+Somalia+and+Somaliland+Ioan+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

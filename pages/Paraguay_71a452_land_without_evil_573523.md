@@ -358,7 +358,7 @@ Within Paraguay's wider history of collective belief, the Land Without Evil stan
           <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
         </h4>
         <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
-        
+
         <p class="fr-book-desc">Provides comparative framework for prophetic traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Within Paraguay's wider history of collective belief, the Land Without Evil stan
           <a href="https://www.amazon.com/s?k=The+Guarani+Under+Spanish+Rule+in+the+Rio+De+La+Plata+Barbara+Ganson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guarani Under Spanish Rule in the Rio De La Plata">The Guarani Under Spanish Rule in the Rio De La Plata</a>
         </h4>
         <p class="fr-book-author">By Barbara Ganson</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Missions, Guarani Indians, Government relations, Seven Reductions, War of the, 1754-1756, Guarani (Indiens).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Guarani+Under+Spanish+Rule+in+the+Rio+De+La+Plata+Barbara+Ganson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within Paraguay's wider history of collective belief, the Land Without Evil stan
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Within Paraguay's wider history of collective belief, the Land Without Evil stan
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
         </h4>
         <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-        
+
         <p class="fr-book-desc">Expands understanding of Indigenous belief systems in the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

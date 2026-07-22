@@ -1304,7 +1304,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1321,7 +1321,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Arts of the Black Atlantic">The Sacred Arts of the Black Atlantic</a>
 </h4>
 <p class="fr-book-author">By Robert Farris Thompson</p>
-        
+
 <p class="fr-book-desc">Strong background for Winti and related belief systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic among the Azande">Witchcraft, Oracles and Magic among the Azande</a>
 </h4>
 <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-        
+
 <p class="fr-book-desc">Foundational study of witchcraft beliefs in society.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

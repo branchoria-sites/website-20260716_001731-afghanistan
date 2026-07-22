@@ -354,7 +354,7 @@ Angela Bourke's influential study *The Burning of Bridget Cleary* helped reshape
           <a href="https://www.amazon.com/s?k=The+Burning+of+Bridget+Cleary+Angela+Bourke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Burning of Bridget Cleary">The Burning of Bridget Cleary</a>
         </h4>
         <p class="fr-book-author">By Angela Bourke</p>
-        
+
         <p class="fr-book-desc">Directly examines the Bridget Cleary killing and changeling belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Burning+of+Bridget+Cleary+Angela+Bourke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Angela Bourke's influential study *The Burning of Bridget Cleary* helped reshape
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
         </h4>
         <p class="fr-book-author">By William Butler Yeats</p>
-        
+
         <p class="fr-book-desc">Introduces fairy beliefs central to the changeling tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Angela Bourke's influential study *The Burning of Bridget Cleary* helped reshape
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Places supernatural accusations within wider European history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Angela Bourke's influential study *The Burning of Bridget Cleary* helped reshape
           <a href="https://www.amazon.com/s?k=Meeting+the+other+crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the other crowd">Meeting the other crowd</a>
         </h4>
         <p class="fr-book-author">By Eddie Lenihan, Carolyn Eve Green</p>
-        
+
         <p class="fr-book-desc">Provides broader context for Irish fairy traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+other+crowd+Eddie+Lenihan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

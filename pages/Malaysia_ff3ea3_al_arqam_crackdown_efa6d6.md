@@ -337,7 +337,7 @@ For historians and scholars of religion, Al-Arqam remains significant because it
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
         </h4>
         <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-        
+
         <p class="fr-book-desc">Useful framework for understanding social boundary-making.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For historians and scholars of religion, Al-Arqam remains significant because it
           <a href="https://www.amazon.com/s?k=The+battle+for+God+Karen+Armstrong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The battle for God">The battle for God</a>
         </h4>
         <p class="fr-book-author">By Karen Armstrong</p>
-        
+
         <p class="fr-book-desc">Explores religious revival movements and state responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+battle+for+God+Karen+Armstrong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For historians and scholars of religion, Al-Arqam remains significant because it
           <a href="https://www.amazon.com/s?k=No+god+but+God+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No god but God">No god but God</a>
         </h4>
         <p class="fr-book-author">By Reza Aslan</p>
-        
+
         <p class="fr-book-desc">Provides accessible background on Islamic traditions and reform.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=No+god+but+God+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians and scholars of religion, Al-Arqam remains significant because it
           <a href="https://www.amazon.com/s?k=Islam+and+the+secular+state+%CA%BBAbd+All%C4%81h+A%E1%B8%A5mad+Na%CA%BB%C4%ABm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam and the secular state">Islam and the secular state</a>
         </h4>
         <p class="fr-book-author">By ʻAbd Allāh Aḥmad Naʻīm, Abdullahi Ahmed An-Na`im et al.</p>
-        
+
         <p class="fr-book-desc">Relevant to debates over religious authority and law.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Islam+and+the+secular+state+%CA%BBAbd+All%C4%81h+A%E1%B8%A5mad+Na%CA%BB%C4%ABm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

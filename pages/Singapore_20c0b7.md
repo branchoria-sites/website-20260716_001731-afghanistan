@@ -1381,7 +1381,7 @@ The most effective responses in Singapore have combined factual correction with 
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
         </h4>
         <p class="fr-book-author">By Steven Taylor</p>
-        
+
         <p class="fr-book-desc">Explains fear contagion, rumours and collective behaviour.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1398,7 +1398,7 @@ The most effective responses in Singapore have combined factual correction with 
           <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Third World to First : The Singapore Story">From Third World to First : The Singapore Story</a>
         </h4>
         <p class="fr-book-author">By Lee Kuan Yew</p>
-        
+
         <p class="fr-book-desc">Provides historical context for modern Singapore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Third+World+to+First+%3A+The+Singapore+Story+Lee+Kuan+Yew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1415,7 +1415,7 @@ The most effective responses in Singapore have combined factual correction with 
           <a href="https://www.amazon.com/s?k=Gustave+Bon+Classics%3A+the+Crowd+a+Study+of+the+Popular+Mind+Gustave+Bon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gustave Bon Classics: the Crowd a Study of the Popular Mind">Gustave Bon Classics: the Crowd a Study of the Popular Mind</a>
         </h4>
         <p class="fr-book-author">By Gustave Bon</p>
-        
+
         <p class="fr-book-desc">Useful background for mass fear episodes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Gustave+Bon+Classics%3A+the+Crowd+a+Study+of+the+Popular+Mind+Gustave+Bon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

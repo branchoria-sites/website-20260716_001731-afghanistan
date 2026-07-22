@@ -1344,7 +1344,7 @@ In Azerbaijan, the most important panics have rarely been about impossible monst
           <a href="https://www.amazon.com/s?k=The+Great+Transformation+Karl+Polanyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Transformation">The Great Transformation</a>
         </h4>
         <p class="fr-book-author">By Karl Polanyi</p>
-        
+
         <p class="fr-book-desc">Explores how states shape society, useful context for belief, authority and public fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Transformation+Karl+Polanyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ In Azerbaijan, the most important panics have rarely been about impossible monst
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
         </h4>
         <p class="fr-book-author">By Benedict Anderson</p>
-        
+
         <p class="fr-book-desc">Provides context for nationalism, identity and official narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ In Azerbaijan, the most important panics have rarely been about impossible monst
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soviet century">The Soviet century</a>
         </h4>
         <p class="fr-book-author">By Moshe Lewin</p>
-        
+
         <p class="fr-book-desc">Helps explain the ideological setting behind campaigns against religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Soviet+century+Moshe+Lewin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1395,7 +1395,7 @@ In Azerbaijan, the most important panics have rarely been about impossible monst
           <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Caucasus">The Caucasus</a>
         </h4>
         <p class="fr-book-author">By Thomas De Waal</p>
-        
+
         <p class="fr-book-desc">Provides regional context for religion, politics and identity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Caucasus+Thomas+De+Waal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

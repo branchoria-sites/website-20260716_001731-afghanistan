@@ -363,7 +363,7 @@ Within Mexico's broader history of collective fears and religious conflict, colo
           <a href="https://www.amazon.com/s?k=The+Labyrinth+of+Solitude+Octavio+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Labyrinth of Solitude">The Labyrinth of Solitude</a>
         </h4>
         <p class="fr-book-author">By Octavio Paz</p>
-        
+
         <p class="fr-book-desc">Adds broader cultural background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Labyrinth+of+Solitude+Octavio+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Within Mexico's broader history of collective fears and religious conflict, colo
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Introduces documented witchcraft cases and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Within Mexico's broader history of collective fears and religious conflict, colo
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil in the shape of a woman">The devil in the shape of a woman</a>
         </h4>
         <p class="fr-book-author">By Carol F. Karlsen</p>
-        
+
         <p class="fr-book-desc">Provides strong comparative context for colonial witchcraft accusations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman+Carol+F.+Karlsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Within Mexico's broader history of collective fears and religious conflict, colo
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
         </h4>
         <p class="fr-book-author">By Clifford Geertz</p>
-        
+
         <p class="fr-book-desc">Supports interpretation of colonial belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

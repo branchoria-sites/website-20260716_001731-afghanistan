@@ -1336,7 +1336,7 @@ Spains most important contribution to the history of collective fear may be the 
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains the evolution of witch beliefs and persecutions that illuminate the Spanish cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ Spains most important contribution to the history of collective fear may be the 
           <a href="https://www.amazon.com/s?k=The+Spanish+Inquisition+Henry+Kamen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spanish Inquisition">The Spanish Inquisition</a>
         </h4>
         <p class="fr-book-author">By Henry Kamen</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for witch trials, religious authority, and skepticism in Spain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spanish+Inquisition+Henry+Kamen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ Spains most important contribution to the history of collective fear may be the 
           <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Basque">The Basque</a>
         </h4>
         <p class="fr-book-author">By Mark Kurlansky</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: History, Basques, Nonfiction, Geschichte, Nationalismus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Basque+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
