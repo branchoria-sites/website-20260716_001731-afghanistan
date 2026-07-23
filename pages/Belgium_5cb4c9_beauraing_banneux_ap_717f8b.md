@@ -357,33 +357,16 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8038408-M.jpg" alt="Cover for Our Lady of Kibeho" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visions+of+the+End%3A+Apocalyptic+Traditions+in+the+Middle+Ages+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visions of the End: Apocalyptic Traditions in the Middle Ages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/144516-M.jpg" alt="Cover for Visions of the End: Apocalyptic Traditions in the Middle Ages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
-        </h4>
-        <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
-
-        <p class="fr-book-desc">Offers comparison with another Church-recognised apparition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visions of the end on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/144516-M.jpg" alt="Cover for Visions of the end" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of the end">Visions of the end</a>
+          <a href="https://www.amazon.com/s?k=Visions+of+the+End%3A+Apocalyptic+Traditions+in+the+Middle+Ages+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visions of the End: Apocalyptic Traditions in the Middle Ages">Visions of the End: Apocalyptic Traditions in the Middle Ages</a>
         </h4>
         <p class="fr-book-author">By Bernard McGinn</p>
 
         <p class="fr-book-desc">Provides broader context for visionary experiences.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visions+of+the+end+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Visions+of+the+End%3A+Apocalyptic+Traditions+in+the+Middle+Ages+Bernard+McGinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -406,9 +389,26 @@ Within Belgium's wider history of collective belief, these apparitions stand apa
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Miracles%3A+The+Credibility+of+the+New+Testament+Accounts+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Miracles: The Credibility of the New Testament Accounts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6979711-M.jpg" alt="Cover for Miracles: The Credibility of the New Testament Accounts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Miracles%3A+The+Credibility+of+the+New+Testament+Accounts+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles: The Credibility of the New Testament Accounts">Miracles: The Credibility of the New Testament Accounts</a>
+        </h4>
+        <p class="fr-book-author">By Craig S. Keener</p>
+
+        <p class="fr-book-desc">Examines miracle reports and their evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Miracles%3A+The+Credibility+of+the+New+Testament+Accounts+Craig+S.+Keener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Miracles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Miracles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Our Lady of Kibeho</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visions+of+the+end&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visions of the end</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Miracles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Miracles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visions+of+the+End%3A+Apocalyptic+Traditions+in+the+Middle+Ages&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visions of the End: Apocalyptic Traditions in the Middle Ages</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Miracles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Miracles</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

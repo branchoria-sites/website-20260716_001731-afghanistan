@@ -1374,16 +1374,16 @@ The enduring cultural question is therefore not simply why people believed extra
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia: A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4711764-M.jpg" alt="Cover for Bosnia: A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia">Bosnia</a>
+          <a href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia: A Short History">Bosnia: A Short History</a>
         </h4>
         <p class="fr-book-author">By Noel Malcolm</p>
 
-        <p class="fr-book-desc">First published 1994. Subjects: Ethnic relations, History, Bosnia and hercegovina, history, Bosnia and hercegovina, ethnic relations, Bos...</p>
+        <p class="fr-book-desc">Provides context for competing beliefs and identities.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bosnia%3A+A+Short+History+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

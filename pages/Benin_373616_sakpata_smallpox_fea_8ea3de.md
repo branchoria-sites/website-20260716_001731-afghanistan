@@ -404,16 +404,16 @@ For historians, this makes Sakpata an important example of how societies organis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vodun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823162-M.jpg" alt="Cover for Vodun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vodun: Secrecy and the Search for Divine Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823162-M.jpg" alt="Cover for Vodun: Secrecy and the Search for Divine Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun">Vodun</a>
+          <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun: Secrecy and the Search for Divine Power">Vodun: Secrecy and the Search for Divine Power</a>
         </h4>
         <p class="fr-book-author">By Timothy R. Landry</p>
 
-        <p class="fr-book-desc">First published 2018. Subjects: Secrecy (psychology), Tourism, Ethnology, nigeria, Benin, Vodou.</p>
+        <p class="fr-book-desc">Provides context for Sakpata and Vodun traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

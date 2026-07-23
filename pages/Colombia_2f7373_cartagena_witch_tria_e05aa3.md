@@ -363,16 +363,16 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9234919-M.jpg" alt="Cover for Witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft: A History in Thirteen Trials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9234919-M.jpg" alt="Cover for Witchcraft: A History in Thirteen Trials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft">Witchcraft</a>
+          <a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft: A History in Thirteen Trials">Witchcraft: A History in Thirteen Trials</a>
         </h4>
         <p class="fr-book-author">By Marion Gibson</p>
 
-        <p class="fr-book-desc">First published 2018. Subjects: Witchcraft, History, Sorcellerie, Histoire, BODY, MIND &amp; SPIRIT / Parapsychology / General.</p>
+        <p class="fr-book-desc">Places Cartagena within the wider history of witch prosecutions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witchcraft+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -397,7 +397,7 @@ Within [Colombia]({{ 'when-fear-and-belief-swept-through/' | relative_url }})'s 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil in the shape of a woman</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+in+the+shape+of+a+woman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil in the shape of a woman</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft: A History in Thirteen Trials</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

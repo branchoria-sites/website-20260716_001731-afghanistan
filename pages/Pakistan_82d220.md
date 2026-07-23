@@ -1412,16 +1412,16 @@ The most useful distinction is therefore not between modern reason and old super
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pakistan+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pakistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10355209-M.jpg" alt="Cover for Pakistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pakistan: A Hard Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10355209-M.jpg" alt="Cover for Pakistan: A Hard Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pakistan+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan">Pakistan</a>
+          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pakistan: A Hard Country">Pakistan: A Hard Country</a>
         </h4>
         <p class="fr-book-author">By Anatol Lieven</p>
 
-        <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Social conditions, History, Political culture, Pakistan, politics and government.</p>
+        <p class="fr-book-desc">Supplies social and political context for public emergencies.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pakistan+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Pakistan%3A+A+Hard+Country+Anatol+Lieven&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -417,16 +417,16 @@ The legacy of these events has continued to influence discussions of migration, 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Libya: From Colony to Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3001066-M.jpg" alt="Cover for Libya: From Colony to Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya">Libya</a>
+          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Libya: From Colony to Revolution">Libya: From Colony to Revolution</a>
         </h4>
         <p class="fr-book-author">By Ronald Bruce St John</p>
 
-        <p class="fr-book-desc">First published 2008. Subjects: Revolutions, Libya, history, Libya, politics and government, Libya, economic conditions, History.</p>
+        <p class="fr-book-desc">Provides historical context for the civil war.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Libya+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Libya%3A+From+Colony+to+Revolution+Ronald+Bruce+St+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

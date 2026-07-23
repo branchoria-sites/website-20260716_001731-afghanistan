@@ -1330,16 +1330,16 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open City of gold on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305371-M.jpg" alt="Cover for City of gold" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open City of Gold: Dubai and the Dream of Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305371-M.jpg" alt="Cover for City of Gold: Dubai and the Dream of Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of gold">City of gold</a>
+          <a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of Gold: Dubai and the Dream of Capitalism">City of Gold: Dubai and the Dream of Capitalism</a>
         </h4>
         <p class="fr-book-author">By Jim Krane</p>
 
         <p class="fr-book-desc">Provides background on the modern UAE.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1347,16 +1347,16 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy: Why the Rational Believe the Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy: Why the Rational Believe the Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy">Conspiracy</a>
+          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy: Why the Rational Believe the Irrational">Conspiracy: Why the Rational Believe the Irrational</a>
         </h4>
         <p class="fr-book-author">By Michael Shermer</p>
 
-        <p class="fr-book-desc">First published 2022.</p>
+        <p class="fr-book-desc">Relevant to moral panics and modern rumours.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1381,7 +1381,7 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Pandemics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+gold&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of gold</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Pandemics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of Gold: Dubai and the Dream of Capitalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy: Why the Rational Believe the Irrational</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -1355,16 +1355,16 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred Willow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/124343-M.jpg" alt="Cover for The Sacred Willow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sacred+Willow%3A+Four+Generations+in+the+Life+of+a+Vietnamese+Family+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sacred Willow: Four Generations in the Life of a Vietnamese Family on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/124343-M.jpg" alt="Cover for The Sacred Willow: Four Generations in the Life of a Vietnamese Family" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Willow">The Sacred Willow</a>
+          <a href="https://www.amazon.com/s?k=The+Sacred+Willow%3A+Four+Generations+in+the+Life+of+a+Vietnamese+Family+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Willow: Four Generations in the Life of a Vietnamese Family">The Sacred Willow: Four Generations in the Life of a Vietname...</a>
         </h4>
         <p class="fr-book-author">By Duong Van Mai Elliott</p>
 
         <p class="fr-book-desc">Illustrates Vietnamese beliefs and social change across generations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sacred+Willow+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Sacred+Willow%3A+Four+Generations+in+the+Life+of+a+Vietnamese+Family+Duong+Van+Mai+Elliott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1372,16 +1372,16 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7167932-M.jpg" alt="Cover for Vietnam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vietnam%3A+Rising+Dragon+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vietnam: Rising Dragon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7167932-M.jpg" alt="Cover for Vietnam: Rising Dragon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
+          <a href="https://www.amazon.com/s?k=Vietnam%3A+Rising+Dragon+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam: Rising Dragon">Vietnam: Rising Dragon</a>
         </h4>
         <p class="fr-book-author">By Bill Hayton</p>
 
-        <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
+        <p class="fr-book-desc">Explains contemporary Vietnamese society and politics.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Vietnam%3A+Rising+Dragon+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1389,7 +1389,7 @@ Across all three patterns, the decisive question is not whether Vietnamese peopl
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the lake</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+Willow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred Willow</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vietnam%2C+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vietnam, a history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+lake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the lake</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sacred+Willow%3A+Four+Generations+in+the+Life+of+a+Vietnamese+Family&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sacred Willow: Four Generations in the Life of a Vietnamese Family</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

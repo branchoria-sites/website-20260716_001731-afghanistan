@@ -367,16 +367,16 @@ The disappearance of a king became a mechanism for expressing hopes that politic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Portuguese: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13046603-M.jpg" alt="Cover for The Portuguese: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese">The Portuguese</a>
+          <a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Portuguese: A Modern History">The Portuguese: A Modern History</a>
         </h4>
         <p class="fr-book-author">By Barry Hatton</p>
 
         <p class="fr-book-desc">Discusses Portuguese identity shaped by historical myths.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Portuguese+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History+Barry+Hatton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -401,16 +401,16 @@ The disappearance of a king became a mechanism for expressing hopes that politic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conquerors: How Portugal Forged the First Global Empire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12408625-M.jpg" alt="Cover for Conquerors: How Portugal Forged the First Global Empire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors">Conquerors</a>
+          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conquerors: How Portugal Forged the First Global Empire">Conquerors: How Portugal Forged the First Global Empire</a>
         </h4>
         <p class="fr-book-author">By Roger Crowley</p>
 
-        <p class="fr-book-desc">First published 2015. Subjects: Portugal, history, period of discoveries, 1385-1580, Imperialism, Portugal, colonies.</p>
+        <p class="fr-book-desc">Provides background on Portugal before Sebastian&#x27;s disappearance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conquerors+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Conquerors%3A+How+Portugal+Forged+the+First+Global+Empire+Roger+Crowley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -418,7 +418,7 @@ The disappearance of a king became a mechanism for expressing hopes that politic
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The King in the Golden Mask</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">fatima in lucia&#x27;s own words</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+King+in+the+Golden+Mask&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The King in the Golden Mask</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Portuguese%3A+A+Modern+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Portuguese: A Modern History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=fatima+in+lucia%27s+own+words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">fatima in lucia&#x27;s own words</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

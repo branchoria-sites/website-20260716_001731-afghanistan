@@ -392,16 +392,16 @@ Today, historians see the false tsar episode as one of the clearest examples of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro">Montenegro</a>
+          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro: A Modern History">Montenegro: A Modern History</a>
         </h4>
         <p class="fr-book-author">By Morrison, Kenneth.</p>
 
-        <p class="fr-book-desc">First published 2009. Subjects: Montenegro, history, Politics and government, History.</p>
+        <p class="fr-book-desc">Explains the historical setting in which Šćepan Mali emerged.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Montenegro+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

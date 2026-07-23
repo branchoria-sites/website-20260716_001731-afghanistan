@@ -369,16 +369,16 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s first love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The world&#x27;s first love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s First Love: Mary, Mother of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The World&#x27;s First Love: Mary, Mother of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
+          <a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s First Love: Mary, Mother of God">The World&#x27;s First Love: Mary, Mother of God</a>
         </h4>
         <p class="fr-book-author">By Fulton J. Sheen</p>
 
         <p class="fr-book-desc">Provides broader Catholic context for Marian apparitions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -403,16 +403,16 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Lady of Kibeho on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8038408-M.jpg" alt="Cover for Our Lady of Kibeho" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7155750-M.jpg" alt="Cover for Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Lady of Kibeho">Our Lady of Kibeho</a>
+          <a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland">Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland</a>
         </h4>
-        <p class="fr-book-author">By Immaculée Ilibagiza, Steve Erwin</p>
+        <p class="fr-book-author">By Eugene Hynes</p>
 
-        <p class="fr-book-desc">Offers comparative insight into modern Marian apparitions.</p>
+        <p class="fr-book-desc">Directly examines the apparition and its historical development.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Our+Lady+of+Kibeho+Immacule%CC%81e+Ilibagiza&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -420,7 +420,7 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish fairy and folk tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+first+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s first love</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish fairy and folk tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s First Love: Mary, Mother of God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
