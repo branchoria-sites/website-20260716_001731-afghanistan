@@ -1324,8 +1324,7 @@ The same caution applies to state descriptions of dangerous sectarian activity. 
 
 Likewise, human-rights reporting on the Mkhaitir case establishes the sentence, detention and threats, but it cannot measure exactly how widely demands for execution were shared. Visible demonstrations and prominent clerical statements may dominate coverage while quieter disagreement remains under-recorded. Mauritanian society should not be portrayed as a single enraged crowd.
 
-## Why these episodes matter
-
+## What Mauritania reveals about public fear
 Mauritania’s history of collective fear is important because it shows how accusations of sacrilege can police more than theology. They can determine who may question racial hierarchy, which interpretations of religion may be debated, and whether minority beliefs are permitted to appear in public.
 
 The 2012 and 2014 controversies also reveal a struggle within religion rather than a simple conflict between belief and unbelief. Abeid and Mkhaitir challenged what they saw as the misuse of Islam to preserve inequality. Their opponents treated the challenges as offences against Islam itself. The central question was therefore who had the authority to define authentic faith—and whose social interests that definition protected.

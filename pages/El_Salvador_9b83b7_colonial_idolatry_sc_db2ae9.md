@@ -337,8 +337,7 @@ Missionaries often recorded Indigenous ceremonies only because they wished to er
 
 This distinction helps avoid a common misunderstanding. References to "idolatry" in colonial documents do not demonstrate that Indigenous communities belonged to dangerous cults or irrational movements. They show how colonial power classified religious difference in ways that justified conversion, surveillance and social control.
 
-## Why This History Still Matters
-
+## The wider legacy of Colonial Belief
 The colonial language of idolatry has had a remarkably long afterlife. Indigenous ceremonies, traditional healers and local religious customs have sometimes continued to be dismissed as superstition or treated as remnants of forbidden belief long after Spanish rule ended.
 
 Today, Indigenous organisations in El Salvador work to preserve languages, ceremonies and cultural memory that survived centuries of colonial pressure. Their efforts remind historians that the story is not simply one of religious destruction but of resilience. Many traditions endured because communities adapted them rather than abandoning them altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minorityrights.org/communities/lencas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minorityrights.org">[Minority Rights Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minorityrights.org</span><span class="citation-popover-title">Minority Rights Group Lencas in El Salvador</span><span class="citation-popover-snippet">Minority Rights GroupLencas in El Salvador - Minority Rights Group...</span></span></span>

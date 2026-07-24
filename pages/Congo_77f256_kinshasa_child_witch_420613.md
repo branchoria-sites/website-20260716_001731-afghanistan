@@ -367,8 +367,7 @@ Progress has been uneven. Legal protections exist, but enforcement remains incon
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SzM2f5eTe38" title="Democratic Republic of the Congo: DRC&#x27;s &quot;Child Witches&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SzM2f5eTe38" target="_blank" rel="noopener noreferrer">Democratic Republic of the Congo: DRC&#x27;s &quot;Child Witches&quot;</a></p><p class="youtube-embed-meta">Channel: United Nations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SzM2f5eTe38" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SzM2f5eTe38">Open on YouTube</a></p></div></div></div>
 
-## Why the episode matters
-
+## Child Witches: fear, rumour and collective belief
 Child-witch accusations in Kinshasa are sometimes described as evidence of irrational belief or religious extremism. Most specialists reject that interpretation as too simplistic.
 
 Instead, they argue that the accusations reveal how societies under severe stress search for explanations that fit existing cultural ideas. War, poverty, bereavement, rapid urban growth and weakened institutions created conditions in which vulnerable children became convenient scapegoats. The panic therefore says as much about collapsing social protection as it does about beliefs in witchcraft.

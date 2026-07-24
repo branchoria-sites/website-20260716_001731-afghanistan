@@ -210,12 +210,12 @@ hero_summary: Cuba’s history of collective fear is not a neat catalogue of spe
 layout: default
 permalink: /when-fear-became-a-force-in-cuba/
 nav_short_title: When Fear Became a Force in Cuba
-title: When Fear Became a Force in Cuba
+title: "Cuba: Panics, Beliefs and Mass Movements"
 title_full: When Fear Became a Force in Cuba
 display_title_short: When Fear Became a Force in Cuba
-display_title: When Fear Became a Force in Cuba
+display_title: "Cuba: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Became a Force in Cuba
-page_heading_title: When Fear Became a Force in Cuba
+page_heading_title: "Cuba: Panics, Beliefs and Mass Movements"
 source_count: 76
 infographic_count: 3
 page_website_name: Cuba's Collective Fears

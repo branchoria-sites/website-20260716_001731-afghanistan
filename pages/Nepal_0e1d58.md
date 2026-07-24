@@ -210,12 +210,12 @@ hero_summary: Nepal’s clearest documented history of contagious belief and col
 layout: default
 permalink: /when-fear-and-belief-spread-across-nepal/
 nav_short_title: When Fear and Belief Spread Across Nepal
-title: When Fear and Belief Spread Across Nepal
+title: "Nepal's History of Collective Fear and Belief"
 title_full: When Fear and Belief Spread Across Nepal
 display_title_short: When Fear and Belief Spread Across Nepal
-display_title: When Fear and Belief Spread Across Nepal
+display_title: "Nepal's History of Collective Fear and Belief"
 heading_title: When Fear and Belief Spread Across Nepal
-page_heading_title: When Fear and Belief Spread Across Nepal
+page_heading_title: "Nepal's History of Collective Fear and Belief"
 source_count: 101
 infographic_count: 3
 page_website_name: Nepal Belief Panics

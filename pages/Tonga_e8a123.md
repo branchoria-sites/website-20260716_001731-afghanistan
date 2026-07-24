@@ -1289,8 +1289,7 @@ Contemporary religious-freedom assessments generally describe relations among fa
 
 The contrast with 1922 is striking. A church once formally treated as an imported danger is now a major Tongan institution. That change does not mean the earlier fear was imaginary in every respect; it shows that claims about a group’s permanent disloyalty or incompatibility can collapse as the group becomes locally led, embedded in families and familiar through everyday contact.
 
-## Why this history still matters
-
+## The wider legacy of Tonga
 Tonga’s history warns against searching only for spectacular outbreaks of collective irrationality. The most consequential episodes may look ordinary at first: sermons describing opponents as evil, restrictions defended as protection, royal conversions treated as national destiny, or rumours about a minority converted into law.
 
 The nineteenth-century Christian conflicts show how a new faith can spread through conviction and education while also becoming a weapon of political unification. The anti-Mormon campaign shows how foreignness, sexual suspicion and denominational rivalry can create a moral panic even without frenzied crowds. Together they demonstrate that collective fear becomes most powerful when religious language, state authority and genuine social uncertainty reinforce one another.

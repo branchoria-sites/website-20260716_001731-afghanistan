@@ -370,8 +370,7 @@ More recent public forums have continued this debate. Participants have broadly 
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_obeah_laws_myalism_cf43cd-Illustration-3-dark.svg" | relative_url }}" alt="Obeah Laws illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_obeah_laws_myalism_cf43cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_obeah_laws_myalism_cf43cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## What Obeah Laws reveals about public fear
 The story of Jamaica's Obeah Laws demonstrates how collective fears can become embedded in legal institutions. What began as colonial attempts to control African-derived spiritual authority evolved into a long-lasting legal framework that blurred religion, healing, fraud and supernatural danger.
 
 The legacy extends beyond the courtroom. It shaped public attitudes towards healers, influenced relationships between churches and African-derived traditions, and encouraged generations of Jamaicans to interpret unexplained illness or misfortune through competing religious frameworks. The continuing arguments over repeal show that the issue is no longer simply whether supernatural powers exist, but how a modern democratic society should balance religious freedom, cultural heritage and protection against genuine exploitation.

@@ -210,12 +210,12 @@ hero_summary: Madagascar’s history of collective fear is not dominated by one 
 layout: default
 permalink: /when-fear-and-belief-reshaped-madagascar/
 nav_short_title: When Fear and Belief Reshaped Madagascar
-title: When Fear and Belief Reshaped Madagascar
+title: "Inside Madagascar's History of Public Fear"
 title_full: When Fear and Belief Reshaped Madagascar
 display_title_short: When Fear and Belief Reshaped Madagascar
-display_title: When Fear and Belief Reshaped Madagascar
+display_title: "Inside Madagascar's History of Public Fear"
 heading_title: When Fear and Belief Reshaped Madagascar
-page_heading_title: When Fear and Belief Reshaped Madagascar
+page_heading_title: "Inside Madagascar's History of Public Fear"
 source_count: 138
 infographic_count: 3
 page_website_name: Madagascar
@@ -1272,8 +1272,7 @@ Together, Nosy Be and Ikongo show the difference between a baseless scare and a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OEKFHWD_9iU" title="Anger mounts in Madagascar following deadly police shooting of mob • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OEKFHWD_9iU" target="_blank" rel="noopener noreferrer">Anger mounts in Madagascar following deadly police shooting of mob • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OEKFHWD_9iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OEKFHWD_9iU">Open on YouTube</a></p></div></div></div>
 
-## What these episodes reveal
-
+## The recurring pressures behind Madagascar
 Madagascar’s record does not support a simple story in which old supernatural beliefs gradually gave way to modern reason. Witchcraft accusations, Christian exorcism, ancestral possession, trafficking rumours and political conspiracy stories have existed alongside courts, schools, hospitals, newspapers and state administration. Modern institutions can weaken panics, but they can also create the secrecy, inequality or mistrust in which panics thrive.
 
 Several distinctions help make sense of the evidence:

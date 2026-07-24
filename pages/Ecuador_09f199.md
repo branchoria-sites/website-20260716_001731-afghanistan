@@ -210,12 +210,12 @@ hero_summary: Ecuador’s clearest history of collective fear is not a catalogue
 layout: default
 permalink: /when-fear-became-reality-in-ecuador/
 nav_short_title: When Fear Became Reality in Ecuador
-title: When Fear Became Reality in Ecuador
+title: "Collective Fear, Belief and Panic in Ecuador"
 title_full: When Fear Became Reality in Ecuador
 display_title_short: When Fear Became Reality in Ecuador
-display_title: When Fear Became Reality in Ecuador
+display_title: "Collective Fear, Belief and Panic in Ecuador"
 heading_title: When Fear Became Reality in Ecuador
-page_heading_title: When Fear Became Reality in Ecuador
+page_heading_title: "Collective Fear, Belief and Panic in Ecuador"
 source_count: 100
 infographic_count: 3
 page_website_name: Ecuador Panics

@@ -210,12 +210,12 @@ hero_summary: Chad does not have a well-documented national history of dance pla
 layout: default
 permalink: /when-fear-and-power-shaped-belief-in/
 nav_short_title: When Fear and Power Shaped Belief in Chad
-title: When Fear and Power Shaped Belief in Chad
+title: "Chad: Panics, Beliefs and Mass Movements"
 title_full: When Fear and Power Shaped Belief in Chad
 display_title_short: When Fear and Power Shaped Belief in Chad
-display_title: When Fear and Power Shaped Belief in Chad
+display_title: "Chad: Panics, Beliefs and Mass Movements"
 heading_title: When Fear and Power Shaped Belief in Chad
-page_heading_title: When Fear and Power Shaped Belief in Chad
+page_heading_title: "Chad: Panics, Beliefs and Mass Movements"
 source_count: 99
 infographic_count: 3
 page_website_name: Chad Panics

@@ -210,12 +210,12 @@ hero_summary: Colombia’s history of collective fear and contagious belief is n
 layout: default
 permalink: /when-fear-and-belief-swept-through/
 nav_short_title: When Fear and Belief Swept Through Colombia
-title: When Fear and Belief Swept Through Colombia
+title: "Inside Colombia's History of Public Fear"
 title_full: When Fear and Belief Swept Through Colombia
 display_title_short: When Fear and Belief Swept Through Colombia
-display_title: When Fear and Belief Swept Through Colombia
+display_title: "Inside Colombia's History of Public Fear"
 heading_title: When Fear and Belief Swept Through Colombia
-page_heading_title: When Fear and Belief Swept Through Colombia
+page_heading_title: "Inside Colombia's History of Public Fear"
 source_count: 127
 infographic_count: 3
 page_website_name: Colombia Belief Panics

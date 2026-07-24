@@ -210,12 +210,12 @@ hero_summary: Tanzania’s history of contagious belief is not one story but sev
 layout: default
 permalink: /when-fear-and-belief-spread-across-e94e79/
 nav_short_title: When Fear and Belief Spread Across Tanzania
-title: When Fear and Belief Spread Across Tanzania
+title: "How Fear and Belief Shaped Tanzania"
 title_full: When Fear and Belief Spread Across Tanzania
 display_title_short: When Fear and Belief Spread Across Tanzania
-display_title: When Fear and Belief Spread Across Tanzania
+display_title: "How Fear and Belief Shaped Tanzania"
 heading_title: When Fear and Belief Spread Across Tanzania
-page_heading_title: When Fear and Belief Spread Across Tanzania
+page_heading_title: "How Fear and Belief Shaped Tanzania"
 source_count: 96
 infographic_count: 3
 page_website_name: Tanzania

@@ -210,12 +210,12 @@ hero_summary: 'Haiti’s history of collective fear is not best understood as a 
 layout: default
 permalink: /when-fear-became-power-in-haiti/
 nav_short_title: When Fear Became Power in Haiti
-title: When Fear Became Power in Haiti
+title: "Rumour, Belief and Collective Panic in Haiti"
 title_full: When Fear Became Power in Haiti
 display_title_short: When Fear Became Power in Haiti
-display_title: When Fear Became Power in Haiti
+display_title: "Rumour, Belief and Collective Panic in Haiti"
 heading_title: When Fear Became Power in Haiti
-page_heading_title: When Fear Became Power in Haiti
+page_heading_title: "Rumour, Belief and Collective Panic in Haiti"
 source_count: 115
 infographic_count: 3
 page_website_name: Haiti
@@ -1286,8 +1286,7 @@ Age was crucial. Older residents may be regarded as repositories of spiritual kn
 
 It also demonstrates why belief-based violence cannot be analysed separately from Haiti’s security collapse. In a functioning legal system, an accusation should trigger investigation and protection. In gang-held territory, the accuser may also command the gunmen, control movement and prevent witnesses from communicating. Under those conditions, rumour becomes an instrument of government.
 
-## What these episodes have in common
-
+## The recurring pressures behind Haiti
 Haiti’s major panics and scares vary greatly, but several mechanisms recur.
 
 **Crisis creates demand for an intentional cause.** Epidemics, earthquakes, political upheaval and unexplained illness are difficult to accept as impersonal events. A witch, sorcerer, religious minority or ancestral curse offers a story with identifiable agents.

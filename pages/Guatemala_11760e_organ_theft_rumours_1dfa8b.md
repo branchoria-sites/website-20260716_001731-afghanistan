@@ -312,8 +312,7 @@ Scholars studying organ-trafficking rumours place Guatemala within a broader pat
 
 <img src="{{ "/assets/images/Guatemala_11760e_organ_theft_rumours_1dfa8b-Illustration-3-dark.svg" | relative_url }}" alt="Organ Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_organ_theft_rumours_1dfa8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_organ_theft_rumours_1dfa8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode remains important
-
+## What Organ Rumours reveals about public fear
 The 1994 panic is remembered not because the rumour proved true, but because it illustrates how false claims can become persuasive when they echo genuine social wounds.
 
 Subsequent investigations into Guatemala's adoption industry confirmed widespread fraud, coercion and illegal practices that separated many children from their families, particularly during and after the civil war. Those findings help explain why communities were prepared to believe that children were disappearing, even though the specific allegation of organ theft by foreigners lacked evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/news/2024/jan/04/guatemalas-baby-brokers-how-tens-of-thousands-of-children-were-stolen-for-adoption" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>

@@ -338,8 +338,7 @@ This makes the episode more than an example of medical misinformation. It illust
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3y2vQLzdTbs" title="The Gambia: HIV patients recount herbal treatment under Jammeh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3y2vQLzdTbs" target="_blank" rel="noopener noreferrer">The Gambia: HIV patients recount herbal treatment under Jammeh</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3y2vQLzdTbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3y2vQLzdTbs">Open on YouTube</a></p></div></div></div>
 
-## Why the episode remains important
-
+## The wider legacy of HIV Cure
 Jammeh's HIV programme remains one of the clearest examples in modern Africa of state-sponsored medical coercion. It is frequently cited in discussions of health misinformation because it demonstrates that false medical claims become especially dangerous when combined with unchecked political power.
 
 Within the broader history of collective belief in The Gambia, the programme belongs alongside the later state-sponsored witch-hunting campaign. In both cases, extraordinary claims were not simply believed by sections of the public; they were promoted through government authority, enforced by intimidation and sustained by fear. That combination—not popular credulity alone—explains why the HIV cure programme caused such lasting damage to individuals, public health and trust in medical institutions.

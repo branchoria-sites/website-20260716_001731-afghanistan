@@ -336,8 +336,7 @@ The Mandaean case also shows that rumours survive even when they directly contra
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MH4aksAqpCY" title="Babylonian Magic - The Maqlu Ritual - Invoking the Gods to Destroy Evil Magic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MH4aksAqpCY" target="_blank" rel="noopener noreferrer">Babylonian Magic - The Maqlu Ritual - Invoking the Gods to Destroy Evil Magic</a></p><p class="youtube-embed-meta">Channel: ESOTERICA</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MH4aksAqpCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MH4aksAqpCY">Open on YouTube</a></p></div></div></div>
 
-## Why this history matters
-
+## How Witchcraft Fears entered public memory
 The history of witchcraft accusations in Iraq is therefore best understood as two related but distinct stories.
 
 Ancient Mesopotamia developed sophisticated beliefs about harmful magic while simultaneously maintaining accepted traditions of protective ritual. Those beliefs reveal how ancient people explained illness and misfortune, but they did not produce an unbroken tradition of organised witch hunting.

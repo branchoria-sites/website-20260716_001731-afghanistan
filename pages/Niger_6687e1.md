@@ -210,12 +210,12 @@ hero_summary: Niger has no well-documented equivalent of the Salem witch trials,
 layout: default
 permalink: /when-fear-and-faith-collided-in-niger/
 nav_short_title: When Fear and Faith Collided in Niger
-title: When Fear and Faith Collided in Niger
+title: "Tracing Collective Fear and Contagious Belief in Niger"
 title_full: When Fear and Faith Collided in Niger
 display_title_short: When Fear and Faith Collided in Niger
-display_title: When Fear and Faith Collided in Niger
+display_title: "Tracing Collective Fear and Contagious Belief in Niger"
 heading_title: When Fear and Faith Collided in Niger
-page_heading_title: When Fear and Faith Collided in Niger
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Niger"
 source_count: 146
 infographic_count: 3
 page_website_name: Niger

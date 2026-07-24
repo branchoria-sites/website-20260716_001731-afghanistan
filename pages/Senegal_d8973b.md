@@ -1281,8 +1281,7 @@ Calling the Layene a “cult” would obscure more than it explains. The term ha
 
 <img src="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" alt="How Fear and Belief Spread Across Senegal illustration 3" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes have in common
-
+## The recurring pressures behind Senegal
 The [genital-theft panic]({{ 'genital-panic-bb6611/' | relative_url }}), [school trances]({{ 'school-trances/' | relative_url }}) and colonial suspicion of a prophetic community were very different events. One produced lethal mob violence; another involved clusters of bodily distress; the third became a stable religious tradition. Combining them under “mass hysteria” would erase those differences.
 
 They nevertheless reveal several shared mechanisms in Senegal’s history of contagious belief and fear.

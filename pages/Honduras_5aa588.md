@@ -210,12 +210,12 @@ hero_summary: Honduras does not have one famous, nationally defining “mass hys
 layout: default
 permalink: /when-fear-and-belief-spread-across/
 nav_short_title: When Fear and Belief Spread Across Honduras
-title: When Fear and Belief Spread Across Honduras
+title: "How Fear and Belief Shaped Honduras"
 title_full: When Fear and Belief Spread Across Honduras
 display_title_short: When Fear and Belief Spread Across Honduras
-display_title: When Fear and Belief Spread Across Honduras
+display_title: "How Fear and Belief Shaped Honduras"
 heading_title: When Fear and Belief Spread Across Honduras
-page_heading_title: When Fear and Belief Spread Across Honduras
+page_heading_title: "How Fear and Belief Shaped Honduras"
 source_count: 121
 infographic_count: 3
 page_website_name: Honduras Panics

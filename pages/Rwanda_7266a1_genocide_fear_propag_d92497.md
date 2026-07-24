@@ -333,8 +333,7 @@ This combination helps explain why propaganda alone cannot account for the genoc
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lM8WCqmp_5c" title="RTLM Broadcast Excerpt of April 3, 1994 (Death of President was &quot;predicted&quot;)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lM8WCqmp_5c" target="_blank" rel="noopener noreferrer">RTLM Broadcast Excerpt of April 3, 1994 (Death of President was &quot;predicted&quot;)</a></p><p class="youtube-embed-meta">Channel: Aegis Trust</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lM8WCqmp_5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lM8WCqmp_5c">Open on YouTube</a></p></div></div></div>
 
-## Lasting significance
-
+## What persisted after Fear Propaganda
 The Rwandan genocide has become one of the world's most closely studied examples of how propaganda can transform fabricated threats into justification for mass violence.
 
 Its importance lies not in demonstrating that ordinary people suddenly became irrational, but in showing how sustained campaigns of misinformation, dehumanisation and fear can reshape public perceptions over time. By repeatedly portraying an entire civilian population as an existential danger, extremist leaders reframed genocide as defence, making organised murder appear both necessary and patriotic to many participants.

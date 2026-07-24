@@ -210,12 +210,12 @@ hero_summary: Burkina Faso’s clearest documented history of contagious belief 
 layout: default
 permalink: /burkina-faso/
 nav_short_title: When Fear Turns Neighbours Into Suspects
-title: When Fear Turns Neighbours Into Suspects
+title: "Rumour, Belief and Collective Panic in Burkina Faso"
 title_full: When Fear Turns Neighbours Into Suspects
 display_title_short: When Fear Turns Neighbours Into Suspects
-display_title: When Fear Turns Neighbours Into Suspects
+display_title: "Rumour, Belief and Collective Panic in Burkina Faso"
 heading_title: When Fear Turns Neighbours Into Suspects
-page_heading_title: When Fear Turns Neighbours Into Suspects
+page_heading_title: "Rumour, Belief and Collective Panic in Burkina Faso"
 source_count: 127
 infographic_count: 3
 page_website_name: Burkina Faso

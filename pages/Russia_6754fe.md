@@ -210,12 +210,12 @@ hero_summary: Russia’s history of collective fear and contagious belief is not
 layout: default
 permalink: /when-fear-and-belief-swept-across-russia/
 nav_short_title: When Fear and Belief Swept Across Russia
-title: When Fear and Belief Swept Across Russia
+title: "How Panic, Rumour and Belief Took Hold in Russia"
 title_full: When Fear and Belief Swept Across Russia
 display_title_short: When Fear and Belief Swept Across Russia
-display_title: When Fear and Belief Swept Across Russia
+display_title: "How Panic, Rumour and Belief Took Hold in Russia"
 heading_title: When Fear and Belief Swept Across Russia
-page_heading_title: When Fear and Belief Swept Across Russia
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Russia"
 source_count: 129
 infographic_count: 3
 page_website_name: Russia

@@ -346,8 +346,7 @@ Not all historians accept every element of the prosecutorial interpretation. Som
 
 The continuing disagreement reflects the difficulty of reconstructing events in which participants themselves often acted on incomplete or false information.
 
-## Why the episode matters
-
+## The wider legacy of 1989 Rumours
 The phantom terrorists of December 1989 are a powerful example of collective fear transforming political reality.
 
 Unlike classic moral panics centred on a social group, this episode unfolded over only a few days during the collapse of a dictatorship. Yet it demonstrates many of the same mechanisms found in studies of rumour and collective belief: trusted institutions repeating unverified claims, heightened emotional stress, fragmented information, confirmation bias and actions that unintentionally reinforced the original belief.

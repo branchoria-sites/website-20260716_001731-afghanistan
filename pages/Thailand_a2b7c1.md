@@ -210,12 +210,12 @@ hero_summary: Thailand’s history of collective fear and contagious belief is n
 layout: default
 permalink: /when-fear-and-belief-swept-through-7dc828/
 nav_short_title: When Fear and Belief Swept Through Thailand
-title: When Fear and Belief Swept Through Thailand
+title: "Rumour, Belief and Collective Panic in Thailand"
 title_full: When Fear and Belief Swept Through Thailand
 display_title_short: When Fear and Belief Swept Through Thailand
-display_title: When Fear and Belief Swept Through Thailand
+display_title: "Rumour, Belief and Collective Panic in Thailand"
 heading_title: When Fear and Belief Swept Through Thailand
-page_heading_title: When Fear and Belief Swept Through Thailand
+page_heading_title: "Rumour, Belief and Collective Panic in Thailand"
 source_count: 97
 infographic_count: 3
 page_website_name: Thailand

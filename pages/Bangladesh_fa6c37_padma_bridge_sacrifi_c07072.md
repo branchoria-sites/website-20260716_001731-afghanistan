@@ -352,8 +352,7 @@ Some sociologists have also suggested that the panic reflected wider problems of
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_padma_bridge_sacrifi_c07072-Illustration-3-dark.svg" | relative_url }}" alt="Bridge Rumour illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_padma_bridge_sacrifi_c07072-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_padma_bridge_sacrifi_c07072-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode remains important
-
+## Bridge Rumour: fear, rumour and collective belief
 The Padma Bridge rumour has become a landmark case in discussions of misinformation and collective fear in Bangladesh.
 
 It demonstrates that modern digital technologies do not replace traditional folklore; instead, they can amplify it. An old construction legend that might once have remained a local story was transformed into a nationwide panic through online networks, resulting in real-world violence.

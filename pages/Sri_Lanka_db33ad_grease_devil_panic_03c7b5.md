@@ -316,8 +316,7 @@ Scholars therefore argue that the crisis cannot be dismissed simply as irrationa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/50VvBkOLblA" title="&#x27;Grease devil&#x27; boomeranged back to the govt - Tilvin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=50VvBkOLblA" target="_blank" rel="noopener noreferrer">&#x27;Grease devil&#x27; boomeranged back to the govt - Tilvin</a></p><p class="youtube-embed-meta">Channel: adaderana</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=50VvBkOLblA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=50VvBkOLblA">Open on YouTube</a></p></div></div></div>
 
-## Why the episode still matters
-
+## What Grease Devils reveals about public fear
 The grease devil panic remains one of Sri Lanka's clearest examples of how rumours become socially powerful when they resonate with existing fears.
 
 Its significance lies not in proving whether every reported attacker existed, but in demonstrating how communities experiencing insecurity interpret uncertain events. Genuine crimes, sensational reporting, historical folklore and political mistrust reinforced one another until collective vigilance itself became a source of violence.

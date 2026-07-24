@@ -210,12 +210,12 @@ hero_summary: Spains history of collective fear and contagious belief is not one
 layout: default
 permalink: /when-fear-and-faith-swept-through-spain/
 nav_short_title: When Fear and Faith Swept Through Spain
-title: When Fear and Faith Swept Through Spain
+title: "Rumour, Belief and Collective Panic in Spain"
 title_full: When Fear and Faith Swept Through Spain
 display_title_short: When Fear and Faith Swept Through Spain
-display_title: When Fear and Faith Swept Through Spain
+display_title: "Rumour, Belief and Collective Panic in Spain"
 heading_title: When Fear and Faith Swept Through Spain
-page_heading_title: When Fear and Faith Swept Through Spain
+page_heading_title: "Rumour, Belief and Collective Panic in Spain"
 source_count: 137
 infographic_count: 2
 page_website_name: Spain's Strange Beliefs

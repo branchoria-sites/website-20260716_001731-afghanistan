@@ -210,12 +210,12 @@ hero_summary: Latvia’s history of collective fear and unusual belief is not do
 layout: default
 permalink: /when-fear-and-belief-reshaped-latvia/
 nav_short_title: When Fear and Belief Reshaped Latvia
-title: When Fear and Belief Reshaped Latvia
+title: "Inside Latvia's History of Public Fear"
 title_full: When Fear and Belief Reshaped Latvia
 display_title_short: When Fear and Belief Reshaped Latvia
-display_title: When Fear and Belief Reshaped Latvia
+display_title: "Inside Latvia's History of Public Fear"
 heading_title: When Fear and Belief Reshaped Latvia
-page_heading_title: When Fear and Belief Reshaped Latvia
+page_heading_title: "Inside Latvia's History of Public Fear"
 source_count: 112
 infographic_count: 3
 page_website_name: Latvia's Strange Beliefs

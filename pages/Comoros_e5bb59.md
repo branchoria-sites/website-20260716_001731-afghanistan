@@ -210,12 +210,12 @@ hero_summary: Comoros does not have a well-documented national equivalent of the
 layout: default
 permalink: /when-fear-and-belief-shaped-comoros/
 nav_short_title: When Fear and Belief Shaped Comoros
-title: When Fear and Belief Shaped Comoros
+title: "Inside Comoros' History of Public Fear"
 title_full: When Fear and Belief Shaped Comoros
 display_title_short: When Fear and Belief Shaped Comoros
-display_title: When Fear and Belief Shaped Comoros
+display_title: "Inside Comoros' History of Public Fear"
 heading_title: When Fear and Belief Shaped Comoros
-page_heading_title: When Fear and Belief Shaped Comoros
+page_heading_title: "Inside Comoros' History of Public Fear"
 source_count: 117
 infographic_count: 3
 page_website_name: Comoros

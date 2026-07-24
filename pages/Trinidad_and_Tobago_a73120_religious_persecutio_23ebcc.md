@@ -342,8 +342,7 @@ For decades afterwards, colonial-era references to obeah and provisions that dis
 
 The reforms did **not** legalise fraud, intimidation or violence carried out under religious cover. Instead, they shifted the legal emphasis towards prosecuting demonstrable criminal acts through ordinary criminal law rather than criminalising religious identity or spiritual belief itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.refworld.org/reference/annualreport/usdos/2001/en/8034" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: refworld.org">[Refworld]</a><span class="citation-popover" role="note"><span class="citation-popover-source">refworld.org</span><span class="citation-popover-snippet">U.S. Department of State Annual Report on International Religious Freedom for 2001 - Trinidad and Tobago &#124; Refworld...</span></span></span>
 
-## Why this history remains important
-
+## How Faith and Law entered public memory
 The journey from anti-obeah legislation to Spiritual Baptist liberation illustrates how collective fears can become embedded in institutions as well as in popular opinion. Unlike classic witch hunts driven by village rumours, these campaigns were sustained through legislation, policing and court prosecutions that presented African-derived religion as a permanent social threat.
 
 Today, historians treat these episodes as examples of colonial governance shaping public perceptions of religion. They reveal how categories such as "superstition", "disorder" and "danger" were used to justify unequal treatment, and how later legal reform reflected changing ideas about citizenship, cultural identity and religious freedom.

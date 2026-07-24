@@ -210,12 +210,12 @@ hero_summary: Namibia’s history offers no single famous “mass hysteria” co
 layout: default
 permalink: /when-fear-spreads-through-namibia/
 nav_short_title: When Fear Spreads Through Namibia
-title: When Fear Spreads Through Namibia
+title: "Tracing Collective Fear and Contagious Belief in Namibia"
 title_full: When Fear Spreads Through Namibia
 display_title_short: When Fear Spreads Through Namibia
-display_title: When Fear Spreads Through Namibia
+display_title: "Tracing Collective Fear and Contagious Belief in Namibia"
 heading_title: When Fear Spreads Through Namibia
-page_heading_title: When Fear Spreads Through Namibia
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Namibia"
 source_count: 88
 infographic_count: 3
 page_website_name: Namibia

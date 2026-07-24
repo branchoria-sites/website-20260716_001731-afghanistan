@@ -210,12 +210,12 @@ hero_summary: Kuwait does not have a well-documented history of classic “mass 
 layout: default
 permalink: /when-fear-belief-and-rumour-gripped/
 nav_short_title: When Fear, Belief and Rumour Gripped Kuwait
-title: When Fear, Belief and Rumour Gripped Kuwait
+title: "Kuwait's History of Collective Fear and Belief"
 title_full: When Fear, Belief and Rumour Gripped Kuwait
 display_title_short: When Fear, Belief and Rumour Gripped Kuwait
-display_title: When Fear, Belief and Rumour Gripped Kuwait
+display_title: "Kuwait's History of Collective Fear and Belief"
 heading_title: When Fear, Belief and Rumour Gripped Kuwait
-page_heading_title: When Fear, Belief and Rumour Gripped Kuwait
+page_heading_title: "Kuwait's History of Collective Fear and Belief"
 source_count: 135
 infographic_count: 2
 page_website_name: Kuwait

@@ -210,12 +210,12 @@ hero_summary: 'France’s history of collective belief and fear is not one conti
 layout: default
 permalink: /when-fear-and-belief-swept-through-e14029/
 nav_short_title: When Fear and Belief Swept Through France
-title: When Fear and Belief Swept Through France
+title: "Tracing Collective Fear and Contagious Belief in France"
 title_full: When Fear and Belief Swept Through France
 display_title_short: When Fear and Belief Swept Through France
-display_title: When Fear and Belief Swept Through France
+display_title: "Tracing Collective Fear and Contagious Belief in France"
 heading_title: When Fear and Belief Swept Through France
-page_heading_title: When Fear and Belief Swept Through France
+page_heading_title: "Tracing Collective Fear and Contagious Belief in France"
 source_count: 133
 infographic_count: 3
 page_website_name: France's Strange Fears
@@ -1318,8 +1318,7 @@ Official referral totals can also contribute to a scare if repeated without cont
 
 <img src="{{ "/assets/images/France_e3772a-Illustration-3-dark.svg" | relative_url }}" alt="When Fear and Belief Swept Through France illustration 3" data-theme-src-dark="{{ "/assets/images/France_e3772a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/France_e3772a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes reveal
-
+## Patterns linking the events in France
 France’s most important panics and contagious beliefs did not spread because entire populations suddenly became irrational. They spread through institutions and relationships that made particular fears credible.
 
 **Existing pressure gave the claim emotional force.** Hunger and feudal conflict shaped the Great Fear; religious division shaped Loudun and Saint-Médard; catastrophe and spiritual elitism shaped the Solar Temple.

@@ -1316,8 +1316,7 @@ The strongest explanations for Uzbekistan’s repeated religious scares are soci
 
 <img src="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-dark.svg" | relative_url }}" alt="Uzbekistan illustration 3" data-theme-src-dark="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Uzbekistan_db800e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## How Uzbekistan entered public memory
 The enduring lesson is not that fears of extremism in Uzbekistan were imaginary. Armed groups killed people, took hostages and sought revolutionary change. The error was allowing those facts to erase distinctions between violence, dissent, unconventional belief and private devotion.
 
 That distinction remains culturally important because Uzbekistan is still negotiating the place of religion in public life. Sacred sites are promoted as heritage, approved religious scholarship is celebrated, and the government presents tolerance as part of national identity. At the same time, unsupervised teaching and loosely defined “extremist” expression can still attract punishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uzembassy.uk/news/910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uzembassy.uk">[uzembassy.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uzembassy.uk</span><span class="citation-popover-title">Religious tolerance in Uzbekistan</span><span class="citation-popover-snippet">Religious tolerance in Uzbekistan</span></span></span>

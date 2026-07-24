@@ -210,12 +210,12 @@ hero_summary: Serbia’s history of contagious belief is best understood not as 
 layout: default
 permalink: /when-fear-defined-reality-in-serbia/
 nav_short_title: When Fear Defined Reality in Serbia
-title: When Fear Defined Reality in Serbia
+title: "How Fear and Belief Shaped Serbia"
 title_full: When Fear Defined Reality in Serbia
 display_title_short: When Fear Defined Reality in Serbia
-display_title: When Fear Defined Reality in Serbia
+display_title: "How Fear and Belief Shaped Serbia"
 heading_title: When Fear Defined Reality in Serbia
-page_heading_title: When Fear Defined Reality in Serbia
+page_heading_title: "How Fear and Belief Shaped Serbia"
 source_count: 166
 infographic_count: 3
 page_website_name: Serbian Panics

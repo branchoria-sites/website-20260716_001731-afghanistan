@@ -210,12 +210,12 @@ hero_summary: Tunisia does not have a well-documented history of spectacular wit
 layout: default
 permalink: /when-fear-became-a-public-force-in/
 nav_short_title: When Fear Became a Public Force in Tunisia
-title: When Fear Became a Public Force in Tunisia
+title: "Tunisia: Panics, Beliefs and Mass Movements"
 title_full: When Fear Became a Public Force in Tunisia
 display_title_short: When Fear Became a Public Force in Tunisia
-display_title: When Fear Became a Public Force in Tunisia
+display_title: "Tunisia: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Became a Public Force in Tunisia
-page_heading_title: When Fear Became a Public Force in Tunisia
+page_heading_title: "Tunisia: Panics, Beliefs and Mass Movements"
 source_count: 151
 infographic_count: 3
 page_website_name: Tunisia

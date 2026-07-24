@@ -210,12 +210,12 @@ hero_summary: Mozambique’s history of collective fear is not dominated by one 
 layout: default
 permalink: /when-fear-becomes-fact-in-mozambique/
 nav_short_title: When Fear Becomes Fact in Mozambique
-title: When Fear Becomes Fact in Mozambique
+title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 title_full: When Fear Becomes Fact in Mozambique
 display_title_short: When Fear Becomes Fact in Mozambique
-display_title: When Fear Becomes Fact in Mozambique
+display_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 heading_title: When Fear Becomes Fact in Mozambique
-page_heading_title: When Fear Becomes Fact in Mozambique
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 source_count: 114
 infographic_count: 3
 page_website_name: Mozambique Panics
@@ -1270,8 +1270,7 @@ The claim that the rumours originated in Mozambique was widely repeated, includi
 
 Bloodsucker stories have circulated periodically in parts of south-eastern Africa. They often flourish where people distrust medical campaigns, foreign organisations or state authorities, especially when blood tests, vaccination work or unfamiliar equipment are poorly explained. Yet no single cause accounts for every outbreak. Local political conflicts, older supernatural traditions, memories of extraction and immediate rumours all shape who is accused and how authorities respond.
 
-## What these episodes have in common
-
+## The recurring pressures behind Mozambique
 Mozambique’s best-documented cases do not fit neatly into one medical or psychological category. The [genital-shrinking]({{ 'genital-panic/' | relative_url }}) scare was a fast-moving rumour panic accompanied by lynching. The “night war” was a durable cultural interpretation of childhood illness. Cannibal accusations expressed memories of violence and arguments over authority. Naparama was a wartime mobilisation in which ritual belief supported organised armed action.
 
 Several recurring conditions nevertheless connect them:

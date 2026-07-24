@@ -210,12 +210,12 @@ hero_summary: 'Gabon does not have a well-documented history of classic “mass 
 layout: default
 permalink: /when-fear-faith-and-power-collided-in-3d979f/
 nav_short_title: When Fear, Faith and Power Collided in Gabon
-title: When Fear, Faith and Power Collided in Gabon
+title: "Gabon: Panics, Beliefs and Mass Movements"
 title_full: When Fear, Faith and Power Collided in Gabon
 display_title_short: When Fear, Faith and Power Collided in Gabon
-display_title: When Fear, Faith and Power Collided in Gabon
+display_title: "Gabon: Panics, Beliefs and Mass Movements"
 heading_title: When Fear, Faith and Power Collided in Gabon
-page_heading_title: When Fear, Faith and Power Collided in Gabon
+page_heading_title: "Gabon: Panics, Beliefs and Mass Movements"
 source_count: 97
 infographic_count: 3
 page_website_name: Gabon

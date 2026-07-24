@@ -210,12 +210,12 @@ hero_summary: Mauritius does not have a well-documented national equivalent of t
 layout: default
 permalink: /when-fear-and-belief-took-hold-in-9c556c/
 nav_short_title: When Fear and Belief Took Hold in Mauritius
-title: When Fear and Belief Took Hold in Mauritius
+title: "How Fear and Belief Shaped Mauritius"
 title_full: When Fear and Belief Took Hold in Mauritius
 display_title_short: When Fear and Belief Took Hold in Mauritius
-display_title: When Fear and Belief Took Hold in Mauritius
+display_title: "How Fear and Belief Shaped Mauritius"
 heading_title: When Fear and Belief Took Hold in Mauritius
-page_heading_title: When Fear and Belief Took Hold in Mauritius
+page_heading_title: "How Fear and Belief Shaped Mauritius"
 source_count: 134
 infographic_count: 3
 page_website_name: Mauritius

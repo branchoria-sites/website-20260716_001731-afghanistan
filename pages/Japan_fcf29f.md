@@ -1290,8 +1290,7 @@ Yet the aftermath also revived sweeping language about “cults” in public deb
 
 <img src="{{ "/assets/images/Japan_fcf29f-Illustration-3-dark.svg" | relative_url }}" alt="When Fear and Belief Swept Through Japan illustration 3" data-theme-src-dark="{{ "/assets/images/Japan_fcf29f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Japan_fcf29f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes reveal
-
+## Patterns linking the events in Japan
 Japan’s cases do not support the idea that crowds suddenly become irrational for no reason. Each major episode had a recognisable social setting.
 
 **Uncertainty came first.** Political collapse shaped the dancing celebrations of 1867–68; disaster and colonial prejudice shaped the 1923 rumours; inflation and energy insecurity shaped the toilet-paper scare; and the trauma of Aum shaped later fear of apocalyptic groups.

@@ -324,8 +324,7 @@ Only after physical explanations have been carefully examined does the pattern o
 
 <img src="{{ "/assets/images/Thailand_a2b7c1_school_possession_ou_ea7b09-Illustration-3-dark.svg" | relative_url }}" alt="School Outbreaks illustration 3" data-theme-src-dark="{{ "/assets/images/Thailand_a2b7c1_school_possession_ou_ea7b09-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Thailand_a2b7c1_school_possession_ou_ea7b09-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why These Cases Remain Important
-
+## How School Outbreaks entered public memory
 The 1993 Thai school outbreak continues to appear in international reviews because it demonstrates how collective illness emerges from the interaction of psychology, culture and social relationships rather than from any single cause. It also challenges the outdated language of "mass hysteria", which can wrongly imply exaggeration or irrationality.
 
 Instead, Thai school possession outbreaks illustrate a broader lesson. Stress is real, cultural beliefs matter, and physical symptoms can spread through groups without infection. Understanding all three elements together provides a more accurate and more humane explanation than reducing such events either to supernatural certainty or to simple imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9676093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Risk factors for spirit possession among school girls in southern ThailandJuly 1, 1998...</span><span class="citation-popover-meta">Published: July 1, 1998</span></span></span>

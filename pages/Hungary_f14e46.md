@@ -210,12 +210,12 @@ hero_summary: 'Hungary’s history of collective fear is not one continuous stor
 layout: default
 permalink: /when-fear-and-belief-gripped-hungary/
 nav_short_title: When Fear and Belief Gripped Hungary
-title: When Fear and Belief Gripped Hungary
+title: "How Fear and Belief Shaped Hungary"
 title_full: When Fear and Belief Gripped Hungary
 display_title_short: When Fear and Belief Gripped Hungary
-display_title: When Fear and Belief Gripped Hungary
+display_title: "How Fear and Belief Shaped Hungary"
 heading_title: When Fear and Belief Gripped Hungary
-page_heading_title: When Fear and Belief Gripped Hungary
+page_heading_title: "How Fear and Belief Shaped Hungary"
 source_count: 117
 infographic_count: 3
 page_website_name: Hungary's Collective Fears

@@ -322,8 +322,7 @@ This distinction is important. Historians can document the spread and influence 
 
 <img src="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-dark.svg" | relative_url }}" alt="Old Calendarists illustration 3" data-theme-src-dark="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode still matters
-
+## The wider legacy of Old Calendarists
 The Mount Hymettus miracle remains one of modern Greece's most influential examples of collective religious belief shaping institutional history. It demonstrates how symbolic events can transform administrative disagreements into enduring questions of faith, authority and identity.
 
 Within the broader history of collective belief in Greece, the episode stands apart from vampire scares, blood-libel accusations or later Satanic panics. Rather than spreading fear through rumours of hidden threats, it spread conviction through the belief that heaven had visibly intervened in an ongoing religious controversy. Whether understood as miracle, shared religious experience or powerful communal narrative, the reported cross became one of the defining symbols of a schism that continues to influence Greek Orthodox life today.

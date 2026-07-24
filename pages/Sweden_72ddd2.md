@@ -210,12 +210,12 @@ hero_summary: 'Sweden’s history of collective fear is dominated by one catastr
 layout: default
 permalink: /when-fear-became-proof-in-sweden/
 nav_short_title: When Fear Became Proof in Sweden
-title: When Fear Became Proof in Sweden
+title: "How Fear and Belief Shaped Sweden"
 title_full: When Fear Became Proof in Sweden
 display_title_short: When Fear Became Proof in Sweden
-display_title: When Fear Became Proof in Sweden
+display_title: "How Fear and Belief Shaped Sweden"
 heading_title: When Fear Became Proof in Sweden
-page_heading_title: When Fear Became Proof in Sweden
+page_heading_title: "How Fear and Belief Shaped Sweden"
 source_count: 108
 infographic_count: 3
 page_website_name: Sweden's Scares

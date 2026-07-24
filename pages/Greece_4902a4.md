@@ -210,12 +210,12 @@ hero_summary: Greece does not have one continuous tradition of â€œmass hysteriaâ
 layout: default
 permalink: /when-fear-and-belief-gripped-greece/
 nav_short_title: When Fear and Belief Gripped Greece
-title: When Fear and Belief Gripped Greece
+title: "Tracing Collective Fear and Contagious Belief in Greece"
 title_full: When Fear and Belief Gripped Greece
 display_title_short: When Fear and Belief Gripped Greece
-display_title: When Fear and Belief Gripped Greece
+display_title: "Tracing Collective Fear and Contagious Belief in Greece"
 heading_title: When Fear and Belief Gripped Greece
-page_heading_title: When Fear and Belief Gripped Greece
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Greece"
 source_count: 160
 infographic_count: 3
 page_website_name: Greece Panics
@@ -1282,8 +1282,7 @@ This distinction became particularly important after the Pallini murders, when p
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LUma_fekoFo" title="Facts About the Vrykolakas, Ancient Greece&#x27;s Vampire | Facts | Stuff Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LUma_fekoFo" target="_blank" rel="noopener noreferrer">Facts About the Vrykolakas, Ancient Greece&#x27;s Vampire | Facts | Stuff Lab</a></p><p class="youtube-embed-meta">Channel: Stuff Lab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LUma_fekoFo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LUma_fekoFo">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## What connects the episodes around Greece
 The Greek cases differ greatly, but several recurring mechanisms connect them.
 
 **A familiar story made uncertainty intelligible.** Mykonos islanders interpreted unexplained disturbances through beliefs about dangerous revenants. On Corfu, a murder was forced into the inherited blood-libel myth. In Pallini, known crimes were fitted into an international story about secret Satanic networks.

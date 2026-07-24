@@ -1342,8 +1342,7 @@ These interpretations do not require assuming that enslaved Barbadians were pass
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/08XObZ7WepM" title="Back From the Past - Episode 1 - The Right Excellent Bussa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=08XObZ7WepM" target="_blank" rel="noopener noreferrer">Back From the Past - Episode 1 - The Right Excellent Bussa</a></p><p class="youtube-embed-meta">Channel: Barbados Government Information Service</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=08XObZ7WepM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=08XObZ7WepM">Open on YouTube</a></p></div></div></div>
 
-## Why this history still matters
-
+## Barbados: fear, rumour and collective belief
 Barbados’s history of collective fear is culturally important because it reveals how readily the language of public safety can absorb religious and racial prejudice. The authorities responding to the conspiracies of 1675 and 1816 were not simply irrational crowds. They were organised governments defending an extraordinarily violent economic system.
 
 Their fears nevertheless had many features familiar from later moral panics: hidden networks, threatening outsiders, claims that ordinary appearances concealed sinister intentions and laws broad enough to punish people far beyond the original danger.

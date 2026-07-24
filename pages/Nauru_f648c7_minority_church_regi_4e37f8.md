@@ -325,8 +325,7 @@ That makes Nauru's experience different from countries where minority religions 
 
 <img src="{{ "/assets/images/Nauru_f648c7_minority_church_regi_4e37f8-Illustration-3-dark.svg" | relative_url }}" alt="Minority Churches illustration 3" data-theme-src-dark="{{ "/assets/images/Nauru_f648c7_minority_church_regi_4e37f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nauru_f648c7_minority_church_regi_4e37f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this episode remains important
-
+## Minority Churches: fear, rumour and collective belief
 The registration controversy illustrates how religious freedom can be influenced as much by administrative policy as by constitutional principle.
 
 For larger churches already embedded in Nauruan society, the registration system created few practical difficulties. For smaller denominations, however, the 750-member requirement became a symbol of the difference between being legally free to hold religious beliefs and being fully recognised by the state.

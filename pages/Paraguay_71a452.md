@@ -1289,8 +1289,7 @@ Paraguay’s fragmented records also matter. Rural incidents may receive limited
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pb3DQ4uCJSc" title="Meet The Paraguayan Descendants Of Australian Socialists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pb3DQ4uCJSc" target="_blank" rel="noopener noreferrer">Meet The Paraguayan Descendants Of Australian Socialists</a></p><p class="youtube-embed-meta">Channel: Journeyman Pictures</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pb3DQ4uCJSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pb3DQ4uCJSc">Open on YouTube</a></p></div></div></div>
 
-## What these episodes reveal
-
+## What connects the episodes around Paraguay
 Paraguay’s history does not fit a simple progression from superstition to modern reason. Indigenous prophecy, Catholic conversion, forest folklore, racial utopianism and suspicion of foreign religious movements belong to different eras, but each offered a way to explain danger and imagine safety.
 
 The most important recurring pressures were concrete:

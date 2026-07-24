@@ -327,8 +327,7 @@ Historians Jerome Handler and Kenneth Bilby argue that the criminalisation of ob
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_tacky_revolt_obeah_d86ca9-Illustration-3-dark.svg" | relative_url }}" alt="Tacky and Obeah illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_tacky_revolt_obeah_d86ca9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_tacky_revolt_obeah_d86ca9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode remains important
-
+## The wider legacy of Tacky and Obeah
 Tacky's Revolt illustrates how collective fear can reshape law. Colonial officials certainly faced a genuine military uprising, but their response extended beyond suppressing armed resistance. They concluded that African spiritual authority itself represented a continuing threat to the plantation system.
 
 The result was a long-lasting legal tradition in which religious practice, healing, political organisation and rebellion became intertwined in official thinking. That legacy influenced later campaigns against obeah long after slavery ended and helped shape wider colonial attitudes towards African-derived religions across the Caribbean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.research.ed.ac.uk/en/publications/witchcraft-poison-law-and-atlantic-slavery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.ed.ac.uk">[ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.ed.ac.uk</span><span class="citation-popover-title">Edinburgh Research Witchcraft, poison, law and Atlantic slavery</span><span class="citation-popover-snippet">inburgh ResearchWitchcraft, poison, law and Atlantic slavery - University of Edinburgh Research Explorer...</span></span></span>

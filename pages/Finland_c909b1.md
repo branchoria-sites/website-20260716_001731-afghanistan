@@ -210,12 +210,12 @@ hero_summary: Finland’s history of collective fear is not a single procession 
 layout: default
 permalink: /when-fear-and-prophecy-gripped-finland/
 nav_short_title: When Fear and Prophecy Gripped Finland
-title: When Fear and Prophecy Gripped Finland
+title: "How Fear and Belief Shaped Finland"
 title_full: When Fear and Prophecy Gripped Finland
 display_title_short: When Fear and Prophecy Gripped Finland
-display_title: When Fear and Prophecy Gripped Finland
+display_title: "How Fear and Belief Shaped Finland"
 heading_title: When Fear and Prophecy Gripped Finland
-page_heading_title: When Fear and Prophecy Gripped Finland
+page_heading_title: "How Fear and Belief Shaped Finland"
 source_count: 104
 infographic_count: 3
 page_website_name: Finland's Strange Fears

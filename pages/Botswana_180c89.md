@@ -210,12 +210,12 @@ hero_summary: 'Botswana’s history of collective fear is not dominated by one n
 layout: default
 permalink: /when-fear-gripped-botswanas-schools-and/
 nav_short_title: When Fear Gripped Botswana's Schools and Streets
-title: When Fear Gripped Botswana's Schools and Streets
+title: "Botswana's History of Collective Fear and Belief"
 title_full: When Fear Gripped Botswana's Schools and Streets
 display_title_short: When Fear Gripped Botswana's Schools and Streets
-display_title: When Fear Gripped Botswana's Schools and Streets
+display_title: "Botswana's History of Collective Fear and Belief"
 heading_title: When Fear Gripped Botswana's Schools and Streets
-page_heading_title: When Fear Gripped Botswana's Schools and Streets
+page_heading_title: "Botswana's History of Collective Fear and Belief"
 source_count: 88
 infographic_count: 3
 page_website_name: Botswana Panics

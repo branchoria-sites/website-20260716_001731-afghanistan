@@ -351,8 +351,7 @@ This reinterpretation also highlights how colonial records themselves helped con
 
 <img src="{{ "/assets/images/Congo_77f256_kitawala_conspiracy_918833-Illustration-3-dark.svg" | relative_url }}" alt="Kitawala illustration 3" data-theme-src-dark="{{ "/assets/images/Congo_77f256_kitawala_conspiracy_918833-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256_kitawala_conspiracy_918833-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode still matters
-
+## How Kitawala entered public memory
 The history of Kitawala illustrates how governments can mistake decentralised religious diversity for coordinated conspiracy.
 
 The Belgian colonial state encountered numerous independent congregations linked by overlapping ideas rather than unified command. Because officials expected hidden political organisation, they interpreted diversity as disguise and secrecy as proof. The resulting campaign of repression strengthened the very appearance of clandestine organisation that authorities feared.

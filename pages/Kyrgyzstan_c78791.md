@@ -210,12 +210,12 @@ hero_summary: Kyrgyzstan has no famous, securely documented equivalent of the Sa
 layout: default
 permalink: /kyrgyzstan/
 nav_short_title: When Fear Became a Public Force
-title: When Fear Became a Public Force
+title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 title_full: When Fear Became a Public Force
 display_title_short: When Fear Became a Public Force
-display_title: When Fear Became a Public Force
+display_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 heading_title: When Fear Became a Public Force
-page_heading_title: When Fear Became a Public Force
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 source_count: 113
 infographic_count: 2
 page_website_name: Kyrgyzstan Panics
@@ -1297,8 +1297,7 @@ These categories can overlap, but they are not interchangeable. A restrictive re
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eIsl1FUa7Fo" title="Religion in Kyrgyzstan: From Soviet Atheism to Islamic Revival (1900-2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eIsl1FUa7Fo" target="_blank" rel="noopener noreferrer">Religion in Kyrgyzstan: From Soviet Atheism to Islamic Revival (1900-2026)</a></p><p class="youtube-embed-meta">Channel: Data EYE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eIsl1FUa7Fo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eIsl1FUa7Fo">Open on YouTube</a></p></div></div></div>
 
-## Why these episodes remain important
-
+## Kyrgyzstan: fear, rumour and collective belief
 Kyrgyzstan’s experience shows that collective fear is most dangerous when institutions cannot establish trusted facts. After the Soviet collapse, new religions entered a society with little experience of religious pluralism. Armed incursions then made claims about hidden extremist networks more believable. Political instability and divided media systems allowed rumours to outrun verification in 2010. During the pandemic, social platforms accelerated the same process.
 
 Authorities often responded by extending control: mandatory registration, restrictions on missionary activity, expert examinations of religious texts and wider definitions of extremism. Such measures may create an appearance of order, but they can also confirm the public impression that every unconventional believer is a possible conspirator. When peaceful minorities are treated as security problems, genuine warning signs become harder to distinguish from prejudice.

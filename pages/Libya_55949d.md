@@ -210,12 +210,12 @@ hero_summary: Libya has no well-documented equivalent of the Salem witch trials 
 layout: default
 permalink: /when-fear-became-power-in-libya/
 nav_short_title: When Fear Became Power in Libya
-title: When Fear Became Power in Libya
+title: "Inside Libya's History of Public Fear"
 title_full: When Fear Became Power in Libya
 display_title_short: When Fear Became Power in Libya
-display_title: When Fear Became Power in Libya
+display_title: "Inside Libya's History of Public Fear"
 heading_title: When Fear Became Power in Libya
-page_heading_title: When Fear Became Power in Libya
+page_heading_title: "Inside Libya's History of Public Fear"
 source_count: 132
 infographic_count: 3
 page_website_name: Libya

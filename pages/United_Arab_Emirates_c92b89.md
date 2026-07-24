@@ -210,12 +210,12 @@ hero_summary: The United Arab Emirates has no well-documented equivalent of the 
 layout: default
 permalink: /united-arab-emirates/
 nav_short_title: When Fear Spread Across the United Arab Emirates
-title: When Fear Spread Across the United Arab Emirates
+title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 title_full: When Fear Spread Across the United Arab Emirates
 display_title_short: When Fear Spread Across the United Arab Emirates
-display_title: When Fear Spread Across the United Arab Emirates
+display_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Spread Across the United Arab Emirates
-page_heading_title: When Fear Spread Across the United Arab Emirates
+page_heading_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 source_count: 92
 infographic_count: 3
 page_website_name: UAE Panics

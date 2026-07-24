@@ -210,12 +210,12 @@ hero_summary: Australia has not experienced the large-scale witch trials or poss
 layout: default
 permalink: /when-fear-and-belief-gripped-australia/
 nav_short_title: When Fear and Belief Gripped Australia
-title: When Fear and Belief Gripped Australia
+title: "How Panic, Rumour and Belief Took Hold in Australia"
 title_full: When Fear and Belief Gripped Australia
 display_title_short: When Fear and Belief Gripped Australia
-display_title: When Fear and Belief Gripped Australia
+display_title: "How Panic, Rumour and Belief Took Hold in Australia"
 heading_title: When Fear and Belief Gripped Australia
-page_heading_title: When Fear and Belief Gripped Australia
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Australia"
 source_count: 153
 infographic_count: 3
 page_website_name: Australia Unsettled

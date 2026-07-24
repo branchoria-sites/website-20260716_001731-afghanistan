@@ -210,12 +210,12 @@ hero_summary: Lithuania’s history contains witchcraft prosecutions, disputed v
 layout: default
 permalink: /when-fear-and-faith-shaped-lithuania/
 nav_short_title: When Fear and Faith Shaped Lithuania
-title: When Fear and Faith Shaped Lithuania
+title: "Collective Fear, Belief and Panic in Lithuania"
 title_full: When Fear and Faith Shaped Lithuania
 display_title_short: When Fear and Faith Shaped Lithuania
-display_title: When Fear and Faith Shaped Lithuania
+display_title: "Collective Fear, Belief and Panic in Lithuania"
 heading_title: When Fear and Faith Shaped Lithuania
-page_heading_title: When Fear and Faith Shaped Lithuania
+page_heading_title: "Collective Fear, Belief and Panic in Lithuania"
 source_count: 127
 infographic_count: 3
 page_website_name: Lithuania

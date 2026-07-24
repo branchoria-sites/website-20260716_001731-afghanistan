@@ -210,12 +210,12 @@ hero_summary: Uganda’s history of collective fear and extraordinary belief is 
 layout: default
 permalink: /when-fear-and-belief-reshaped-uganda/
 nav_short_title: When Fear and Belief Reshaped Uganda
-title: When Fear and Belief Reshaped Uganda
+title: "How Fear and Belief Shaped Uganda"
 title_full: When Fear and Belief Reshaped Uganda
 display_title_short: When Fear and Belief Reshaped Uganda
-display_title: When Fear and Belief Reshaped Uganda
+display_title: "How Fear and Belief Shaped Uganda"
 heading_title: When Fear and Belief Reshaped Uganda
-page_heading_title: When Fear and Belief Reshaped Uganda
+page_heading_title: "How Fear and Belief Shaped Uganda"
 source_count: 128
 infographic_count: 3
 page_website_name: Uganda Belief and Fear

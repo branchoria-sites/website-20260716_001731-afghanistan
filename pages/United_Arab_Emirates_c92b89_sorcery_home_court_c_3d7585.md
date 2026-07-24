@@ -356,8 +356,7 @@ That does not mean complainants fabricate their fears. Many sincerely believe th
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yO6Rf-Pzyqo" title="Dubai Police have arrested seven men who were in a video, that has been spread on social media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yO6Rf-Pzyqo" target="_blank" rel="noopener noreferrer">Dubai Police have arrested seven men who were in a video, that has been spread on social media</a></p><p class="youtube-embed-meta">Channel: DUBAI ’one</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yO6Rf-Pzyqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yO6Rf-Pzyqo">Open on YouTube</a></p></div></div></div>
 
-## Why these cases matter
-
+## The wider legacy of Sorcery Cases
 Sorcery accusations inside UAE homes reveal more than beliefs about the supernatural. They expose tensions over authority, migration, marriage and trust within private domestic spaces.
 
 Unlike historical witch panics involving entire communities, UAE cases usually remain individual disputes handled through police investigations and the courts. They do not demonstrate a nationwide moral panic or organised persecution. Instead, they illustrate how deeply personal anxieties—about loyalty, illness, marriage or household relationships—can become attached to symbolic objects that appear to offer concrete proof.

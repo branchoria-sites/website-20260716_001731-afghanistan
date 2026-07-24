@@ -1298,8 +1298,7 @@ Djibouti’s evidence makes clear why broad labels can mislead. Several differen
 
 <img src="{{ "/assets/images/Djibouti_60a8b0-Illustration-3-dark.svg" | relative_url }}" alt="What Did Djibouti Fear, Believe and... illustration 3" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## How Djibouti entered public memory
 Djibouti’s contribution to the history of contagious belief is less a catalogue of spectacular panics than a lesson in interpretation. The same behaviour can be described as possession, illness, therapy, superstition or social protest depending on who is speaking. Colonial physicians saw social degeneration in khat sessions; participants may also have seen friendship, stimulation and relief from exhausting work. Outsiders saw irrational spirits; women within possession circles may have found recognition and a language for suffering.
 
 These competing descriptions have consequences. A supernatural interpretation can provide meaning and community, but it can also obstruct clinical care. A public-health campaign can reduce harm, but it can become punitive when officials portray a whole population as morally defective. A shortage of reliable reporting can prevent panic, rumour and abuse from being documented at all.

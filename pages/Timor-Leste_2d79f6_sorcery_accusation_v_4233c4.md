@@ -331,8 +331,7 @@ Where cases reach court, prosecutors treat assault, arson and homicide as ordina
 
 At the same time, researchers argue that criminal prosecution alone cannot eliminate the problem. Because accusations are rooted in grief, family relationships, unequal access to healthcare, insecure land tenure and weak confidence in formal institutions, preventing violence also requires earlier community intervention. Belun's Early Warning and Early Response programme was designed precisely to identify local tensions before they escalated into collective attacks, combining community monitoring with mediation and policy recommendations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belun.tl/en/early-warning-and-early-response-ewer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belun.tl">[belun.tl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belun.tl</span><span class="citation-popover-title">Early Warning, Early Response (EWER) System — Belun</span><span class="citation-popover-snippet">Early Warning, Early Response (EWER) System — Belun</span></span></span>
 
-## Why these cases remain important
-
+## How Sorcery Violence entered public memory
 Sorcery-related violence occupies an important place in understanding collective fear in Timor-Leste because it shows how belief, emotion and unresolved social conflict can reinforce one another.
 
 The available evidence does not support the idea of nationwide witch hunts or organised campaigns against alleged sorcerers. Instead, it points to recurring local crises in which ordinary experiences—bereavement, illness, family disputes and competition over land—become interpreted through beliefs about harmful supernatural power. Those interpretations can transform private suspicion into communal punishment when rumours spread faster than trusted legal or medical explanations.

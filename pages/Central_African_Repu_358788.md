@@ -1307,8 +1307,7 @@ Legal reform is therefore necessary but insufficient. Repealing or narrowing wit
 
 <img src="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" alt="Central African Republic illustration 3" data-theme-src-dark="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Central_African_Repu_358788-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history matters
-
+## The wider legacy of Central African Republic
 The Central African Republic shows how collective fear becomes durable when belief, social inequality and institutional power reinforce one another. A rumour does not have to persuade everyone. It only needs enough authority behind it to make resistance dangerous.
 
 The victims are often people already treated as burdens or outsiders. Their persecution reveals the hidden social work performed by an accusation: it explains tragedy, identifies a culprit, draws a line between the supposedly safe community and its imagined internal enemy, and gives violence the appearance of moral necessity.

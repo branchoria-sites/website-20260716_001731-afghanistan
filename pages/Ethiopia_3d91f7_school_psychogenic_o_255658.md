@@ -390,8 +390,7 @@ The Haraza investigators specifically argued that training public health workers
 
 <img src="{{ "/assets/images/Ethiopia_3d91f7_school_psychogenic_o_255658-Illustration-3-dark.svg" | relative_url }}" alt="School Outbreaks illustration 3" data-theme-src-dark="{{ "/assets/images/Ethiopia_3d91f7_school_psychogenic_o_255658-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ethiopia_3d91f7_school_psychogenic_o_255658-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these cases remain important
-
+## The wider legacy of School Outbreaks
 Ethiopia's documented school outbreaks are significant because they demonstrate that mass psychogenic illness is neither a historical curiosity nor evidence of deliberate deception. The symptoms experienced by pupils were real, often frightening and disruptive, even though investigators found no shared physical disease.
 
 Taken together, the outbreaks in Bati, Haraza and Addis Ababa show how genuine illness can spread through fear, expectation and social interaction, particularly in schools where young people spend long periods together. They also underline a practical lesson for public health: careful investigation must go hand in hand with clear communication. Without trustworthy explanations, rumours can become almost as disruptive as the symptoms themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7396040/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 23, 2020...</span><span class="citation-popover-meta">Published: July 23, 2020</span></span></span>

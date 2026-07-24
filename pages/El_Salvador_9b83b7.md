@@ -210,12 +210,12 @@ hero_summary: El Salvador does not have a well-documented national history of sp
 layout: default
 permalink: /when-fear-became-power-in-el-salvador/
 nav_short_title: When Fear Became Power in El Salvador
-title: When Fear Became Power in El Salvador
+title: "Collective Fear, Belief and Panic in El Salvador"
 title_full: When Fear Became Power in El Salvador
 display_title_short: When Fear Became Power in El Salvador
-display_title: When Fear Became Power in El Salvador
+display_title: "Collective Fear, Belief and Panic in El Salvador"
 heading_title: When Fear Became Power in El Salvador
-page_heading_title: When Fear Became Power in El Salvador
+page_heading_title: "Collective Fear, Belief and Panic in El Salvador"
 source_count: 160
 infographic_count: 3
 page_website_name: El Salvador
@@ -1301,8 +1301,7 @@ The example shows why simple labels fail. A church may be a route out of lethal 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/03XyXFHCMQM" title="Massacre in El Salvador (full documentary) | FRONTLINE + ProPublica + RetroReport (Aired 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=03XyXFHCMQM" target="_blank" rel="noopener noreferrer">Massacre in El Salvador (full documentary) | FRONTLINE + ProPublica + RetroReport (Aired 2021)</a></p><p class="youtube-embed-meta">Channel: FRONTLINE PBS | Official</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=03XyXFHCMQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=03XyXFHCMQM">Open on YouTube</a></p></div></div></div>
 
-## What these episodes reveal
-
+## The recurring pressures behind El Salvador
 El Salvador’s history of contagious fear is chiefly a history of **enemy-making under extreme pressure**. Colonial authorities reclassified Indigenous religion as dangerous error. The military regime of 1932 merged communists, peasants and Indigenous people into a single subversive threat. Modern security politics often collapses gang leaders, coerced recruits and merely suspected young residents into one criminal category.
 
 Miracle stories follow a different path. They bind communities together by turning survival into sacred memory. Their historical importance does not depend upon treating every supernatural claim as literal fact. They show how people facing volcanoes, war or insecurity seek patterns of protection and meaning.

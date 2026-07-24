@@ -304,8 +304,7 @@ Researchers studying similar panics argue that genital-theft rumours often flour
 
 <img src="{{ "/assets/images/Mozambique_a40a9b_genital_shrinking_pa_311f69-Illustration-3-dark.svg" | relative_url }}" alt="Genital Panic illustration 3" data-theme-src-dark="{{ "/assets/images/Mozambique_a40a9b_genital_shrinking_pa_311f69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mozambique_a40a9b_genital_shrinking_pa_311f69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode matters
-
+## How Genital Panic entered public memory
 The 2026 panic stands out because of the speed with which false claims produced lethal consequences. Unlike an isolated rumour, it spread across multiple provinces within weeks and generated dozens of killings despite repeated public denials from doctors, police and political leaders.
 
 It also demonstrates an important distinction in the study of collective fear. The central issue was not whether individuals genuinely felt frightened or believed their bodies had changed—many almost certainly did—but that those beliefs became the basis for vigilante violence. Medical examinations found no evidence that organs had physically disappeared, yet innocent people died because crowds accepted accusation as sufficient proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rm.co.mz/ordem-dos-medicos-desmente-rumores-sobre-atrofiamento-de-orgaos-genitais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rm.co.mz">[rm.co.mz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rm.co.mz</span><span class="citation-popover-snippet">Rádio MoçambiqueOrdem dos Médicos desmente rumores sobre atrofiamento de órgãos genitais - Rádio Moçambique...</span></span></span>

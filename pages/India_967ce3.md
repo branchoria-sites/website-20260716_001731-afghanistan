@@ -210,12 +210,12 @@ hero_summary: India’s history of collective fear and contagious belief is not 
 layout: default
 permalink: /when-fear-and-belief-swept-across-india/
 nav_short_title: When Fear and Belief Swept Across India
-title: When Fear and Belief Swept Across India
+title: "Rumour, Belief and Collective Panic in India"
 title_full: When Fear and Belief Swept Across India
 display_title_short: When Fear and Belief Swept Across India
-display_title: When Fear and Belief Swept Across India
+display_title: "Rumour, Belief and Collective Panic in India"
 heading_title: When Fear and Belief Swept Across India
-page_heading_title: When Fear and Belief Swept Across India
+page_heading_title: "Rumour, Belief and Collective Panic in India"
 source_count: 86
 infographic_count: 3
 page_website_name: India Panics

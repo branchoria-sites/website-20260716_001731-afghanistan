@@ -210,12 +210,12 @@ hero_summary: 'Costa Rica has no well-documented equivalent of the Salem witch t
 layout: default
 permalink: /when-fear-tested-costa-ricas-peaceful/
 nav_short_title: When Fear Tested Costa Rica's Peaceful Image
-title: When Fear Tested Costa Rica's Peaceful Image
+title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 title_full: When Fear Tested Costa Rica's Peaceful Image
 display_title_short: When Fear Tested Costa Rica's Peaceful Image
-display_title: When Fear Tested Costa Rica's Peaceful Image
+display_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 heading_title: When Fear Tested Costa Rica's Peaceful Image
-page_heading_title: When Fear Tested Costa Rica's Peaceful Image
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 source_count: 139
 infographic_count: 3
 page_website_name: Costa Rica Panics
@@ -1313,8 +1313,7 @@ The language used by authorities also matters. “Hysteria” carries a history 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EX9MNWOvCjs" title="Mortual - Altar of Brutality (FULL ALBUM)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EX9MNWOvCjs" target="_blank" rel="noopener noreferrer">Mortual - Altar of Brutality (FULL ALBUM)</a></p><p class="youtube-embed-meta">Channel: Rock And Metal Releases</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EX9MNWOvCjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EX9MNWOvCjs">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## The recurring pressures behind Costa Rica
 Costa Rica’s panics differ in subject and severity, but the recurring mechanism is recognisable. A real event—a religious challenge, a handful of visitors, an epidemic, a concert or a pupil becoming ill—creates uncertainty. Public discussion then attaches that uncertainty to an already available fear: spiritual corruption, foreign influence, sexual disorder, Satanism or poisoning.
 
 The supposed threat is made visible through a group whose appearance or identity is easy to recognise. Authorities are pressured to act before the evidence is clear. Actions such as raids, exclusion or public denunciation then seem to confirm that a serious danger must have existed.

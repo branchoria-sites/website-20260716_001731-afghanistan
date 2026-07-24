@@ -210,12 +210,12 @@ hero_summary: Slovakia has no single defining episode of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-gripped-slovakia/
 nav_short_title: When Fear and Belief Gripped Slovakia
-title: When Fear and Belief Gripped Slovakia
+title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 title_full: When Fear and Belief Gripped Slovakia
 display_title_short: When Fear and Belief Gripped Slovakia
-display_title: When Fear and Belief Gripped Slovakia
+display_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 heading_title: When Fear and Belief Gripped Slovakia
-page_heading_title: When Fear and Belief Gripped Slovakia
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 source_count: 104
 infographic_count: 3
 page_website_name: Slovakia
@@ -1357,8 +1357,7 @@ The differences are equally important. Witch trials and blood libels involved co
 
 The most useful dividing line is between belief and power. Many people hold unusual, intense or unverifiable beliefs without harming anyone. Danger increases when those beliefs authorise punishment, silence criticism, strip minorities of legal protection or make public institutions treat suspicion as proof.
 
-## Why this history still matters
-
+## What Slovakia reveals about public fear
 Slovakia’s cases reveal that collective fear is rarely just an eruption of irrationality. It grows through institutions, existing prejudices and moments of uncertainty. Early modern courts did not merely observe witch panics; they organised and legitimised them. Blood libels did not spread only because individuals accepted a grotesque rumour; they spread because authorities treated Jewish people as a category of suspects. Apparition movements endure because testimony is repeated through pilgrimage and carefully negotiated by religious institutions. Online conspiracies become politically powerful when public figures turn them into explanations for everyday insecurity.
 
 The history also shows how panics end. Witch prosecutions declined when central authorities changed evidential and legal standards, not when every supernatural belief disappeared. Apparition movements can be contained through a distinction between permitted devotion and verified supernatural fact. Conspiracy claims are harder to restrain because digital networks are decentralised, but transparent investigation, independent journalism and institutions willing to correct mistakes without contempt remain essential.

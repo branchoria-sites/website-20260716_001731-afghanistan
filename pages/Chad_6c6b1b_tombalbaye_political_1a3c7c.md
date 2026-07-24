@@ -326,8 +326,7 @@ Instead of restoring support among southern communities, compulsory yondo aliena
 
 Meanwhile, repeated arrests over alleged conspiracies—including accusations of political sorcery—deepened distrust inside the armed forces. Officers increasingly feared arbitrary detention as much as external enemies. When Tombalbaye ordered further arrests of senior officers in early 1975, military patience finally broke. On 13 April 1975 soldiers staged a coup, killing the president and releasing General Félix Malloum from prison. Malloum subsequently became head of the new military government.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1975_Chadian_coup_d%27%C3%A9tat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1975 Chadian coup d&#x27;état</span><span class="citation-popover-snippet">1975 Chadian coup d&#x27;état</span></span></span>
 
-## Why this episode matters
-
+## What Political Sorcery reveals about public fear
 Tombalbaye's final years remain one of Africa's clearest examples of supernatural language becoming intertwined with state power rather than popular panic.
 
 The episode illustrates several important distinctions:

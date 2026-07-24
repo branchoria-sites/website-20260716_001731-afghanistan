@@ -1302,8 +1302,7 @@ It is also important not to confuse these events with mass psychogenic illness. 
 
 Nor does disbelief erase real harm. Imagined sorcery led to beatings, torture and death. Supernatural confidence contributed to disastrous military choices during the Boxer conflict. Apocalyptic and healing teachings can influence vulnerable people’s medical or financial decisions. Conversely, accusations of cult activity have been used to justify imprisonment, forced ideological conversion and abuse. The central historical question is therefore not merely whether a supernatural claim was true. It is how the claim reorganised relationships, authorised action and changed who could safely belong.
 
-## Why this history still matters
-
+## What China reveals about public fear
 China’s long record of scares and salvation movements helps explain why religious organisation, rumour control and “social stability” remain closely connected in official thinking. Imperial memories of sectarian rebellion were repeatedly retold, and modern leaders have their own experience of mass political mobilisation. An independently organised belief community can appear threatening even when its members are peaceful, because officials judge not only doctrine but numbers, loyalty and communication capacity.
 
 The history also challenges the comforting idea that panic belongs to an uneducated past. The qigong boom flourished through the language of modern science. Radiation rumours spread through smartphones and social media. Government institutions, journalists, commercial sellers and educated consumers all participated in producing or amplifying collective belief. Modern technology changes the route by which a rumour travels; it does not remove the emotional conditions that make the rumour persuasive.

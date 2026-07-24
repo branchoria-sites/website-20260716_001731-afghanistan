@@ -210,12 +210,12 @@ hero_summary: 'Eswatini’s history of collective fear is not dominated by a sin
 layout: default
 permalink: /when-fear-spreads-through-eswatini/
 nav_short_title: When Fear Spreads Through Eswatini
-title: When Fear Spreads Through Eswatini
+title: "Eswatini: Panics, Beliefs and Mass Movements"
 title_full: When Fear Spreads Through Eswatini
 display_title_short: When Fear Spreads Through Eswatini
-display_title: When Fear Spreads Through Eswatini
+display_title: "Eswatini: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Spreads Through Eswatini
-page_heading_title: When Fear Spreads Through Eswatini
+page_heading_title: "Eswatini: Panics, Beliefs and Mass Movements"
 source_count: 126
 infographic_count: 3
 page_website_name: Eswatini

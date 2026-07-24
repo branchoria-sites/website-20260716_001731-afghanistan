@@ -1337,8 +1337,7 @@ Luxembourg’s history shows that collective fear becomes most harmful when seve
 
 <img src="{{ "/assets/images/Luxembourg_507672-Illustration-3-dark.svg" | relative_url }}" alt="When Fear Became Law in Luxembourg illustration 3" data-theme-src-dark="{{ "/assets/images/Luxembourg_507672-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luxembourg_507672-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## The wider legacy of Luxembourg
 The witch trials remain culturally important because they show how ordinary systems of knowledge and justice can make extraordinary errors. The participants did not generally believe they were staging a panic. Accusers believed they were identifying danger; judges believed they were uncovering concealed crime; confessions seemed to validate the investigation. The injustice emerged from the interaction of sincere belief, coercive methods and institutions unable to test their own assumptions.
 
 That pattern has modern relevance without requiring a crude claim that every contemporary scare is “another witch hunt”. The useful comparison is structural. Are allegations being independently verified, or merely repeated? Does questioning introduce the story it later claims to confirm? Are officials distinguishing evidence of harm from dislike of a group’s beliefs? Is an invisible conspiracy being used to explain why supporting evidence cannot be found?

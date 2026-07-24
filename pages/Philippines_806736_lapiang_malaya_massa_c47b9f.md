@@ -292,8 +292,7 @@ After the clash, surviving members were arrested on charges including sedition. 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8uXIFZ5SyaQ" title="Ang Katotohanan sa Madugong Lapiang Malaya Massacre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8uXIFZ5SyaQ" target="_blank" rel="noopener noreferrer">Ang Katotohanan sa Madugong Lapiang Malaya Massacre</a></p><p class="youtube-embed-meta">Channel: YOUMUSTKNOW TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8uXIFZ5SyaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8uXIFZ5SyaQ">Open on YouTube</a></p></div></div></div>
 
-## Why the episode still matters
-
+## How Lapiang Malaya entered public memory
 The Lapiang Malaya killings occupy an important place in Philippine discussions of religion, protest and state power because they resist simple explanation.
 
 Several lessons stand out:

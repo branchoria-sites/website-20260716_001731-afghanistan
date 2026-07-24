@@ -210,12 +210,12 @@ hero_summary: South Sudan’s history of contagious belief is not dominated by a
 layout: default
 permalink: /when-fear-becomes-power-in-south-sudan/
 nav_short_title: When Fear Becomes Power in South Sudan
-title: When Fear Becomes Power in South Sudan
+title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 title_full: When Fear Becomes Power in South Sudan
 display_title_short: When Fear Becomes Power in South Sudan
-display_title: When Fear Becomes Power in South Sudan
+display_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 heading_title: When Fear Becomes Power in South Sudan
-page_heading_title: When Fear Becomes Power in South Sudan
+page_heading_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 source_count: 118
 infographic_count: 3
 page_website_name: South Sudan

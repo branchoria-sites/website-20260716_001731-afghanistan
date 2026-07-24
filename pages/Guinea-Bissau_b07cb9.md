@@ -210,12 +210,12 @@ hero_summary: Guinea-Bissau does not have a well-documented history of classic �
 layout: default
 permalink: /when-fear-becomes-belief-in-guinea/
 nav_short_title: When Fear Becomes Belief in Guinea Bissau
-title: When Fear Becomes Belief in Guinea Bissau
+title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 title_full: When Fear Becomes Belief in Guinea Bissau
 display_title_short: When Fear Becomes Belief in Guinea Bissau
-display_title: When Fear Becomes Belief in Guinea Bissau
+display_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Becomes Belief in Guinea Bissau
-page_heading_title: When Fear Becomes Belief in Guinea Bissau
+page_heading_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 source_count: 90
 infographic_count: 3
 page_website_name: Guinea Bissau
@@ -1282,8 +1282,7 @@ What is well supported is the mechanism linking unexplained misfortune to accusa
 
 <img src="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-dark.svg" | relative_url }}" alt="When Fear Becomes Belief in Guinea Bissau illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea-Bissau_b07cb9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these cases matter
-
+## Guinea-Bissau: fear, rumour and collective belief
 Guinea-Bissau’s history shows that collective belief is not always spectacular. It can appear in a village decision to seek a supernatural cause for two deaths, in the forced swallowing of a supposedly truth-revealing liquid, or in a government’s fear that an unfamiliar prayer movement masks political rebellion.
 
 The lasting issue is not whether every participant was simply credulous. It is how uncertainty became certainty, how certainty acquired public authority and why the people with the least power bore the greatest risk. Older accused villagers could be forced into lethal ordeals, while young religious innovators could be imprisoned when their movement unsettled established hierarchies.

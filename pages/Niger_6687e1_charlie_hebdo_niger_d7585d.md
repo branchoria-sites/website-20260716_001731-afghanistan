@@ -330,8 +330,7 @@ Unlike classic cases of mass psychogenic illness or rumour panics, the Niger vio
 
 The event nevertheless belongs in the broader history of collective fear because international images and narratives rapidly transformed into local perceptions of threat. For some participants, the cartoons became evidence of a wider assault on Islam, while churches and Christian institutions came to represent that perceived attack despite having no involvement in the French publication.
 
-## Lasting significance
-
+## Cartoon Protests in historical perspective
 The January 2015 riots remain one of Niger's clearest examples of how global events can interact with local politics to produce deadly collective violence.
 
 They exposed the risks created when international religious controversies intersect with domestic political competition, youth frustration and anti-colonial sentiment. They also demonstrated the dangers of reducing complex episodes to simple explanations about religious extremism alone. The strongest scholarly interpretations instead present the violence as the product of several reinforcing forces: symbolic outrage over the cartoons, local political conflict, socio-economic exclusion, regional identities and the mobilisation of marginalised young men.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/000203971505000104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe “Protests against Charlie Hebdo” in Niger: A Background Analysis - Jannik Schritt, 2015April 1, 2015...</span><span class="citation-popover-meta">Published: April 1, 2015</span></span></span>

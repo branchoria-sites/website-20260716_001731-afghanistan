@@ -312,8 +312,7 @@ Although a few isolated witchcraft cases appeared later, the nationwide chain re
 
 <img src="{{ "/assets/images/Sweden_72ddd2_child_witnesses_stoc_0332e4-Illustration-3-dark.svg" | relative_url }}" alt="Child Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Sweden_72ddd2_child_witnesses_stoc_0332e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sweden_72ddd2_child_witnesses_stoc_0332e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this episode still matters
-
+## How Child Witnesses entered public memory
 Historians often point to Stockholm in 1676 as an early demonstration of how investigative procedures influence the reliability of testimony. The episode illustrates several principles that remain central to modern justice:
 
 

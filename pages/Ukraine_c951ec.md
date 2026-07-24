@@ -210,12 +210,12 @@ hero_summary: Ukraine’s history of collective fear and contagious belief is no
 layout: default
 permalink: /when-fear-and-belief-gripped-ukraine/
 nav_short_title: When Fear and Belief Gripped Ukraine
-title: When Fear and Belief Gripped Ukraine
+title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 title_full: When Fear and Belief Gripped Ukraine
 display_title_short: When Fear and Belief Gripped Ukraine
-display_title: When Fear and Belief Gripped Ukraine
+display_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 heading_title: When Fear and Belief Gripped Ukraine
-page_heading_title: When Fear and Belief Gripped Ukraine
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 source_count: 96
 infographic_count: 3
 page_website_name: Ukraine
@@ -1286,8 +1286,7 @@ These claims differ from spontaneous mass psychogenic illness, in which stress a
 
 <img src="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" alt="When Fear and Belief Gripped Ukraine illustration 3" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes reveal
-
+## Patterns linking the events in Ukraine
 Ukraine’s cases show why “mass hysteria” is often too blunt a label. It can imply that everyone involved became irrational at once, when the historical record usually reveals several interacting processes.
 
 **Witchcraft cases were persecutions conducted through recognised courts.** Belief and rumour mattered, but so did law, testimony, social status and judicial restraint. Ukraine’s trials were real and sometimes deadly, yet they did not form a single national witch craze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/slavic-review/article/ukrainian-witchcraft-trials-volhynia-podolia-and-ruthenia-17th18th-centuries-by-kateryna-dysa-budapest-new-york-central-european-university-press-2020-x-254-pp-notes-bibliography-index-7500-hardbound/5D24F02DE9A61945534BB0C5A70DE4C3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">witch craze, and only periodic mass accusations and trials. One</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUkrainian Witchcraft Trials: Volhynia, Podolia, and...by G Marker · 2022 — Dysa situates Ukrainia...</span></span></span>

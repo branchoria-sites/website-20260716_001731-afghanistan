@@ -332,8 +332,7 @@ This imbalance also explains why it is difficult to determine precisely how many
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EV-CwZsRUTU" title="Smithsonian - Vitarelli - Modekngei (Part 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EV-CwZsRUTU" target="_blank" rel="noopener noreferrer">Smithsonian - Vitarelli - Modekngei (Part 1)</a></p><p class="youtube-embed-meta">Channel: TMC Palau (TMC 38)</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EV-CwZsRUTU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EV-CwZsRUTU">Open on YouTube</a></p></div></div></div>
 
-## Why the episode still matters
-
+## How Colonial Suppression entered public memory
 The Japanese suppression of Modekngei is significant less because it documents a failed rebellion than because it shows how colonial governments could transform unfamiliar religious movements into perceived security threats.
 
 Modern scholarship generally avoids describing Modekngei simply as a "cult" or as an anti-colonial conspiracy. Instead, it is increasingly understood as an indigenous Palauan religion whose independent organisation made colonial authorities uneasy. The repeated arrests, interrogations and restrictions reveal more about the anxieties of colonial rule than about any proven revolutionary programme.

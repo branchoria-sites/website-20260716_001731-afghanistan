@@ -1330,8 +1330,7 @@ The third is that missionaries simply defeated irrational beliefs. Missionisatio
 
 The fourth is that every tightly organised or unfamiliar religious group is a “cult”. The term can obscure more than it reveals. A minority church, indigenous ritual body or prophetic movement should be judged by evidence of coercion, exploitation or harm, not merely by unusual theology or outsider status.
 
-## Why this history still matters
-
+## Micronesia: fear, rumour and collective belief
 Micronesia’s strongest contribution to the study of collective belief is not a spectacular panic but a record of how supernatural ideas adapt. The ritual specialist does not simply vanish; authority reappears through prophecy. The formal medium disappears; possession returns through people with little ordinary power. A constitutional democracy protects religious freedom, yet sections of society may still fear a tiny minority as a threat to national identity.
 
 These patterns challenge the dismissive language of “hysteria”. Beliefs spread because they answer questions that institutions have failed to settle: why disaster struck, why outsiders prosper, why a family is in conflict, why social roles feel intolerable or what holds a community together. The beliefs may be disputed, but the pressures beneath them are real.

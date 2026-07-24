@@ -310,8 +310,7 @@ Evidence collected near the end of Guinea's epidemic suggests that these efforts
 
 <img src="{{ "/assets/images/Guinea_b47b54_ebola_rumours_and_tr_09ed8b-Illustration-3-dark.svg" | relative_url }}" alt="Ebola Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Guinea_b47b54_ebola_rumours_and_tr_09ed8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guinea_b47b54_ebola_rumours_and_tr_09ed8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode remains important
-
+## The wider legacy of Ebola Rumours
 Guinea's Ebola rumours are now widely studied as an example of how public trust becomes a critical part of epidemic control.
 
 The episode demonstrated that rumours are not merely false stories competing with accurate information. They are often attempts to explain frightening events in situations where institutions appear unfamiliar, inconsistent or unresponsive. Public health measures that seem self-evidently necessary to experts may look coercive or threatening to communities that lack reasons to trust those implementing them.

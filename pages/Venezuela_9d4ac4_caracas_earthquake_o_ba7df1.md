@@ -319,8 +319,7 @@ The second depended entirely on human interpretation rather than geological real
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sua_QeQl4M0" title="1812 Caracas earthquake | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sua_QeQl4M0" target="_blank" rel="noopener noreferrer">1812 Caracas earthquake | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sua_QeQl4M0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sua_QeQl4M0">Open on YouTube</a></p></div></div></div>
 
-## Why the episode still matters
-
+## What 1812 Earthquake reveals about public fear
 The 1812 Caracas earthquake remains one of Latin America's clearest examples of a natural disaster becoming a political omen. It illustrates how societies under extreme stress often seek moral or supernatural explanations for catastrophic events, especially when those events occur during periods of revolution, war or social upheaval.
 
 For historians of collective belief, the episode is significant not because it demonstrates irrationality, but because it reveals how fear, religion and politics can reinforce one another. The earthquake did not create royalist opposition, nor did it create religious belief. Instead, it provided a dramatic event around which existing convictions could be organised and amplified.

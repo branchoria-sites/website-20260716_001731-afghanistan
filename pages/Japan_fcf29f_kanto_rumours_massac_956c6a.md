@@ -349,8 +349,7 @@ Public commemorations have also become controversial. Annual memorial ceremonies
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iCrtjJ-xPBo" title="List of Koreans killed in 1923 Great Kanto Earthquake found in Japanese records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iCrtjJ-xPBo" target="_blank" rel="noopener noreferrer">List of Koreans killed in 1923 Great Kanto Earthquake found in Japanese records</a></p><p class="youtube-embed-meta">Channel: Arirang News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iCrtjJ-xPBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iCrtjJ-xPBo">Open on YouTube</a></p></div></div></div>
 
-## Why the episode still matters
-
+## Kanto Rumours: fear, rumour and collective belief
 The Kantō massacre illustrates how quickly fear can become persecution when rumours reinforce existing prejudice and receive official credibility. It demonstrates that misinformation becomes especially dangerous when institutions fail to challenge it—or actively contribute to its spread.
 
 For historians of collective fear, the episode is not simply an example of panic after a natural disaster. It shows how racial stereotypes, colonial power, emergency governance and unreliable information combined to produce organised violence. That combination makes the massacre one of the most significant and tragic examples of rumour-driven persecution in twentieth-century Japan.

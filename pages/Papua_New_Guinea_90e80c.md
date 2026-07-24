@@ -1303,8 +1303,7 @@ The fourth is to romanticise resistance. Recognising the political meaning of a 
 
 <img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-dark.svg" | relative_url }}" alt="Papua New Guinea illustration 3" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## What Papua New Guinea reveals about public fear
 Papua New Guinea’s movements and panics reveal a repeated pattern: when existing institutions fail to explain unequal wealth, illness, sudden death or rapid social change, collective belief can provide both meaning and action. Sometimes that action creates reform, solidarity and political organisation. Sometimes it supplies a target for fear.
 
 The country’s early millenarian movements are culturally important because they were creative responses to colonial domination and Christian promises of equality. They influenced local leadership, electoral politics and debates about development. Sorcery accusation-related violence matters for the opposite reason: it shows how an explanation of misfortune can become a mechanism of coercion against vulnerable people. COVID-19 rumours demonstrate that similar dynamics can operate through smartphones and global conspiracy narratives as readily as through village discussion.

@@ -210,12 +210,12 @@ hero_summary: Lesotho’s clearest and best-documented episode of collective fea
 layout: default
 permalink: /when-fear-gripped-colonial-lesotho/
 nav_short_title: When Fear Gripped Colonial Lesotho
-title: When Fear Gripped Colonial Lesotho
+title: "How Fear and Belief Shaped Lesotho"
 title_full: When Fear Gripped Colonial Lesotho
 display_title_short: When Fear Gripped Colonial Lesotho
-display_title: When Fear Gripped Colonial Lesotho
+display_title: "How Fear and Belief Shaped Lesotho"
 heading_title: When Fear Gripped Colonial Lesotho
-page_heading_title: When Fear Gripped Colonial Lesotho
+page_heading_title: "How Fear and Belief Shaped Lesotho"
 source_count: 107
 infographic_count: 3
 page_website_name: Lesotho Panics
@@ -1334,8 +1334,7 @@ The colonial government’s response also shaped the panic. Trials and execution
 
 The episode is therefore best understood as a convergence of lethal belief, political coercion and contagious suspicion. It was not merely a story about supernatural ideas. It was a struggle over who possessed power, who could safely accuse the powerful and whether colonial justice could be trusted.
 
-## Why the episode still matters
-
+## Lesotho: fear, rumour and collective belief
 The medicine murder panic remains culturally important because it reveals how fear grows when genuine violence meets weak institutions and secrecy. A murder can support justified alarm; uncertainty about its perpetrators can generate rumours; official evasiveness can turn rumour into political conviction.
 
 It also warns against two forms of prejudice. The first is the sensational claim that violent ritual represents Basotho culture as a whole. The second is the dismissive assumption that belief-linked crimes are only folklore and that victims or frightened communities are irrational. Both positions erase the central evidence: the killings were exceptional and widely condemned, but some were real.

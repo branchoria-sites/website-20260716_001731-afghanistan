@@ -210,12 +210,12 @@ hero_summary: Liberia’s history of collective fear is not best described as a 
 layout: default
 permalink: /when-fear-became-power-in-liberia/
 nav_short_title: When Fear Became Power in Liberia
-title: When Fear Became Power in Liberia
+title: "How Panic, Rumour and Belief Took Hold in Liberia"
 title_full: When Fear Became Power in Liberia
 display_title_short: When Fear Became Power in Liberia
-display_title: When Fear Became Power in Liberia
+display_title: "How Panic, Rumour and Belief Took Hold in Liberia"
 heading_title: When Fear Became Power in Liberia
-page_heading_title: When Fear Became Power in Liberia
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Liberia"
 source_count: 132
 infographic_count: 3
 page_website_name: Liberia

@@ -1295,8 +1295,7 @@ The raid also demonstrated why followers may resist intervention. Adults at the 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pvrq50J8ZK4" title="The Day 62 Children Saw ALIENS (Ariel School UFO Incident)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pvrq50J8ZK4" target="_blank" rel="noopener noreferrer">The Day 62 Children Saw ALIENS (Ariel School UFO Incident)</a></p><p class="youtube-embed-meta">Channel: Crux Craze &middot; Views: 30.1K &middot; Uploaded: October 2022 &middot; Length: 3 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pvrq50J8ZK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pvrq50J8ZK4">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## What connects the episodes around Zimbabwe
 Zimbabwe’s witchcraft accusations, school Satanism scares, UFO testimony and disputes around prophetic communities are not the same phenomenon. Combining them under the careless label of “mass hysteria” hides crucial differences.
 
 

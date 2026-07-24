@@ -210,12 +210,12 @@ hero_summary: Ethiopia’s history of contagious belief is not dominated by one 
 layout: default
 permalink: /when-fear-and-illness-spread-in-ethiopia/
 nav_short_title: When Fear and Illness Spread in Ethiopia
-title: When Fear and Illness Spread in Ethiopia
+title: "Ethiopia: Panics, Beliefs and Mass Movements"
 title_full: When Fear and Illness Spread in Ethiopia
 display_title_short: When Fear and Illness Spread in Ethiopia
-display_title: When Fear and Illness Spread in Ethiopia
+display_title: "Ethiopia: Panics, Beliefs and Mass Movements"
 heading_title: When Fear and Illness Spread in Ethiopia
-page_heading_title: When Fear and Illness Spread in Ethiopia
+page_heading_title: "Ethiopia: Panics, Beliefs and Mass Movements"
 source_count: 131
 infographic_count: 3
 page_website_name: Ethiopia

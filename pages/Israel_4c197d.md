@@ -210,12 +210,12 @@ hero_summary: Israel’s history of cult scares, apocalyptic movements and colle
 layout: default
 permalink: /israel/
 nav_short_title: When Fear, Faith and Conflict Became Contagious
-title: When Fear, Faith and Conflict Became Contagious
+title: "Israel's History of Collective Fear and Belief"
 title_full: When Fear, Faith and Conflict Became Contagious
 display_title_short: When Fear, Faith and Conflict Became Contagious
-display_title: When Fear, Faith and Conflict Became Contagious
+display_title: "Israel's History of Collective Fear and Belief"
 heading_title: When Fear, Faith and Conflict Became Contagious
-page_heading_title: When Fear, Faith and Conflict Became Contagious
+page_heading_title: "Israel's History of Collective Fear and Belief"
 source_count: 100
 infographic_count: 3
 page_website_name: Israel

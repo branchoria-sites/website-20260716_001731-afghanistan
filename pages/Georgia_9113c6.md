@@ -210,12 +210,12 @@ hero_summary: Georgia’s history of collective fear is not dominated by a singl
 layout: default
 permalink: /when-fear-became-a-defence-of-georgia/
 nav_short_title: When Fear Became a Defence of Georgia
-title: When Fear Became a Defence of Georgia
+title: "Georgia: Panics, Beliefs and Mass Movements"
 title_full: When Fear Became a Defence of Georgia
 display_title_short: When Fear Became a Defence of Georgia
-display_title: When Fear Became a Defence of Georgia
+display_title: "Georgia: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Became a Defence of Georgia
-page_heading_title: When Fear Became a Defence of Georgia
+page_heading_title: "Georgia: Panics, Beliefs and Mass Movements"
 source_count: 86
 infographic_count: 3
 page_website_name: Georgia
@@ -1356,8 +1356,7 @@ The 2024 restrictions marked a further shift. Earlier panics often worked throug
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OD5UeoesvAY" title="Georgia far-right groups protest at gay film premiere | AFP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OD5UeoesvAY" target="_blank" rel="noopener noreferrer">Georgia far-right groups protest at gay film premiere | AFP</a></p><p class="youtube-embed-meta">Channel: AFP News Agency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OD5UeoesvAY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OD5UeoesvAY">Open on YouTube</a></p></div></div></div>
 
-## Why this history still matters
-
+## How Georgia entered public memory
 Georgia’s episodes of collective fear reveal how easily the language of protection can become a licence for exclusion. Religious attackers claimed to protect Orthodoxy. Anti-LGBT movements claimed to protect the family. Political campaigns claimed to protect sovereignty from foreign ideology. In each case, a vulnerable minority was made to carry the weight of much wider national anxieties.
 
 The comparison also shows why “cult” and “hysteria” must be used carefully. Jehovah’s Witnesses were called a dangerous sect, but the accusations against them were largely products of hostile labelling. LGBT organisations were depicted as an organised ideological movement seeking to corrupt children, but the evidence instead shows small civil-society groups seeking the ability to assemble without being attacked.

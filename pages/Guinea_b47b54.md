@@ -210,12 +210,12 @@ hero_summary: Guinea’s best-documented history of contagious fear is not a cla
 layout: default
 permalink: /when-fear-became-a-force-in-guinea/
 nav_short_title: When Fear Became a Force in Guinea
-title: When Fear Became a Force in Guinea
+title: "Rumour, Belief and Collective Panic in Guinea"
 title_full: When Fear Became a Force in Guinea
 display_title_short: When Fear Became a Force in Guinea
-display_title: When Fear Became a Force in Guinea
+display_title: "Rumour, Belief and Collective Panic in Guinea"
 heading_title: When Fear Became a Force in Guinea
-page_heading_title: When Fear Became a Force in Guinea
+page_heading_title: "Rumour, Belief and Collective Panic in Guinea"
 source_count: 131
 infographic_count: 3
 page_website_name: Guinea
@@ -1317,8 +1317,7 @@ Finally, Womé should not be treated as representative of all Guineans or even o
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/haWCqhx16ho" title="When Sékou Touré Held All Americans in Guinea Hostage in 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=haWCqhx16ho" target="_blank" rel="noopener noreferrer">When Sékou Touré Held All Americans in Guinea Hostage in 1966</a></p><p class="youtube-embed-meta">Channel: Talking Africa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=haWCqhx16ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=haWCqhx16ho">Open on YouTube</a></p></div></div></div>
 
-## Why this history still matters
-
+## How Guinea entered public memory
 Guinea’s panic history shows that collective fear is rarely separate from institutional history. Rumours become dangerous when they supply an explanation for experiences that authorities have failed to explain convincingly. A frightening story can spread because it is dramatic, but it survives because it fits what people already believe about power.
 
 The Touré years demonstrate how a government can turn conspiracy into a governing method, repeatedly discovering hidden enemies while preventing independent scrutiny of the evidence. The Ebola years show the reverse problem: a life-saving response can be perceived as conspiracy when it arrives through institutions that communities do not trust.

@@ -316,8 +316,7 @@ As the Soviet Union dissolved and [Russia]({{ 'when-fear-and-belief-swept-across
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N7CdvdH8LHE" title="Кашпировский — легендарный телесеанс здоровья СССР | Редкая запись с видеокассеты" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N7CdvdH8LHE" target="_blank" rel="noopener noreferrer">Кашпировский — легендарный телесеанс здоровья СССР | Редкая запись с видеокассеты</a></p><p class="youtube-embed-meta">Channel: Мы из 90х | Ретро видео | Кино в хорошем качестве</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N7CdvdH8LHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N7CdvdH8LHE">Open on YouTube</a></p></div></div></div>
 
-## Why the Episode Still Matters
-
+## What TV Healers reveals about public fear
 The era of Soviet television healers remains culturally significant because it illustrates how collective belief can flourish without requiring everyone involved to abandon critical thinking. Many viewers were desperate for relief from chronic illness, emotional distress or social instability. Others watched out of curiosity, family pressure or simple fascination.
 
 The phenomenon also demonstrates the unique authority television once possessed. Unlike today's fragmented online environment, a handful of national broadcasts could synchronise the attention of millions of people at the same moment. The shared ritual of watching, preparing water or discussing apparent successes created powerful social reinforcement that no individual testimony could have achieved alone.

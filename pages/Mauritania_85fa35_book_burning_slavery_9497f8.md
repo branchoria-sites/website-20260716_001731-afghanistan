@@ -342,8 +342,7 @@ The detainees remained imprisoned for several months before judicial proceedings
 
 Although the criminal case did not end in convictions for blasphemy, the political impact proved lasting. The protest established Abeid as the country's best-known anti-slavery activist while also making him one of its most polarising public figures.
 
-## Why the Episode Still Matters
-
+## The wider legacy of Book Burning
 The 2012 book burning remains one of the clearest examples in Mauritania of how disputes over religion, race and slavery can develop into episodes of collective moral alarm.
 
 Rather than spreading through false reports alone, the controversy grew from a genuine symbolic act whose meaning became fiercely contested. Opponents viewed it as an assault on Islam, while supporters saw it as a necessary rejection of legal interpretations that had helped sustain hereditary servitude. Those competing interpretations generated demonstrations, threats, arrests and years of continuing political argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nybooks.com/articles/2017/11/23/last-slaves-in-mauritania/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nybooks.com">[nybooks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nybooks.com</span><span class="citation-popover-snippet">Open source on nybooks.com.</span></span></span>

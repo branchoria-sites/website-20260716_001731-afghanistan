@@ -210,12 +210,12 @@ hero_summary: Albania’s clearest episode of contagious collective belief was n
 layout: default
 permalink: /when-fear-and-belief-shook-albania/
 nav_short_title: When Fear and Belief Shook Albania
-title: When Fear and Belief Shook Albania
+title: "How Panic, Rumour and Belief Took Hold in Albania"
 title_full: When Fear and Belief Shook Albania
 display_title_short: When Fear and Belief Shook Albania
-display_title: When Fear and Belief Shook Albania
+display_title: "How Panic, Rumour and Belief Took Hold in Albania"
 heading_title: When Fear and Belief Shook Albania
-page_heading_title: When Fear and Belief Shook Albania
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Albania"
 source_count: 140
 infographic_count: 3
 page_website_name: Albania

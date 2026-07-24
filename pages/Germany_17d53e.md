@@ -210,12 +210,12 @@ hero_summary: Germany’s history of collective fear and contagious belief is no
 layout: default
 permalink: /when-fear-took-hold-across-germany/
 nav_short_title: When Fear Took Hold Across Germany
-title: When Fear Took Hold Across Germany
+title: "Germany: Panics, Beliefs and Mass Movements"
 title_full: When Fear Took Hold Across Germany
 display_title_short: When Fear Took Hold Across Germany
-display_title: When Fear Took Hold Across Germany
+display_title: "Germany: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Took Hold Across Germany
-page_heading_title: When Fear Took Hold Across Germany
+page_heading_title: "Germany: Panics, Beliefs and Mass Movements"
 source_count: 146
 infographic_count: 3
 page_website_name: Germany's Strange Panics
@@ -1326,8 +1326,7 @@ This dispute cannot be resolved by calling either side irrational. Scientology h
 
 <img src="{{ "/assets/images/Germany_17d53e-Illustration-3-dark.svg" | relative_url }}" alt="When Fear Took Hold Across Germany illustration 3" data-theme-src-dark="{{ "/assets/images/Germany_17d53e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Germany_17d53e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes have in common
-
+## Patterns linking the events in Germany
 Germany’s witch trials, Münster regime, apparition movements and anti-sect controversies did not arise from one national tendency. They occurred under different states, political systems and religious conditions. Yet several recurring mechanisms connect them.
 
 **Shared threats made unusual claims credible.** Plague, war, failed harvests, confessional conflict, rapid modernisation and Cold War fears created environments in which supernatural explanations or apocalyptic warnings felt relevant.

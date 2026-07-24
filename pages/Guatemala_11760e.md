@@ -1328,8 +1328,7 @@ The language used by sources also matters. “Cult”, “witch”, “idolater�
 
 Finally, false rumours should be separated from the real conditions embedded within them. Foreign tourists were not roaming Guatemala for transplant organs in 1994, but children really had been stolen or improperly transferred through the adoption system. The Maya calendar did not predict the end of the world in 2012, but Maya religious knowledge really had been appropriated and commercialised. Domingo Choc was not proven to have supernaturally caused a death, but local grief and religious hostility were real.
 
-## Why this history still matters
-
+## Guatemala: fear, rumour and collective belief
 Guatemala’s collective fears repeatedly turned vulnerable people into symbolic enemies: Indigenous ritual specialists became witches, villages became communist strongholds, tourists became organ thieves, and living Maya communities became props in someone else’s apocalypse.
 
 The most important pattern is not irrational belief alone. It is the conversion of uncertainty into accusation. Illness demands a sorcerer. A missing child demands a foreign predator. Political unrest demands a hidden internal enemy. An unfamiliar calendar demands an end-of-the-world prophecy.

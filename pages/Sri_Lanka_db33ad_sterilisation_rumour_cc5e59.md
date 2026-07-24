@@ -325,8 +325,7 @@ Several factors helped the conspiracy survive repeated factual refutation.
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-dark.svg" | relative_url }}" alt="Sterilisation Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Lasting significance
-
+## What persisted after Sterilisation Rumours
 The sterilisation rumours became one of the clearest examples in Sri Lanka of a false health claim producing real social harm.
 
 Unlike a panic centred on unexplained illness or supernatural fears, this was a conspiracy theory that transformed fabricated medical claims into justification for communal violence. The violence itself was real, even though the underlying allegation was not.

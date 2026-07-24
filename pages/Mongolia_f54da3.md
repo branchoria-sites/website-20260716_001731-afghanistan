@@ -1329,8 +1329,7 @@ This is a classic mechanism of moral panic: a complicated economic and political
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mJE6bbOPOBg" title="46. Mission and Growth: The Story of the Mongolian Church" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mJE6bbOPOBg" target="_blank" rel="noopener noreferrer">46. Mission and Growth: The Story of the Mongolian Church</a></p><p class="youtube-embed-meta">Channel: Lausanne Movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mJE6bbOPOBg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mJE6bbOPOBg">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## The recurring pressures behind Mongolia
 Mongolia’s cases differ greatly, but several recurring pressures connect them.
 
 **Rapid loss of control.** Prophetic movements and rumours flourished when old institutions collapsed or new policies overturned everyday life. Ja Lama emerged during the fall of Qing authority; the 1932 sacred-war stories spread during forced collectivisation; shamans returned amid the insecurities of market transition.

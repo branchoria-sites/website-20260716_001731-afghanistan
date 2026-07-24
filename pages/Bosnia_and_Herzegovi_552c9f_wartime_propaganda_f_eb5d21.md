@@ -338,8 +338,7 @@ Media continue to play an important role in these debates. Research comparing Bo
 
 <img src="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_wartime_propaganda_f_eb5d21-Illustration-3-dark.svg" | relative_url }}" alt="Wartime Fear illustration 3" data-theme-src-dark="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_wartime_propaganda_f_eb5d21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bosnia_and_Herzegovi_552c9f_wartime_propaganda_f_eb5d21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this history still matters
-
+## What Wartime Fear reveals about public fear
 The Bosnian experience demonstrates that contagious fear does not require imaginary threats. Real violence can become even more destructive when interpreted through narratives that assign permanent collective guilt to entire populations.
 
 For historians, psychologists and media scholars, Bosnia illustrates how propaganda operates most effectively when it builds upon authentic anxieties instead of replacing them. Genuine atrocities, selective reporting, emotionally powerful historical memories and repeated rumours combined to create an environment in which many people came to believe coexistence had become impossible.

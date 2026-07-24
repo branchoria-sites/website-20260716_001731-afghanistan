@@ -210,12 +210,12 @@ hero_summary: Portugal’s history of contagious belief is not dominated by one 
 layout: default
 permalink: /when-fear-and-faith-swept-portugal/
 nav_short_title: When Fear and Faith Swept Portugal
-title: When Fear and Faith Swept Portugal
+title: "Inside Portugal's History of Public Fear"
 title_full: When Fear and Faith Swept Portugal
 display_title_short: When Fear and Faith Swept Portugal
-display_title: When Fear and Faith Swept Portugal
+display_title: "Inside Portugal's History of Public Fear"
 heading_title: When Fear and Faith Swept Portugal
-page_heading_title: When Fear and Faith Swept Portugal
+page_heading_title: "Inside Portugal's History of Public Fear"
 source_count: 113
 infographic_count: 3
 page_website_name: Portugal Belief Panics
@@ -1272,8 +1272,7 @@ The case is especially memorable because it illustrates a modern form of contagi
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eWt8HdsbDIA" title="The Portuguese Inquisition | Full History | Human Voiced, No Ads" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eWt8HdsbDIA" target="_blank" rel="noopener noreferrer">The Portuguese Inquisition | Full History | Human Voiced, No Ads</a></p><p class="youtube-embed-meta">Channel: ASMR Historian</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eWt8HdsbDIA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eWt8HdsbDIA">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## The recurring pressures behind Portugal
 Portugal’s witch prosecutions, Sebastianism, Fátima and the school outbreak were fundamentally different events. Nevertheless, each reveals how beliefs spread more easily when several conditions coincide.
 
 **An unresolved shock created room for interpretation.** The disappearance of Sebastian left no emotionally satisfying ending. Wartime suffering and political conflict framed Fátima. Unexplained symptoms in schools created immediate fear. In Lisbon, alarming confessions appeared to reveal an invisible criminal conspiracy.

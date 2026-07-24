@@ -210,12 +210,12 @@ hero_summary: Qatar has no well-documented national equivalent of the Salem witc
 layout: default
 permalink: /when-fear-and-rumour-gripped-qatar/
 nav_short_title: When Fear and Rumour Gripped Qatar
-title: When Fear and Rumour Gripped Qatar
+title: "Inside Qatar's History of Public Fear"
 title_full: When Fear and Rumour Gripped Qatar
 display_title_short: When Fear and Rumour Gripped Qatar
-display_title: When Fear and Rumour Gripped Qatar
+display_title: "Inside Qatar's History of Public Fear"
 heading_title: When Fear and Rumour Gripped Qatar
-page_heading_title: When Fear and Rumour Gripped Qatar
+page_heading_title: "Inside Qatar's History of Public Fear"
 source_count: 108
 infographic_count: 3
 page_website_name: Qatar Panics

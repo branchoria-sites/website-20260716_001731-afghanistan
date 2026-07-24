@@ -331,8 +331,7 @@ Modern historians do not regard Montenegro as a centre of large-scale witch hunt
 
 The episode also challenges a common assumption that religious authorities always encouraged witch persecutions. In Montenegro, the country's leading Orthodox ruler publicly argued that belief in witches lacked credibility and conflicted with Christian doctrine. His position anticipated a more sceptical approach to supernatural accusations and offered official protection to people who might otherwise have become victims of community suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zduha%C4%87" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-## Why the episode remains important
-
+## The wider legacy of Witch Fears
 The story of witch accusations and Petar I's intervention illustrates how collective fear can arise from ordinary hardship rather than extraordinary events. Illness, death and uncertainty encouraged communities to seek human explanations for misfortune, placing vulnerable individuals at risk.
 
 Equally important, it shows that moral panics are not inevitable. In Montenegro's case, political and religious authority could interrupt the spread of rumour by insisting on evidence, rejecting superstition and reminding communities that persecution itself caused real harm. Within Montenegro's broader history of collective belief, this episode stands as an example of leadership used to calm fear rather than inflame it.

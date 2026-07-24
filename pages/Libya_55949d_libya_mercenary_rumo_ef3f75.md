@@ -346,8 +346,7 @@ Finally, the collapse of central authority meant that few institutions were able
 
 <img src="{{ "/assets/images/Libya_55949d_libya_mercenary_rumo_ef3f75-Illustration-3-dark.svg" | relative_url }}" alt="Mercenary Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Libya_55949d_libya_mercenary_rumo_ef3f75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Libya_55949d_libya_mercenary_rumo_ef3f75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why this episode remains important
-
+## What Mercenary Rumours reveals about public fear
 The mercenary rumours illustrate how wartime fear can transform a limited truth into a widespread moral panic with severe humanitarian consequences. The episode is not evidence that Libyans as a whole succumbed to irrationality. Rather, it demonstrates how conflict, uncertainty, propaganda and pre-existing prejudice can reinforce one another until ordinary people become viewed primarily through the lens of suspicion.
 
 For historians and scholars of collective belief, Libya provides a cautionary example of how rumours can shape real behaviour even when the underlying evidence is incomplete or distorted. The distinction between actual foreign combatants and innocent migrants became blurred, and once that happened, race itself became treated as evidence.

@@ -332,8 +332,7 @@ Several factors reinforced one another.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QEEdfIFvfn4" title="Satanic Panic: War On Heavy Metal in 1980&#x27;s | Ft Metallica &amp; Judas Priest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QEEdfIFvfn4" target="_blank" rel="noopener noreferrer">Satanic Panic: War On Heavy Metal in 1980&#x27;s | Ft Metallica &amp; Judas Priest</a></p><p class="youtube-embed-meta">Channel: 43Kouta</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QEEdfIFvfn4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QEEdfIFvfn4">Open on YouTube</a></p></div></div></div>
 
-## Lasting significance
-
+## The longer legacy of Metal Scare
 The heavy metal scare remains an important episode in Lebanon's cultural history because it illustrates how a marginal youth culture became the focus of wider fears about religion, morality and national identity.
 
 The panic also left a lasting mark on Lebanon's music community. Older musicians frequently recall the period as one in which artistic expression carried genuine legal and social risks, while younger generations remember it as a cautionary example of how rumours and sensational media narratives can stigmatise minority subcultures.

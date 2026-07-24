@@ -1302,8 +1302,7 @@ The digital environment nevertheless reproduced older patterns. Hidden enemies w
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8FZRE9O8ic0" title="&quot;I got what I deserved&quot;: Czech Communist Leader Slánský &amp; His End" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8FZRE9O8ic0" target="_blank" rel="noopener noreferrer">&quot;I got what I deserved&quot;: Czech Communist Leader Slánský &amp; His End</a></p><p class="youtube-embed-meta">Channel: World History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8FZRE9O8ic0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8FZRE9O8ic0">Open on YouTube</a></p></div></div></div>
 
-## What these episodes have in common
-
+## Patterns linking the events in Czechia
 The Czech cases differ too much to fit one diagnosis. [Witch trials]({{ 'witch-trials-f8c694/' | relative_url }}) were judicial persecution. The Hilsner affair was an antisemitic moral and legal panic. Communist show trials were manufactured state conspiracies. The Číhošť case involved an unresolved reported phenomenon exploited by a repressive government. Post-1989 “sect” scares mixed legitimate safeguarding concerns with prejudice towards unfamiliar religions. COVID conspiracies grew around a real emergency but often weakened trust in evidence-based responses.
 
 Several recurring mechanisms are nevertheless visible.

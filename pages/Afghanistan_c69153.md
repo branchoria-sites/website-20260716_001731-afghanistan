@@ -210,12 +210,12 @@ hero_summary: Afghanistan’s history contains no well-documented equivalent of 
 layout: default
 permalink: /when-fear-became-fact-in-afghanistan/
 nav_short_title: When Fear Became Fact in Afghanistan
-title: When Fear Became Fact in Afghanistan
+title: "Afghanistan: Panics, Beliefs and Mass Movements"
 title_full: When Fear Became Fact in Afghanistan
 display_title_short: When Fear Became Fact in Afghanistan
-display_title: When Fear Became Fact in Afghanistan
+display_title: "Afghanistan: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Became Fact in Afghanistan
-page_heading_title: When Fear Became Fact in Afghanistan
+page_heading_title: "Afghanistan: Panics, Beliefs and Mass Movements"
 source_count: 106
 infographic_count: 3
 page_website_name: Afghanistan Panics

@@ -210,12 +210,12 @@ hero_summary: Iceland’s history contains no well-documented dance plague, nati
 layout: default
 permalink: /when-fear-became-fact-in-iceland/
 nav_short_title: When Fear Became Fact in Iceland
-title: When Fear Became Fact in Iceland
+title: "How Fear and Belief Shaped Iceland"
 title_full: When Fear Became Fact in Iceland
 display_title_short: When Fear Became Fact in Iceland
-display_title: When Fear Became Fact in Iceland
+display_title: "How Fear and Belief Shaped Iceland"
 heading_title: When Fear Became Fact in Iceland
-page_heading_title: When Fear Became Fact in Iceland
+page_heading_title: "How Fear and Belief Shaped Iceland"
 source_count: 109
 infographic_count: 3
 page_website_name: Iceland Panics

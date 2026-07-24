@@ -210,12 +210,12 @@ hero_summary: South Africa’s history of collective belief and fear does not fi
 layout: default
 permalink: /when-fear-and-prophecy-shaped-south/
 nav_short_title: When Fear and Prophecy Shaped South Africa
-title: When Fear and Prophecy Shaped South Africa
+title: "Tracing Collective Fear and Contagious Belief in South Africa"
 title_full: When Fear and Prophecy Shaped South Africa
 display_title_short: When Fear and Prophecy Shaped South Africa
-display_title: When Fear and Prophecy Shaped South Africa
+display_title: "Tracing Collective Fear and Contagious Belief in South Africa"
 heading_title: When Fear and Prophecy Shaped South Africa
-page_heading_title: When Fear and Prophecy Shaped South Africa
+page_heading_title: "Tracing Collective Fear and Contagious Belief in South Africa"
 source_count: 158
 infographic_count: 3
 page_website_name: South Africa

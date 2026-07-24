@@ -210,12 +210,12 @@ hero_summary: Sierra Leone’s history offers no single famous “mass hysteria�
 layout: default
 permalink: /when-fear-and-belief-reshaped-sierra/
 nav_short_title: When Fear and Belief Reshaped Sierra Leone
-title: When Fear and Belief Reshaped Sierra Leone
+title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 title_full: When Fear and Belief Reshaped Sierra Leone
 display_title_short: When Fear and Belief Reshaped Sierra Leone
-display_title: When Fear and Belief Reshaped Sierra Leone
+display_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 heading_title: When Fear and Belief Reshaped Sierra Leone
-page_heading_title: When Fear and Belief Reshaped Sierra Leone
+page_heading_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 source_count: 95
 infographic_count: 3
 page_website_name: Sierra Leone Beliefs

@@ -210,12 +210,12 @@ hero_summary: Tajikistan has no well-documented equivalent of the Salem witch tr
 layout: default
 permalink: /when-fear-became-policy-in-tajikistan/
 nav_short_title: When Fear Became Policy in Tajikistan
-title: When Fear Became Policy in Tajikistan
+title: "Rumour, Belief and Collective Panic in Tajikistan"
 title_full: When Fear Became Policy in Tajikistan
 display_title_short: When Fear Became Policy in Tajikistan
-display_title: When Fear Became Policy in Tajikistan
+display_title: "Rumour, Belief and Collective Panic in Tajikistan"
 heading_title: When Fear Became Policy in Tajikistan
-page_heading_title: When Fear Became Policy in Tajikistan
+page_heading_title: "Rumour, Belief and Collective Panic in Tajikistan"
 source_count: 135
 infographic_count: 3
 page_website_name: Tajikistan

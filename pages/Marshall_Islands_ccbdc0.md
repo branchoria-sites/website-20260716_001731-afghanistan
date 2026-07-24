@@ -210,12 +210,12 @@ hero_summary: The Marshall Islands has no well-documented equivalent of the Sale
 layout: default
 permalink: /when-fear-in-the-marshall-islands-was/
 nav_short_title: When Fear in the Marshall Islands Was Rational
-title: When Fear in the Marshall Islands Was Rational
+title: "Marshall Islands' History of Collective Fear and Belief"
 title_full: When Fear in the Marshall Islands Was Rational
 display_title_short: When Fear in the Marshall Islands Was Rational
-display_title: When Fear in the Marshall Islands Was Rational
+display_title: "Marshall Islands' History of Collective Fear and Belief"
 heading_title: When Fear in the Marshall Islands Was Rational
-page_heading_title: When Fear in the Marshall Islands Was Rational
+page_heading_title: "Marshall Islands' History of Collective Fear and Belief"
 source_count: 121
 infographic_count: 3
 page_website_name: Marshall Islands

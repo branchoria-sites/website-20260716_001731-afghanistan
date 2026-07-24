@@ -1342,8 +1342,7 @@ Argentina’s Public Defender’s Office has increasingly discussed coercive org
 
 <img src="{{ "/assets/images/Argentina_354bf9-Illustration-3-dark.svg" | relative_url }}" alt="Argentina illustration 3" data-theme-src-dark="{{ "/assets/images/Argentina_354bf9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Argentina_354bf9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes have in common
-
+## What connects the episodes around Argentina
 Argentina’s apparition movements, UFO traditions, satanic scares and coercive-group investigations are not one phenomenon. Their shared feature is the social management of uncertainty.
 
 **A memorable story arrives before complete evidence.** A mutilated animal, a visionary’s message or an anonymous Facebook invitation offers an immediate narrative while investigation moves slowly.

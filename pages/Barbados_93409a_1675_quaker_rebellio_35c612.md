@@ -327,8 +327,7 @@ At the same time, the authorities' fears were not entirely invented. Barbados wa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IpgD2ehtMmM" title="How Barbados became the first slave society | History - Britain&#x27;s Forgotten Slave Owners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IpgD2ehtMmM" target="_blank" rel="noopener noreferrer">How Barbados became the first slave society | History - Britain&#x27;s Forgotten Slave Owners</a></p><p class="youtube-embed-meta">Channel: BBC Bitesize for Teachers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IpgD2ehtMmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IpgD2ehtMmM">Open on YouTube</a></p></div></div></div>
 
-## Why the episode remains important
-
+## What Quaker Scare reveals about public fear
 The 1675 rebellion scare shows how religious practice could become entangled with political fear in a plantation colony. Quaker meetings were not condemned primarily for their theology but because they blurred social boundaries that slaveholders believed essential to maintaining control.
 
 The episode also highlights a wider pattern in Barbadian history. During moments of perceived crisis, authorities often expanded suspicion beyond identifiable acts of resistance to encompass religious belief, communal gathering and cultural practices associated with marginalised groups. Later campaigns against Obeah would follow a similar logic, treating belief systems as threats to public order rather than simply matters of religion.

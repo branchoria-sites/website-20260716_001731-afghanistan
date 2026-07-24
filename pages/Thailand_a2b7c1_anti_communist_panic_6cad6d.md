@@ -330,8 +330,7 @@ Survivors, historians and archivists have therefore played a major role in prese
 
 Today the massacre remains one of the defining episodes through which many Thais debate state violence, freedom of expression, historical memory and the dangers of political dehumanisation.
 
-## Why the episode remains important
-
+## What 1976 Panic reveals about public fear
 The Thammasat massacre demonstrates that political moral panics need not depend on irrational crowds acting independently. They can emerge through sustained interaction between media, organised movements, official institutions and genuine public anxieties.
 
 For Thailand, the lesson extends beyond the Cold War. The episode shows how fear can narrow the boundary between legitimate political disagreement and imagined national betrayal. When opponents are consistently portrayed as existential enemies rather than fellow citizens, extraordinary violence becomes easier to justify, accountability becomes more difficult to secure, and the struggle over historical memory can continue for generations.

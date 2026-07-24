@@ -210,12 +210,12 @@ hero_summary: Sri Lanka’s clearest episodes of collective fear are not classic
 layout: default
 permalink: /when-fear-swept-through-sri-lanka/
 nav_short_title: When Fear Swept Through Sri Lanka
-title: When Fear Swept Through Sri Lanka
+title: "How Fear and Belief Shaped Sri Lanka"
 title_full: When Fear Swept Through Sri Lanka
 display_title_short: When Fear Swept Through Sri Lanka
-display_title: When Fear Swept Through Sri Lanka
+display_title: "How Fear and Belief Shaped Sri Lanka"
 heading_title: When Fear Swept Through Sri Lanka
-page_heading_title: When Fear Swept Through Sri Lanka
+page_heading_title: "How Fear and Belief Shaped Sri Lanka"
 source_count: 105
 infographic_count: 3
 page_website_name: Sri Lanka Panics

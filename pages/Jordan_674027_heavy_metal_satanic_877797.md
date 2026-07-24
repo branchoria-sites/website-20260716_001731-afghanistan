@@ -314,8 +314,7 @@ The panic also followed the classic dynamics identified by scholars of moral pan
 
 <img src="{{ "/assets/images/Jordan_674027_heavy_metal_satanic_877797-Illustration-3-dark.svg" | relative_url }}" alt="Metal Panic illustration 3" data-theme-src-dark="{{ "/assets/images/Jordan_674027_heavy_metal_satanic_877797-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jordan_674027_heavy_metal_satanic_877797-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the episode still matters
-
+## Metal Panic: fear, rumour and collective belief
 Jordan's heavy metal scare is significant not because it uncovered a hidden Satanist movement, but because it illustrates how collective fears can reshape everyday cultural life.
 
 The episode restricted opportunities for musicians, discouraged venues from hosting performances and reinforced stereotypes about young people whose appearance or musical tastes differed from social expectations. Later incidents in Jordan, including accusations of "devil worship" against university students more than a decade later, showed how similar labels could still mobilise public hostility even when evidence remained weak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hrw.org/news/2013/03/26/jordan-students-accused-devil-worship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hrw.org">[Human Rights Watch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hrw.org</span><span class="citation-popover-snippet">Open source on hrw.org.</span></span></span>

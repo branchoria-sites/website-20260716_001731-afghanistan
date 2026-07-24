@@ -335,8 +335,7 @@ Police investigations in several cases concluded that Facebook accounts had been
 
 Nevertheless, experience has shown that technical solutions alone are insufficient. False accusations continue to be dangerous because they resonate with wider political and communal divisions. Even when later investigations expose fabricated evidence, the physical destruction and displacement caused by mob attacks cannot easily be undone.
 
-## Why these episodes matter
-
+## Online Rumours: fear, rumour and collective belief
 The history of online blasphemy rumours in Bangladesh illustrates how modern communication technologies can revive very old patterns of collective fear. Instead of rumours spreading only by word of mouth, edited images and fake social-media posts now provide apparently concrete "proof" that can travel nationwide within hours.
 
 For historians of moral panics and collective belief, these incidents demonstrate that the central problem was not mass deception by technology itself, but the rapid conversion of an unverified accusation into collective certainty. The online rumour supplied the spark; existing social tensions, religious polarisation and crowd dynamics supplied the fuel. The result was a recurring pattern in which vulnerable minority communities paid the price for allegations that were often shown, too late, to have been false or manipulated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9999606/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">February 24, 2023...</span><span class="citation-popover-meta">Published: February 24, 2023</span></span></span>

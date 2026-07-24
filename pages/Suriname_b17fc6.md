@@ -210,12 +210,12 @@ hero_summary: Suriname’s history of collective fear and contagious belief is n
 layout: default
 permalink: /suriname/
 nav_short_title: When Fear and Spiritual Authority Shaped Suriname
-title: When Fear and Spiritual Authority Shaped Suriname
+title: "How Panic, Rumour and Belief Took Hold in Suriname"
 title_full: When Fear and Spiritual Authority Shaped Suriname
 display_title_short: When Fear and Spiritual Authority Shaped Suriname
-display_title: When Fear and Spiritual Authority Shaped Suriname
+display_title: "How Panic, Rumour and Belief Took Hold in Suriname"
 heading_title: When Fear and Spiritual Authority Shaped Suriname
-page_heading_title: When Fear and Spiritual Authority Shaped Suriname
+page_heading_title: "How Panic, Rumour and Belief Took Hold in Suriname"
 source_count: 117
 infographic_count: 3
 page_website_name: Suriname
@@ -1278,8 +1278,7 @@ Suriname’s most important lesson for the social history of panic is therefore 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A0YRTRezSeM" title="Millions Saw This Miracle—Why Do Christians Ignore It?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A0YRTRezSeM" target="_blank" rel="noopener noreferrer">Millions Saw This Miracle—Why Do Christians Ignore It?</a></p><p class="youtube-embed-meta">Channel: Capturing Christianity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A0YRTRezSeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A0YRTRezSeM">Open on YouTube</a></p></div></div></div>
 
-## Why this history still matters
-
+## How Suriname entered public memory
 These episodes remain culturally important because disputes about spiritual belief are also disputes about whose knowledge counts. Colonial descriptions portrayed European Christianity and administration as rational while defining African-derived religion as dangerous superstition. Modern scholarship has challenged that hierarchy, showing how healing, ancestry, politics and justice were interwoven in Surinamese life. The Sacred Arts of the Black Atlantic+2Miami Scholarship<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacredart.caaar.duke.edu/religions/surinamese-and-dutch-winti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacredart.caaar.duke.edu">[sacredart.caaar.duke.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacredart.caaar.duke.edu</span><span class="citation-popover-snippet">The Sacred Arts of the Black AtlanticSurinamese and Dutch WintiPracticing Winti was officially banned in an 1874 law, and the ban was not...</span></span></span>
 
 The history also warns against two opposite errors. One is to dismiss sincere religious experience as collective delusion. The other is to excuse accusation, coercion or violence merely because they occur within a recognised cultural system. A humane account must respect religious freedom while asking what happened to the accused, what evidence was accepted, who benefited from a verdict and whether people had any realistic means of defence.

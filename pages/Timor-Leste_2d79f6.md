@@ -210,12 +210,12 @@ hero_summary: Timor-Leste has no well-documented equivalent of the Salem trials,
 layout: default
 permalink: /timor-leste/
 nav_short_title: When Fear Became a Public Threat
-title: When Fear Became a Public Threat
+title: "Timor Leste: Panics, Beliefs and Mass Movements"
 title_full: When Fear Became a Public Threat
 display_title_short: When Fear Became a Public Threat
-display_title: When Fear Became a Public Threat
+display_title: "Timor Leste: Panics, Beliefs and Mass Movements"
 heading_title: When Fear Became a Public Threat
-page_heading_title: When Fear Became a Public Threat
+page_heading_title: "Timor Leste: Panics, Beliefs and Mass Movements"
 source_count: 124
 infographic_count: 3
 page_website_name: Timor Leste
@@ -1276,8 +1276,7 @@ Community mediation also has a legitimate role, provided it protects the accused
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YhDbHfVwr0g" title="Unsilenced Timor Leste: Stories of survival, hope and Activism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YhDbHfVwr0g" target="_blank" rel="noopener noreferrer">Unsilenced Timor Leste: Stories of survival, hope and Activism</a></p><p class="youtube-embed-meta">Channel: UN Women Asia and the Pacific</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YhDbHfVwr0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YhDbHfVwr0g">Open on YouTube</a></p></div></div></div>
 
-## Why this history still matters
-
+## Timor-Leste: fear, rumour and collective belief
 Timor-Leste’s cases show why collective fear should be studied without ridicule. Stories of witches or ninjas can sound extraordinary from a distance, but the resulting injuries, displacement and deaths were real. The beliefs spread because they supplied explanations in moments when medicine, law or government appeared unable to do so.
 
 They also reveal the danger of hostile labelling. Calling someone a witch can turn a neighbour into a legitimate target. Calling diverse youth or martial-arts networks “ninjas” can transform a complicated security problem into a hunt for an invisible enemy. In both situations, the label simplifies uncertainty, identifies a culprit and makes exceptional action seem reasonable.

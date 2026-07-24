@@ -210,12 +210,12 @@ hero_summary: Indonesia’s history of collective fear and contagious belief is 
 layout: default
 permalink: /when-fear-and-belief-swept-indonesia/
 nav_short_title: When Fear and Belief Swept Indonesia
-title: When Fear and Belief Swept Indonesia
+title: "Rumour, Belief and Collective Panic in Indonesia"
 title_full: When Fear and Belief Swept Indonesia
 display_title_short: When Fear and Belief Swept Indonesia
-display_title: When Fear and Belief Swept Indonesia
+display_title: "Rumour, Belief and Collective Panic in Indonesia"
 heading_title: When Fear and Belief Swept Indonesia
-page_heading_title: When Fear and Belief Swept Indonesia
+page_heading_title: "Rumour, Belief and Collective Panic in Indonesia"
 source_count: 93
 infographic_count: 3
 page_website_name: Indonesia Panics

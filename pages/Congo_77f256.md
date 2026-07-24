@@ -1294,8 +1294,7 @@ The practical lesson was that correcting false claims was not enough. Effective 
 
 <img src="{{ "/assets/images/Congo_77f256-Illustration-3-dark.svg" | relative_url }}" alt="When Belief Became a Threat in Congo illustration 3" data-theme-src-dark="{{ "/assets/images/Congo_77f256-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Congo_77f256-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What these episodes have in common
-
+## The recurring pressures behind Congo
 Congo’s cult and panic history is not a parade of inexplicable crazes. The strongest cases share social mechanisms that are recognisable far beyond Central Africa.
 
 **Uncertainty creates demand for an explanation.** Illness, death, unemployment or military defeat can feel intolerably random. A witch, hidden sorcerer, corrupt responder or prophetic leader supplies a cause and suggests a course of action.
