@@ -209,12 +209,12 @@ description: Botswana’s history of collective fear is not dominated by one not
 hero_summary: 'Botswana’s history of collective fear is not dominated by one notorious sect or a single nationwide “witch craze”. Its clearest documented episodes fall into two overlapping patterns: public alarm over alleged ritual murder and outbreaks of unexplained illness among schoolchildren.'
 layout: default
 permalink: /when-fear-gripped-botswanas-schools-and/
-nav_short_title: When Fear Gripped Botswana's Schools and Streets
+nav_short_title: "Botswana's History of Collective Fear and Belief"
 title: "Botswana's History of Collective Fear and Belief"
-title_full: When Fear Gripped Botswana's Schools and Streets
-display_title_short: When Fear Gripped Botswana's Schools and Streets
+title_full: "Botswana's History of Collective Fear and Belief"
+display_title_short: "Botswana's History of Collective Fear and Belief"
 display_title: "Botswana's History of Collective Fear and Belief"
-heading_title: When Fear Gripped Botswana's Schools and Streets
+heading_title: "Botswana's History of Collective Fear and Belief"
 page_heading_title: "Botswana's History of Collective Fear and Belief"
 source_count: 88
 infographic_count: 3

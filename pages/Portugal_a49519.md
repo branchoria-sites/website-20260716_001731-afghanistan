@@ -209,12 +209,12 @@ description: Portugal’s history of contagious belief is not dominated by one v
 hero_summary: Portugal’s history of contagious belief is not dominated by one vast national “hysteria”.
 layout: default
 permalink: /when-fear-and-faith-swept-portugal/
-nav_short_title: When Fear and Faith Swept Portugal
+nav_short_title: "Inside Portugal's History of Public Fear"
 title: "Inside Portugal's History of Public Fear"
-title_full: When Fear and Faith Swept Portugal
-display_title_short: When Fear and Faith Swept Portugal
+title_full: "Inside Portugal's History of Public Fear"
+display_title_short: "Inside Portugal's History of Public Fear"
 display_title: "Inside Portugal's History of Public Fear"
-heading_title: When Fear and Faith Swept Portugal
+heading_title: "Inside Portugal's History of Public Fear"
 page_heading_title: "Inside Portugal's History of Public Fear"
 source_count: 113
 infographic_count: 3

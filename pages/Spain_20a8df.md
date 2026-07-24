@@ -209,12 +209,12 @@ description: Spains history of collective fear and contagious belief is not one 
 hero_summary: Spains history of collective fear and contagious belief is not one continuous story of national mass hysteria.
 layout: default
 permalink: /when-fear-and-faith-swept-through-spain/
-nav_short_title: When Fear and Faith Swept Through Spain
+nav_short_title: "Rumour, Belief and Collective Panic in Spain"
 title: "Rumour, Belief and Collective Panic in Spain"
-title_full: When Fear and Faith Swept Through Spain
-display_title_short: When Fear and Faith Swept Through Spain
+title_full: "Rumour, Belief and Collective Panic in Spain"
+display_title_short: "Rumour, Belief and Collective Panic in Spain"
 display_title: "Rumour, Belief and Collective Panic in Spain"
-heading_title: When Fear and Faith Swept Through Spain
+heading_title: "Rumour, Belief and Collective Panic in Spain"
 page_heading_title: "Rumour, Belief and Collective Panic in Spain"
 source_count: 137
 infographic_count: 2

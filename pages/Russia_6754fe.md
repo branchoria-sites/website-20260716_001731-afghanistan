@@ -209,12 +209,12 @@ description: Russia’s history of collective fear and contagious belief is not 
 hero_summary: Russia’s history of collective fear and contagious belief is not one continuous story of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-swept-across-russia/
-nav_short_title: When Fear and Belief Swept Across Russia
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Russia"
 title: "How Panic, Rumour and Belief Took Hold in Russia"
-title_full: When Fear and Belief Swept Across Russia
-display_title_short: When Fear and Belief Swept Across Russia
+title_full: "How Panic, Rumour and Belief Took Hold in Russia"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Russia"
 display_title: "How Panic, Rumour and Belief Took Hold in Russia"
-heading_title: When Fear and Belief Swept Across Russia
+heading_title: "How Panic, Rumour and Belief Took Hold in Russia"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Russia"
 source_count: 129
 infographic_count: 3

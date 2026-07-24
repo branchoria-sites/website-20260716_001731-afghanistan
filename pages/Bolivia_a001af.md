@@ -209,12 +209,12 @@ description: Bolivia’s history does not contain one famous, neatly bounded epi
 hero_summary: Bolivia’s history does not contain one famous, neatly bounded episode of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-took-hold-in/
-nav_short_title: When Fear and Belief Took Hold in Bolivia
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Bolivia"
 title: "How Panic, Rumour and Belief Took Hold in Bolivia"
-title_full: When Fear and Belief Took Hold in Bolivia
-display_title_short: When Fear and Belief Took Hold in Bolivia
+title_full: "How Panic, Rumour and Belief Took Hold in Bolivia"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Bolivia"
 display_title: "How Panic, Rumour and Belief Took Hold in Bolivia"
-heading_title: When Fear and Belief Took Hold in Bolivia
+heading_title: "How Panic, Rumour and Belief Took Hold in Bolivia"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Bolivia"
 source_count: 126
 infographic_count: 3

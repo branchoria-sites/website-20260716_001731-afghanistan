@@ -209,12 +209,12 @@ description: Tanzania’s history of contagious belief is not one story but seve
 hero_summary: Tanzania’s history of contagious belief is not one story but several different kinds of event. The best-known is the 1962 Tanganyika “laughter epidemic”, in which waves of laughing, crying, agitation and physical distress moved through schools and villages near Lake Victoria.
 layout: default
 permalink: /when-fear-and-belief-spread-across-e94e79/
-nav_short_title: When Fear and Belief Spread Across Tanzania
+nav_short_title: "How Fear and Belief Shaped Tanzania"
 title: "How Fear and Belief Shaped Tanzania"
-title_full: When Fear and Belief Spread Across Tanzania
-display_title_short: When Fear and Belief Spread Across Tanzania
+title_full: "How Fear and Belief Shaped Tanzania"
+display_title_short: "How Fear and Belief Shaped Tanzania"
 display_title: "How Fear and Belief Shaped Tanzania"
-heading_title: When Fear and Belief Spread Across Tanzania
+heading_title: "How Fear and Belief Shaped Tanzania"
 page_heading_title: "How Fear and Belief Shaped Tanzania"
 source_count: 96
 infographic_count: 3

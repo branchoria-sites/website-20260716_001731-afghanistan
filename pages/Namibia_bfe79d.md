@@ -209,12 +209,12 @@ description: Namibia’s history offers no single famous “mass hysteria” com
 hero_summary: Namibia’s history offers no single famous “mass hysteria” comparable with the Salem trials or the Tanganyika laughter epidemic.
 layout: default
 permalink: /when-fear-spreads-through-namibia/
-nav_short_title: When Fear Spreads Through Namibia
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Namibia"
 title: "Tracing Collective Fear and Contagious Belief in Namibia"
-title_full: When Fear Spreads Through Namibia
-display_title_short: When Fear Spreads Through Namibia
+title_full: "Tracing Collective Fear and Contagious Belief in Namibia"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Namibia"
 display_title: "Tracing Collective Fear and Contagious Belief in Namibia"
-heading_title: When Fear Spreads Through Namibia
+heading_title: "Tracing Collective Fear and Contagious Belief in Namibia"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Namibia"
 source_count: 88
 infographic_count: 3

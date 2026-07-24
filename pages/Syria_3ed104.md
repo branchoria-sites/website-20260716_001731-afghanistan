@@ -209,12 +209,12 @@ description: Syria’s history does not offer a neat catalogue of classic Europe
 hero_summary: Syria’s history does not offer a neat catalogue of classic European-style witch trials or well-documented outbreaks of “mass hysteria”.
 layout: default
 permalink: /syria/
-nav_short_title: When Fear Turned Stories Into Threats
+nav_short_title: "Syria's History of Collective Fear and Belief"
 title: "Syria's History of Collective Fear and Belief"
-title_full: When Fear Turned Stories Into Threats
-display_title_short: When Fear Turned Stories Into Threats
+title_full: "Syria's History of Collective Fear and Belief"
+display_title_short: "Syria's History of Collective Fear and Belief"
 display_title: "Syria's History of Collective Fear and Belief"
-heading_title: When Fear Turned Stories Into Threats
+heading_title: "Syria's History of Collective Fear and Belief"
 page_heading_title: "Syria's History of Collective Fear and Belief"
 source_count: 106
 infographic_count: 3

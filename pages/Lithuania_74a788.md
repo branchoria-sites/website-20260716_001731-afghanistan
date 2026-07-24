@@ -209,12 +209,12 @@ description: Lithuania’s history contains witchcraft prosecutions, disputed vi
 hero_summary: Lithuania’s history contains witchcraft prosecutions, disputed visions, miracle traditions, fears about “sects” and Satanism, and repeated attempts by governments or religious authorities to control collective belief.
 layout: default
 permalink: /when-fear-and-faith-shaped-lithuania/
-nav_short_title: When Fear and Faith Shaped Lithuania
+nav_short_title: "Collective Fear, Belief and Panic in Lithuania"
 title: "Collective Fear, Belief and Panic in Lithuania"
-title_full: When Fear and Faith Shaped Lithuania
-display_title_short: When Fear and Faith Shaped Lithuania
+title_full: "Collective Fear, Belief and Panic in Lithuania"
+display_title_short: "Collective Fear, Belief and Panic in Lithuania"
 display_title: "Collective Fear, Belief and Panic in Lithuania"
-heading_title: When Fear and Faith Shaped Lithuania
+heading_title: "Collective Fear, Belief and Panic in Lithuania"
 page_heading_title: "Collective Fear, Belief and Panic in Lithuania"
 source_count: 127
 infographic_count: 3

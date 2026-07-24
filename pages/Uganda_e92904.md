@@ -209,12 +209,12 @@ description: Uganda’s history of collective fear and extraordinary belief is n
 hero_summary: Uganda’s history of collective fear and extraordinary belief is not one single story of “mass hysteria”. It includes apocalyptic Christian movements, spirit-led rebellions, outbreaks of unexplained behaviour in schools, accusations of witchcraft and ritual murder, and public scares magnified by churches, politicians and the media.
 layout: default
 permalink: /when-fear-and-belief-reshaped-uganda/
-nav_short_title: When Fear and Belief Reshaped Uganda
+nav_short_title: "How Fear and Belief Shaped Uganda"
 title: "How Fear and Belief Shaped Uganda"
-title_full: When Fear and Belief Reshaped Uganda
-display_title_short: When Fear and Belief Reshaped Uganda
+title_full: "How Fear and Belief Shaped Uganda"
+display_title_short: "How Fear and Belief Shaped Uganda"
 display_title: "How Fear and Belief Shaped Uganda"
-heading_title: When Fear and Belief Reshaped Uganda
+heading_title: "How Fear and Belief Shaped Uganda"
 page_heading_title: "How Fear and Belief Shaped Uganda"
 source_count: 128
 infographic_count: 3

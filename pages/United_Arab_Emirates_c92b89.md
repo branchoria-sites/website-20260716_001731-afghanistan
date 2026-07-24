@@ -209,12 +209,12 @@ description: The United Arab Emirates has no well-documented equivalent of the S
 hero_summary: The United Arab Emirates has no well-documented equivalent of the Salem witch trials, a nationwide satanic panic or a large home-grown apocalyptic sect.
 layout: default
 permalink: /united-arab-emirates/
-nav_short_title: When Fear Spread Across the United Arab Emirates
+nav_short_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-title_full: When Fear Spread Across the United Arab Emirates
-display_title_short: When Fear Spread Across the United Arab Emirates
+title_full: "United Arab Emirates: Panics, Beliefs and Mass Movements"
+display_title_short: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 display_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Spread Across the United Arab Emirates
+heading_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 page_heading_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
 source_count: 92
 infographic_count: 3

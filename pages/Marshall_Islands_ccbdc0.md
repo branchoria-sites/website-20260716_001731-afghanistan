@@ -209,12 +209,12 @@ description: The Marshall Islands has no well-documented equivalent of the Salem
 hero_summary: The Marshall Islands has no well-documented equivalent of the Salem witch trials, a European dancing plague or a large modern outbreak of mass psychogenic illness.
 layout: default
 permalink: /when-fear-in-the-marshall-islands-was/
-nav_short_title: When Fear in the Marshall Islands Was Rational
+nav_short_title: "Marshall Islands' History of Collective Fear and Belief"
 title: "Marshall Islands' History of Collective Fear and Belief"
-title_full: When Fear in the Marshall Islands Was Rational
-display_title_short: When Fear in the Marshall Islands Was Rational
+title_full: "Marshall Islands' History of Collective Fear and Belief"
+display_title_short: "Marshall Islands' History of Collective Fear and Belief"
 display_title: "Marshall Islands' History of Collective Fear and Belief"
-heading_title: When Fear in the Marshall Islands Was Rational
+heading_title: "Marshall Islands' History of Collective Fear and Belief"
 page_heading_title: "Marshall Islands' History of Collective Fear and Belief"
 source_count: 121
 infographic_count: 3

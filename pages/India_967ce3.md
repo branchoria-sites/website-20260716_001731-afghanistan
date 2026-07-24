@@ -209,12 +209,12 @@ description: India’s history of collective fear and contagious belief is not o
 hero_summary: India’s history of collective fear and contagious belief is not one story but several different kinds of event that are often misleadingly grouped together as “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-swept-across-india/
-nav_short_title: When Fear and Belief Swept Across India
+nav_short_title: "Rumour, Belief and Collective Panic in India"
 title: "Rumour, Belief and Collective Panic in India"
-title_full: When Fear and Belief Swept Across India
-display_title_short: When Fear and Belief Swept Across India
+title_full: "Rumour, Belief and Collective Panic in India"
+display_title_short: "Rumour, Belief and Collective Panic in India"
 display_title: "Rumour, Belief and Collective Panic in India"
-heading_title: When Fear and Belief Swept Across India
+heading_title: "Rumour, Belief and Collective Panic in India"
 page_heading_title: "Rumour, Belief and Collective Panic in India"
 source_count: 86
 infographic_count: 3

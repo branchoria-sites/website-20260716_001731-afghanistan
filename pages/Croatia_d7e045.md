@@ -209,12 +209,12 @@ description: Croatia’s history of collective fear is not dominated by one famo
 hero_summary: Croatia’s history of collective fear is not dominated by one famous outbreak of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-shaped-croatia/
-nav_short_title: When Fear and Belief Shaped Croatia
+nav_short_title: "Collective Fear, Belief and Panic in Croatia"
 title: "Collective Fear, Belief and Panic in Croatia"
-title_full: When Fear and Belief Shaped Croatia
-display_title_short: When Fear and Belief Shaped Croatia
+title_full: "Collective Fear, Belief and Panic in Croatia"
+display_title_short: "Collective Fear, Belief and Panic in Croatia"
 display_title: "Collective Fear, Belief and Panic in Croatia"
-heading_title: When Fear and Belief Shaped Croatia
+heading_title: "Collective Fear, Belief and Panic in Croatia"
 page_heading_title: "Collective Fear, Belief and Panic in Croatia"
 source_count: 122
 infographic_count: 3

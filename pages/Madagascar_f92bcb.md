@@ -209,12 +209,12 @@ description: Madagascar’s history of collective fear is not dominated by one n
 hero_summary: Madagascar’s history of collective fear is not dominated by one neat “mass hysteria” episode.
 layout: default
 permalink: /when-fear-and-belief-reshaped-madagascar/
-nav_short_title: When Fear and Belief Reshaped Madagascar
+nav_short_title: "Inside Madagascar's History of Public Fear"
 title: "Inside Madagascar's History of Public Fear"
-title_full: When Fear and Belief Reshaped Madagascar
-display_title_short: When Fear and Belief Reshaped Madagascar
+title_full: "Inside Madagascar's History of Public Fear"
+display_title_short: "Inside Madagascar's History of Public Fear"
 display_title: "Inside Madagascar's History of Public Fear"
-heading_title: When Fear and Belief Reshaped Madagascar
+heading_title: "Inside Madagascar's History of Public Fear"
 page_heading_title: "Inside Madagascar's History of Public Fear"
 source_count: 138
 infographic_count: 3

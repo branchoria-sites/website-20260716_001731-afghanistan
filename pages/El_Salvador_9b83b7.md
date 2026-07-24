@@ -209,12 +209,12 @@ description: El Salvador does not have a well-documented national history of spe
 hero_summary: El Salvador does not have a well-documented national history of spectacular “mass hysteria” outbreaks comparable to famous dancing plagues or large school fainting epidemics.
 layout: default
 permalink: /when-fear-became-power-in-el-salvador/
-nav_short_title: When Fear Became Power in El Salvador
+nav_short_title: "Collective Fear, Belief and Panic in El Salvador"
 title: "Collective Fear, Belief and Panic in El Salvador"
-title_full: When Fear Became Power in El Salvador
-display_title_short: When Fear Became Power in El Salvador
+title_full: "Collective Fear, Belief and Panic in El Salvador"
+display_title_short: "Collective Fear, Belief and Panic in El Salvador"
 display_title: "Collective Fear, Belief and Panic in El Salvador"
-heading_title: When Fear Became Power in El Salvador
+heading_title: "Collective Fear, Belief and Panic in El Salvador"
 page_heading_title: "Collective Fear, Belief and Panic in El Salvador"
 source_count: 160
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Guinea’s best-documented history of contagious fear is not a clas
 hero_summary: Guinea’s best-documented history of contagious fear is not a classic story of a secretive “cult” or an unexplained outbreak of mass psychogenic illness.
 layout: default
 permalink: /when-fear-became-a-force-in-guinea/
-nav_short_title: When Fear Became a Force in Guinea
+nav_short_title: "Rumour, Belief and Collective Panic in Guinea"
 title: "Rumour, Belief and Collective Panic in Guinea"
-title_full: When Fear Became a Force in Guinea
-display_title_short: When Fear Became a Force in Guinea
+title_full: "Rumour, Belief and Collective Panic in Guinea"
+display_title_short: "Rumour, Belief and Collective Panic in Guinea"
 display_title: "Rumour, Belief and Collective Panic in Guinea"
-heading_title: When Fear Became a Force in Guinea
+heading_title: "Rumour, Belief and Collective Panic in Guinea"
 page_heading_title: "Rumour, Belief and Collective Panic in Guinea"
 source_count: 131
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Burkina Faso’s clearest documented history of contagious belief a
 hero_summary: Burkina Faso’s clearest documented history of contagious belief and collective fear is not a single spectacular outbreak of “mass hysteria”. It is the repeated accusation and expulsion of people—especially older women—said to have caused illness or death through witchcraft.
 layout: default
 permalink: /burkina-faso/
-nav_short_title: When Fear Turns Neighbours Into Suspects
+nav_short_title: "Rumour, Belief and Collective Panic in Burkina Faso"
 title: "Rumour, Belief and Collective Panic in Burkina Faso"
-title_full: When Fear Turns Neighbours Into Suspects
-display_title_short: When Fear Turns Neighbours Into Suspects
+title_full: "Rumour, Belief and Collective Panic in Burkina Faso"
+display_title_short: "Rumour, Belief and Collective Panic in Burkina Faso"
 display_title: "Rumour, Belief and Collective Panic in Burkina Faso"
-heading_title: When Fear Turns Neighbours Into Suspects
+heading_title: "Rumour, Belief and Collective Panic in Burkina Faso"
 page_heading_title: "Rumour, Belief and Collective Panic in Burkina Faso"
 source_count: 127
 infographic_count: 3

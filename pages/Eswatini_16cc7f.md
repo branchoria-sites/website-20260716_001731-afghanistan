@@ -209,12 +209,12 @@ description: Eswatini’s history of collective fear is not dominated by a singl
 hero_summary: 'Eswatini’s history of collective fear is not dominated by a single notorious cult, witch trial or apocalyptic sect. The strongest evidence instead points to a recurring pattern: misfortune, unusual behaviour or violent conflict is sometimes interpreted through beliefs about witchcraft, harmful spirits or demonic possession.'
 layout: default
 permalink: /when-fear-spreads-through-eswatini/
-nav_short_title: When Fear Spreads Through Eswatini
+nav_short_title: "Eswatini: Panics, Beliefs and Mass Movements"
 title: "Eswatini: Panics, Beliefs and Mass Movements"
-title_full: When Fear Spreads Through Eswatini
-display_title_short: When Fear Spreads Through Eswatini
+title_full: "Eswatini: Panics, Beliefs and Mass Movements"
+display_title_short: "Eswatini: Panics, Beliefs and Mass Movements"
 display_title: "Eswatini: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Spreads Through Eswatini
+heading_title: "Eswatini: Panics, Beliefs and Mass Movements"
 page_heading_title: "Eswatini: Panics, Beliefs and Mass Movements"
 source_count: 126
 infographic_count: 3

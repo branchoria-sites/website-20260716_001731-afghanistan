@@ -209,12 +209,12 @@ description: Niger has no well-documented equivalent of the Salem witch trials, 
 hero_summary: Niger has no well-documented equivalent of the Salem witch trials, a dancing plague or a famous outbreak of mass psychogenic illness. Its most revealing episodes of contagious belief and collective fear instead concern religious purity, public morality and the perceived intrusion of foreign values.
 layout: default
 permalink: /when-fear-and-faith-collided-in-niger/
-nav_short_title: When Fear and Faith Collided in Niger
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Niger"
 title: "Tracing Collective Fear and Contagious Belief in Niger"
-title_full: When Fear and Faith Collided in Niger
-display_title_short: When Fear and Faith Collided in Niger
+title_full: "Tracing Collective Fear and Contagious Belief in Niger"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Niger"
 display_title: "Tracing Collective Fear and Contagious Belief in Niger"
-heading_title: When Fear and Faith Collided in Niger
+heading_title: "Tracing Collective Fear and Contagious Belief in Niger"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Niger"
 source_count: 146
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Italy’s history of collective fear and contagious belief is not o
 hero_summary: Italy’s history of collective fear and contagious belief is not one continuous story of “mass hysteria”. It is a series of different episodes shaped by famine, religious authority, village conflict, political upheaval, changing ideas about childhood and abuse, and the power of newspapers, television and social media.
 layout: default
 permalink: /when-fear-and-belief-took-hold-in-italy/
-nav_short_title: When Fear and Belief Took Hold in Italy
+nav_short_title: "How Fear and Belief Shaped Italy"
 title: "How Fear and Belief Shaped Italy"
-title_full: When Fear and Belief Took Hold in Italy
-display_title_short: When Fear and Belief Took Hold in Italy
+title_full: "How Fear and Belief Shaped Italy"
+display_title_short: "How Fear and Belief Shaped Italy"
 display_title: "How Fear and Belief Shaped Italy"
-heading_title: When Fear and Belief Took Hold in Italy
+heading_title: "How Fear and Belief Shaped Italy"
 page_heading_title: "How Fear and Belief Shaped Italy"
 source_count: 127
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Colombia’s history of collective fear and contagious belief is no
 hero_summary: Colombia’s history of collective fear and contagious belief is not a simple catalogue of bizarre episodes. Its most revealing cases show how supernatural ideas, medical uncertainty, racial hierarchy, political violence and distrust of institutions can reinforce one another.
 layout: default
 permalink: /when-fear-and-belief-swept-through/
-nav_short_title: When Fear and Belief Swept Through Colombia
+nav_short_title: "Inside Colombia's History of Public Fear"
 title: "Inside Colombia's History of Public Fear"
-title_full: When Fear and Belief Swept Through Colombia
-display_title_short: When Fear and Belief Swept Through Colombia
+title_full: "Inside Colombia's History of Public Fear"
+display_title_short: "Inside Colombia's History of Public Fear"
 display_title: "Inside Colombia's History of Public Fear"
-heading_title: When Fear and Belief Swept Through Colombia
+heading_title: "Inside Colombia's History of Public Fear"
 page_heading_title: "Inside Colombia's History of Public Fear"
 source_count: 127
 infographic_count: 3

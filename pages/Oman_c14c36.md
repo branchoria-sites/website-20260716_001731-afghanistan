@@ -209,12 +209,12 @@ description: Oman does not have a well-documented equivalent of the Salem witch 
 hero_summary: Oman does not have a well-documented equivalent of the Salem witch trials, a European dancing plague or a large modern outbreak of mass psychogenic illness.
 layout: default
 permalink: /oman/
-nav_short_title: When Fear, Folklore and Healing Spread in Oman
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Oman"
 title: "Tracing Collective Fear and Contagious Belief in Oman"
-title_full: When Fear, Folklore and Healing Spread in Oman
-display_title_short: When Fear, Folklore and Healing Spread in Oman
+title_full: "Tracing Collective Fear and Contagious Belief in Oman"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Oman"
 display_title: "Tracing Collective Fear and Contagious Belief in Oman"
-heading_title: When Fear, Folklore and Healing Spread in Oman
+heading_title: "Tracing Collective Fear and Contagious Belief in Oman"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Oman"
 source_count: 137
 infographic_count: 3

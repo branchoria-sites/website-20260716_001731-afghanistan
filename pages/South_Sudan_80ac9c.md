@@ -209,12 +209,12 @@ description: South Sudan’s history of contagious belief is not dominated by a 
 hero_summary: South Sudan’s history of contagious belief is not dominated by a single famous “mass hysteria” or organised doomsday cult. The strongest evidence instead concerns repeated local crises in which illness, death, drought, political violence or sudden misfortune are explained through witchcraft, curses, failed rainmaking or prophecy.
 layout: default
 permalink: /when-fear-becomes-power-in-south-sudan/
-nav_short_title: When Fear Becomes Power in South Sudan
+nav_short_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 title: "How Panic, Rumour and Belief Took Hold in South Sudan"
-title_full: When Fear Becomes Power in South Sudan
-display_title_short: When Fear Becomes Power in South Sudan
+title_full: "How Panic, Rumour and Belief Took Hold in South Sudan"
+display_title_short: "How Panic, Rumour and Belief Took Hold in South Sudan"
 display_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
-heading_title: When Fear Becomes Power in South Sudan
+heading_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in South Sudan"
 source_count: 118
 infographic_count: 3

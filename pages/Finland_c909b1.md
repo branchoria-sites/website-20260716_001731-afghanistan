@@ -209,12 +209,12 @@ description: Finland’s history of collective fear is not a single procession o
 hero_summary: Finland’s history of collective fear is not a single procession of irrational crowds. It includes genuine persecution, small apocalyptic communities, criminal acts interpreted through frightening cultural stories, and later retellings that have blurred the line between evidence and legend.
 layout: default
 permalink: /when-fear-and-prophecy-gripped-finland/
-nav_short_title: When Fear and Prophecy Gripped Finland
+nav_short_title: "How Fear and Belief Shaped Finland"
 title: "How Fear and Belief Shaped Finland"
-title_full: When Fear and Prophecy Gripped Finland
-display_title_short: When Fear and Prophecy Gripped Finland
+title_full: "How Fear and Belief Shaped Finland"
+display_title_short: "How Fear and Belief Shaped Finland"
 display_title: "How Fear and Belief Shaped Finland"
-heading_title: When Fear and Prophecy Gripped Finland
+heading_title: "How Fear and Belief Shaped Finland"
 page_heading_title: "How Fear and Belief Shaped Finland"
 source_count: 104
 infographic_count: 3

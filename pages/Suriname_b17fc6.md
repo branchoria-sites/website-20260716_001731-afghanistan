@@ -209,12 +209,12 @@ description: Suriname’s history of collective fear and contagious belief is no
 hero_summary: Suriname’s history of collective fear and contagious belief is not dominated by a single, famous episode comparable to the Salem trials or a well-documented school outbreak of mass psychogenic illness.
 layout: default
 permalink: /suriname/
-nav_short_title: When Fear and Spiritual Authority Shaped Suriname
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Suriname"
 title: "How Panic, Rumour and Belief Took Hold in Suriname"
-title_full: When Fear and Spiritual Authority Shaped Suriname
-display_title_short: When Fear and Spiritual Authority Shaped Suriname
+title_full: "How Panic, Rumour and Belief Took Hold in Suriname"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Suriname"
 display_title: "How Panic, Rumour and Belief Took Hold in Suriname"
-heading_title: When Fear and Spiritual Authority Shaped Suriname
+heading_title: "How Panic, Rumour and Belief Took Hold in Suriname"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Suriname"
 source_count: 117
 infographic_count: 3

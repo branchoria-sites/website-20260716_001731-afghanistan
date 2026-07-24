@@ -209,12 +209,12 @@ description: Sri Lanka’s clearest episodes of collective fear are not classic 
 hero_summary: Sri Lanka’s clearest episodes of collective fear are not classic “doomsday cults” or organised witch trials.
 layout: default
 permalink: /when-fear-swept-through-sri-lanka/
-nav_short_title: When Fear Swept Through Sri Lanka
+nav_short_title: "How Fear and Belief Shaped Sri Lanka"
 title: "How Fear and Belief Shaped Sri Lanka"
-title_full: When Fear Swept Through Sri Lanka
-display_title_short: When Fear Swept Through Sri Lanka
+title_full: "How Fear and Belief Shaped Sri Lanka"
+display_title_short: "How Fear and Belief Shaped Sri Lanka"
 display_title: "How Fear and Belief Shaped Sri Lanka"
-heading_title: When Fear Swept Through Sri Lanka
+heading_title: "How Fear and Belief Shaped Sri Lanka"
 page_heading_title: "How Fear and Belief Shaped Sri Lanka"
 source_count: 105
 infographic_count: 3

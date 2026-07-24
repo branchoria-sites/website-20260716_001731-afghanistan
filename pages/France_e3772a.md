@@ -209,12 +209,12 @@ description: France’s history of collective belief and fear is not one continu
 hero_summary: 'France’s history of collective belief and fear is not one continuous story of “mass hysteria”. It is a series of very different episodes: regional witch persecutions, staged public exorcisms, miracle movements, revolutionary rumour panics, apocalyptic religious violence and modern scares about manipulative groups. Some involved genuine crimes or coercion.'
 layout: default
 permalink: /when-fear-and-belief-swept-through-e14029/
-nav_short_title: When Fear and Belief Swept Through France
+nav_short_title: "Tracing Collective Fear and Contagious Belief in France"
 title: "Tracing Collective Fear and Contagious Belief in France"
-title_full: When Fear and Belief Swept Through France
-display_title_short: When Fear and Belief Swept Through France
+title_full: "Tracing Collective Fear and Contagious Belief in France"
+display_title_short: "Tracing Collective Fear and Contagious Belief in France"
 display_title: "Tracing Collective Fear and Contagious Belief in France"
-heading_title: When Fear and Belief Swept Through France
+heading_title: "Tracing Collective Fear and Contagious Belief in France"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in France"
 source_count: 133
 infographic_count: 3

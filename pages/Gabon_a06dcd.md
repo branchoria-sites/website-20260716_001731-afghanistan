@@ -209,12 +209,12 @@ description: Gabon does not have a well-documented history of classic “mass hy
 hero_summary: 'Gabon does not have a well-documented history of classic “mass hysteria” episodes such as dancing plagues or school-wide fainting outbreaks. Its strongest contribution to the history of contagious belief and collective fear lies elsewhere: anti-sorcery movements, colonial scares about indigenous religion, and modern public alarm over alleged ritual killings.'
 layout: default
 permalink: /when-fear-faith-and-power-collided-in-3d979f/
-nav_short_title: When Fear, Faith and Power Collided in Gabon
+nav_short_title: "Gabon: Panics, Beliefs and Mass Movements"
 title: "Gabon: Panics, Beliefs and Mass Movements"
-title_full: When Fear, Faith and Power Collided in Gabon
-display_title_short: When Fear, Faith and Power Collided in Gabon
+title_full: "Gabon: Panics, Beliefs and Mass Movements"
+display_title_short: "Gabon: Panics, Beliefs and Mass Movements"
 display_title: "Gabon: Panics, Beliefs and Mass Movements"
-heading_title: When Fear, Faith and Power Collided in Gabon
+heading_title: "Gabon: Panics, Beliefs and Mass Movements"
 page_heading_title: "Gabon: Panics, Beliefs and Mass Movements"
 source_count: 97
 infographic_count: 3

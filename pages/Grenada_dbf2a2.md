@@ -209,12 +209,12 @@ description: Grenada’s history does not contain a well-documented “mass hyst
 hero_summary: Grenada’s history does not contain a well-documented “mass hysteria” episode on the scale of a witch-trial frenzy or a school-wide outbreak of unexplained illness.
 layout: default
 permalink: /grenada/
-nav_short_title: When Fear, Faith and Power Collided in Grenada
+nav_short_title: "Rumour, Belief and Collective Panic in Grenada"
 title: "Rumour, Belief and Collective Panic in Grenada"
-title_full: When Fear, Faith and Power Collided in Grenada
-display_title_short: When Fear, Faith and Power Collided in Grenada
+title_full: "Rumour, Belief and Collective Panic in Grenada"
+display_title_short: "Rumour, Belief and Collective Panic in Grenada"
 display_title: "Rumour, Belief and Collective Panic in Grenada"
-heading_title: When Fear, Faith and Power Collided in Grenada
+heading_title: "Rumour, Belief and Collective Panic in Grenada"
 page_heading_title: "Rumour, Belief and Collective Panic in Grenada"
 source_count: 81
 infographic_count: 3

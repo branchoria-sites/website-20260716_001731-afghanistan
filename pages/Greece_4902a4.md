@@ -209,12 +209,12 @@ description: Greece does not have one continuous tradition of “mass hysteria�
 hero_summary: Greece does not have one continuous tradition of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-gripped-greece/
-nav_short_title: When Fear and Belief Gripped Greece
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Greece"
 title: "Tracing Collective Fear and Contagious Belief in Greece"
-title_full: When Fear and Belief Gripped Greece
-display_title_short: When Fear and Belief Gripped Greece
+title_full: "Tracing Collective Fear and Contagious Belief in Greece"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Greece"
 display_title: "Tracing Collective Fear and Contagious Belief in Greece"
-heading_title: When Fear and Belief Gripped Greece
+heading_title: "Tracing Collective Fear and Contagious Belief in Greece"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Greece"
 source_count: 160
 infographic_count: 3

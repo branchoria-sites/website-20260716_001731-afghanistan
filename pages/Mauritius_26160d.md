@@ -209,12 +209,12 @@ description: Mauritius does not have a well-documented national equivalent of th
 hero_summary: Mauritius does not have a well-documented national equivalent of the Salem witch trials, a medieval dancing plague or a famous school outbreak of mass psychogenic illness. Its history of contagious belief is quieter and more complicated.
 layout: default
 permalink: /when-fear-and-belief-took-hold-in-9c556c/
-nav_short_title: When Fear and Belief Took Hold in Mauritius
+nav_short_title: "How Fear and Belief Shaped Mauritius"
 title: "How Fear and Belief Shaped Mauritius"
-title_full: When Fear and Belief Took Hold in Mauritius
-display_title_short: When Fear and Belief Took Hold in Mauritius
+title_full: "How Fear and Belief Shaped Mauritius"
+display_title_short: "How Fear and Belief Shaped Mauritius"
 display_title: "How Fear and Belief Shaped Mauritius"
-heading_title: When Fear and Belief Took Hold in Mauritius
+heading_title: "How Fear and Belief Shaped Mauritius"
 page_heading_title: "How Fear and Belief Shaped Mauritius"
 source_count: 134
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Qatar has no well-documented national equivalent of the Salem witch
 hero_summary: Qatar has no well-documented national equivalent of the Salem witch trials, a medieval dancing plague or a large home-grown apocalyptic sect.
 layout: default
 permalink: /when-fear-and-rumour-gripped-qatar/
-nav_short_title: When Fear and Rumour Gripped Qatar
+nav_short_title: "Inside Qatar's History of Public Fear"
 title: "Inside Qatar's History of Public Fear"
-title_full: When Fear and Rumour Gripped Qatar
-display_title_short: When Fear and Rumour Gripped Qatar
+title_full: "Inside Qatar's History of Public Fear"
+display_title_short: "Inside Qatar's History of Public Fear"
 display_title: "Inside Qatar's History of Public Fear"
-heading_title: When Fear and Rumour Gripped Qatar
+heading_title: "Inside Qatar's History of Public Fear"
 page_heading_title: "Inside Qatar's History of Public Fear"
 source_count: 108
 infographic_count: 3

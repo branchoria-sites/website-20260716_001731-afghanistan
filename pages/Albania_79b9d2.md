@@ -209,12 +209,12 @@ description: Albania’s clearest episode of contagious collective belief was no
 hero_summary: Albania’s clearest episode of contagious collective belief was not a witch craze or an outbreak of unexplained illness. It was the nationwide investment fever that preceded the collapse of fraudulent financial schemes in 1996–97.
 layout: default
 permalink: /when-fear-and-belief-shook-albania/
-nav_short_title: When Fear and Belief Shook Albania
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Albania"
 title: "How Panic, Rumour and Belief Took Hold in Albania"
-title_full: When Fear and Belief Shook Albania
-display_title_short: When Fear and Belief Shook Albania
+title_full: "How Panic, Rumour and Belief Took Hold in Albania"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Albania"
 display_title: "How Panic, Rumour and Belief Took Hold in Albania"
-heading_title: When Fear and Belief Shook Albania
+heading_title: "How Panic, Rumour and Belief Took Hold in Albania"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Albania"
 source_count: 140
 infographic_count: 3

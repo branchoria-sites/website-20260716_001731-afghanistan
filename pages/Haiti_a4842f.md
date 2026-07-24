@@ -209,12 +209,12 @@ description: Haiti’s history of collective fear is not best understood as a ca
 hero_summary: 'Haiti’s history of collective fear is not best understood as a catalogue of mysterious “mass hysteria”. Its most important episodes involve something more concrete: authorities, churches, political rulers and frightened communities turning religious difference, epidemic disease or supernatural accusation into a reason for persecution.'
 layout: default
 permalink: /when-fear-became-power-in-haiti/
-nav_short_title: When Fear Became Power in Haiti
+nav_short_title: "Rumour, Belief and Collective Panic in Haiti"
 title: "Rumour, Belief and Collective Panic in Haiti"
-title_full: When Fear Became Power in Haiti
-display_title_short: When Fear Became Power in Haiti
+title_full: "Rumour, Belief and Collective Panic in Haiti"
+display_title_short: "Rumour, Belief and Collective Panic in Haiti"
 display_title: "Rumour, Belief and Collective Panic in Haiti"
-heading_title: When Fear Became Power in Haiti
+heading_title: "Rumour, Belief and Collective Panic in Haiti"
 page_heading_title: "Rumour, Belief and Collective Panic in Haiti"
 source_count: 115
 infographic_count: 3

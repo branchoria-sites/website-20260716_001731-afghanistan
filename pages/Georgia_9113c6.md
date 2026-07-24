@@ -209,12 +209,12 @@ description: Georgia’s history of collective fear is not dominated by a single
 hero_summary: Georgia’s history of collective fear is not dominated by a single famous witch craze, dance plague or apocalyptic sect.
 layout: default
 permalink: /when-fear-became-a-defence-of-georgia/
-nav_short_title: When Fear Became a Defence of Georgia
+nav_short_title: "Georgia: Panics, Beliefs and Mass Movements"
 title: "Georgia: Panics, Beliefs and Mass Movements"
-title_full: When Fear Became a Defence of Georgia
-display_title_short: When Fear Became a Defence of Georgia
+title_full: "Georgia: Panics, Beliefs and Mass Movements"
+display_title_short: "Georgia: Panics, Beliefs and Mass Movements"
 display_title: "Georgia: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Became a Defence of Georgia
+heading_title: "Georgia: Panics, Beliefs and Mass Movements"
 page_heading_title: "Georgia: Panics, Beliefs and Mass Movements"
 source_count: 86
 infographic_count: 3

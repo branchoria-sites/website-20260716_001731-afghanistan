@@ -209,12 +209,12 @@ description: Honduras does not have one famous, nationally defining “mass hyst
 hero_summary: Honduras does not have one famous, nationally defining “mass hysteria” episode comparable with the Salem witch trials or Europe’s dancing plagues.
 layout: default
 permalink: /when-fear-and-belief-spread-across/
-nav_short_title: When Fear and Belief Spread Across Honduras
+nav_short_title: "How Fear and Belief Shaped Honduras"
 title: "How Fear and Belief Shaped Honduras"
-title_full: When Fear and Belief Spread Across Honduras
-display_title_short: When Fear and Belief Spread Across Honduras
+title_full: "How Fear and Belief Shaped Honduras"
+display_title_short: "How Fear and Belief Shaped Honduras"
 display_title: "How Fear and Belief Shaped Honduras"
-heading_title: When Fear and Belief Spread Across Honduras
+heading_title: "How Fear and Belief Shaped Honduras"
 page_heading_title: "How Fear and Belief Shaped Honduras"
 source_count: 121
 infographic_count: 3

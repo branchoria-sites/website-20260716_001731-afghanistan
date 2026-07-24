@@ -209,12 +209,12 @@ description: Hungary’s history of collective fear is not one continuous story 
 hero_summary: 'Hungary’s history of collective fear is not one continuous story of “mass hysteria”. It is a series of very different episodes: early modern witch prosecutions, a celebrated weeping icon, an antisemitic ritual-murder scare, post-socialist anxiety about unfamiliar religions, and modern political campaigns presenting migration as an existential threat.'
 layout: default
 permalink: /when-fear-and-belief-gripped-hungary/
-nav_short_title: When Fear and Belief Gripped Hungary
+nav_short_title: "How Fear and Belief Shaped Hungary"
 title: "How Fear and Belief Shaped Hungary"
-title_full: When Fear and Belief Gripped Hungary
-display_title_short: When Fear and Belief Gripped Hungary
+title_full: "How Fear and Belief Shaped Hungary"
+display_title_short: "How Fear and Belief Shaped Hungary"
 display_title: "How Fear and Belief Shaped Hungary"
-heading_title: When Fear and Belief Gripped Hungary
+heading_title: "How Fear and Belief Shaped Hungary"
 page_heading_title: "How Fear and Belief Shaped Hungary"
 source_count: 117
 infographic_count: 3

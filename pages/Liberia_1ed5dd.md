@@ -209,12 +209,12 @@ description: Liberia’s history of collective fear is not best described as a s
 hero_summary: Liberia’s history of collective fear is not best described as a sequence of classic “mass hysteria” outbreaks. Its most important episodes centre instead on witchcraft accusations, suspected ritual killings, rumours of supernatural protection during civil war, and epidemic fears during the 2014–16 Ebola crisis.
 layout: default
 permalink: /when-fear-became-power-in-liberia/
-nav_short_title: When Fear Became Power in Liberia
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Liberia"
 title: "How Panic, Rumour and Belief Took Hold in Liberia"
-title_full: When Fear Became Power in Liberia
-display_title_short: When Fear Became Power in Liberia
+title_full: "How Panic, Rumour and Belief Took Hold in Liberia"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Liberia"
 display_title: "How Panic, Rumour and Belief Took Hold in Liberia"
-heading_title: When Fear Became Power in Liberia
+heading_title: "How Panic, Rumour and Belief Took Hold in Liberia"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Liberia"
 source_count: 132
 infographic_count: 3

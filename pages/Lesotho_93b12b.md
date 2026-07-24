@@ -209,12 +209,12 @@ description: Lesotho’s clearest and best-documented episode of collective fear
 hero_summary: Lesotho’s clearest and best-documented episode of collective fear was the “medicine murder panic” that gripped Basutoland, as the country was then known, during the late 1940s and 1950s.
 layout: default
 permalink: /when-fear-gripped-colonial-lesotho/
-nav_short_title: When Fear Gripped Colonial Lesotho
+nav_short_title: "How Fear and Belief Shaped Lesotho"
 title: "How Fear and Belief Shaped Lesotho"
-title_full: When Fear Gripped Colonial Lesotho
-display_title_short: When Fear Gripped Colonial Lesotho
+title_full: "How Fear and Belief Shaped Lesotho"
+display_title_short: "How Fear and Belief Shaped Lesotho"
 display_title: "How Fear and Belief Shaped Lesotho"
-heading_title: When Fear Gripped Colonial Lesotho
+heading_title: "How Fear and Belief Shaped Lesotho"
 page_heading_title: "How Fear and Belief Shaped Lesotho"
 source_count: 107
 infographic_count: 3

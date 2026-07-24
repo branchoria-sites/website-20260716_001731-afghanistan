@@ -209,12 +209,12 @@ description: Ukraine’s history of collective fear and contagious belief is not
 hero_summary: Ukraine’s history of collective fear and contagious belief is not a simple catalogue of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-gripped-ukraine/
-nav_short_title: When Fear and Belief Gripped Ukraine
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-title_full: When Fear and Belief Gripped Ukraine
-display_title_short: When Fear and Belief Gripped Ukraine
+title_full: "How Panic, Rumour and Belief Took Hold in Ukraine"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Ukraine"
 display_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-heading_title: When Fear and Belief Gripped Ukraine
+heading_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
 source_count: 96
 infographic_count: 3

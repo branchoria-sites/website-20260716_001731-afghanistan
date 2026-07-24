@@ -209,12 +209,12 @@ description: Comoros does not have a well-documented national equivalent of the 
 hero_summary: Comoros does not have a well-documented national equivalent of the Salem witch trials, a famous “cult” disaster or a recognised epidemic of mass psychogenic illness.
 layout: default
 permalink: /when-fear-and-belief-shaped-comoros/
-nav_short_title: When Fear and Belief Shaped Comoros
+nav_short_title: "Inside Comoros' History of Public Fear"
 title: "Inside Comoros' History of Public Fear"
-title_full: When Fear and Belief Shaped Comoros
-display_title_short: When Fear and Belief Shaped Comoros
+title_full: "Inside Comoros' History of Public Fear"
+display_title_short: "Inside Comoros' History of Public Fear"
 display_title: "Inside Comoros' History of Public Fear"
-heading_title: When Fear and Belief Shaped Comoros
+heading_title: "Inside Comoros' History of Public Fear"
 page_heading_title: "Inside Comoros' History of Public Fear"
 source_count: 117
 infographic_count: 3

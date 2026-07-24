@@ -209,12 +209,12 @@ description: Chad does not have a well-documented national history of dance plag
 hero_summary: Chad does not have a well-documented national history of dance plagues, school fainting epidemics or apocalyptic sects comparable with the best-known cases elsewhere.
 layout: default
 permalink: /when-fear-and-power-shaped-belief-in/
-nav_short_title: When Fear and Power Shaped Belief in Chad
+nav_short_title: "Chad: Panics, Beliefs and Mass Movements"
 title: "Chad: Panics, Beliefs and Mass Movements"
-title_full: When Fear and Power Shaped Belief in Chad
-display_title_short: When Fear and Power Shaped Belief in Chad
+title_full: "Chad: Panics, Beliefs and Mass Movements"
+display_title_short: "Chad: Panics, Beliefs and Mass Movements"
 display_title: "Chad: Panics, Beliefs and Mass Movements"
-heading_title: When Fear and Power Shaped Belief in Chad
+heading_title: "Chad: Panics, Beliefs and Mass Movements"
 page_heading_title: "Chad: Panics, Beliefs and Mass Movements"
 source_count: 99
 infographic_count: 3

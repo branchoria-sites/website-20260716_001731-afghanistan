@@ -209,12 +209,12 @@ description: Thailand’s history of collective fear and contagious belief is no
 hero_summary: Thailand’s history of collective fear and contagious belief is not one story of a uniquely “superstitious” society.
 layout: default
 permalink: /when-fear-and-belief-swept-through-7dc828/
-nav_short_title: When Fear and Belief Swept Through Thailand
+nav_short_title: "Rumour, Belief and Collective Panic in Thailand"
 title: "Rumour, Belief and Collective Panic in Thailand"
-title_full: When Fear and Belief Swept Through Thailand
-display_title_short: When Fear and Belief Swept Through Thailand
+title_full: "Rumour, Belief and Collective Panic in Thailand"
+display_title_short: "Rumour, Belief and Collective Panic in Thailand"
 display_title: "Rumour, Belief and Collective Panic in Thailand"
-heading_title: When Fear and Belief Swept Through Thailand
+heading_title: "Rumour, Belief and Collective Panic in Thailand"
 page_heading_title: "Rumour, Belief and Collective Panic in Thailand"
 source_count: 97
 infographic_count: 3

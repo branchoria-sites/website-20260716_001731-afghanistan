@@ -209,12 +209,12 @@ description: Latvia’s history of collective fear and unusual belief is not dom
 hero_summary: Latvia’s history of collective fear and unusual belief is not dominated by one famous outbreak of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-reshaped-latvia/
-nav_short_title: When Fear and Belief Reshaped Latvia
+nav_short_title: "Inside Latvia's History of Public Fear"
 title: "Inside Latvia's History of Public Fear"
-title_full: When Fear and Belief Reshaped Latvia
-display_title_short: When Fear and Belief Reshaped Latvia
+title_full: "Inside Latvia's History of Public Fear"
+display_title_short: "Inside Latvia's History of Public Fear"
 display_title: "Inside Latvia's History of Public Fear"
-heading_title: When Fear and Belief Reshaped Latvia
+heading_title: "Inside Latvia's History of Public Fear"
 page_heading_title: "Inside Latvia's History of Public Fear"
 source_count: 112
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Ecuador’s clearest history of collective fear is not a catalogue 
 hero_summary: Ecuador’s clearest history of collective fear is not a catalogue of secretive “cults” or unexplained epidemics. It is a smaller but revealing set of episodes in which trusted media, religious expectation, urban insecurity and rumour turned uncertain claims into shared realities.
 layout: default
 permalink: /when-fear-became-reality-in-ecuador/
-nav_short_title: When Fear Became Reality in Ecuador
+nav_short_title: "Collective Fear, Belief and Panic in Ecuador"
 title: "Collective Fear, Belief and Panic in Ecuador"
-title_full: When Fear Became Reality in Ecuador
-display_title_short: When Fear Became Reality in Ecuador
+title_full: "Collective Fear, Belief and Panic in Ecuador"
+display_title_short: "Collective Fear, Belief and Panic in Ecuador"
 display_title: "Collective Fear, Belief and Panic in Ecuador"
-heading_title: When Fear Became Reality in Ecuador
+heading_title: "Collective Fear, Belief and Panic in Ecuador"
 page_heading_title: "Collective Fear, Belief and Panic in Ecuador"
 source_count: 100
 infographic_count: 3

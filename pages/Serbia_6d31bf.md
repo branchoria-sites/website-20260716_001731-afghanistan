@@ -209,12 +209,12 @@ description: Serbia’s history of contagious belief is best understood not as o
 hero_summary: Serbia’s history of contagious belief is best understood not as one continuous tradition of “mass hysteria”, but as a series of very different episodes. Eighteenth-century villagers opened graves because they feared the dead were killing the living. Rural communities accused women of harmful magic.
 layout: default
 permalink: /when-fear-defined-reality-in-serbia/
-nav_short_title: When Fear Defined Reality in Serbia
+nav_short_title: "How Fear and Belief Shaped Serbia"
 title: "How Fear and Belief Shaped Serbia"
-title_full: When Fear Defined Reality in Serbia
-display_title_short: When Fear Defined Reality in Serbia
+title_full: "How Fear and Belief Shaped Serbia"
+display_title_short: "How Fear and Belief Shaped Serbia"
 display_title: "How Fear and Belief Shaped Serbia"
-heading_title: When Fear Defined Reality in Serbia
+heading_title: "How Fear and Belief Shaped Serbia"
 page_heading_title: "How Fear and Belief Shaped Serbia"
 source_count: 166
 infographic_count: 3

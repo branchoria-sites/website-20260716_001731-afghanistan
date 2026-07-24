@@ -209,12 +209,12 @@ description: 'Sweden’s history of collective fear is dominated by one catastro
 hero_summary: 'Sweden’s history of collective fear is dominated by one catastrophic episode: the witch persecutions of 1668–76, when stories told largely by children helped send hundreds of people to execution. Later Swedish scares were generally less lethal but followed recognisable patterns.'
 layout: default
 permalink: /when-fear-became-proof-in-sweden/
-nav_short_title: When Fear Became Proof in Sweden
+nav_short_title: "How Fear and Belief Shaped Sweden"
 title: "How Fear and Belief Shaped Sweden"
-title_full: When Fear Became Proof in Sweden
-display_title_short: When Fear Became Proof in Sweden
+title_full: "How Fear and Belief Shaped Sweden"
+display_title_short: "How Fear and Belief Shaped Sweden"
 display_title: "How Fear and Belief Shaped Sweden"
-heading_title: When Fear Became Proof in Sweden
+heading_title: "How Fear and Belief Shaped Sweden"
 page_heading_title: "How Fear and Belief Shaped Sweden"
 source_count: 108
 infographic_count: 3

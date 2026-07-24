@@ -209,12 +209,12 @@ description: Saint Kitts and Nevis has no well-documented equivalent of the Sale
 hero_summary: Saint Kitts and Nevis has no well-documented equivalent of the Salem witch trials, a dancing plague or a large modern outbreak of mass psychogenic illness.
 layout: default
 permalink: /saint-kitts-and-nevis/
-nav_short_title: When Fear Became Power in Saint Kitts and Nevis
+nav_short_title: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
 title: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
-title_full: When Fear Became Power in Saint Kitts and Nevis
-display_title_short: When Fear Became Power in Saint Kitts and Nevis
+title_full: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
+display_title_short: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
 display_title: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
-heading_title: When Fear Became Power in Saint Kitts and Nevis
+heading_title: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
 page_heading_title: "Rumour, Belief and Collective Panic in Saint Kitts and Nevis"
 source_count: 100
 infographic_count: 3

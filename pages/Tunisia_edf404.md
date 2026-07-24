@@ -209,12 +209,12 @@ description: Tunisia does not have a well-documented history of spectacular witc
 hero_summary: Tunisia does not have a well-documented history of spectacular witch trials, doomsday sects or nationwide outbreaks of mass psychogenic illness comparable with famous cases elsewhere.
 layout: default
 permalink: /when-fear-became-a-public-force-in/
-nav_short_title: When Fear Became a Public Force in Tunisia
+nav_short_title: "Tunisia: Panics, Beliefs and Mass Movements"
 title: "Tunisia: Panics, Beliefs and Mass Movements"
-title_full: When Fear Became a Public Force in Tunisia
-display_title_short: When Fear Became a Public Force in Tunisia
+title_full: "Tunisia: Panics, Beliefs and Mass Movements"
+display_title_short: "Tunisia: Panics, Beliefs and Mass Movements"
 display_title: "Tunisia: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Became a Public Force in Tunisia
+heading_title: "Tunisia: Panics, Beliefs and Mass Movements"
 page_heading_title: "Tunisia: Panics, Beliefs and Mass Movements"
 source_count: 151
 infographic_count: 3

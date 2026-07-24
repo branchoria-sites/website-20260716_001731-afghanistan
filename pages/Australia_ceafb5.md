@@ -209,12 +209,12 @@ description: Australia has not experienced the large-scale witch trials or posse
 hero_summary: Australia has not experienced the large-scale witch trials or possession epidemics associated with early modern Europe, but it has produced its own distinctive history of contagious fears, disputed beliefs and high-control religious movements.
 layout: default
 permalink: /when-fear-and-belief-gripped-australia/
-nav_short_title: When Fear and Belief Gripped Australia
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Australia"
 title: "How Panic, Rumour and Belief Took Hold in Australia"
-title_full: When Fear and Belief Gripped Australia
-display_title_short: When Fear and Belief Gripped Australia
+title_full: "How Panic, Rumour and Belief Took Hold in Australia"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Australia"
 display_title: "How Panic, Rumour and Belief Took Hold in Australia"
-heading_title: When Fear and Belief Gripped Australia
+heading_title: "How Panic, Rumour and Belief Took Hold in Australia"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Australia"
 source_count: 153
 infographic_count: 3

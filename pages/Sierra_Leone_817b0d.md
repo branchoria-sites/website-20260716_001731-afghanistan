@@ -209,12 +209,12 @@ description: Sierra Leone’s history offers no single famous “mass hysteria�
 hero_summary: Sierra Leone’s history offers no single famous “mass hysteria” episode comparable to a European witch trial or school fainting epidemic. Its most revealing cases instead involve witchcraft accusations, organised anti-witchcraft campaigns, wartime beliefs in magical protection, and the rumour-filled fear surrounding Ebola.
 layout: default
 permalink: /when-fear-and-belief-reshaped-sierra/
-nav_short_title: When Fear and Belief Reshaped Sierra Leone
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
-title_full: When Fear and Belief Reshaped Sierra Leone
-display_title_short: When Fear and Belief Reshaped Sierra Leone
+title_full: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 display_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
-heading_title: When Fear and Belief Reshaped Sierra Leone
+heading_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Sierra Leone"
 source_count: 95
 infographic_count: 3

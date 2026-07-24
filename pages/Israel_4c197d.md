@@ -209,12 +209,12 @@ description: Israel’s history of cult scares, apocalyptic movements and collec
 hero_summary: Israel’s history of cult scares, apocalyptic movements and collective fear is not one continuous story of “mass hysteria”. It is a set of very different episodes shaped by religious symbolism, political conflict, war, migration and an unusually intense media environment.
 layout: default
 permalink: /israel/
-nav_short_title: When Fear, Faith and Conflict Became Contagious
+nav_short_title: "Israel's History of Collective Fear and Belief"
 title: "Israel's History of Collective Fear and Belief"
-title_full: When Fear, Faith and Conflict Became Contagious
-display_title_short: When Fear, Faith and Conflict Became Contagious
+title_full: "Israel's History of Collective Fear and Belief"
+display_title_short: "Israel's History of Collective Fear and Belief"
 display_title: "Israel's History of Collective Fear and Belief"
-heading_title: When Fear, Faith and Conflict Became Contagious
+heading_title: "Israel's History of Collective Fear and Belief"
 page_heading_title: "Israel's History of Collective Fear and Belief"
 source_count: 100
 infographic_count: 3

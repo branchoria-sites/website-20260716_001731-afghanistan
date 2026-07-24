@@ -209,12 +209,12 @@ description: Ethiopia’s history of contagious belief is not dominated by one n
 hero_summary: Ethiopia’s history of contagious belief is not dominated by one notorious “cult” or spectacular witch trial.
 layout: default
 permalink: /when-fear-and-illness-spread-in-ethiopia/
-nav_short_title: When Fear and Illness Spread in Ethiopia
+nav_short_title: "Ethiopia: Panics, Beliefs and Mass Movements"
 title: "Ethiopia: Panics, Beliefs and Mass Movements"
-title_full: When Fear and Illness Spread in Ethiopia
-display_title_short: When Fear and Illness Spread in Ethiopia
+title_full: "Ethiopia: Panics, Beliefs and Mass Movements"
+display_title_short: "Ethiopia: Panics, Beliefs and Mass Movements"
 display_title: "Ethiopia: Panics, Beliefs and Mass Movements"
-heading_title: When Fear and Illness Spread in Ethiopia
+heading_title: "Ethiopia: Panics, Beliefs and Mass Movements"
 page_heading_title: "Ethiopia: Panics, Beliefs and Mass Movements"
 source_count: 131
 infographic_count: 3

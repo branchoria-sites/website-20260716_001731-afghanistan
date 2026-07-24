@@ -209,12 +209,12 @@ description: Mozambique’s history of collective fear is not dominated by one f
 hero_summary: Mozambique’s history of collective fear is not dominated by one famous “mass hysteria” episode.
 layout: default
 permalink: /when-fear-becomes-fact-in-mozambique/
-nav_short_title: When Fear Becomes Fact in Mozambique
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-title_full: When Fear Becomes Fact in Mozambique
-display_title_short: When Fear Becomes Fact in Mozambique
+title_full: "How Panic, Rumour and Belief Took Hold in Mozambique"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Mozambique"
 display_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-heading_title: When Fear Becomes Fact in Mozambique
+heading_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
 source_count: 114
 infographic_count: 3

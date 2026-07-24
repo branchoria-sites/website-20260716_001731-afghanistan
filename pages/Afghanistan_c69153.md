@@ -209,12 +209,12 @@ description: Afghanistan’s history contains no well-documented equivalent of t
 hero_summary: Afghanistan’s history contains no well-documented equivalent of the European witch craze or a single famous home-grown “cult panic”.
 layout: default
 permalink: /when-fear-became-fact-in-afghanistan/
-nav_short_title: When Fear Became Fact in Afghanistan
+nav_short_title: "Afghanistan: Panics, Beliefs and Mass Movements"
 title: "Afghanistan: Panics, Beliefs and Mass Movements"
-title_full: When Fear Became Fact in Afghanistan
-display_title_short: When Fear Became Fact in Afghanistan
+title_full: "Afghanistan: Panics, Beliefs and Mass Movements"
+display_title_short: "Afghanistan: Panics, Beliefs and Mass Movements"
 display_title: "Afghanistan: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Became Fact in Afghanistan
+heading_title: "Afghanistan: Panics, Beliefs and Mass Movements"
 page_heading_title: "Afghanistan: Panics, Beliefs and Mass Movements"
 source_count: 106
 infographic_count: 3

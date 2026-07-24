@@ -209,12 +209,12 @@ description: Nepal’s clearest documented history of contagious belief and coll
 hero_summary: Nepal’s clearest documented history of contagious belief and collective fear does not centre on a single famous “cult” or nationwide panic.
 layout: default
 permalink: /when-fear-and-belief-spread-across-nepal/
-nav_short_title: When Fear and Belief Spread Across Nepal
+nav_short_title: "Nepal's History of Collective Fear and Belief"
 title: "Nepal's History of Collective Fear and Belief"
-title_full: When Fear and Belief Spread Across Nepal
-display_title_short: When Fear and Belief Spread Across Nepal
+title_full: "Nepal's History of Collective Fear and Belief"
+display_title_short: "Nepal's History of Collective Fear and Belief"
 display_title: "Nepal's History of Collective Fear and Belief"
-heading_title: When Fear and Belief Spread Across Nepal
+heading_title: "Nepal's History of Collective Fear and Belief"
 page_heading_title: "Nepal's History of Collective Fear and Belief"
 source_count: 101
 infographic_count: 3

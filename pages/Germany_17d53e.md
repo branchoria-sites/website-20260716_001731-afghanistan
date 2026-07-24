@@ -209,12 +209,12 @@ description: Germany’s history of collective fear and contagious belief is not
 hero_summary: Germany’s history of collective fear and contagious belief is not one continuous story of irrational crowds.
 layout: default
 permalink: /when-fear-took-hold-across-germany/
-nav_short_title: When Fear Took Hold Across Germany
+nav_short_title: "Germany: Panics, Beliefs and Mass Movements"
 title: "Germany: Panics, Beliefs and Mass Movements"
-title_full: When Fear Took Hold Across Germany
-display_title_short: When Fear Took Hold Across Germany
+title_full: "Germany: Panics, Beliefs and Mass Movements"
+display_title_short: "Germany: Panics, Beliefs and Mass Movements"
 display_title: "Germany: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Took Hold Across Germany
+heading_title: "Germany: Panics, Beliefs and Mass Movements"
 page_heading_title: "Germany: Panics, Beliefs and Mass Movements"
 source_count: 146
 infographic_count: 3

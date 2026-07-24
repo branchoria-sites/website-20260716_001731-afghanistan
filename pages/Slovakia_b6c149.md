@@ -209,12 +209,12 @@ description: Slovakia has no single defining episode of “mass hysteria”.
 hero_summary: Slovakia has no single defining episode of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-gripped-slovakia/
-nav_short_title: When Fear and Belief Gripped Slovakia
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 title: "Tracing Collective Fear and Contagious Belief in Slovakia"
-title_full: When Fear and Belief Gripped Slovakia
-display_title_short: When Fear and Belief Gripped Slovakia
+title_full: "Tracing Collective Fear and Contagious Belief in Slovakia"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Slovakia"
 display_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
-heading_title: When Fear and Belief Gripped Slovakia
+heading_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Slovakia"
 source_count: 104
 infographic_count: 3

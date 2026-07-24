@@ -209,12 +209,12 @@ description: Guinea-Bissau does not have a well-documented history of classic �
 hero_summary: Guinea-Bissau does not have a well-documented history of classic “mass hysteria” episodes such as school fainting waves, dance plagues or nationwide satanic scares.
 layout: default
 permalink: /when-fear-becomes-belief-in-guinea/
-nav_short_title: When Fear Becomes Belief in Guinea Bissau
+nav_short_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
-title_full: When Fear Becomes Belief in Guinea Bissau
-display_title_short: When Fear Becomes Belief in Guinea Bissau
+title_full: "Guinea Bissau: Panics, Beliefs and Mass Movements"
+display_title_short: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 display_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Becomes Belief in Guinea Bissau
+heading_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 page_heading_title: "Guinea Bissau: Panics, Beliefs and Mass Movements"
 source_count: 90
 infographic_count: 3

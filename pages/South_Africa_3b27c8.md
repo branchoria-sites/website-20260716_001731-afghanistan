@@ -209,12 +209,12 @@ description: South Africa’s history of collective belief and fear does not fit
 hero_summary: South Africa’s history of collective belief and fear does not fit one simple story of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-prophecy-shaped-south/
-nav_short_title: When Fear and Prophecy Shaped South Africa
+nav_short_title: "Tracing Collective Fear and Contagious Belief in South Africa"
 title: "Tracing Collective Fear and Contagious Belief in South Africa"
-title_full: When Fear and Prophecy Shaped South Africa
-display_title_short: When Fear and Prophecy Shaped South Africa
+title_full: "Tracing Collective Fear and Contagious Belief in South Africa"
+display_title_short: "Tracing Collective Fear and Contagious Belief in South Africa"
 display_title: "Tracing Collective Fear and Contagious Belief in South Africa"
-heading_title: When Fear and Prophecy Shaped South Africa
+heading_title: "Tracing Collective Fear and Contagious Belief in South Africa"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in South Africa"
 source_count: 158
 infographic_count: 3

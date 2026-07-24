@@ -209,12 +209,12 @@ description: Timor-Leste has no well-documented equivalent of the Salem trials, 
 hero_summary: Timor-Leste has no well-documented equivalent of the Salem trials, a classic millenarian cult or a nationwide outbreak of mass psychogenic illness.
 layout: default
 permalink: /timor-leste/
-nav_short_title: When Fear Became a Public Threat
+nav_short_title: "Timor Leste: Panics, Beliefs and Mass Movements"
 title: "Timor Leste: Panics, Beliefs and Mass Movements"
-title_full: When Fear Became a Public Threat
-display_title_short: When Fear Became a Public Threat
+title_full: "Timor Leste: Panics, Beliefs and Mass Movements"
+display_title_short: "Timor Leste: Panics, Beliefs and Mass Movements"
 display_title: "Timor Leste: Panics, Beliefs and Mass Movements"
-heading_title: When Fear Became a Public Threat
+heading_title: "Timor Leste: Panics, Beliefs and Mass Movements"
 page_heading_title: "Timor Leste: Panics, Beliefs and Mass Movements"
 source_count: 124
 infographic_count: 3

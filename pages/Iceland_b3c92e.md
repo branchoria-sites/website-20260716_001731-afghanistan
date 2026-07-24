@@ -209,12 +209,12 @@ description: Iceland’s history contains no well-documented dance plague, natio
 hero_summary: Iceland’s history contains no well-documented dance plague, nationwide satanic conspiracy scare or large home-grown apocalyptic cult comparable with famous cases elsewhere.
 layout: default
 permalink: /when-fear-became-fact-in-iceland/
-nav_short_title: When Fear Became Fact in Iceland
+nav_short_title: "How Fear and Belief Shaped Iceland"
 title: "How Fear and Belief Shaped Iceland"
-title_full: When Fear Became Fact in Iceland
-display_title_short: When Fear Became Fact in Iceland
+title_full: "How Fear and Belief Shaped Iceland"
+display_title_short: "How Fear and Belief Shaped Iceland"
 display_title: "How Fear and Belief Shaped Iceland"
-heading_title: When Fear Became Fact in Iceland
+heading_title: "How Fear and Belief Shaped Iceland"
 page_heading_title: "How Fear and Belief Shaped Iceland"
 source_count: 109
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Tajikistan has no well-documented equivalent of the Salem witch tri
 hero_summary: Tajikistan has no well-documented equivalent of the Salem witch trials, a European dance plague or a large school outbreak of mass psychogenic illness.
 layout: default
 permalink: /when-fear-became-policy-in-tajikistan/
-nav_short_title: When Fear Became Policy in Tajikistan
+nav_short_title: "Rumour, Belief and Collective Panic in Tajikistan"
 title: "Rumour, Belief and Collective Panic in Tajikistan"
-title_full: When Fear Became Policy in Tajikistan
-display_title_short: When Fear Became Policy in Tajikistan
+title_full: "Rumour, Belief and Collective Panic in Tajikistan"
+display_title_short: "Rumour, Belief and Collective Panic in Tajikistan"
 display_title: "Rumour, Belief and Collective Panic in Tajikistan"
-heading_title: When Fear Became Policy in Tajikistan
+heading_title: "Rumour, Belief and Collective Panic in Tajikistan"
 page_heading_title: "Rumour, Belief and Collective Panic in Tajikistan"
 source_count: 135
 infographic_count: 3

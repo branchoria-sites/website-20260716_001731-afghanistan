@@ -209,12 +209,12 @@ description: Libya has no well-documented equivalent of the Salem witch trials o
 hero_summary: Libya has no well-documented equivalent of the Salem witch trials or a classic “dancing plague”.
 layout: default
 permalink: /when-fear-became-power-in-libya/
-nav_short_title: When Fear Became Power in Libya
+nav_short_title: "Inside Libya's History of Public Fear"
 title: "Inside Libya's History of Public Fear"
-title_full: When Fear Became Power in Libya
-display_title_short: When Fear Became Power in Libya
+title_full: "Inside Libya's History of Public Fear"
+display_title_short: "Inside Libya's History of Public Fear"
 display_title: "Inside Libya's History of Public Fear"
-heading_title: When Fear Became Power in Libya
+heading_title: "Inside Libya's History of Public Fear"
 page_heading_title: "Inside Libya's History of Public Fear"
 source_count: 132
 infographic_count: 3

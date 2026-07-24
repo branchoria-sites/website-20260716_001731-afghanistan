@@ -209,12 +209,12 @@ description: Kyrgyzstan has no famous, securely documented equivalent of the Sal
 hero_summary: Kyrgyzstan has no famous, securely documented equivalent of the Salem witch trials, a medieval dancing plague or a nationwide outbreak of mass psychogenic illness.
 layout: default
 permalink: /kyrgyzstan/
-nav_short_title: When Fear Became a Public Force
+nav_short_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
-title_full: When Fear Became a Public Force
-display_title_short: When Fear Became a Public Force
+title_full: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
+display_title_short: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 display_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
-heading_title: When Fear Became a Public Force
+heading_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 page_heading_title: "How Panic, Rumour and Belief Took Hold in Kyrgyzstan"
 source_count: 113
 infographic_count: 2

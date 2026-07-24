@@ -209,12 +209,12 @@ description: Costa Rica has no well-documented equivalent of the Salem witch tri
 hero_summary: 'Costa Rica has no well-documented equivalent of the Salem witch trials, a fatal millenarian commune or a nationwide outbreak of mass psychogenic illness. Its most revealing episodes are subtler: religious controversies, press-driven scares and moments when unfamiliar people were treated as threats to the country’s moral order.'
 layout: default
 permalink: /when-fear-tested-costa-ricas-peaceful/
-nav_short_title: When Fear Tested Costa Rica's Peaceful Image
+nav_short_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-title_full: When Fear Tested Costa Rica's Peaceful Image
-display_title_short: When Fear Tested Costa Rica's Peaceful Image
+title_full: "Tracing Collective Fear and Contagious Belief in Costa Rica"
+display_title_short: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 display_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-heading_title: When Fear Tested Costa Rica's Peaceful Image
+heading_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 page_heading_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
 source_count: 139
 infographic_count: 3

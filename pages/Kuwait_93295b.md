@@ -209,12 +209,12 @@ description: Kuwait does not have a well-documented history of classic “mass h
 hero_summary: Kuwait does not have a well-documented history of classic “mass hysteria” episodes comparable with famous school fainting outbreaks, witch trials or apocalyptic communes elsewhere.
 layout: default
 permalink: /when-fear-belief-and-rumour-gripped/
-nav_short_title: When Fear, Belief and Rumour Gripped Kuwait
+nav_short_title: "Kuwait's History of Collective Fear and Belief"
 title: "Kuwait's History of Collective Fear and Belief"
-title_full: When Fear, Belief and Rumour Gripped Kuwait
-display_title_short: When Fear, Belief and Rumour Gripped Kuwait
+title_full: "Kuwait's History of Collective Fear and Belief"
+display_title_short: "Kuwait's History of Collective Fear and Belief"
 display_title: "Kuwait's History of Collective Fear and Belief"
-heading_title: When Fear, Belief and Rumour Gripped Kuwait
+heading_title: "Kuwait's History of Collective Fear and Belief"
 page_heading_title: "Kuwait's History of Collective Fear and Belief"
 source_count: 135
 infographic_count: 2
