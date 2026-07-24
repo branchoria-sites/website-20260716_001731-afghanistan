@@ -2811,8 +2811,13 @@ body.page-article .article-body > p > img:only-child,
 body.page-article .article-body > p > a:only-child > img:only-child,
 body.page-article .article-body > figure img,
 body.page-article .article-body > .page-media-action-shell-direct > img,
-body.page-article .article-body > .page-media-action-shell-direct > a > img {
+body.page-article .article-body > .page-media-action-shell-direct > a > img,
+body.page-article .article-body > p > .page-media-action-shell-direct > img,
+body.page-article .article-body > p > .page-media-action-shell-direct > a > img {
   max-height: var(--lead-image-max-height);
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
 }
 
 body.page-article figure figcaption,
