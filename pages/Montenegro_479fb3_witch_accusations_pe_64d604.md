@@ -331,7 +331,8 @@ Modern historians do not regard Montenegro as a centre of large-scale witch hunt
 
 The episode also challenges a common assumption that religious authorities always encouraged witch persecutions. In Montenegro, the country's leading Orthodox ruler publicly argued that belief in witches lacked credibility and conflicted with Christian doctrine. His position anticipated a more sceptical approach to supernatural accusations and offered official protection to people who might otherwise have become victims of community suspicion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zduha%C4%87" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-## The wider legacy of Witch Fears
+## Why the episode remains important
+
 The story of witch accusations and Petar I's intervention illustrates how collective fear can arise from ordinary hardship rather than extraordinary events. Illness, death and uncertainty encouraged communities to seek human explanations for misfortune, placing vulnerable individuals at risk.
 
 Equally important, it shows that moral panics are not inevitable. In Montenegro's case, political and religious authority could interrupt the spread of rumour by insisting on evidence, rejecting superstition and reminding communities that persecution itself caused real harm. Within Montenegro's broader history of collective belief, this episode stands as an example of leadership used to calm fear rather than inflame it.
@@ -342,89 +343,89 @@ Equally important, it shows that moral panics are not inevitable. In Montenegro'
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Stopped Montenegro&#x27;s Witch Accusations?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Stopped Montenegro&#x27;s Witch Accusations?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe&#x27;s inner demons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/140241-M.jpg" alt="Cover for Europe&#x27;s inner demons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-
-        <p class="fr-book-desc">Explains the origins of persecution and accusations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe&#x27;s inner demons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/140241-M.jpg" alt="Cover for Europe&#x27;s inner demons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
+        
+<p class="fr-book-desc">Explains the origins of persecution and accusations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
-        </h4>
-        <p class="fr-book-author">By Brian P. Levack</p>
-
-        <p class="fr-book-desc">Provides essential context for why Montenegro differed from other regions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
+</h4>
+<p class="fr-book-author">By Brian P. Levack</p>
+        
+<p class="fr-book-desc">Provides essential context for why Montenegro differed from other regions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witch: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The Witch: A History of Fear, from Ancient Times to the Present" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witch: A History of Fear, from Ancient Times to the Present">The Witch: A History of Fear, from Ancient Times to the Present</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Hutton</p>
-
-        <p class="fr-book-desc">Places local witch accusations within wider European history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witch: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The Witch: A History of Fear, from Ancient Times to the Present" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witch: A History of Fear, from Ancient Times to the Present">The Witch: A History of Fear, from Ancient Times to the Present</a>
+</h4>
+<p class="fr-book-author">By Ronald Hutton</p>
+        
+<p class="fr-book-desc">Places local witch accusations within wider European history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft: A History in Thirteen Trials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9234919-M.jpg" alt="Cover for Witchcraft: A History in Thirteen Trials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft: A History in Thirteen Trials">Witchcraft: A History in Thirteen Trials</a>
-        </h4>
-        <p class="fr-book-author">By Marion Gibson</p>
-
-        <p class="fr-book-desc">Shows how witch accusations evolved across cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft: A History in Thirteen Trials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9234919-M.jpg" alt="Cover for Witchcraft: A History in Thirteen Trials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft: A History in Thirteen Trials">Witchcraft: A History in Thirteen Trials</a>
+</h4>
+<p class="fr-book-author">By Marion Gibson</p>
+        
+<p class="fr-book-desc">Shows how witch accusations evolved across cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witchcraft%3A+A+History+in+Thirteen+Trials+Marion+Gibson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe%27s+inner+demons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe&#x27;s inner demons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Witch: A History of Fear, from Ancient Times to the Present</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe%27s+inner+demons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe&#x27;s inner demons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Witch: A History of Fear, from Ancient Times to the Present</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
@@ -507,4 +508,6 @@ Equally important, it shows that moral panics are not inevitable. In Montenegro'
 15.<a id="endnote-15"></a>
    Source: cambridge.org  
    Link:<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FC8FC66AD4E24B597D3475F6E51D8CF7/S1049754400101440a.pdf/div-class-title-catherine-ii-and-a-false-peter-iii-in-montenegro-div.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/FC8FC66AD4E24B597D3475F6E51D8CF7/S1049754400101440a.pdf/div-class-title-catherine-ii-and-a-false-peter-iii-in-montenegro-div.pdf</a>
+
+
 

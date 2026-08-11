@@ -325,7 +325,8 @@ Several factors helped the conspiracy survive repeated factual refutation.
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-dark.svg" | relative_url }}" alt="Sterilisation Rumours illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_sterilisation_rumour_cc5e59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What persisted after Sterilisation Rumours
+## Lasting significance
+
 The sterilisation rumours became one of the clearest examples in Sri Lanka of a false health claim producing real social harm.
 
 Unlike a panic centred on unexplained illness or supernatural fears, this was a conspiracy theory that transformed fabricated medical claims into justification for communal violence. The violence itself was real, even though the underlying allegation was not.
@@ -374,7 +375,7 @@ For historians of collective fear, the Ampara attack and the subsequent sterilis
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
 </h4>
 <p class="fr-book-author">By Jan-Willem van Prooijen</p>
-
+        
 <p class="fr-book-desc">Directly addresses belief in fabricated conspiracies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+by+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +392,7 @@ For historians of collective fear, the Ampara attack and the subsequent sterilis
 <a href="https://www.amazon.com/s?k=Republic+of+Lies+Anna+Merlan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Republic of Lies">Republic of Lies</a>
 </h4>
 <p class="fr-book-author">By Anna Merlan</p>
-
+        
 <p class="fr-book-desc">First published 2019. Subjects: Sociology, Conspiracy theories, Political culture, SOCIAL SCIENCE / Conspiracy Theories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Republic+of+Lies+Anna+Merlan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +409,7 @@ For historians of collective fear, the Ampara attack and the subsequent sterilis
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crowds and Power by Elias Canetti (1984-04-01)">Crowds and Power by Elias Canetti (1984-04-01)</a>
 </h4>
 <p class="fr-book-author">By Elias Canetti</p>
-
+        
 <p class="fr-book-desc">First published 1783.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

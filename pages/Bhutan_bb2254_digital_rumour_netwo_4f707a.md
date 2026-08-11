@@ -354,7 +354,7 @@ For historians and social scientists studying collective fear, Bhutan offers a u
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-
+        
 <p class="fr-book-desc">Shows why certain messages become memorable and viral.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For historians and social scientists studying collective fear, Bhutan offers a u
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
 </h4>
 <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
-
+        
 <p class="fr-book-desc">Focuses on evaluating dubious claims and misinformation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For historians and social scientists studying collective fear, Bhutan offers a u
 <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The influential mind">The influential mind</a>
 </h4>
 <p class="fr-book-author">By Tali Sharot</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Attitude change, Social influence, Neuropsychology, Influence (Psychology).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+influential+mind+Tali+Sharot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For historians and social scientists studying collective fear, Bhutan offers a u
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
 </h4>
 <p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
-
+        
 <p class="fr-book-desc">First published 1947.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

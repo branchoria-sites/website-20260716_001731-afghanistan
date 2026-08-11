@@ -209,13 +209,13 @@ description: Georgia’s history of collective fear is not dominated by a single
 hero_summary: Georgia’s history of collective fear is not dominated by a single famous witch craze, dance plague or apocalyptic sect.
 layout: default
 permalink: /when-fear-became-a-defence-of-georgia/
-nav_short_title: "Georgia: Panics, Beliefs and Mass Movements"
-title: "Georgia: Panics, Beliefs and Mass Movements"
-title_full: "Georgia: Panics, Beliefs and Mass Movements"
-display_title_short: "Georgia: Panics, Beliefs and Mass Movements"
-display_title: "Georgia: Panics, Beliefs and Mass Movements"
-heading_title: "Georgia: Panics, Beliefs and Mass Movements"
-page_heading_title: "Georgia: Panics, Beliefs and Mass Movements"
+nav_short_title: When Fear Became a Defence of Georgia
+title: When Fear Became a Defence of Georgia
+title_full: When Fear Became a Defence of Georgia
+display_title_short: When Fear Became a Defence of Georgia
+display_title: When Fear Became a Defence of Georgia
+heading_title: When Fear Became a Defence of Georgia
+page_heading_title: When Fear Became a Defence of Georgia
 source_count: 86
 infographic_count: 3
 page_website_name: Georgia
@@ -1356,7 +1356,8 @@ The 2024 restrictions marked a further shift. Earlier panics often worked throug
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OD5UeoesvAY" title="Georgia far-right groups protest at gay film premiere | AFP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OD5UeoesvAY" target="_blank" rel="noopener noreferrer">Georgia far-right groups protest at gay film premiere | AFP</a></p><p class="youtube-embed-meta">Channel: AFP News Agency</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OD5UeoesvAY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OD5UeoesvAY">Open on YouTube</a></p></div></div></div>
 
-## How Georgia entered public memory
+## Why this history still matters
+
 Georgia’s episodes of collective fear reveal how easily the language of protection can become a licence for exclusion. Religious attackers claimed to protect Orthodoxy. Anti-LGBT movements claimed to protect the family. Political campaigns claimed to protect sovereignty from foreign ideology. In each case, a vulnerable minority was made to carry the weight of much wider national anxieties.
 
 The comparison also shows why “cult” and “hysteria” must be used carefully. Jehovah’s Witnesses were called a dangerous sect, but the accusations against them were largely products of hostile labelling. LGBT organisations were depicted as an organised ideological movement seeking to corrupt children, but the evidence instead shows small civil-society groups seeking the ability to assemble without being attacked.
@@ -1383,7 +1384,7 @@ The most durable safeguard is not simply better factual correction. It is consis
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
 </h4>
 <p class="fr-book-author">By Jonathan Haidt</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1401,7 @@ The most durable safeguard is not simply better factual correction. It is consis
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
 </h4>
 <p class="fr-book-author">By Benedict Anderson</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Nationalism, History, Nationalisme, Nacionalismo, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1417,7 +1418,7 @@ The most durable safeguard is not simply better factual correction. It is consis
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox Church in the history of Russia">The Orthodox Church in the history of Russia</a>
 </h4>
 <p class="fr-book-author">By Dimitry Pospielovsky</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Church history, History, Influence, Orthodox Eastern Church, Russkai︠a︡ pravoslavnai︠a︡ t︠s︡erkovʹ.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1434,7 +1435,7 @@ The most durable safeguard is not simply better factual correction. It is consis
 <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
 </h4>
 <p class="fr-book-author">By Thompson, Kenneth</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Public opinion, Deviant behavior in mass media, Social problems in mass media, Social problems, Deviant b...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

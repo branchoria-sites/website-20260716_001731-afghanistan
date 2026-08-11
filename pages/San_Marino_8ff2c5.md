@@ -1328,7 +1328,7 @@ San Marino’s contribution to the history of collective belief is therefore qui
 <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
 </h4>
 <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-
+        
 <p class="fr-book-desc">First published 1975. Subjects: Witchcraft, History, Demonology, Church history, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ San Marino’s contribution to the history of collective belief is therefore qui
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ San Marino’s contribution to the history of collective belief is therefore qui
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford illustrated history of witchcraft and magic">The Oxford illustrated history of witchcraft and magic</a>
 </h4>
 <p class="fr-book-author">By Owen Davies</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: History, Magic, Witchcraft, Magic, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+illustrated+history+of+witchcraft+and+magic+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ San Marino’s contribution to the history of collective belief is therefore qui
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
 </h4>
 <p class="fr-book-author">By Ronald Hutton</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Witchcraft, Witch hunting, Witches, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

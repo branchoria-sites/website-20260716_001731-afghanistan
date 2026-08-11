@@ -311,7 +311,8 @@ Another persistent misunderstanding is that Haitian Vodou itself caused the dict
 
 <img src="{{ "/assets/images/Haiti_a4842f_duvalier_supernatura_3bc644-Illustration-3-dark.svg" | relative_url }}" alt="Duvalier Fear illustration 3" data-theme-src-dark="{{ "/assets/images/Haiti_a4842f_duvalier_supernatura_3bc644-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Haiti_a4842f_duvalier_supernatura_3bc644-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Duvalier Fear: fear, rumour and collective belief
+## Why this episode remains important
+
 Duvalier's manipulation of supernatural fear remains one of the clearest examples of how belief, rumour and political violence can reinforce one another. It belongs in Haiti's history of collective fear not because the country experienced a nationwide delusion, but because a dictatorship deliberately blurred the line between folklore, religion and state power.
 
 The case also serves as a reminder that rumours become especially powerful when they are backed by credible threats. Duvalier's image as an almost otherworldly ruler endured because people lived under constant surveillance and faced genuine risks for dissent. Historians therefore see his regime as an illustration of how authoritarian governments can weaponise cultural beliefs without requiring universal belief in the supernatural itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/jaar/article-abstract/74/2/420/764166" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicSecretism and the Apotheosis of Duvalier &#124; Journal of the American Academy of Religion &#124; Oxford AcademicApril 21, 2006...</span><span class="citation-popover-meta">Published: April 21, 2006</span></span></span>
@@ -339,7 +340,7 @@ The case also serves as a reminder that rumours become especially powerful when 
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
 </h4>
 <p class="fr-book-author">By C. L. R. James</p>
-
+        
 <p class="fr-book-desc">First published 1935. Subjects: History, Biography, Revolutionaries, Generals, Revolution, 1791-1804.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +357,7 @@ The case also serves as a reminder that rumours become especially powerful when 
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +374,7 @@ The case also serves as a reminder that rumours become especially powerful when 
 <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The uses of Haiti">The uses of Haiti</a>
 </h4>
 <p class="fr-book-author">By Paul Farmer</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Politics and government, Poor, Relations, Social conditions, Haiti.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+uses+of+Haiti+Paul+Farmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +391,7 @@ The case also serves as a reminder that rumours become especially powerful when 
 <a href="https://www.amazon.com/s?k=Papa+Doc+Bernard+Diederich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Papa Doc">Papa Doc</a>
 </h4>
 <p class="fr-book-author">By Bernard Diederich</p>
-
+        
 <p class="fr-book-desc">First published 1969. Subjects: History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Papa+Doc+Bernard+Diederich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

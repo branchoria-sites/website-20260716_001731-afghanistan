@@ -209,13 +209,13 @@ description: Costa Rica has no well-documented equivalent of the Salem witch tri
 hero_summary: 'Costa Rica has no well-documented equivalent of the Salem witch trials, a fatal millenarian commune or a nationwide outbreak of mass psychogenic illness. Its most revealing episodes are subtler: religious controversies, press-driven scares and moments when unfamiliar people were treated as threats to the country’s moral order.'
 layout: default
 permalink: /when-fear-tested-costa-ricas-peaceful/
-nav_short_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-title_full: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-display_title_short: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-display_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-heading_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
-page_heading_title: "Tracing Collective Fear and Contagious Belief in Costa Rica"
+nav_short_title: When Fear Tested Costa Rica's Peaceful Image
+title: When Fear Tested Costa Rica's Peaceful Image
+title_full: When Fear Tested Costa Rica's Peaceful Image
+display_title_short: When Fear Tested Costa Rica's Peaceful Image
+display_title: When Fear Tested Costa Rica's Peaceful Image
+heading_title: When Fear Tested Costa Rica's Peaceful Image
+page_heading_title: When Fear Tested Costa Rica's Peaceful Image
 source_count: 139
 infographic_count: 3
 page_website_name: Costa Rica Panics
@@ -1313,7 +1313,8 @@ The language used by authorities also matters. “Hysteria” carries a history 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EX9MNWOvCjs" title="Mortual - Altar of Brutality (FULL ALBUM)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EX9MNWOvCjs" target="_blank" rel="noopener noreferrer">Mortual - Altar of Brutality (FULL ALBUM)</a></p><p class="youtube-embed-meta">Channel: Rock And Metal Releases</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EX9MNWOvCjs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EX9MNWOvCjs">Open on YouTube</a></p></div></div></div>
 
-## The recurring pressures behind Costa Rica
+## What these episodes have in common
+
 Costa Rica’s panics differ in subject and severity, but the recurring mechanism is recognisable. A real event—a religious challenge, a handful of visitors, an epidemic, a concert or a pupil becoming ill—creates uncertainty. Public discussion then attaches that uncertainty to an already available fear: spiritual corruption, foreign influence, sexual disorder, Satanism or poisoning.
 
 The supposed threat is made visible through a group whose appearance or identity is easy to recognise. Authorities are pressured to act before the evidence is clear. Actions such as raids, exclusion or public denunciation then seem to confirm that a serious danger must have existed.
@@ -1337,89 +1338,89 @@ The most important distinction is between taking harm seriously and accepting th
 Seen together, Costa Rica’s miracle traditions, religious conflicts and moral panics form a history of contested belonging. Each episode raised the same underlying question: who counted as a respectable member of the nation, and who could be portrayed as an alien influence? The answers changed over time, but the social machinery of suspicion remained remarkably familiar.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Tested Costa Rica&#x27;s Peaceful Image. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Tested Costa Rica&#x27;s Peaceful Image. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imagined communities on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/652236-M.jpg" alt="Cover for Imagined communities" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Anderson</p>
-
-        <p class="fr-book-desc">Useful for understanding identity and national narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imagined communities on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/652236-M.jpg" alt="Cover for Imagined communities" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
+</h4>
+<p class="fr-book-author">By Benedict Anderson</p>
+        
+<p class="fr-book-desc">Useful for understanding identity and national narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Better Angels of Our Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3cWa-GnsfMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Better Angels of Our Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Better Angels of Our Nature">The Better Angels of Our Nature</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker</p>
-
-        <p class="fr-book-desc">Frames violence and social conflict in long-term perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Better Angels of Our Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=c3cWa-GnsfMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Better Angels of Our Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Better Angels of Our Nature">The Better Angels of Our Nature</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker</p>
+        
+<p class="fr-book-desc">Frames violence and social conflict in long-term perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Directly explains the moral panic framework used throughout the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Directly explains the moral panic framework used throughout the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
-        </h4>
-        <p class="fr-book-author">By Eduardo Galeano</p>
-
-        <p class="fr-book-desc">Provides regional historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Open Veins Of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
+</h4>
+<p class="fr-book-author">By Eduardo Galeano</p>
+        
+<p class="fr-book-desc">Provides regional historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imagined+communities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imagined communities</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imagined+communities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imagined communities</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

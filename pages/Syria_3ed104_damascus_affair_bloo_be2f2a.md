@@ -377,7 +377,7 @@ Its significance lies less in the disappearance itself than in the process that 
 <a href="https://www.amazon.com/s?k=Black+earth+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black earth">Black earth</a>
 </h4>
 <p class="fr-book-author">By Timothy Snyder</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Moral and ethical aspects, Genocide, Jews, World War, 1939-1945, Holocaust, Jewish (1939-1945).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Black+earth+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Its significance lies less in the disappearance itself than in the process that 
 <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anti-Judaism">Anti-Judaism</a>
 </h4>
 <p class="fr-book-author">By David Nirenberg</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Antisemitism, Jewish influences, Judaism and philosophy, Western Civilization, Ethnic relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Its significance lies less in the disappearance itself than in the process that 
 <a href="https://www.amazon.com/s?k=The+Damascus+affair+Jonathan+Frankel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Damascus affair">The Damascus affair</a>
 </h4>
 <p class="fr-book-author">By Jonathan Frankel</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Blood accusation, Jews, Ethnic relations, Persecutions, Jews, politics and government.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Damascus+affair+Jonathan+Frankel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Its significance lies less in the disappearance itself than in the process that 
 <a href="https://www.amazon.com/s?k=Blood+Libel+Magda+Teter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blood Libel">Blood Libel</a>
 </h4>
 <p class="fr-book-author">By Magda Teter</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Blood accusation, Christianity and antisemitism, Anti-jewish propaganda, Europe, history, Judaism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Blood+Libel+Magda+Teter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

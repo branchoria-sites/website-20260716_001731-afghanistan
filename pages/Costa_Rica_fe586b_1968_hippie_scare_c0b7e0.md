@@ -340,7 +340,8 @@ The resulting panic therefore said more about Costa Rican fears than about the i
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-hBh5gxiAKk" title="1968 ARCHIVE: &quot;The LSD Panic, Hippie CULTS, and the WAR ON ACID (Uncut)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-hBh5gxiAKk" target="_blank" rel="noopener noreferrer">1968 ARCHIVE: &quot;The LSD Panic, Hippie CULTS, and the WAR ON ACID (Uncut)</a></p><p class="youtube-embed-meta">Channel: Hezakya Newz &amp; Films</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-hBh5gxiAKk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-hBh5gxiAKk">Open on YouTube</a></p></div></div></div>
 
-## How Hippie Scare entered public memory
+## Why the episode still matters
+
 The 1968 hippie scare occupies an important place in Costa Rican social history because it demonstrates how collective fears can develop without requiring a large movement or widespread disorder. Around ten foreign visitors generated a national controversy that far exceeded their numbers or documented activities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.redalyc.org/journal/152/15264516025/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redalyc.org">[Redalyc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redalyc.org</span><span class="citation-popover-snippet">¡No más hippies! Identidad juvenil, memoria y pánico en la Guerra Fría: el mayo de 1968 en Costa RicaJune 20, 2020...</span><span class="citation-popover-meta">Published: June 20, 2020</span></span></span>
 
 The case also provides an early example of a pattern that would reappear in later Costa Rican moral panics. In different decades, new "outsider" groups—including people living with HIV, gay men during the AIDS crisis and heavy-metal fans—would likewise become symbols onto which broader social anxieties were projected. Although the targets changed, the underlying mechanism remained similar: visible minorities were treated as embodiments of perceived threats to morality, public order or national identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.redalyc.org/journal/152/15264516025/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redalyc.org">[Redalyc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redalyc.org</span><span class="citation-popover-snippet">¡No más hippies! Identidad juvenil, memoria y pánico en la Guerra Fría: el mayo de 1968 en Costa RicaJune 20, 2020...</span><span class="citation-popover-meta">Published: June 20, 2020</span></span></span>
@@ -353,89 +354,89 @@ Today, historians interpret the events of May 1968 less as evidence of an organi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Ten Hippies Alarmed a Nation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Ten Hippies Alarmed a Nation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Electric Kool-Aid Acid Test on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14839523-M.jpg" alt="Cover for The Electric Kool-Aid Acid Test" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Electric Kool-Aid Acid Test">The Electric Kool-Aid Acid Test</a>
-        </h4>
-        <p class="fr-book-author">By Tom Wolfe</p>
-
-        <p class="fr-book-desc">Captures public perceptions of the hippie movement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Electric Kool-Aid Acid Test on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14839523-M.jpg" alt="Cover for The Electric Kool-Aid Acid Test" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Electric Kool-Aid Acid Test">The Electric Kool-Aid Acid Test</a>
+</h4>
+<p class="fr-book-author">By Tom Wolfe</p>
+        
+<p class="fr-book-desc">Captures public perceptions of the hippie movement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Electric+Kool-Aid+Acid+Test+Tom+Wolfe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
-        </h4>
-        <p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
-
-        <p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk Devils and Moral Panics the Creation of the Mods and Rockers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266701-M.jpg" alt="Cover for Folk Devils and Moral Panics the Creation of the Mods and Rockers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk Devils and Moral Panics the Creation of the Mods and Rockers">Folk Devils and Moral Panics the Creation of the Mods and Roc...</a>
+</h4>
+<p class="fr-book-author">By Stanley Cohen, Stanley Cohen et al.</p>
+        
+<p class="fr-book-desc">First published 1972. Subjects: Youth, great britain, Deviant behavior, Case studies, Subculture, Young adults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers+Stanley+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Matches the page&#x27;s central analytical framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folk devils and moral panics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/266703-M.jpg" alt="Cover for Folk devils and moral panics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk devils and moral panics">Folk devils and moral panics</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Matches the page&#x27;s central analytical framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1968 The Year That Rocked The World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1968 The Year That Rocked The World">1968 The Year That Rocked The World</a>
-        </h4>
-        <p class="fr-book-author">By Mark Kurlansky</p>
-
-        <p class="fr-book-desc">Places the Costa Rican episode in international context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1968 The Year That Rocked The World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1968 The Year That Rocked The World">1968 The Year That Rocked The World</a>
+</h4>
+<p class="fr-book-author">By Mark Kurlansky</p>
+        
+<p class="fr-book-desc">Places the Costa Rican episode in international context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1968+The+Year+That+Rocked+The+World+Mark+Kurlansky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Electric+Kool+Aid+Acid+Test&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Electric Kool Aid Acid Test</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Devils and Moral Panics the Creation of the Mods and Rockers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Electric+Kool+Aid+Acid+Test&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Electric Kool Aid Acid Test</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+Devils+and+Moral+Panics+the+Creation+of+the+Mods+and+Rockers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk Devils and Moral Panics the Creation of the Mods and Rockers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Folk+devils+and+moral+panics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Folk devils and moral panics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

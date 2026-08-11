@@ -355,89 +355,89 @@ The Nizari Ismailis certainly practised targeted political violence, but the end
 Its survival into modern popular culture also shows how collective beliefs can outlast the circumstances that created them. Once repeated through chronicles, travel literature, novels and entertainment, stories that begin as polemic can become accepted as historical fact, even after the documentary record points towards a far more complex reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iis.ac.uk/scholarly-contributions/introduction-to-the-assassin-legends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iis.ac.uk">[The Institute of Ismaili Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iis.ac.uk</span><span class="citation-popover-title">The Institute of Ismaili Studies</span><span class="citation-popover-snippet">Introduction to The Assassin Legends...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Syria&#x27;s Assassins Really Brainwashed Killers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Syria&#x27;s Assassins Really Brainwashed Killers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Assassin Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2042095-M.jpg" alt="Cover for The Assassin Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Assassin Legends">The Assassin Legends</a>
-        </h4>
-        <p class="fr-book-author">By Farhad Daftary</p>
-
-        <p class="fr-book-desc">Debunks the famous legends surrounding the Assassins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Assassin Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2042095-M.jpg" alt="Cover for The Assassin Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Assassin Legends">The Assassin Legends</a>
+</h4>
+<p class="fr-book-author">By Farhad Daftary</p>
+        
+<p class="fr-book-desc">Debunks the famous legends surrounding the Assassins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Assassin+Legends+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Assassins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298192-M.jpg" alt="Cover for The Assassins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Assassins">The Assassins</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Directly examines the historical Nizari Ismailis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Assassins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298192-M.jpg" alt="Cover for The Assassins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Assassins">The Assassins</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Directly examines the historical Nizari Ismailis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Assassins+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ismailis: Their History and Doctrines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ismailis: Their History and Doctrines">The Ismailis: Their History and Doctrines</a>
-        </h4>
-        <p class="fr-book-author">By Farhad Daftary</p>
-
-        <p class="fr-book-desc">Provides broader historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ismailis: Their History and Doctrines on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ismailis: Their History and Doctrines">The Ismailis: Their History and Doctrines</a>
+</h4>
+<p class="fr-book-author">By Farhad Daftary</p>
+        
+<p class="fr-book-desc">Provides broader historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines+Farhad+Daftary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Crusades Through Arab Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crusades Through Arab Eyes">The Crusades Through Arab Eyes</a>
-        </h4>
-        <p class="fr-book-author">By Amin Maalouf</p>
-
-        <p class="fr-book-desc">Places the Syrian Assassins in regional politics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Crusades Through Arab Eyes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crusades Through Arab Eyes">The Crusades Through Arab Eyes</a>
+</h4>
+<p class="fr-book-author">By Amin Maalouf</p>
+        
+<p class="fr-book-desc">Places the Syrian Assassins in regional politics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Crusades+Through+Arab+Eyes+Amin+Maalouf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Assassin+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Assassin Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Assassins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Assassins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ismailis: Their History and Doctrines</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Assassin+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Assassin Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Assassins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Assassins</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ismailis%3A+Their+History+and+Doctrines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ismailis: Their History and Doctrines</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -209,13 +209,13 @@ description: Timor-Leste has no well-documented equivalent of the Salem trials, 
 hero_summary: Timor-Leste has no well-documented equivalent of the Salem trials, a classic millenarian cult or a nationwide outbreak of mass psychogenic illness.
 layout: default
 permalink: /timor-leste/
-nav_short_title: "Timor Leste: Panics, Beliefs and Mass Movements"
-title: "Timor Leste: Panics, Beliefs and Mass Movements"
-title_full: "Timor Leste: Panics, Beliefs and Mass Movements"
-display_title_short: "Timor Leste: Panics, Beliefs and Mass Movements"
-display_title: "Timor Leste: Panics, Beliefs and Mass Movements"
-heading_title: "Timor Leste: Panics, Beliefs and Mass Movements"
-page_heading_title: "Timor Leste: Panics, Beliefs and Mass Movements"
+nav_short_title: When Fear Became a Public Threat
+title: When Fear Became a Public Threat
+title_full: When Fear Became a Public Threat
+display_title_short: When Fear Became a Public Threat
+display_title: When Fear Became a Public Threat
+heading_title: When Fear Became a Public Threat
+page_heading_title: When Fear Became a Public Threat
 source_count: 124
 infographic_count: 3
 page_website_name: Timor Leste
@@ -1276,7 +1276,8 @@ Community mediation also has a legitimate role, provided it protects the accused
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YhDbHfVwr0g" title="Unsilenced Timor Leste: Stories of survival, hope and Activism" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YhDbHfVwr0g" target="_blank" rel="noopener noreferrer">Unsilenced Timor Leste: Stories of survival, hope and Activism</a></p><p class="youtube-embed-meta">Channel: UN Women Asia and the Pacific</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YhDbHfVwr0g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YhDbHfVwr0g">Open on YouTube</a></p></div></div></div>
 
-## Timor-Leste: fear, rumour and collective belief
+## Why this history still matters
+
 Timor-Leste’s cases show why collective fear should be studied without ridicule. Stories of witches or ninjas can sound extraordinary from a distance, but the resulting injuries, displacement and deaths were real. The beliefs spread because they supplied explanations in moments when medicine, law or government appeared unable to do so.
 
 They also reveal the danger of hostile labelling. Calling someone a witch can turn a neighbour into a legitimate target. Calling diverse youth or martial-arts networks “ninjas” can transform a complicated security problem into a hunt for an invisible enemy. In both situations, the label simplifies uncertainty, identifies a culprit and makes exceptional action seem reasonable.
@@ -1301,7 +1302,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=Rumor%2C+Fear+and+the+Madness+of+Crowds+J.+P.+Chaplin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rumor, Fear and the Madness of Crowds">Rumor, Fear and the Madness of Crowds</a>
 </h4>
 <p class="fr-book-author">By J. P. Chaplin</p>
-
+        
 <p class="fr-book-desc">First published 1959. Subjects: Hysteria (social psychology), Hysteria (Social psychology), Case studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rumor%2C+Fear+and+the+Madness+of+Crowds+J.+P.+Chaplin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1318,7 +1319,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=Believing+in+magic+Stuart+A.+Vyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Believing in magic">Believing in magic</a>
 </h4>
 <p class="fr-book-author">By Stuart A. Vyse, T. Gotterbarm et al.</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Superstition, PSYCHOLOGY / General, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Believing+in+magic+Stuart+A.+Vyse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1336,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
 </h4>
 <p class="fr-book-author">By Joseph Nevins</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Autonomy and independence movements, Violence, Political atrocities, History, Timor island.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1353,7 @@ The strongest conclusion is therefore not that Timor-Leste experienced periodic 
 <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
 </h4>
 <p class="fr-book-author">By Matthew Jardine</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: East Timor, Politics and government, Political atrocities, Autonomy and independence movements, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -349,7 +349,8 @@ Public commemorations have also become controversial. Annual memorial ceremonies
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iCrtjJ-xPBo" title="List of Koreans killed in 1923 Great Kanto Earthquake found in Japanese records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iCrtjJ-xPBo" target="_blank" rel="noopener noreferrer">List of Koreans killed in 1923 Great Kanto Earthquake found in Japanese records</a></p><p class="youtube-embed-meta">Channel: Arirang News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iCrtjJ-xPBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iCrtjJ-xPBo">Open on YouTube</a></p></div></div></div>
 
-## Kanto Rumours: fear, rumour and collective belief
+## Why the episode still matters
+
 The Kantō massacre illustrates how quickly fear can become persecution when rumours reinforce existing prejudice and receive official credibility. It demonstrates that misinformation becomes especially dangerous when institutions fail to challenge it—or actively contribute to its spread.
 
 For historians of collective fear, the episode is not simply an example of panic after a natural disaster. It shows how racial stereotypes, colonial power, emergency governance and unreliable information combined to produce organised violence. That combination makes the massacre one of the most significant and tragic examples of rumour-driven persecution in twentieth-century Japan.
@@ -360,89 +361,89 @@ For historians of collective fear, the episode is not simply an example of panic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Earthquake Rumours Turned Into Mass Killing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Earthquake Rumours Turned Into Mass Killing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
-        </h4>
-        <p class="fr-book-author">By James L. McClain</p>
-
-        <p class="fr-book-desc">Places the massacres in broader historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Japan, a modern history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/253086-M.jpg" alt="Cover for Japan, a modern history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japan, a modern history">Japan, a modern history</a>
+</h4>
+<p class="fr-book-author">By James L. McClain</p>
+        
+<p class="fr-book-desc">Places the massacres in broader historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Japan%2C+a+modern+history+James+L.+McClain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Modern History of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/123599-M.jpg" alt="Cover for A Modern History of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Gordon</p>
-
-        <p class="fr-book-desc">Explains modern Japanese politics and society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Modern History of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/123599-M.jpg" alt="Cover for A Modern History of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Modern History of Japan">A Modern History of Japan</a>
+</h4>
+<p class="fr-book-author">By Andrew Gordon</p>
+        
+<p class="fr-book-desc">Explains modern Japanese politics and society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Modern+History+of+Japan+Andrew+Gordon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8433686-M.jpg" alt="Cover for A history of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Japan">A history of Japan</a>
-        </h4>
-        <p class="fr-book-author">By Sansom, George Bailey Sir</p>
-
-        <p class="fr-book-desc">Background on Japan&#x27;s historical development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Japan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8433686-M.jpg" alt="Cover for A history of Japan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Japan">A history of Japan</a>
+</h4>
+<p class="fr-book-author">By Sansom, George Bailey Sir</p>
+        
+<p class="fr-book-desc">Background on Japan&#x27;s historical development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+Japan+Sansom%2C+George+Bailey+Sir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embracing Defeat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249899-M.jpg" alt="Cover for Embracing Defeat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Useful for understanding later debates over memory and state.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Embracing Defeat on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/249899-M.jpg" alt="Cover for Embracing Defeat" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Embracing Defeat">Embracing Defeat</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Useful for understanding later debates over memory and state.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Embracing+Defeat+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japan, a modern history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Modern History of Japan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Japan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Japan</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Japan%2C+a+modern+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japan, a modern history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Modern+History+of+Japan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Modern History of Japan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Japan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Japan</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

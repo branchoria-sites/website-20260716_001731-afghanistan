@@ -333,89 +333,89 @@ Forensic medicine asks what physical process caused death. Courts ask whether th
 The gradual expansion of criminal investigations, forensic examination and formal prosecution has strengthened the state's ability to reject violence based solely on supernatural accusation. At the same time, the persistence of customary beliefs reminds policymakers that evidence alone rarely resolves communal conflict unless it is accompanied by trusted institutions capable of convincing grieving families that justice has genuinely been done.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0379073803003803" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Alleged lethal sorcery in East Timor</span><span class="citation-popover-snippet">Alleged lethal sorcery in East Timor - ScienceDirectJanuary 6, 2004...</span><span class="citation-popover-meta">Published: January 6, 2004</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Decides What Really Happened?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Decides What Really Happened?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The poisoner&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6608485-M.jpg" alt="Cover for The poisoner&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The poisoner&#x27;s handbook">The poisoner&#x27;s handbook</a>
-        </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
-
-        <p class="fr-book-desc">Demonstrates how scientific investigation can replace rumour and suspicion with evidence when causes of death are disputed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The poisoner&#x27;s handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6608485-M.jpg" alt="Cover for The poisoner&#x27;s handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The poisoner&#x27;s handbook">The poisoner&#x27;s handbook</a>
+</h4>
+<p class="fr-book-author">By Deborah Blum</p>
+        
+<p class="fr-book-desc">Demonstrates how scientific investigation can replace rumour and suspicion with evidence when causes of death are disputed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+poisoner%27s+handbook+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8277855-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Jardine</p>
-
-        <p class="fr-book-desc">Helps explain the post-conflict state, competing authorities and fragile institutions within which sorcery-related disputes were adjudica...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open East Timor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8277855-M.jpg" alt="Cover for East Timor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="East Timor">East Timor</a>
+</h4>
+<p class="fr-book-author">By Matthew Jardine</p>
+        
+<p class="fr-book-desc">Helps explain the post-conflict state, competing authorities and fragile institutions within which sorcery-related disputes were adjudica...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=East+Timor+Matthew+Jardine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Nevins</p>
-
-        <p class="fr-book-desc">First published 2004. Subjects: Autonomy and independence movements, Violence, Political atrocities, History, Timor island.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Not-So-Distant Horror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1508310-M.jpg" alt="Cover for A Not-So-Distant Horror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Not-So-Distant Horror">A Not-So-Distant Horror</a>
+</h4>
+<p class="fr-book-author">By Joseph Nevins</p>
+        
+<p class="fr-book-desc">First published 2004. Subjects: Autonomy and independence movements, Violence, Political atrocities, History, Timor island.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Not-So-Distant+Horror+Joseph+Nevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
-        </h4>
-        <p class="fr-book-author">By T. H. Bingham</p>
-
-        <p class="fr-book-desc">Clarifies why courts require evidence, procedural fairness and legal standards rather than supernatural accusation or communal certainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rule of law on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rule of law">The rule of law</a>
+</h4>
+<p class="fr-book-author">By T. H. Bingham</p>
+        
+<p class="fr-book-desc">Clarifies why courts require evidence, procedural fairness and legal standards rather than supernatural accusation or communal certainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+rule+of+law+T.+H.+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The poisoner&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+poisoner%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The poisoner&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=East+Timor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">East Timor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Not+So+Distant+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Not So Distant Horror</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

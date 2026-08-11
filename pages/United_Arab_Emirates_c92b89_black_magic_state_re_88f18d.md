@@ -329,7 +329,7 @@ Within the broader history of collective fears in the UAE, allegations of black 
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ Within the broader history of collective fears in the UAE, allegations of black 
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
 </h4>
 <p class="fr-book-author">By Steven Taylor</p>
-
+        
 <p class="fr-book-desc">First published 2019.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ Within the broader history of collective fears in the UAE, allegations of black 
 <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of gold">City of gold</a>
 </h4>
 <p class="fr-book-author">By Jim Krane</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Capitalism, Economic conditions, History, Dubayy (united arab emirates : emirate), history, United arab e...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=City+of+gold+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Within the broader history of collective fears in the UAE, allegations of black 
 <a href="https://www.amazon.com/s?k=Magic+in+Islam+Michael+Muhammad+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic in Islam">Magic in Islam</a>
 </h4>
 <p class="fr-book-author">By Michael Muhammad Knight</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Islamic magic, Magic, Islam, RELIGION / Islam / General, RELIGION / Mysticism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic+in+Islam+Michael+Muhammad+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

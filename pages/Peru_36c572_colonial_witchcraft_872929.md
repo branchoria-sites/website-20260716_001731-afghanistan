@@ -304,7 +304,8 @@ Researchers also caution against assuming that every accusation reflected widesp
 
 <img src="{{ "/assets/images/Peru_36c572_colonial_witchcraft_872929-Illustration-3-dark.svg" | relative_url }}" alt="Witchcraft Trials illustration 3" data-theme-src-dark="{{ "/assets/images/Peru_36c572_colonial_witchcraft_872929-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_colonial_witchcraft_872929-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Witchcraft Trials entered public memory
+## Why this history remains important
+
 Colonial Peru demonstrates that accusations of witchcraft can function as instruments of governance rather than simply expressions of popular fear. By redefining Indigenous healing and sacred traditions as evidence of demonic activity, colonial authorities transformed cultural difference into religious crime.
 
 The campaigns left a lasting legacy. Many Indigenous healing traditions survived by adapting Catholic symbols, while others disappeared under sustained pressure. Modern historians increasingly view these prosecutions not as proof that Andean communities believed themselves to be witches, but as evidence of how colonial power reshaped religious language, legal categories and social authority. Understanding that distinction helps explain why accusations of witchcraft in colonial Peru were fundamentally about controlling belief, community leadership and cultural survival rather than uncovering supernatural crime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/6362989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The evolution of witchcraft and the meaning of healing in colonial Andean society - PubMed...</span></span></span>
@@ -315,89 +316,89 @@ The campaigns left a lasting legacy. Many Indigenous healing traditions survived
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Colonial Peru Turned Healing Into Heresy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Colonial Peru Turned Healing Into Heresy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
-        </h4>
-        <p class="fr-book-author">By Katherine Howe</p>
-
-        <p class="fr-book-desc">Shows how witchcraft accusations developed historically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
+</h4>
+<p class="fr-book-author">By Katherine Howe</p>
+        
+<p class="fr-book-desc">Shows how witchcraft accusations developed historically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
-        </h4>
-        <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-
-        <p class="fr-book-desc">Supplies wider colonial and Indigenous context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Oxford Handbook of the Incas on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
+</h4>
+<p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
+        
+<p class="fr-book-desc">Supplies wider colonial and Indigenous context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sorcery: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sorcery: A History of Fear, from Ancient Times to the Present">Sorcery: A History of Fear, from Ancient Times to the Present</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Hutton</p>
-
-        <p class="fr-book-desc">Provides comparative history of witchcraft accusations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sorcery: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sorcery: A History of Fear, from Ancient Times to the Present">Sorcery: A History of Fear, from Ancient Times to the Present</a>
+</h4>
+<p class="fr-book-author">By Ronald Hutton</p>
+        
+<p class="fr-book-desc">Provides comparative history of witchcraft accusations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Andes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
-        </h4>
-        <p class="fr-book-author">By Sabine Hyland</p>
-
-        <p class="fr-book-desc">Explains Indigenous ritual traditions targeted by colonial authorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Gods of the Andes on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of the Andes">Gods of the Andes</a>
+</h4>
+<p class="fr-book-author">By Sabine Hyland</p>
+        
+<p class="fr-book-desc">Explains Indigenous ritual traditions targeted by colonial authorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Gods+of+the+Andes+Sabine+Hyland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Oxford+of+the+Incas+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oxford of the Incas books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sorcery: A History of Fear, from Ancient Times to the Present</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Oxford+of+the+Incas+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Oxford of the Incas books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sorcery%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sorcery: A History of Fear, from Ancient Times to the Present</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

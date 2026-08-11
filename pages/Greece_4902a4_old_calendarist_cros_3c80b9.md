@@ -322,7 +322,8 @@ This distinction is important. Historians can document the spread and influence 
 
 <img src="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-dark.svg" | relative_url }}" alt="Old Calendarists illustration 3" data-theme-src-dark="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greece_4902a4_old_calendarist_cros_3c80b9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The wider legacy of Old Calendarists
+## Why the episode still matters
+
 The Mount Hymettus miracle remains one of modern Greece's most influential examples of collective religious belief shaping institutional history. It demonstrates how symbolic events can transform administrative disagreements into enduring questions of faith, authority and identity.
 
 Within the broader history of collective belief in Greece, the episode stands apart from vampire scares, blood-libel accusations or later Satanic panics. Rather than spreading fear through rumours of hidden threats, it spread conviction through the belief that heaven had visibly intervened in an ongoing religious controversy. Whether understood as miracle, shared religious experience or powerful communal narrative, the reported cross became one of the defining symbols of a schism that continues to influence Greek Orthodox life today.
@@ -345,7 +346,7 @@ Within the broader history of collective belief in Greece, the episode stands ap
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
 </h4>
 <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-
+        
 <p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +363,7 @@ Within the broader history of collective belief in Greece, the episode stands ap
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+Timothy+Ware&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox Church">The Orthodox Church</a>
 </h4>
 <p class="fr-book-author">By Timothy Ware</p>
-
+        
 <p class="fr-book-desc">First published 1993. Subjects: Orthodox Eastern Church.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+Timothy+Ware&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +380,7 @@ Within the broader history of collective belief in Greece, the episode stands ap
 <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, science, and religion, and other essays">Magic, science, and religion, and other essays</a>
 </h4>
 <p class="fr-book-author">By Bronisław Malinowski</p>
-
+        
 <p class="fr-book-desc">First published 1948. Subjects: Anthropology, Religion, Ethnology, Essays (single author), Magic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +397,7 @@ Within the broader history of collective belief in Greece, the episode stands ap
 <a href="https://www.amazon.com/s?k=The+Orthodox+way+Archimandrite+Kallistos+Ware&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox way">The Orthodox way</a>
 </h4>
 <p class="fr-book-author">By Archimandrite Kallistos Ware</p>
-
+        
 <p class="fr-book-desc">First published 1979. Subjects: Christianity, Essence, genius, nature, Doctrines, Orthodox Eastern Church, Eastern church Theology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Orthodox+way+Archimandrite+Kallistos+Ware&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

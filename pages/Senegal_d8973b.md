@@ -1281,7 +1281,8 @@ Calling the Layene a “cult” would obscure more than it explains. The term ha
 
 <img src="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" alt="How Fear and Belief Spread Across Senegal illustration 3" data-theme-src-dark="{{ "/assets/images/Senegal_d8973b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Senegal_d8973b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The recurring pressures behind Senegal
+## What these episodes have in common
+
 The [genital-theft panic]({{ 'genital-panic-bb6611/' | relative_url }}), [school trances]({{ 'school-trances/' | relative_url }}) and colonial suspicion of a prophetic community were very different events. One produced lethal mob violence; another involved clusters of bodily distress; the third became a stable religious tradition. Combining them under “mass hysteria” would erase those differences.
 
 They nevertheless reveal several shared mechanisms in Senegal’s history of contagious belief and fear.
@@ -1307,89 +1308,89 @@ The school episodes offer a different lesson. Medical checks are necessary, but 
 The Layene case supplies the final caution. Unconventional religious belief is not itself evidence of manipulation, madness or danger. Messianic movements can challenge political authority, but they can also become peaceful, organised traditions that offer moral reform and social belonging. Senegal’s experience shows why historians must distinguish a genuine panic from the hostile labelling of a minority—and why strange claims should be examined without turning unfamiliar people into monsters.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fear and Belief Spread Across Senegal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fear and Belief Spread Across Senegal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Offers historical examples of contagious beliefs, panics and collective misjudgements that complement the Senegalese cases discussed on t...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Offers historical examples of contagious beliefs, panics and collective misjudgements that complement the Senegalese cases discussed on t...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True Believer:Thoughts on the Nature of Mass Movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8284928-M.jpg" alt="Cover for The True Believer:Thoughts on the Nature of Mass Movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
-        </h4>
-        <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-
-        <p class="fr-book-desc">Examines why people join mass movements and how uncertainty, frustration, identity and persuasive belief systems generate collective action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True Believer:Thoughts on the Nature of Mass Movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8284928-M.jpg" alt="Cover for The True Believer:Thoughts on the Nature of Mass Movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
+</h4>
+<p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
+        
+<p class="fr-book-desc">Examines why people join mass movements and how uncertainty, frustration, identity and persuasive belief systems generate collective action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighting the Greater Jihad on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2653882-M.jpg" alt="Cover for Fighting the Greater Jihad" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighting the Greater Jihad">Fighting the Greater Jihad</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Provides essential context for Senegalese prophetic leadership, the Muridiyya and colonial officials&#x27; fear of unfamiliar religious moveme...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fighting the Greater Jihad on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2653882-M.jpg" alt="Cover for Fighting the Greater Jihad" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fighting the Greater Jihad">Fighting the Greater Jihad</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Provides essential context for Senegalese prophetic leadership, the Muridiyya and colonial officials&#x27; fear of unfamiliar religious moveme...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Rumor on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
-        </h4>
-        <p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
-
-        <p class="fr-book-desc">Explains the psychological and social mechanisms through which ambiguous information becomes distorted, repeated and collectively believed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Rumor on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Rumor">The Psychology of Rumor</a>
+</h4>
+<p class="fr-book-author">By Leo Postman Gordon W. Allport</p>
+        
+<p class="fr-book-desc">Explains the psychological and social mechanisms through which ambiguous information becomes distorted, repeated and collectively believed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Rumor+Leo+Postman+Gordon+W.+Allport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fighting the Greater Jihad</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fighting+the+Greater+Jihad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fighting the Greater Jihad</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

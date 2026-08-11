@@ -1366,7 +1366,7 @@ That approach preserves two principles that New Zealand’s past repeatedly show
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Useful for evaluating extraordinary public claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ That approach preserves two principles that New Zealand’s past repeatedly show
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History of New Zealand">The Penguin History of New Zealand</a>
 </h4>
 <p class="fr-book-author">By King, Michael</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: New zealand, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+History+of+New+Zealand+King%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ That approach preserves two principles that New Zealand’s past repeatedly show
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cults in Our Midst">Cults in Our Midst</a>
 </h4>
 <p class="fr-book-author">By Margaret Thaler Singer</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Brainwashing, Controversial literature, Cults, Persuasion (Psychology), Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Cults+in+Our+Midst+Margaret+Thaler+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1417,7 +1417,7 @@ That approach preserves two principles that New Zealand’s past repeatedly show
 <a href="https://www.amazon.com/s?k=Ka+whawhai+tonu+matou+%3D+Ranginui+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ka whawhai tonu matou =">Ka whawhai tonu matou =</a>
 </h4>
 <p class="fr-book-author">By Ranginui Walker</p>
-
+        
 <p class="fr-book-desc">First published 1990. Subjects: Politics and government, Race relations, Maori (New Zealand people), Social conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ka+whawhai+tonu+matou+%3D+Ranginui+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

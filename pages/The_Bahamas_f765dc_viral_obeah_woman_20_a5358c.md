@@ -374,7 +374,7 @@ For historians of collective belief, the case is significant not because it conf
 <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
 </h4>
 <p class="fr-book-author">By Gretchen McCulloch</p>
-
+        
 <p class="fr-book-desc">Useful background for understanding viral social media narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For historians of collective belief, the case is significant not because it conf
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For historians of collective belief, the case is significant not because it conf
 <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The death of expertise">The death of expertise</a>
 </h4>
 <p class="fr-book-author">By Thomas M. Nichols, Sean Pratt</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Higher Education, Sociology of Knowledge, Theory of Knowledge, Internet, Expertise.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+death+of+expertise+Thomas+M.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ For historians of collective belief, the case is significant not because it conf
 <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
 </h4>
 <p class="fr-book-author">By Jon Ronson</p>
-
+        
 <p class="fr-book-desc">Helps explain how online narratives can rapidly escalate.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

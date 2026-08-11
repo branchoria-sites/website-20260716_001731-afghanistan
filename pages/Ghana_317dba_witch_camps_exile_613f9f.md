@@ -383,7 +383,7 @@ For that reason, the camps occupy a distinctive place in Ghana's history of coll
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
 </h4>
 <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-
+        
 <p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For that reason, the camps occupy a distinctive place in Ghana's history of coll
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
 </h4>
 <p class="fr-book-author">By Adam Ashforth</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Witchcraft, africa, Witchcraft, Political aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For that reason, the camps occupy a distinctive place in Ghana's history of coll
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For that reason, the camps occupy a distinctive place in Ghana's history of coll
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

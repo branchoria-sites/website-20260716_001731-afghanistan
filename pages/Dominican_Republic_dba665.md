@@ -1320,7 +1320,7 @@ Above all, the Dominican Republic’s cult-and-panic history is not chiefly a ta
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1337,7 +1337,7 @@ Above all, the Dominican Republic’s cult-and-panic history is not chiefly a ta
 <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Silencing the past">Silencing the past</a>
 </h4>
 <p class="fr-book-author">By Michel-Rolph Trouillot</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Historiography, Historicism, Power (Social sciences), Historiographie, Historicisme.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Silencing+the+past+Michel-Rolph+Trouillot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1354,7 @@ Above all, the Dominican Republic’s cult-and-panic history is not chiefly a ta
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
 </h4>
 <p class="fr-book-author">By Michele Wucker</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Haiti, Haitians, Relations, International relations, Außenpolitik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1371,7 +1371,7 @@ Above all, the Dominican Republic’s cult-and-panic history is not chiefly a ta
 <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Alejo Carpentier The Kingdom of This World (Tra)">By Alejo Carpentier The Kingdom of This World (Tra)</a>
 </h4>
 <p class="fr-book-author">By Alejo Carpentier</p>
-
+        
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

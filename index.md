@@ -148,7 +148,23 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  share_page: Share
+  copy_link: Copy link
+  download_social_image: Download image
+  cite_page: Cite page
+  print_save: Print / save
+  share_opened: Share dialog opened
+  share_unavailable: Sharing unavailable; link copied
+  social_image_downloaded: Image download started
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -179,14 +195,18 @@ site_image_description: A crowded Kabul street, a girls' school courtyard and a 
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="KP" data-map-preview-preload="8">
+<header class="home-map-panel-intro">
 <nav class="interactive-map-region-nav" aria-label="Map regions">
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-label="Focus map on Africa"><span>Africa</span><small>53</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
-<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-pressed="false" aria-label="Focus map on Africa"><span>Africa</span><small>53</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-pressed="false" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-pressed="false" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-pressed="false" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-pressed="false" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
 </nav>
+<h1 class="home-map-panel-title">Explore UFO reports worldwide</h1>
+<p class="home-map-panel-note">Use the map to explore a country file, or browse the full country list.</p>
+</header>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="KP" data-map-preview-preload="8">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
@@ -203,7 +223,6 @@ site_image_description: A crowded Kabul street, a girls' school courtyard and a 
 <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
 </article>
 </section>
-<p class="home-map-panel-note">Use the map to jump into a country file, or browse the full country list below.</p>
-<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
+<p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all countries</a></p>
 </section>
 

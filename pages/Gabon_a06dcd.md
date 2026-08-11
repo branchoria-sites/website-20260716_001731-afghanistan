@@ -209,13 +209,13 @@ description: Gabon does not have a well-documented history of classic “mass hy
 hero_summary: 'Gabon does not have a well-documented history of classic “mass hysteria” episodes such as dancing plagues or school-wide fainting outbreaks. Its strongest contribution to the history of contagious belief and collective fear lies elsewhere: anti-sorcery movements, colonial scares about indigenous religion, and modern public alarm over alleged ritual killings.'
 layout: default
 permalink: /when-fear-faith-and-power-collided-in-3d979f/
-nav_short_title: "Gabon: Panics, Beliefs and Mass Movements"
-title: "Gabon: Panics, Beliefs and Mass Movements"
-title_full: "Gabon: Panics, Beliefs and Mass Movements"
-display_title_short: "Gabon: Panics, Beliefs and Mass Movements"
-display_title: "Gabon: Panics, Beliefs and Mass Movements"
-heading_title: "Gabon: Panics, Beliefs and Mass Movements"
-page_heading_title: "Gabon: Panics, Beliefs and Mass Movements"
+nav_short_title: When Fear, Faith and Power Collided in Gabon
+title: When Fear, Faith and Power Collided in Gabon
+title_full: When Fear, Faith and Power Collided in Gabon
+display_title_short: When Fear, Faith and Power Collided in Gabon
+display_title: When Fear, Faith and Power Collided in Gabon
+heading_title: When Fear, Faith and Power Collided in Gabon
+page_heading_title: When Fear, Faith and Power Collided in Gabon
 source_count: 97
 infographic_count: 3
 page_website_name: Gabon
@@ -1321,89 +1321,89 @@ Gabon remains culturally important to the study of panics and contagious belief 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear, Faith and Power Collided in Gabon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear, Faith and Power Collided in Gabon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Bough on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8876695-M.jpg" alt="Cover for The Golden Bough" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
-        </h4>
-        <p class="fr-book-author">By James George Frazer</p>
-
-        <p class="fr-book-desc">Useful background on comparative ideas about ritual, magic and social belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golden Bough on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8876695-M.jpg" alt="Cover for The Golden Bough" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
+</h4>
+<p class="fr-book-author">By James George Frazer</p>
+        
+<p class="fr-book-desc">Useful background on comparative ideas about ritual, magic and social belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7503891-M.jpg" alt="Cover for African Religions A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions A Very Short Introduction">African Religions A Very Short Introduction</a>
-        </h4>
-        <p class="fr-book-author">By Jacob K. Olupona</p>
-
-        <p class="fr-book-desc">Explains indigenous belief systems often misunderstood by colonial authorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African Religions A Very Short Introduction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7503891-M.jpg" alt="Cover for African Religions A Very Short Introduction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Religions A Very Short Introduction">African Religions A Very Short Introduction</a>
+</h4>
+<p class="fr-book-author">By Jacob K. Olupona</p>
+        
+<p class="fr-book-desc">Explains indigenous belief systems often misunderstood by colonial authorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+Introduction+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Helps readers understand political conditions shaping public fears and power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Helps readers understand political conditions shaping public fears and power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African traditional religions in contemporary society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273340-M.jpg" alt="Cover for African traditional religions in contemporary society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
-        </h4>
-        <p class="fr-book-author">By Jacob K. Olupona</p>
-
-        <p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African traditional religions in contemporary society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273340-M.jpg" alt="Cover for African traditional religions in contemporary society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
+</h4>
+<p class="fr-book-author">By Jacob K. Olupona</p>
+        
+<p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions A Very Short books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golden+Bough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golden Bough</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Religions+A+Very+Short+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Religions A Very Short books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

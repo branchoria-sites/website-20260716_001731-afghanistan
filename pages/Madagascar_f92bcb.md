@@ -209,13 +209,13 @@ description: Madagascar’s history of collective fear is not dominated by one n
 hero_summary: Madagascar’s history of collective fear is not dominated by one neat “mass hysteria” episode.
 layout: default
 permalink: /when-fear-and-belief-reshaped-madagascar/
-nav_short_title: "Inside Madagascar's History of Public Fear"
-title: "Inside Madagascar's History of Public Fear"
-title_full: "Inside Madagascar's History of Public Fear"
-display_title_short: "Inside Madagascar's History of Public Fear"
-display_title: "Inside Madagascar's History of Public Fear"
-heading_title: "Inside Madagascar's History of Public Fear"
-page_heading_title: "Inside Madagascar's History of Public Fear"
+nav_short_title: When Fear and Belief Reshaped Madagascar
+title: When Fear and Belief Reshaped Madagascar
+title_full: When Fear and Belief Reshaped Madagascar
+display_title_short: When Fear and Belief Reshaped Madagascar
+display_title: When Fear and Belief Reshaped Madagascar
+heading_title: When Fear and Belief Reshaped Madagascar
+page_heading_title: When Fear and Belief Reshaped Madagascar
 source_count: 138
 infographic_count: 3
 page_website_name: Madagascar
@@ -1272,7 +1272,8 @@ Together, Nosy Be and Ikongo show the difference between a baseless scare and a 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OEKFHWD_9iU" title="Anger mounts in Madagascar following deadly police shooting of mob • FRANCE 24 English" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OEKFHWD_9iU" target="_blank" rel="noopener noreferrer">Anger mounts in Madagascar following deadly police shooting of mob • FRANCE 24 English</a></p><p class="youtube-embed-meta">Channel: FRANCE 24 English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OEKFHWD_9iU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OEKFHWD_9iU">Open on YouTube</a></p></div></div></div>
 
-## The recurring pressures behind Madagascar
+## What these episodes reveal
+
 Madagascar’s record does not support a simple story in which old supernatural beliefs gradually gave way to modern reason. Witchcraft accusations, Christian exorcism, ancestral possession, trafficking rumours and political conspiracy stories have existed alongside courts, schools, hospitals, newspapers and state administration. Modern institutions can weaken panics, but they can also create the secrecy, inequality or mistrust in which panics thrive.
 
 Several distinctions help make sense of the evidence:
@@ -1298,38 +1299,38 @@ Madagascar’s history therefore offers a warning against two opposite mistakes.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear and Belief Reshaped Madagascar. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear and Belief Reshaped Madagascar. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
-        </h4>
-        <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-
-        <p class="fr-book-desc">Provides comparative context for Malagasy belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The anthropology of religion, magic, and witchcraft on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13164054-M.jpg" alt="Cover for The anthropology of religion, magic, and witchcraft" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
+</h4>
+<p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
+        
+<p class="fr-book-desc">Provides comparative context for Malagasy belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

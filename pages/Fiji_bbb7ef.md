@@ -1306,7 +1306,8 @@ Three distinctions keep the history clear:
 
 <img src="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-dark.svg" | relative_url }}" alt="When Belief, Fear and Power Collided in Fiji illustration 3" data-theme-src-dark="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fiji_bbb7ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What connects the episodes around Fiji
+## What these episodes reveal
+
 Fiji’s most significant stories of contagious belief are also stories about authority. British officials feared Tuka because independent prophecy challenged their preferred chiefs and missionary order. Pentecostal campaigns against witchcraft can transfer authority from ancestors, elders and healers to pastors who claim exclusive power over evil. Grace Road’s apocalyptic message helped move followers across borders into a community where religious leadership, work, family life and business were closely connected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thinkpacific.com/app/uploads/2020/06/The-Tuka-movement.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkpacific.com">[thinkpacific.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkpacific.com</span><span class="citation-popover-title">Think Pacific British Colonial Constructions of the Tuka Movement</span><span class="citation-popover-snippet">Think Pacific British Colonial Constructions of the Tuka Movement</span></span></span>
 
 Social pressure helped each episode spread, but in different ways. Tuka drew strength from dispossession and shared hopes of political reversal. Witchcraft narratives can organise confusing misfortune into a morally certain explanation. Grace Road combined fear of catastrophe with obedience, isolation, economic dependence and the promise of collective survival. None requires the assumption that participants lacked intelligence. People adopt extraordinary beliefs when those beliefs answer immediate questions about danger, suffering, injustice and belonging.
@@ -1319,89 +1320,89 @@ The enduring lesson is that collective fear should be investigated without ridic
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Belief, Fear and Power Collided in Fiji. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Belief, Fear and Power Collided in Fiji. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
-        </h4>
-        <p class="fr-book-author">By Wade Davis</p>
-
-        <p class="fr-book-desc">Connects healing, belief and society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
+</h4>
+<p class="fr-book-author">By Wade Davis</p>
+        
+<p class="fr-book-desc">Connects healing, belief and society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
-        </h4>
-        <p class="fr-book-author">By Lamont Lindstrom</p>
-
-        <p class="fr-book-desc">Strong background for Fiji&#x27;s prophetic movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
+</h4>
+<p class="fr-book-author">By Lamont Lindstrom</p>
+        
+<p class="fr-book-desc">Strong background for Fiji&#x27;s prophetic movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The kingdom of Matthias on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9468678-M.jpg" alt="Cover for The kingdom of Matthias" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdom of Matthias">The kingdom of Matthias</a>
-        </h4>
-        <p class="fr-book-author">By Johnson, Paul E.</p>
-
-        <p class="fr-book-desc">Useful comparison for religious movements and social fear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The kingdom of Matthias on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9468678-M.jpg" alt="Cover for The kingdom of Matthias" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The kingdom of Matthias">The kingdom of Matthias</a>
+</h4>
+<p class="fr-book-author">By Johnson, Paul E.</p>
+        
+<p class="fr-book-desc">Useful comparison for religious movements and social fear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+kingdom+of+Matthias+Johnson%2C+Paul+E.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Ritual to Romance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/440452-M.jpg" alt="Cover for From Ritual to Romance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Ritual to Romance">From Ritual to Romance</a>
-        </h4>
-        <p class="fr-book-author">By Jessie L. Weston</p>
-
-        <p class="fr-book-desc">Broadly explores belief and ritual.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Ritual to Romance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/440452-M.jpg" alt="Cover for From Ritual to Romance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Ritual to Romance">From Ritual to Romance</a>
+</h4>
+<p class="fr-book-author">By Jessie L. Weston</p>
+        
+<p class="fr-book-desc">Broadly explores belief and ritual.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=From+Ritual+to+Romance+Jessie+L.+Weston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+kingdom+of+Matthias&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The kingdom of Matthias</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+kingdom+of+Matthias&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The kingdom of Matthias</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

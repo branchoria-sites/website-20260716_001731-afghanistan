@@ -1351,7 +1351,7 @@ The most useful question is therefore not whether a belief sounds strange to out
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
 </h4>
 <p class="fr-book-author">By Adam Hochschild</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Politics and government, Race relations, Forced labor, Human rights movements, Indigenous peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ The most useful question is therefore not whether a belief sounds strange to out
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ The most useful question is therefore not whether a belief sounds strange to out
 <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa&#x27;s world war">Africa&#x27;s world war</a>
 </h4>
 <p class="fr-book-author">By Gérard Prunier</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Genocide, Geopolitics, Political violence, Political aspects, Refugees.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa%27s+world+war+Ge%CC%81rard+Prunier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1402,7 +1402,7 @@ The most useful question is therefore not whether a belief sounds strange to out
 <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dancing in the Glory of Monsters">Dancing in the Glory of Monsters</a>
 </h4>
 <p class="fr-book-author">By Jason K. Stearns</p>
-
+        
 <p class="fr-book-desc">First published 2025.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dancing+in+the+Glory+of+Monsters+Jason+K.+Stearns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

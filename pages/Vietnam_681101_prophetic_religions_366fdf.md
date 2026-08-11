@@ -385,7 +385,7 @@ For anyone studying collective belief in Vietnam, they are therefore best unders
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
 </h4>
 <p class="fr-book-author">By Benedict Anderson</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Nationalism, History, Nationalisme, Nacionalismo, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For anyone studying collective belief in Vietnam, they are therefore best unders
 <a href="https://www.amazon.com/s?k=The+sacred+canopy+Peter+L.+Berger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sacred canopy">The sacred canopy</a>
 </h4>
 <p class="fr-book-author">By Peter L. Berger</p>
-
+        
 <p class="fr-book-desc">First published 1967. Subjects: Religion and sociology, Godsdienstsociologie, Religião, Sociologia (teoria), Sociologie religieuse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+sacred+canopy+Peter+L.+Berger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For anyone studying collective belief in Vietnam, they are therefore best unders
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
 </h4>
 <p class="fr-book-author">By Stanley Karnow</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: History, Vietnam War, 1961-1975, Vietnamese Conflict, 1961-1975, Historia, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For anyone studying collective belief in Vietnam, they are therefore best unders
 <a href="https://www.amazon.com/s?k=Protestant+Ethic+and+the+Spirit+of+Capitalism+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Protestant Ethic and the Spirit of Capitalism">Protestant Ethic and the Spirit of Capitalism</a>
 </h4>
 <p class="fr-book-author">By Max Weber</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Capitalism, Work ethic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Protestant+Ethic+and+the+Spirit+of+Capitalism+Max+Weber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

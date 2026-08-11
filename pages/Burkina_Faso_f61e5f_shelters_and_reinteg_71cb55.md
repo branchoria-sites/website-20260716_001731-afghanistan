@@ -358,7 +358,7 @@ This helps explain why the history of witchcraft accusations in Burkina Faso can
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
 </h4>
 <p class="fr-book-author">By Anne Fadiman</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ This helps explain why the history of witchcraft accusations in Burkina Faso can
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ This helps explain why the history of witchcraft accusations in Burkina Faso can
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ This helps explain why the history of witchcraft accusations in Burkina Faso can
 <a href="https://www.amazon.com/s?k=Half+the+sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Half the sky">Half the sky</a>
 </h4>
 <p class="fr-book-author">By Nicholas D. Kristof, Sheryl WuDunn</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Sociology, New York Times bestseller, Crimes against, Case studies, Nonfiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Half+the+sky+Nicholas+D.+Kristof&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

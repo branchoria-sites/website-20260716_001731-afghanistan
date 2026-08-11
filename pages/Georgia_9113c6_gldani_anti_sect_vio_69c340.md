@@ -354,7 +354,7 @@ Today, the Gldani attacks remain the defining example of modern religious persec
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
 </h4>
 <p class="fr-book-author">By Jonathan Haidt</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Political psychology, Social psychology, Ethics, Religious Psychology, nyt:combined-print-and-e-book-nonf...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Righteous+Mind+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Today, the Gldani attacks remain the defining example of modern religious persec
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
 </h4>
 <p class="fr-book-author">By Benedict Anderson</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Nationalism, History, Nationalisme, Nacionalismo, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Today, the Gldani attacks remain the defining example of modern religious persec
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox Church in the history of Russia">The Orthodox Church in the history of Russia</a>
 </h4>
 <p class="fr-book-author">By Dimitry Pospielovsky</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Church history, History, Influence, Orthodox Eastern Church, Russkai︠a︡ pravoslavnai︠a︡ t︠s︡erkovʹ.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+in+the+history+of+Russia+Dimitry+Pospielovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Today, the Gldani attacks remain the defining example of modern religious persec
 <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moral panics">Moral panics</a>
 </h4>
 <p class="fr-book-author">By Thompson, Kenneth</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Public opinion, Deviant behavior in mass media, Social problems in mass media, Social problems, Deviant b...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Moral+panics+Thompson%2C+Kenneth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

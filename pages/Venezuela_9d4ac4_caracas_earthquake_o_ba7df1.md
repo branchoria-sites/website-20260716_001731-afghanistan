@@ -319,7 +319,8 @@ The second depended entirely on human interpretation rather than geological real
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sua_QeQl4M0" title="1812 Caracas earthquake | Wikipedia audio article" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sua_QeQl4M0" target="_blank" rel="noopener noreferrer">1812 Caracas earthquake | Wikipedia audio article</a></p><p class="youtube-embed-meta">Channel: wikipedia tts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sua_QeQl4M0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sua_QeQl4M0">Open on YouTube</a></p></div></div></div>
 
-## What 1812 Earthquake reveals about public fear
+## Why the episode still matters
+
 The 1812 Caracas earthquake remains one of Latin America's clearest examples of a natural disaster becoming a political omen. It illustrates how societies under extreme stress often seek moral or supernatural explanations for catastrophic events, especially when those events occur during periods of revolution, war or social upheaval.
 
 For historians of collective belief, the episode is significant not because it demonstrates irrationality, but because it reveals how fear, religion and politics can reinforce one another. The earthquake did not create royalist opposition, nor did it create religious belief. Instead, it provided a dramatic event around which existing convictions could be organised and amplified.
@@ -349,7 +350,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
 </h4>
 <p class="fr-book-author">By Simon Winchester</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Geologists, Stratigraphic Geology, Biography, History, Geography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +367,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=The+earthquake+that+never+went+away+David+Stewart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earthquake that never went away">The earthquake that never went away</a>
 </h4>
 <p class="fr-book-author">By David Stewart</p>
-
+        
 <p class="fr-book-desc">First published 1993. Subjects: Earthquakes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+earthquake+that+never+went+away+David+Stewart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +384,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Open Veins Of Latin America">Open Veins Of Latin America</a>
 </h4>
 <p class="fr-book-author">By Eduardo Galeano</p>
-
+        
 <p class="fr-book-desc">First published 2008.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Open+Veins+Of+Latin+America+Eduardo+Galeano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +401,7 @@ The episode also serves as a reminder that interpretations of disasters are rare
 <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolívar">Bolívar</a>
 </h4>
 <p class="fr-book-author">By Arana, Marie (Writer)</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Wars of Independence (South America : 1806-1830) fast (OCoLC)fst01355310, Heads of state, Biography, Hist...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bol%C3%ADvar+Arana%2C+Marie+%28Writer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -379,89 +379,89 @@ Equally significant is what happened afterwards. Appeals, judicial caution and g
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Finland&#x27;s Witch Trials Escalate?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Finland&#x27;s Witch Trials Escalate?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
-        </h4>
-        <p class="fr-book-author">By Brian P. Levack</p>
-
-        <p class="fr-book-desc">Best single-volume context for Finnish witch trials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch-hunt in early modern Europe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/380923-M.jpg" alt="Cover for The witch-hunt in early modern Europe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
+</h4>
+<p class="fr-book-author">By Brian P. Levack</p>
+        
+<p class="fr-book-desc">Best single-volume context for Finnish witch trials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe&#x27;s inner demons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/140241-M.jpg" alt="Cover for Europe&#x27;s inner demons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
-        </h4>
-        <p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
-
-        <p class="fr-book-desc">Traces origins of conspiracy beliefs behind witch hunts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe&#x27;s inner demons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/140241-M.jpg" alt="Cover for Europe&#x27;s inner demons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe&#x27;s inner demons">Europe&#x27;s inner demons</a>
+</h4>
+<p class="fr-book-author">By Norman Rufus Colin Cohn, Norman Cohn et al.</p>
+        
+<p class="fr-book-desc">Traces origins of conspiracy beliefs behind witch hunts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Europe%27s+inner+demons+Norman+Rufus+Colin+Cohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft in Europe, 400-1700 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10037219-M.jpg" alt="Cover for Witchcraft in Europe, 400-1700" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Europe, 400-1700">Witchcraft in Europe, 400-1700</a>
-        </h4>
-        <p class="fr-book-author">By Alan Charles Kors, Edward Peters</p>
-
-        <p class="fr-book-desc">Includes key legal and theological texts relevant to Scandinavian cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft in Europe, 400-1700 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10037219-M.jpg" alt="Cover for Witchcraft in Europe," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft in Europe,">Witchcraft in Europe,</a>
+</h4>
+<p class="fr-book-author">By Alan Charles Kors, Edward Peters</p>
+        
+<p class="fr-book-desc">Includes key legal and theological texts relevant to Scandinavian cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400-1700+Alan+Charles+Kors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witch craze on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162338-M.jpg" alt="Cover for Witch craze" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witch craze">Witch craze</a>
-        </h4>
-        <p class="fr-book-author">By Lyndal Roper</p>
-
-        <p class="fr-book-desc">Offers comparative insight into escalation and judicial panic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witch craze on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162338-M.jpg" alt="Cover for Witch craze" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witch craze">Witch craze</a>
+</h4>
+<p class="fr-book-author">By Lyndal Roper</p>
+        
+<p class="fr-book-desc">Offers comparative insight into escalation and judicial panic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witch+craze+Lyndal+Roper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe%27s+inner+demons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe&#x27;s inner demons</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400+1700&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft in Europe, 400 1700</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch+hunt+in+early+modern+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch hunt in early modern Europe</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe%27s+inner+demons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe&#x27;s inner demons</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft+in+Europe%2C+400+1700&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft in Europe,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

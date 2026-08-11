@@ -209,13 +209,13 @@ description: Albania’s clearest episode of contagious collective belief was no
 hero_summary: Albania’s clearest episode of contagious collective belief was not a witch craze or an outbreak of unexplained illness. It was the nationwide investment fever that preceded the collapse of fraudulent financial schemes in 1996–97.
 layout: default
 permalink: /when-fear-and-belief-shook-albania/
-nav_short_title: "How Panic, Rumour and Belief Took Hold in Albania"
-title: "How Panic, Rumour and Belief Took Hold in Albania"
-title_full: "How Panic, Rumour and Belief Took Hold in Albania"
-display_title_short: "How Panic, Rumour and Belief Took Hold in Albania"
-display_title: "How Panic, Rumour and Belief Took Hold in Albania"
-heading_title: "How Panic, Rumour and Belief Took Hold in Albania"
-page_heading_title: "How Panic, Rumour and Belief Took Hold in Albania"
+nav_short_title: When Fear and Belief Shook Albania
+title: When Fear and Belief Shook Albania
+title_full: When Fear and Belief Shook Albania
+display_title_short: When Fear and Belief Shook Albania
+display_title: When Fear and Belief Shook Albania
+heading_title: When Fear and Belief Shook Albania
+page_heading_title: When Fear and Belief Shook Albania
 source_count: 140
 infographic_count: 3
 page_website_name: Albania
@@ -1288,89 +1288,89 @@ The 1997 disaster remains Albania’s most important example because collective 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear and Belief Shook Albania. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear and Belief Shook Albania. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War and the Great Powers, 1804-2012" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War and the Great Powers, 1804-2012">The Balkans: Nationalism, War and the Great Powers, 1804-2012</a>
-        </h4>
-        <p class="fr-book-author">By Mark Mazower</p>
-
-        <p class="fr-book-desc">Places Albania&#x27;s crises in regional historical context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War and the Great Powers," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War and the Great Powers,">The Balkans: Nationalism, War and the Great Powers,</a>
+</h4>
+<p class="fr-book-author">By Mark Mazower</p>
+        
+<p class="fr-book-desc">Places Albania&#x27;s crises in regional historical context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The age of extremes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/456406-M.jpg" alt="Cover for The age of extremes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The age of extremes">The age of extremes</a>
-        </h4>
-        <p class="fr-book-author">By Eric Hobsbawm</p>
-
-        <p class="fr-book-desc">Explains the twentieth-century forces shaping Albania.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The age of extremes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/456406-M.jpg" alt="Cover for The age of extremes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The age of extremes">The age of extremes</a>
+</h4>
+<p class="fr-book-author">By Eric Hobsbawm</p>
+        
+<p class="fr-book-desc">Explains the twentieth-century forces shaping Albania.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+age+of+extremes+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Ruthless Economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126364-M.jpg" alt="Cover for The New Ruthless Economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Ruthless Economy">The New Ruthless Economy</a>
-        </h4>
-        <p class="fr-book-author">By Simon Head</p>
-
-        <p class="fr-book-desc">Helps frame systemic change and economic instability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Ruthless Economy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126364-M.jpg" alt="Cover for The New Ruthless Economy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Ruthless Economy">The New Ruthless Economy</a>
+</h4>
+<p class="fr-book-author">By Simon Head</p>
+        
+<p class="fr-book-desc">Helps frame systemic change and economic instability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+New+Ruthless+Economy+Simon+Head&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Free: Coming of Age at the End of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14622179-M.jpg" alt="Cover for Free: Coming of Age at the End of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Free: Coming of Age at the End of History">Free: Coming of Age at the End of History</a>
-        </h4>
-        <p class="fr-book-author">By Lea Ypi</p>
-
-        <p class="fr-book-desc">Describes life through Albania&#x27;s transition from communism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Free: Coming of Age at the End of History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14622179-M.jpg" alt="Cover for Free: Coming of Age at the End of History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Free: Coming of Age at the End of History">Free: Coming of Age at the End of History</a>
+</h4>
+<p class="fr-book-author">By Lea Ypi</p>
+        
+<p class="fr-book-desc">Describes life through Albania&#x27;s transition from communism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Free%3A+Coming+of+Age+at+the+End+of+History+Lea+Ypi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War and the Great Powers, 1804 2012</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+age+of+extremes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The age of extremes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Ruthless+Economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Ruthless Economy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War and the Great Powers,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+age+of+extremes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The age of extremes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Ruthless+Economy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Ruthless Economy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

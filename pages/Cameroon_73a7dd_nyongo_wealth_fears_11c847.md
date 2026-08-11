@@ -340,89 +340,89 @@ Viewed in this way, nyongo is less a story about zombies than a social theory ex
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Hidden Labour Explain Sudden Wealth?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Hidden Labour Explain Sudden Wealth?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
-        </h4>
-        <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-
-        <p class="fr-book-desc">Helps explain symbolic systems behind pollution, danger and accusation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purity and danger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5526743-M.jpg" alt="Cover for Purity and danger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
+</h4>
+<p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
+        
+<p class="fr-book-desc">Helps explain symbolic systems behind pollution, danger and accusation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil and commodity fetishism in South America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4397816-M.jpg" alt="Cover for The devil and commodity fetishism in South America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and commodity fetishism in South America">The devil and commodity fetishism in South America</a>
-        </h4>
-        <p class="fr-book-author">By Michael T. Taussig, Michael Taussig</p>
-
-        <p class="fr-book-desc">Directly explores occult explanations for wealth and labour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil and commodity fetishism in South America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4397816-M.jpg" alt="Cover for The devil and commodity fetishism in South America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil and commodity fetishism in South America">The devil and commodity fetishism in South America</a>
+</h4>
+<p class="fr-book-author">By Michael T. Taussig, Michael Taussig</p>
+        
+<p class="fr-book-desc">Directly explores occult explanations for wealth and labour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America+Michael+T.+Taussig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
-        </h4>
-        <p class="fr-book-author">By Adam Ashforth</p>
-
-        <p class="fr-book-desc">Shows how accusations intersect with inequality and social tension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Violence, and Democracy in South Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139558-M.jpg" alt="Cover for Witchcraft, Violence, and Democracy in South Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
+</h4>
+<p class="fr-book-author">By Adam Ashforth</p>
+        
+<p class="fr-book-desc">Shows how accusations intersect with inequality and social tension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modernity and its malcontents on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4608301-M.jpg" alt="Cover for Modernity and its malcontents" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modernity and its malcontents">Modernity and its malcontents</a>
-        </h4>
-        <p class="fr-book-author">By Jean Comaroff, John L. Comaroff</p>
-
-        <p class="fr-book-desc">Frames occult economies within African modernity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Modernity and its malcontents on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4608301-M.jpg" alt="Cover for Modernity and its malcontents" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Modernity and its malcontents">Modernity and its malcontents</a>
+</h4>
+<p class="fr-book-author">By Jean Comaroff, John L. Comaroff</p>
+        
+<p class="fr-book-desc">Frames occult economies within African modernity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Modernity+and+its+malcontents+Jean+Comaroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Purity+and+danger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purity and danger</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil and commodity fetishism in South America</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Purity+and+danger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purity and danger</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil+and+commodity+fetishism+in+South+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil and commodity fetishism in South America</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witchcraft, Violence, and Democracy in South Africa</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

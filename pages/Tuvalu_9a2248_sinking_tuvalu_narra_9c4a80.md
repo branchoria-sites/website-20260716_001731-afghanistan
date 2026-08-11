@@ -385,89 +385,89 @@ Within the wider history of collective fears and public narratives, the "sinking
 Tuvalu is not a case of a nation vanishing overnight beneath the ocean, nor is it evidence that sea-level rise poses no threat. It is a case where dynamic geology, rising seas, engineering, ecology and human adaptation interact in ways that resist simple slogans. Understanding that distinction leads to a more accurate picture of both the science and the human challenge facing one of the world's lowest-lying nations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-018-02954-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Patterns of island change and persistence offer alternate adaptation pathways for atoll nations &#124; Nature CommunicationsFebruary 9...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Tuvalu Really Disappearing Beneath the Sea?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Tuvalu Really Disappearing Beneath the Sea?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The water will come on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12733340-M.jpg" alt="Cover for The water will come" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The water will come">The water will come</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Goodell</p>
-
-        <p class="fr-book-desc">Explains sea-level rise, coastal flooding, adaptation and the uncertain future of low-lying communities such as Tuvalu.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The water will come on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12733340-M.jpg" alt="Cover for The water will come" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The water will come">The water will come</a>
+</h4>
+<p class="fr-book-author">By Jeff Goodell</p>
+        
+<p class="fr-book-desc">Explains sea-level rise, coastal flooding, adaptation and the uncertain future of low-lying communities such as Tuvalu.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+water+will+come+Jeff+Goodell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Great Displacement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13264081-M.jpg" alt="Cover for Great Displacement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Great Displacement">Great Displacement</a>
-        </h4>
-        <p class="fr-book-author">By Jake Bittle</p>
-
-        <p class="fr-book-desc">Directly addresses relocation, managed retreat and what happens when climate change makes existing settlements difficult to inhabit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Great Displacement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13264081-M.jpg" alt="Cover for Great Displacement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Great Displacement">Great Displacement</a>
+</h4>
+<p class="fr-book-author">By Jake Bittle</p>
+        
+<p class="fr-book-desc">Directly addresses relocation, managed retreat and what happens when climate change makes existing settlements difficult to inhabit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Great+Displacement+Jake+Bittle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rising: Dispatches from the New American Shore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8799258-M.jpg" alt="Cover for Rising: Dispatches from the New American Shore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rising: Dispatches from the New American Shore">Rising: Dispatches from the New American Shore</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Rush</p>
-
-        <p class="fr-book-desc">Examines how rising seas affect habitability, identity, migration and communities even before land physically disappears.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rising: Dispatches from the New American Shore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8799258-M.jpg" alt="Cover for Rising: Dispatches from the New American Shore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rising: Dispatches from the New American Shore">Rising: Dispatches from the New American Shore</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Rush</p>
+        
+<p class="fr-book-desc">Examines how rising seas affect habitability, identity, migration and communities even before land physically disappears.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore+Elizabeth+Rush&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Climate justice on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Climate justice">Climate justice</a>
-        </h4>
-        <p class="fr-book-author">By Mary Robinson, Mary Robinson</p>
-
-        <p class="fr-book-desc">Places vulnerable island nations and communities at the centre of debates about responsibility, resilience and climate inequality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Climate justice on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Climate justice">Climate justice</a>
+</h4>
+<p class="fr-book-author">By Mary Robinson, Mary Robinson</p>
+        
+<p class="fr-book-desc">Places vulnerable island nations and communities at the centre of debates about responsibility, resilience and climate inequality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Climate+justice+Mary+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+water+will+come&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The water will come</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Great+Displacement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Great Displacement</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rising: Dispatches from the New American Shore</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+water+will+come&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The water will come</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Great+Displacement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Great Displacement</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rising%3A+Dispatches+from+the+New+American+Shore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rising: Dispatches from the New American Shore</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

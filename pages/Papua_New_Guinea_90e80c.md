@@ -1303,7 +1303,8 @@ The fourth is to romanticise resistance. Recognising the political meaning of a 
 
 <img src="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-dark.svg" | relative_url }}" alt="Papua New Guinea illustration 3" data-theme-src-dark="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Papua_New_Guinea_90e80c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What Papua New Guinea reveals about public fear
+## Why this history still matters
+
 Papua New Guinea’s movements and panics reveal a repeated pattern: when existing institutions fail to explain unequal wealth, illness, sudden death or rapid social change, collective belief can provide both meaning and action. Sometimes that action creates reform, solidarity and political organisation. Sometimes it supplies a target for fear.
 
 The country’s early millenarian movements are culturally important because they were creative responses to colonial domination and Christian promises of equality. They influenced local leadership, electoral politics and debates about development. Sorcery accusation-related violence matters for the opposite reason: it shows how an explanation of misfortune can become a mechanism of coercion against vulnerable people. COVID-19 rumours demonstrate that similar dynamics can operate through smartphones and global conspiracy narratives as readily as through village discussion.
@@ -1311,89 +1312,89 @@ The country’s early millenarian movements are culturally important because the
 The most useful distinction is therefore not between modern reason and primitive superstition. It is between beliefs that help communities interpret change, official labels that misrepresent those beliefs, rumours that spread fear, and accusations that authorise harm. Papua New Guinea’s history contains all four—and understanding the differences is essential to understanding both its social movements and its continuing struggles over justice.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Belief Became Power, Panic and Persecution. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Belief Became Power, Panic and Persecution. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imagined communities on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/652236-M.jpg" alt="Cover for Imagined communities" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
-        </h4>
-        <p class="fr-book-author">By Benedict Anderson</p>
-
-        <p class="fr-book-desc">Useful for understanding colonialism and identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imagined communities on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/652236-M.jpg" alt="Cover for Imagined communities" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
+</h4>
+<p class="fr-book-author">By Benedict Anderson</p>
+        
+<p class="fr-book-desc">Useful for understanding colonialism and identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
-        </h4>
-        <p class="fr-book-author">By Lamont Lindstrom</p>
-
-        <p class="fr-book-desc">Directly addresses the history and meaning of cargo cult narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cargo cult on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3932054-M.jpg" alt="Cover for Cargo cult" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
+</h4>
+<p class="fr-book-author">By Lamont Lindstrom</p>
+        
+<p class="fr-book-desc">Directly addresses the history and meaning of cargo cult narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The trumpet shall sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10817183-M.jpg" alt="Cover for The trumpet shall sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
-        </h4>
-        <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
-
-        <p class="fr-book-desc">Places Melanesian movements into global comparative perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The trumpet shall sound on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10817183-M.jpg" alt="Cover for The trumpet shall sound" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
+</h4>
+<p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
+        
+<p class="fr-book-desc">Places Melanesian movements into global comparative perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Road belong cargo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8265777-M.jpg" alt="Cover for Road belong cargo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Road belong cargo">Road belong cargo</a>
-        </h4>
-        <p class="fr-book-author">By Peter Lawrence</p>
-
-        <p class="fr-book-desc">Foundational study of New Guinea cargo movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Road belong cargo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8265777-M.jpg" alt="Cover for Road belong cargo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Road belong cargo">Road belong cargo</a>
+</h4>
+<p class="fr-book-author">By Peter Lawrence</p>
+        
+<p class="fr-book-desc">Foundational study of New Guinea cargo movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Road+belong+cargo+Peter+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imagined+communities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imagined communities</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+trumpet+shall+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The trumpet shall sound</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Imagined+communities&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imagined communities</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cargo+cult&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cargo cult</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+trumpet+shall+sound&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The trumpet shall sound</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

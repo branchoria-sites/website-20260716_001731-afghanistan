@@ -1349,7 +1349,7 @@ Ghana’s strange and often painful history of scares is ultimately a history of
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Violence, and Democracy in South Africa">Witchcraft, Violence, and Democracy in South Africa</a>
 </h4>
 <p class="fr-book-author">By Adam Ashforth</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Witchcraft, africa, Witchcraft, Political aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Violence%2C+and+Democracy+in+South+Africa+Adam+Ashforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ Ghana’s strange and often painful history of scares is ultimately a history of
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ Ghana’s strange and often painful history of scares is ultimately a history of
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ Ghana’s strange and often painful history of scares is ultimately a history of
 <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear">The fear</a>
 </h4>
 <p class="fr-book-author">By Peter Godwin</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Social conditions, Economic conditions, Mugabe, robert gabriel, 1924-2019, Zimba...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -343,7 +343,8 @@ European witch panics often focused on fears that individuals secretly harmed ne
 
 This distinction matters because it changes how the history is interpreted. Rather than treating Maya spirituality itself as evidence of superstition, modern scholarship examines how the language of witchcraft became a tool of colonial domination, cultural exclusion and religious competition. The central historical question is not whether Maya ceremonies involved magic, but why powerful institutions repeatedly described them in those terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/395836098_The_Repression_of_Maya_Spiritual_Practices_in_Guatemala_Cultural_Continuity_and_the_Challenge_of_Fighting_Against_Discrimination_and_Racism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Repression of Maya Spiritual Practices in Guatemala: Cultural Continuity and the Challenge of Fighting Against Disc...</span></span></span>
 
-## Witchcraft Claims in historical perspective
+## Lasting significance
+
 The history of Maya spirituality under witchcraft accusations illustrates how religious labels can become instruments of social power. Colonial definitions of idolatry and sorcery shaped attitudes that survived well beyond the colonial period, influencing discrimination, access to sacred places and public perceptions of Indigenous identity.
 
 Although Maya spirituality today is increasingly recognised as a living religious tradition rather than a relic of the past, accusations of witchcraft continue to appear in local conflicts and public discourse. Their persistence reminds historians that moral panics are not always sudden outbreaks of fear. Sometimes they endure across centuries, adapting to new political and religious circumstances while continuing to affect the communities they target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ecoi.net/en/document/2111873.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecoi.net">[ecoi.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecoi.net</span><span class="citation-popover-snippet">USDOS – US Department of State (Author): “2023 Report on International Religious Freedom: Guatemala”, Document #2111873 - ecoi.netJune 26...</span></span></span>
@@ -354,89 +355,89 @@ Although Maya spirituality today is increasingly recognised as a living religiou
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Maya Ceremonies Were Branded as Witchcraft. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Maya Ceremonies Were Branded as Witchcraft. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/425626-M.jpg" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
-        </h4>
-        <p class="fr-book-author">By Dennis Tedlock</p>
-
-        <p class="fr-book-desc">Introduces Maya cosmology often misunderstood by outsiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Popol Vuh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/425626-M.jpg" alt="Cover for Popol Vuh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
+</h4>
+<p class="fr-book-author">By Dennis Tedlock</p>
+        
+<p class="fr-book-desc">Introduces Maya cosmology often misunderstood by outsiders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Maya code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6450021-M.jpg" alt="Cover for Breaking the Maya code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Maya code">Breaking the Maya code</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Coe</p>
-
-        <p class="fr-book-desc">Provides deeper understanding of Maya civilisation and beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breaking the Maya code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6450021-M.jpg" alt="Cover for Breaking the Maya code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking the Maya code">Breaking the Maya code</a>
+</h4>
+<p class="fr-book-author">By Michael D. Coe</p>
+        
+<p class="fr-book-desc">Provides deeper understanding of Maya civilisation and beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breaking+the+Maya+code+Michael+D.+Coe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maya cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3930936-M.jpg" alt="Cover for Maya cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maya cosmos">Maya cosmos</a>
-        </h4>
-        <p class="fr-book-author">By David A. Freidel, Linda Schele et al.</p>
-
-        <p class="fr-book-desc">Helps distinguish Maya spirituality from witchcraft stereotypes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Maya cosmos on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3930936-M.jpg" alt="Cover for Maya cosmos" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Maya cosmos">Maya cosmos</a>
+</h4>
+<p class="fr-book-author">By David A. Freidel, Linda Schele et al.</p>
+        
+<p class="fr-book-desc">Helps distinguish Maya spirituality from witchcraft stereotypes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Maya+cosmos+David+A.+Freidel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Guatemala reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14382729-M.jpg" alt="Cover for The Guatemala reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guatemala reader">The Guatemala reader</a>
-        </h4>
-        <p class="fr-book-author">By Greg Grandin, Elizabeth Oglesby</p>
-
-        <p class="fr-book-desc">Explains Indigenous religion, colonialism and cultural conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Guatemala reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14382729-M.jpg" alt="Cover for The Guatemala reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Guatemala reader">The Guatemala reader</a>
+</h4>
+<p class="fr-book-author">By Greg Grandin, Elizabeth Oglesby</p>
+        
+<p class="fr-book-desc">Explains Indigenous religion, colonialism and cultural conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Guatemala+reader+Greg+Grandin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Maya+code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Maya code</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Maya+cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Maya cosmos</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Popol+Vuh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Popol Vuh</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breaking+the+Maya+code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breaking the Maya code</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Maya+cosmos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Maya cosmos</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

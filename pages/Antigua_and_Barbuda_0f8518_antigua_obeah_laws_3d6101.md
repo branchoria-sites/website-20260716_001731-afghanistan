@@ -357,7 +357,7 @@ For historians of collective belief and social control, Antigua's Obeah laws the
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
 </h4>
 <p class="fr-book-author">By C. L. R. James</p>
-
+        
 <p class="fr-book-desc">First published 1935. Subjects: History, Biography, Revolutionaries, Generals, Revolution, 1791-1804.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For historians of collective belief and social control, Antigua's Obeah laws the
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For historians of collective belief and social control, Antigua's Obeah laws the
 <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
 </h4>
 <p class="fr-book-author">By Olaudah Equiano</p>
-
+        
 <p class="fr-book-desc">First published 2009.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For historians of collective belief and social control, Antigua's Obeah laws the
 <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear of French negroes">The fear of French negroes</a>
 </h4>
 <p class="fr-book-author">By Sara E. Johnson</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Blacks, Influence, Migrations, Race identity, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fear+of+French+negroes+Sara+E.+Johnson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

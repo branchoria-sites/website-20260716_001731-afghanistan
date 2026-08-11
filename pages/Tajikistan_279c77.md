@@ -209,13 +209,13 @@ description: Tajikistan has no well-documented equivalent of the Salem witch tri
 hero_summary: Tajikistan has no well-documented equivalent of the Salem witch trials, a European dance plague or a large school outbreak of mass psychogenic illness.
 layout: default
 permalink: /when-fear-became-policy-in-tajikistan/
-nav_short_title: "Rumour, Belief and Collective Panic in Tajikistan"
-title: "Rumour, Belief and Collective Panic in Tajikistan"
-title_full: "Rumour, Belief and Collective Panic in Tajikistan"
-display_title_short: "Rumour, Belief and Collective Panic in Tajikistan"
-display_title: "Rumour, Belief and Collective Panic in Tajikistan"
-heading_title: "Rumour, Belief and Collective Panic in Tajikistan"
-page_heading_title: "Rumour, Belief and Collective Panic in Tajikistan"
+nav_short_title: When Fear Became Policy in Tajikistan
+title: When Fear Became Policy in Tajikistan
+title_full: When Fear Became Policy in Tajikistan
+display_title_short: When Fear Became Policy in Tajikistan
+display_title: When Fear Became Policy in Tajikistan
+heading_title: When Fear Became Policy in Tajikistan
+page_heading_title: When Fear Became Policy in Tajikistan
 source_count: 135
 infographic_count: 3
 page_website_name: Tajikistan
@@ -1300,72 +1300,72 @@ The country’s history also cautions against the opposite mistake. Real terrori
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Became Policy in Tajikistan. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Became Policy in Tajikistan. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/811189-M.jpg" alt="Cover for The Great Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
-        </h4>
-        <p class="fr-book-author">By Peter Hopkirk</p>
-
-        <p class="fr-book-desc">Introduces Central Asian historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/811189-M.jpg" alt="Cover for The Great Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
+</h4>
+<p class="fr-book-author">By Peter Hopkirk</p>
+        
+<p class="fr-book-desc">Introduces Central Asian historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612408-M.jpg" alt="Cover for The new Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
-        </h4>
-        <p class="fr-book-author">By Olivier Roy</p>
-
-        <p class="fr-book-desc">Explains nation-building, religion and politics across the region.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/612408-M.jpg" alt="Cover for The new Central Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new Central Asia">The new Central Asia</a>
+</h4>
+<p class="fr-book-author">By Olivier Roy</p>
+        
+<p class="fr-book-desc">Explains nation-building, religion and politics across the region.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+new+Central+Asia+Olivier+Roy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-        </h4>
-        <p class="fr-book-author">By Adeeb Khalid</p>
-
-        <p class="fr-book-desc">Provides context for modern Tajikistan and state policy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+</h4>
+<p class="fr-book-author">By Adeeb Khalid</p>
+        
+<p class="fr-book-desc">Provides context for modern Tajikistan and state policy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Game</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new Central Asia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Game</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new Central Asia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

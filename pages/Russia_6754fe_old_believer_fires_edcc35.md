@@ -325,89 +325,89 @@ Instead, they reveal how theological conviction, persecution and apocalyptic exp
 Modern historians therefore treat the Old Believer fires not merely as extraordinary tragedies but as evidence of how collective belief is shaped by lived political and social experience. They remain one of the most powerful examples in Russian history of persecution and millenarian expectation reinforcing one another until resistance took its most extreme possible form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/socrel/article-abstract/47/1/1/1607906" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[oup.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicReligious Mass Suicide before Jonestown: The Russian Old Believers &#124; Sociology of Religion &#124; Oxford AcademicMarch 1, 1986...</span><span class="citation-popover-meta">Published: March 1, 1986</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Old Believers Chose Death by Fire. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Old Believers Chose Death by Fire. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8289774-M.jpg" alt="Cover for The World&#x27;s Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Religions">The World&#x27;s Religions</a>
-        </h4>
-        <p class="fr-book-author">By Huston Smith</p>
-
-        <p class="fr-book-desc">Helps readers understand religious schisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Religions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8289774-M.jpg" alt="Cover for The World&#x27;s Religions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Religions">The World&#x27;s Religions</a>
+</h4>
+<p class="fr-book-author">By Huston Smith</p>
+        
+<p class="fr-book-desc">Helps readers understand religious schisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World%27s+Religions+Huston+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Russia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3973837-M.jpg" alt="Cover for A history of Russia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Russia">A history of Russia</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Valentine Riasanovsky, Mark D. Steinberg</p>
-
-        <p class="fr-book-desc">Covers church reforms and state policy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Russia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3973837-M.jpg" alt="Cover for A history of Russia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Russia">A history of Russia</a>
+</h4>
+<p class="fr-book-author">By Nicholas Valentine Riasanovsky, Mark D. Steinberg</p>
+        
+<p class="fr-book-desc">Covers church reforms and state policy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+Russia+Nicholas+Valentine+Riasanovsky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natasha&#x27;s Dance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580185-M.jpg" alt="Cover for Natasha&#x27;s Dance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natasha&#x27;s Dance">Natasha&#x27;s Dance</a>
-        </h4>
-        <p class="fr-book-author">By Orlando Figes</p>
-
-        <p class="fr-book-desc">Provides cultural context for religious dissent.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natasha&#x27;s Dance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580185-M.jpg" alt="Cover for Natasha&#x27;s Dance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natasha&#x27;s Dance">Natasha&#x27;s Dance</a>
+</h4>
+<p class="fr-book-author">By Orlando Figes</p>
+        
+<p class="fr-book-desc">Provides cultural context for religious dissent.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Natasha%27s+Dance+Orlando+Figes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6802812-M.jpg" alt="Cover for The pursuit of the millennium" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Explains apocalyptic thinking behind collective sacrifice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6802812-M.jpg" alt="Cover for The pursuit of the millennium" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Explains apocalyptic thinking behind collective sacrifice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s Religions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Russia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Russia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Natasha%27s+Dance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natasha&#x27;s Dance</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+Religions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s Religions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Russia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Russia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Natasha%27s+Dance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Natasha&#x27;s Dance</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -337,89 +337,89 @@ The Maitatsine uprisings remain important because they illustrate how episodes o
 The movement also serves as a reminder to distinguish documented history from later mythmaking. Calling Maitatsine merely a "cult" obscures the broader social conditions that attracted followers, while reducing the movement to poverty alone ignores the genuine importance of religious belief and charismatic leadership. Understanding both dimensions provides a clearer explanation of why the uprisings occurred and why they continue to shape debates about extremism, urban marginalisation and state authority in Nigeria today.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://africacenter.org/publication/mitigating-radicalism-in-northern-nigeria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africacenter.org">[africacenter.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africacenter.org</span><span class="citation-popover-title">Africa Center Mitigating Radicalism in Northern Nigeria</span><span class="citation-popover-snippet">Africa Center Mitigating Radicalism in Northern Nigeria</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Drove the Maitatsine Uprisings?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Drove the Maitatsine Uprisings?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Things Fall Apart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12816943-M.jpg" alt="Cover for Things Fall Apart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
-        </h4>
-        <p class="fr-book-author">By Chinua Achebe</p>
-
-        <p class="fr-book-desc">Offers broader cultural context for Nigerian society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Things Fall Apart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12816943-M.jpg" alt="Cover for Things Fall Apart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
+</h4>
+<p class="fr-book-author">By Chinua Achebe</p>
+        
+<p class="fr-book-desc">Offers broader cultural context for Nigerian society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Wright</p>
-
-        <p class="fr-book-desc">Provides context for radical religious movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
+</h4>
+<p class="fr-book-author">By Lawrence Wright</p>
+        
+<p class="fr-book-desc">Provides context for radical religious movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Nigeria on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4996585-M.jpg" alt="Cover for A history of Nigeria" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Nigeria">A history of Nigeria</a>
-        </h4>
-        <p class="fr-book-author">By Toyin Falola, Matthew M. Heaton</p>
-
-        <p class="fr-book-desc">Explains the political and social background of the uprisings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A history of Nigeria on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4996585-M.jpg" alt="Cover for A history of Nigeria" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Nigeria">A history of Nigeria</a>
+</h4>
+<p class="fr-book-author">By Toyin Falola, Matthew M. Heaton</p>
+        
+<p class="fr-book-desc">Explains the political and social background of the uprisings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+history+of+Nigeria+Toyin+Falola&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is Islam? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881756-M.jpg" alt="Cover for What Is Islam?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
-        </h4>
-        <p class="fr-book-author">By Shahab Ahmed</p>
-
-        <p class="fr-book-desc">Helps distinguish mainstream and dissident religious ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is Islam? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881756-M.jpg" alt="Cover for What Is Islam?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
+</h4>
+<p class="fr-book-author">By Shahab Ahmed</p>
+        
+<p class="fr-book-desc">Helps distinguish mainstream and dissident religious ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Things+Fall+Apart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Things Fall Apart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Nigeria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Nigeria</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Things+Fall+Apart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Things Fall Apart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Nigeria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Nigeria</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

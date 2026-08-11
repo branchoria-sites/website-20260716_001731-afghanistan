@@ -324,7 +324,8 @@ This interpretation differs from describing every accusation as deliberate perse
 
 <img src="{{ "/assets/images/Laos_7998be_spirit_accusations_5b7498-Illustration-3-dark.svg" | relative_url }}" alt="Spirit Accusations illustration 3" data-theme-src-dark="{{ "/assets/images/Laos_7998be_spirit_accusations_5b7498-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Laos_7998be_spirit_accusations_5b7498-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The wider legacy of Spirit Accusations
+## Why these cases remain important
+
 Spirit accusations in Laos demonstrate that collective fear does not require courts, newspapers or nationwide moral panics to produce serious consequences. Small communities facing unexplained illness may arrive at a shared explanation that feels compelling within their cultural framework, even when it cannot be verified.
 
 The documented experience of Nakasang is particularly significant because it reveals both sides of the process: the exclusion of accused individuals from their original villages and the creation of a recognised place where those same people can seek refuge, undergo ritual healing and attempt to recover a social identity. Rather than treating these accusations simply as folklore, contemporary scholarship sees them as a window into how belief, illness, community cohesion and social conflict can become tightly intertwined in everyday life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jstage.jst.go.jp/article/seas/13/1/13_109/_article/-char/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstage.jst.go.jp">[go.jp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstage.jst.go.jp</span><span class="citation-popover-snippet">Open source on go.jp.</span></span></span>
@@ -352,7 +353,7 @@ The documented experience of Nakasang is particularly significant because it rev
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
 </h4>
 <p class="fr-book-author">By Anne Fadiman</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +370,7 @@ The documented experience of Nakasang is particularly significant because it rev
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
 </h4>
 <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-
+        
 <p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +387,7 @@ The documented experience of Nakasang is particularly significant because it rev
 <a href="https://www.amazon.com/s?k=Illness+as+metaphor+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Illness as metaphor">Illness as metaphor</a>
 </h4>
 <p class="fr-book-author">By Susan Sontag</p>
-
+        
 <p class="fr-book-desc">First published 1978. Subjects: AIDS (Disease), Acquired Immunodeficiency Syndrome, Cancer, Cancer in literature, Literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Illness+as+metaphor+Susan+Sontag&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +404,7 @@ The documented experience of Nakasang is particularly significant because it rev
 <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Laos">A history of Laos</a>
 </h4>
 <p class="fr-book-author">By Martin Stuart-Fox</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: History, Laos, history, Asian studies, Political science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Laos+Martin+Stuart-Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

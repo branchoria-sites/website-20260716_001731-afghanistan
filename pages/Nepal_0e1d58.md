@@ -209,13 +209,13 @@ description: Nepal’s clearest documented history of contagious belief and coll
 hero_summary: Nepal’s clearest documented history of contagious belief and collective fear does not centre on a single famous “cult” or nationwide panic.
 layout: default
 permalink: /when-fear-and-belief-spread-across-nepal/
-nav_short_title: "Nepal's History of Collective Fear and Belief"
-title: "Nepal's History of Collective Fear and Belief"
-title_full: "Nepal's History of Collective Fear and Belief"
-display_title_short: "Nepal's History of Collective Fear and Belief"
-display_title: "Nepal's History of Collective Fear and Belief"
-heading_title: "Nepal's History of Collective Fear and Belief"
-page_heading_title: "Nepal's History of Collective Fear and Belief"
+nav_short_title: When Fear and Belief Spread Across Nepal
+title: When Fear and Belief Spread Across Nepal
+title_full: When Fear and Belief Spread Across Nepal
+display_title_short: When Fear and Belief Spread Across Nepal
+display_title: When Fear and Belief Spread Across Nepal
+heading_title: When Fear and Belief Spread Across Nepal
+page_heading_title: When Fear and Belief Spread Across Nepal
 source_count: 101
 infographic_count: 3
 page_website_name: Nepal Belief Panics
@@ -1316,89 +1316,89 @@ The clearest reforms are correspondingly practical: medically investigate unexpl
 Nepal’s history of collective fear is ultimately a history of trust. Symptoms, accusations and rumours spread most readily when people rely on one another because official systems feel distant, inaccessible or unbelievable. The most effective answer is not ridicule. It is credible investigation, humane care and institutions willing to explain what they know, what they do not know and how they reached their conclusions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear and Belief Spread Across Nepal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear and Belief Spread Across Nepal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crazy like us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9133003-M.jpg" alt="Cover for Crazy like us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crazy like us">Crazy like us</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Watters</p>
-
-        <p class="fr-book-desc">Explores how culture, shared beliefs and outside explanations shape the expression and spread of psychological distress across societies,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crazy like us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9133003-M.jpg" alt="Cover for Crazy like us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crazy like us">Crazy like us</a>
+</h4>
+<p class="fr-book-author">By Ethan Watters</p>
+        
+<p class="fr-book-desc">Explores how culture, shared beliefs and outside explanations shape the expression and spread of psychological distress across societies,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crazy+like+us+Ethan+Watters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
-        </h4>
-        <p class="fr-book-author">By Amanda Montell</p>
-
-        <p class="fr-book-desc">Provides a commercially strong framework for understanding charismatic authority, group identity and persuasive language without casually...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cultish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10736970-M.jpg" alt="Cover for Cultish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cultish">Cultish</a>
+</h4>
+<p class="fr-book-author">By Amanda Montell</p>
+        
+<p class="fr-book-desc">Provides a commercially strong framework for understanding charismatic authority, group identity and persuasive language without casually...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cultish+Amanda+Montell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10244635-M.jpg" alt="Cover for Suspicious minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious minds">Suspicious minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
-
-        <p class="fr-book-desc">Explains the cognitive and social tendencies that make conspiracy narratives persuasive, helping readers understand why distrust and inco...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10244635-M.jpg" alt="Cover for Suspicious minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious minds">Suspicious minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
+        
+<p class="fr-book-desc">Explains the cognitive and social tendencies that make conspiracy narratives persuasive, helping readers understand why distrust and inco...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+minds+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleeping Beauties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12163133-M.jpg" alt="Cover for The Sleeping Beauties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleeping Beauties">The Sleeping Beauties</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Directly examines communities affected by outbreaks of mysterious, socially patterned illness, making it the closest general-reader match...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleeping Beauties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12163133-M.jpg" alt="Cover for The Sleeping Beauties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleeping Beauties">The Sleeping Beauties</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Directly examines communities affected by outbreaks of mysterious, socially patterned illness, making it the closest general-reader match...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleeping+Beauties+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crazy+like+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crazy like us</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crazy+like+us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crazy like us</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cultish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cultish</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

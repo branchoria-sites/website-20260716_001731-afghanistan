@@ -1335,7 +1335,7 @@ The Maldives therefore belongs in the wider history of panics and contagious bel
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Explores belief, evidence and extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The Maldives therefore belongs in the wider history of panics and contagious bel
 <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
 </h4>
 <p class="fr-book-author">By William James, Dr. William James et al.</p>
-
+        
 <p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The Maldives therefore belongs in the wider history of panics and contagious bel
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, witchcraft, and religion">Magic, witchcraft, and religion</a>
 </h4>
 <p class="fr-book-author">By Pamela Moro, James Myers et al.</p>
-
+        
 <p class="fr-book-desc">First published 2006. Subjects: Religion, Occultism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Magic%2C+witchcraft%2C+and+religion+Pamela+Moro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1386,7 +1386,7 @@ The Maldives therefore belongs in the wider history of panics and contagious bel
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maldives">The Maldives</a>
 </h4>
 <p class="fr-book-author">By J.J. Robinson</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Democracy, Maldives, Politics and government, Social conditions, Islam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Maldives+J.J.+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -209,13 +209,13 @@ description: Mozambique’s history of collective fear is not dominated by one f
 hero_summary: Mozambique’s history of collective fear is not dominated by one famous “mass hysteria” episode.
 layout: default
 permalink: /when-fear-becomes-fact-in-mozambique/
-nav_short_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-title_full: "How Panic, Rumour and Belief Took Hold in Mozambique"
-display_title_short: "How Panic, Rumour and Belief Took Hold in Mozambique"
-display_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-heading_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
-page_heading_title: "How Panic, Rumour and Belief Took Hold in Mozambique"
+nav_short_title: When Fear Becomes Fact in Mozambique
+title: When Fear Becomes Fact in Mozambique
+title_full: When Fear Becomes Fact in Mozambique
+display_title_short: When Fear Becomes Fact in Mozambique
+display_title: When Fear Becomes Fact in Mozambique
+heading_title: When Fear Becomes Fact in Mozambique
+page_heading_title: When Fear Becomes Fact in Mozambique
 source_count: 114
 infographic_count: 3
 page_website_name: Mozambique Panics
@@ -1270,7 +1270,8 @@ The claim that the rumours originated in Mozambique was widely repeated, includi
 
 Bloodsucker stories have circulated periodically in parts of south-eastern Africa. They often flourish where people distrust medical campaigns, foreign organisations or state authorities, especially when blood tests, vaccination work or unfamiliar equipment are poorly explained. Yet no single cause accounts for every outbreak. Local political conflicts, older supernatural traditions, memories of extraction and immediate rumours all shape who is accused and how authorities respond.
 
-## The recurring pressures behind Mozambique
+## What these episodes have in common
+
 Mozambique’s best-documented cases do not fit neatly into one medical or psychological category. The [genital-shrinking]({{ 'genital-panic/' | relative_url }}) scare was a fast-moving rumour panic accompanied by lynching. The “night war” was a durable cultural interpretation of childhood illness. Cannibal accusations expressed memories of violence and arguments over authority. Naparama was a wartime mobilisation in which ritual belief supported organised armed action.
 
 Several recurring conditions nevertheless connect them:
@@ -1336,7 +1337,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purity and danger">Purity and danger</a>
 </h4>
 <p class="fr-book-author">By Mary Douglas, Mary Douglas et al.</p>
-
+        
 <p class="fr-book-desc">First published 1966. Subjects: Purity, Ritual, Ritual Purity, Taboo, Pollution, Cultural Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Purity+and+danger+Mary+Douglas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1354,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1371,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Mozambique">A history of Mozambique</a>
 </h4>
 <p class="fr-book-author">By M. D. D. Newitt</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: History, Mozambique, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Mozambique+M.+D.+D.+Newitt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1388,7 @@ The central lesson is that extraordinary scares are rarely detached from ordinar
 <a href="https://www.amazon.com/s?k=The+War+Within%3A+New+Perspectives+on+the+Civil+War+in+Mozambique+Eric+Morier+Genoud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War Within: New Perspectives on the Civil War in Mozambique">The War Within: New Perspectives on the Civil War in Mozambique</a>
 </h4>
 <p class="fr-book-author">By Eric Morier-Genoud</p>
-
+        
 <p class="fr-book-desc">Explains conflict and insecurity shaping rumor and belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+War+Within%3A+New+Perspectives+on+the+Civil+War+in+Mozambique+Eric+Morier+Genoud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

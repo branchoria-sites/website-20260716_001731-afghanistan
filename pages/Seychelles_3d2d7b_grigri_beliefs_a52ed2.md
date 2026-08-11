@@ -342,89 +342,89 @@ Grigri persists in Seychellois culture not because everyone shares identical bel
 For historians, the significance of grigri lies less in proving supernatural power than in understanding how societies interpret uncertainty. The same ambiguous object may be viewed as a harmless charm, evidence of healing, a family keepsake or proof of dangerous occult activity depending on the observer's expectations. That uncertainty makes grigri an enduring source of both fascination and suspicion within Seychelles, illustrating how collective beliefs can shape social relationships even when their meanings remain contested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://era.ed.ac.uk/handle/1842/36098?show=full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: era.ed.ac.uk">[ed.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">era.ed.ac.uk</span><span class="citation-popover-snippet">November 25, 2019...</span><span class="citation-popover-meta">Published: November 25, 2019</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does Grigri Mean in Seychelles?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does Grigri Mean in Seychelles?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
-        </h4>
-        <p class="fr-book-author">By Wade Davis</p>
-
-        <p class="fr-book-desc">Provides accessible background on supernatural traditions related to Creole culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Serpent and the Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/426775-M.jpg" alt="Cover for The Serpent and the Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
+</h4>
+<p class="fr-book-author">By Wade Davis</p>
+        
+<p class="fr-book-desc">Provides accessible background on supernatural traditions related to Creole culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Hutton</p>
-
-        <p class="fr-book-desc">Places supernatural beliefs into wider historical perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The witch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The witch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
+</h4>
+<p class="fr-book-author">By Ronald Hutton</p>
+        
+<p class="fr-book-desc">Places supernatural beliefs into wider historical perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, science, and religion, and other essays on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1171308-M.jpg" alt="Cover for Magic, science, and religion, and other essays" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, science, and religion, and other essays">Magic, science, and religion, and other essays</a>
-        </h4>
-        <p class="fr-book-author">By Bronisław Malinowski</p>
-
-        <p class="fr-book-desc">Examines magic, ritual and everyday social life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, science, and religion, and other essays on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1171308-M.jpg" alt="Cover for Magic, science, and religion, and other essays" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, science, and religion, and other essays">Magic, science, and religion, and other essays</a>
+</h4>
+<p class="fr-book-author">By Bronisław Malinowski</p>
+        
+<p class="fr-book-desc">Examines magic, ritual and everyday social life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays+Bronis%C5%82aw+Malinowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Oracles and Magic among the Azande on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic among the Azande">Witchcraft, Oracles and Magic among the Azande</a>
-        </h4>
-        <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-
-        <p class="fr-book-desc">Explains how charms and accusations function within communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witchcraft, Oracles and Magic among the Azande on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic among the Azande">Witchcraft, Oracles and Magic among the Azande</a>
+</h4>
+<p class="fr-book-author">By E. E. Evans-Pritchard</p>
+        
+<p class="fr-book-desc">Explains how charms and accusations function within communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, science, and religion, and other essays</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+witch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The witch</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+science%2C+and+religion%2C+and+other+essays&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, science, and religion, and other essays</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
@@ -438,7 +438,7 @@ For historians, the significance of grigri lies less in proving supernatural pow
 2.<a id="endnote-2"></a>
    Source: s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com  
    Title: Amazon S3THE  
-   Link:<a href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780429314513/bc4957c3-c355-42b4-8342-08fd6910b90e/googleScholarPdf.pdf?AWSAccessKeyId=ASIAQFVOSJ57WJTH4VSG&amp;Expires=1769187142&amp;Signature=t6LJLkbCvby%2B%2FRlP9IXpCIh1aEc%3D&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780429314513_previewpdf.pdf%22&amp;x-amz-security-token=IQoJb3JpZ2luX2VjECwaCXVzLWVhc3QtMSJGMEQCIGshe1jdciQb%2F7JhlVwKCmn0b4Yk80htfn39wDHOSA0gAiAR0U9QxRNYfSfp%2Fvnf%2B4iZq9D2stlZaAIVRpFFJWGdCiqWBAj1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDAxMjE3NzI2NDUxMSIMOiWFsw4Mh%2BVeUuy0KuoDCKa2JlnhX9aoPmNtdZtVI6dTerZhyq6cVAwtSvZfovp6ITcOne5ekv%2BfS%2BhFr5uxxZHNrCnLCQ21aYhRfbvmydyDh0G87%2BnowpImI8p%2FjBSzYHbGmgJ98dr0rGp5iamYCvRfDV3gW2NaAuuJZl3UGz%2BzMMHCNCZjuDFjyc1WdCnzqJFygY9nsRKJWTr9US98hT8%2F9PWCKQD7mfJCF%2FVx9gd2prXBlzDZ7ZL1PaxuDNqQUNc7a96DQgn5VufRh%2FYdGwIQPh2bZ6FYHJIVJ6FQ5WcvZy38rrX9dVofCz%2FlesAu7HW52DKJ2syv%2Bmk6b1184V%2BiRldCBlbNC8AsCONYXpIcigLt8pQTJcr%2FidchopxgaR%2BVHdjaRJsqqozFL%2F2%2FMAMpiO1kfbpyyS9guMyCctVps6t9meNWyaU5LZqsEu6fkG0J93isAHemAr9735U9VzxmHGQwLXyXqrpt73UE8ibTwfeK%2FQ%2B5hYqXsZAZ8u%2Ff8AlA%2F667iDHk5eBy5bkzJzHzdVVJdPqKUihhwf8oTeEXsnCMNGvQHFKFekpPqCEy0zm44ZAhahz8QnM4ZM1M3XMm6MKZSzyGz60lJ5ZJua8yoLXSbTzivCP4ZXuv4o67RYm6TcEqJA6%2FQULcVf2EvxqgiCQcsxo2WDCVvs3LBjqmAXHyhhBsdlcCcwR7NXzW5ktXCWSljWkCbb41wFdRVbr%2BOD78vyrSlEm%2BX9d8fIPgHGBep3ZkbcbkQH6JSmnoFAYTUIH63088funwZnb49C7hcSOiw3RS1jWMkIYsBcDgCXIB7QVm0lhv9dhE5qARd4hy86aJZ3%2FFYJ7S3dpzbHtzPjffRIWVUeYq%2BgWVTu1spR5cMjjC92puCuwASoqfkuQdVpFdLOA%3D" target="_blank" rel="noopener noreferrer nofollow">https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780429314513/bc4957c3-c355-42b4-8342-08fd6910b90e/googleScholarPdf.pdf?AWSAccessKeyId=ASIAQFVOSJ57WJTH4VSG&amp;Expires=1769187142&amp;Signature=t6LJLkbCvby%2B%2FRlP9IXpCIh1aEc%3D&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780429314513_previewpdf.pdf%22&amp;x-amz-security-token=IQoJb3JpZ2luX2VjECwaCXVzLWVhc3QtMSJGMEQCIGshe1jdciQb%2F7JhlVwKCmn0b4Yk80htfn39wDHOSA0gAiAR0U9QxRNYfSfp%2Fvnf%2B4iZq9D2stlZaAIVRpFFJWGdCiqWBAj1%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAQaDDAxMjE3NzI2NDUxMSIMOiWFsw4Mh%2BVeUuy0KuoDCKa2JlnhX9aoPmNtdZtVI6dTerZhyq6cVAwtSvZfovp6ITcOne5ekv%2BfS%2BhFr5uxxZHNrCnLCQ21aYhRfbvmydyDh0G87%2BnowpImI8p%2FjBSzYHbGmgJ98dr0rGp5iamYCvRfDV3gW2NaAuuJZl3UGz%2BzMMHCNCZjuDFjyc1WdCnzqJFygY9nsRKJWTr9US98hT8%2F9PWCKQD7mfJCF%2FVx9gd2prXBlzDZ7ZL1PaxuDNqQUNc7a96DQgn5VufRh%2FYdGwIQPh2bZ6FYHJIVJ6FQ5WcvZy38rrX9dVofCz%2FlesAu7HW52DKJ2syv%2Bmk6b1184V%2BiRldCBlbNC8AsCONYXpIcigLt8pQTJcr%2FidchopxgaR%2BVHdjaRJsqqozFL%2F2%2FMAMpiO1kfbpyyS9guMyCctVps6t9meNWyaU5LZqsEu6fkG0J93isAHemAr9735U9VzxmHGQwLXyXqrpt73UE8ibTwfeK%2FQ%2B5hYqXsZAZ8u%2Ff8AlA%2F667iDHk5eBy5bkzJzHzdVVJdPqKUihhwf8oTeEXsnCMNGvQHFKFekpPqCEy0zm44ZAhahz8QnM4ZM1M3XMm6MKZSzyGz60lJ5ZJua8yoLXSbTzivCP4ZXuv4o67RYm6TcEqJA6%2FQULcVf2EvxqgiCQcsxo2WDCVvs3LBjqmAXHyhhBsdlcCcwR7NXzW5ktXCWSljWkCbb41wFdRVbr%2BOD78vyrSlEm%2BX9d8fIPgHGBep3ZkbcbkQH6JSmnoFAYTUIH63088funwZnb49C7hcSOiw3RS1jWMkIYsBcDgCXIB7QVm0lhv9dhE5qARd4hy86aJZ3%2FFYJ7S3dpzbHtzPjffRIWVUeYq%2BgWVTu1spR5cMjjC92puCuwASoqfkuQdVpFdLOA%3D</a>  
+   Link:<a href="https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780429314513/bc4957c3-c355-42b4-8342-08fd6910b90e/googleScholarPdf.pdf?AWSAccessKeyId=REDACTED&amp;Expires=1769187142&amp;Signature=t6LJLkbCvby%2B%2FRlP9IXpCIh1aEc%3D&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780429314513_previewpdf.pdf%22&amp;x-amz-security-token=REDACTED" target="_blank" rel="noopener noreferrer nofollow">https://s3-euw1-ap-pe-df-pch-content-store-p.s3.eu-west-1.amazonaws.com/9780429314513/bc4957c3-c355-42b4-8342-08fd6910b90e/googleScholarPdf.pdf?AWSAccessKeyId=REDACTED&amp;Expires=1769187142&amp;Signature=t6LJLkbCvby%2B%2FRlP9IXpCIh1aEc%3D&amp;response-content-disposition=attachment%3B+filename%3D%2210.4324_9780429314513_previewpdf.pdf%22&amp;x-amz-security-token=REDACTED</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>SEYCHELLES...</p></details>
 
 3.<a id="endnote-3"></a>

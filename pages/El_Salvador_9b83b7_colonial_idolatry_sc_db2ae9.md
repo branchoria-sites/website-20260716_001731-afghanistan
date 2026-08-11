@@ -337,7 +337,8 @@ Missionaries often recorded Indigenous ceremonies only because they wished to er
 
 This distinction helps avoid a common misunderstanding. References to "idolatry" in colonial documents do not demonstrate that Indigenous communities belonged to dangerous cults or irrational movements. They show how colonial power classified religious difference in ways that justified conversion, surveillance and social control.
 
-## The wider legacy of Colonial Belief
+## Why This History Still Matters
+
 The colonial language of idolatry has had a remarkably long afterlife. Indigenous ceremonies, traditional healers and local religious customs have sometimes continued to be dismissed as superstition or treated as remnants of forbidden belief long after Spanish rule ended.
 
 Today, Indigenous organisations in El Salvador work to preserve languages, ceremonies and cultural memory that survived centuries of colonial pressure. Their efforts remind historians that the story is not simply one of religious destruction but of resilience. Many traditions endured because communities adapted them rather than abandoning them altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://minorityrights.org/communities/lencas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: minorityrights.org">[Minority Rights Group]</a><span class="citation-popover" role="note"><span class="citation-popover-source">minorityrights.org</span><span class="citation-popover-title">Minority Rights Group Lencas in El Salvador</span><span class="citation-popover-snippet">Minority Rights GroupLencas in El Salvador - Minority Rights Group...</span></span></span>
@@ -350,89 +351,89 @@ Within the wider history of collective fears in El Salvador, colonial idolatry s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Decided Indigenous Belief Was Dangerous?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Decided Indigenous Belief Was Dangerous?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The broken spears on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9877560-M.jpg" alt="Cover for The broken spears" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The broken spears">The broken spears</a>
-        </h4>
-        <p class="fr-book-author">By Miguel León Portilla, Miguel Leon-Portilla et al.</p>
-
-        <p class="fr-book-desc">Provides context for colonial religious transformation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The broken spears on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9877560-M.jpg" alt="Cover for The broken spears" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The broken spears">The broken spears</a>
+</h4>
+<p class="fr-book-author">By Miguel León Portilla, Miguel Leon-Portilla et al.</p>
+        
+<p class="fr-book-desc">Provides context for colonial religious transformation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+broken+spears+Miguel+Leo%CC%81n+Portilla&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1493 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6899279-M.jpg" alt="Cover for 1493" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Explains long-term consequences of colonial exchange.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1493 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6899279-M.jpg" alt="Cover for 1493" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1493">1493</a>
+</h4>
+<p class="fr-book-author">By Charles C. Mann</p>
+        
+<p class="fr-book-desc">Explains long-term consequences of colonial exchange.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1493+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God is red on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/776082-M.jpg" alt="Cover for God is red" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God is red">God is red</a>
-        </h4>
-        <p class="fr-book-author">By Vine Deloria, Vine Deloria Jr. et al.</p>
-
-        <p class="fr-book-desc">Explores Indigenous spirituality and colonial interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God is red on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/776082-M.jpg" alt="Cover for God is red" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God is red">God is red</a>
+</h4>
+<p class="fr-book-author">By Vine Deloria, Vine Deloria Jr. et al.</p>
+        
+<p class="fr-book-desc">Explores Indigenous spirituality and colonial interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=God+is+red+Vine+Deloria&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491: New Revelations of the Americas Before Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
-        </h4>
-        <p class="fr-book-author">By Charles C. Mann</p>
-
-        <p class="fr-book-desc">Introduces Indigenous societies before European conquest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 1491: New Revelations of the Americas Before Columbus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/803118-M.jpg" alt="Cover for 1491: New Revelations of the Americas Before Columbus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1491: New Revelations of the Americas Before Columbus">1491: New Revelations of the Americas Before Columbus</a>
+</h4>
+<p class="fr-book-author">By Charles C. Mann</p>
+        
+<p class="fr-book-desc">Introduces Indigenous societies before European conquest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=1491%3A+New+Revelations+of+the+Americas+Before+Columbus+Charles+C.+Mann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+broken+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The broken spears</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=1493&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1493</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=God+is+red&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">God is red</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+broken+spears&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The broken spears</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=1493&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">1493</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=God+is+red&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">God is red</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

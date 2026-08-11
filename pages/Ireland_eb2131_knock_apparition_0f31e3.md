@@ -341,89 +341,89 @@ Instead, the reported apparition generated a lasting devotional tradition suppor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Knock Become a National Pilgrimage?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Knock Become a National Pilgrimage?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish fairy and folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853572-M.jpg" alt="Cover for Irish fairy and folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
-        </h4>
-        <p class="fr-book-author">By William Butler Yeats</p>
-
-        <p class="fr-book-desc">Provides wider cultural context for Irish traditions of extraordinary belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Irish fairy and folk tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/853572-M.jpg" alt="Cover for Irish fairy and folk tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
+</h4>
+<p class="fr-book-author">By William Butler Yeats</p>
+        
+<p class="fr-book-desc">Provides wider cultural context for Irish traditions of extraordinary belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s First Love: Mary, Mother of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The World&#x27;s First Love: Mary, Mother of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s First Love: Mary, Mother of God">The World&#x27;s First Love: Mary, Mother of God</a>
-        </h4>
-        <p class="fr-book-author">By Fulton J. Sheen</p>
-
-        <p class="fr-book-desc">Provides broader Catholic context for Marian apparitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s First Love: Mary, Mother of God on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/698276-M.jpg" alt="Cover for The World&#x27;s First Love: Mary, Mother of God" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s First Love: Mary, Mother of God">The World&#x27;s First Love: Mary, Mother of God</a>
+</h4>
+<p class="fr-book-author">By Fulton J. Sheen</p>
+        
+<p class="fr-book-desc">Provides broader Catholic context for Marian apparitions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The miracle detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6796137-M.jpg" alt="Cover for The miracle detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The miracle detective">The miracle detective</a>
-        </h4>
-        <p class="fr-book-author">By Randall Sullivan</p>
-
-        <p class="fr-book-desc">Explains how the Catholic Church evaluates miraculous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The miracle detective on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6796137-M.jpg" alt="Cover for The miracle detective" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The miracle detective">The miracle detective</a>
+</h4>
+<p class="fr-book-author">By Randall Sullivan</p>
+        
+<p class="fr-book-desc">Explains how the Catholic Church evaluates miraculous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+miracle+detective+Randall+Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7155750-M.jpg" alt="Cover for Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland">Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Eugene Hynes</p>
-
-        <p class="fr-book-desc">Directly examines the apparition and its historical development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7155750-M.jpg" alt="Cover for Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland">Knock: The Virgin&#x27;s Apparition in Nineteenth-Century Ireland</a>
+</h4>
+<p class="fr-book-author">By Eugene Hynes</p>
+        
+<p class="fr-book-desc">Directly examines the apparition and its historical development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Knock%3A+The+Virgin%27s+Apparition+in+Nineteenth-Century+Ireland+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish fairy and folk tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s First Love: Mary, Mother of God</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Irish fairy and folk tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+First+Love%3A+Mary%2C+Mother+of+God&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s First Love: Mary, Mother of God</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+miracle+detective&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The miracle detective</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

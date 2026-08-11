@@ -209,13 +209,13 @@ description: Suriname’s history of collective fear and contagious belief is no
 hero_summary: Suriname’s history of collective fear and contagious belief is not dominated by a single, famous episode comparable to the Salem trials or a well-documented school outbreak of mass psychogenic illness.
 layout: default
 permalink: /suriname/
-nav_short_title: "How Panic, Rumour and Belief Took Hold in Suriname"
-title: "How Panic, Rumour and Belief Took Hold in Suriname"
-title_full: "How Panic, Rumour and Belief Took Hold in Suriname"
-display_title_short: "How Panic, Rumour and Belief Took Hold in Suriname"
-display_title: "How Panic, Rumour and Belief Took Hold in Suriname"
-heading_title: "How Panic, Rumour and Belief Took Hold in Suriname"
-page_heading_title: "How Panic, Rumour and Belief Took Hold in Suriname"
+nav_short_title: When Fear and Spiritual Authority Shaped Suriname
+title: When Fear and Spiritual Authority Shaped Suriname
+title_full: When Fear and Spiritual Authority Shaped Suriname
+display_title_short: When Fear and Spiritual Authority Shaped Suriname
+display_title: When Fear and Spiritual Authority Shaped Suriname
+heading_title: When Fear and Spiritual Authority Shaped Suriname
+page_heading_title: When Fear and Spiritual Authority Shaped Suriname
 source_count: 117
 infographic_count: 3
 page_website_name: Suriname
@@ -1278,7 +1278,8 @@ Suriname’s most important lesson for the social history of panic is therefore 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A0YRTRezSeM" title="Millions Saw This Miracle—Why Do Christians Ignore It?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A0YRTRezSeM" target="_blank" rel="noopener noreferrer">Millions Saw This Miracle—Why Do Christians Ignore It?</a></p><p class="youtube-embed-meta">Channel: Capturing Christianity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A0YRTRezSeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A0YRTRezSeM">Open on YouTube</a></p></div></div></div>
 
-## How Suriname entered public memory
+## Why this history still matters
+
 These episodes remain culturally important because disputes about spiritual belief are also disputes about whose knowledge counts. Colonial descriptions portrayed European Christianity and administration as rational while defining African-derived religion as dangerous superstition. Modern scholarship has challenged that hierarchy, showing how healing, ancestry, politics and justice were interwoven in Surinamese life. The Sacred Arts of the Black Atlantic+2Miami Scholarship<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sacredart.caaar.duke.edu/religions/surinamese-and-dutch-winti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacredart.caaar.duke.edu">[sacredart.caaar.duke.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacredart.caaar.duke.edu</span><span class="citation-popover-snippet">The Sacred Arts of the Black AtlanticSurinamese and Dutch WintiPracticing Winti was officially banned in an 1874 law, and the ban was not...</span></span></span>
 
 The history also warns against two opposite errors. One is to dismiss sincere religious experience as collective delusion. The other is to excuse accusation, coercion or violence merely because they occur within a recognised cultural system. A humane account must respect religious freedom while asking what happened to the accused, what evidence was accepted, who benefited from a verdict and whether people had any realistic means of defence.
@@ -1303,7 +1304,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1320,7 +1321,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1337,7 +1338,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred Arts of the Black Atlantic">The Sacred Arts of the Black Atlantic</a>
 </h4>
 <p class="fr-book-author">By Robert Farris Thompson</p>
-
+        
 <p class="fr-book-desc">Strong background for Winti and related belief systems.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sacred+Arts+of+the+Black+Atlantic+Robert+Farris+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1355,7 @@ For readers interested in cults, scares and crowd belief, Suriname offers a part
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic among the Azande">Witchcraft, Oracles and Magic among the Azande</a>
 </h4>
 <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-
+        
 <p class="fr-book-desc">Foundational study of witchcraft beliefs in society.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

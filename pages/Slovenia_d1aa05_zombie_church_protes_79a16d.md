@@ -342,89 +342,89 @@ Within Slovenia's wider history of fears, panics and contested belief, the Zombi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Protesters Turned Stigma Into Satire. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Protesters Turned Stigma Into Satire. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True Believer:Thoughts on the Nature of Mass Movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8284928-M.jpg" alt="Cover for The True Believer:Thoughts on the Nature of Mass Movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
-        </h4>
-        <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-
-        <p class="fr-book-desc">Provides context for collective identity and political mobilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The True Believer:Thoughts on the Nature of Mass Movements on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8284928-M.jpg" alt="Cover for The True Believer:Thoughts on the Nature of Mass Movements" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
+</h4>
+<p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
+        
+<p class="fr-book-desc">Provides context for collective identity and political mobilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Dictatorship to Democracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7249981-M.jpg" alt="Cover for From Dictatorship to Democracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Dictatorship to Democracy">From Dictatorship to Democracy</a>
-        </h4>
-        <p class="fr-book-author">By Gene Sharp</p>
-
-        <p class="fr-book-desc">Explains nonviolent resistance relevant to Slovenian protests.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Dictatorship to Democracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7249981-M.jpg" alt="Cover for From Dictatorship to Democracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Dictatorship to Democracy">From Dictatorship to Democracy</a>
+</h4>
+<p class="fr-book-author">By Gene Sharp</p>
+        
+<p class="fr-book-desc">Explains nonviolent resistance relevant to Slovenian protests.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy+Gene+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beautiful trouble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10732678-M.jpg" alt="Cover for Beautiful trouble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beautiful trouble">Beautiful trouble</a>
-        </h4>
-        <p class="fr-book-author">By Boyd, Andrew, Dave Oswald Mitchell</p>
-
-        <p class="fr-book-desc">Matches the page&#x27;s focus on satire and political performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beautiful trouble on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10732678-M.jpg" alt="Cover for Beautiful trouble" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beautiful trouble">Beautiful trouble</a>
+</h4>
+<p class="fr-book-author">By Boyd, Andrew, Dave Oswald Mitchell</p>
+        
+<p class="fr-book-desc">Matches the page&#x27;s focus on satire and political performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Beautiful+trouble+Boyd%2C+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of protest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1551038-M.jpg" alt="Cover for The art of protest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of protest">The art of protest</a>
-        </h4>
-        <p class="fr-book-author">By T. V. Reed</p>
-
-        <p class="fr-book-desc">Explores symbolism and performance in protest movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of protest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1551038-M.jpg" alt="Cover for The art of protest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of protest">The art of protest</a>
+</h4>
+<p class="fr-book-author">By T. V. Reed</p>
+        
+<p class="fr-book-desc">Explores symbolism and performance in protest movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+protest+T.+V.+Reed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From Dictatorship to Democracy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beautiful+trouble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beautiful trouble</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The True Believer:Thoughts on the Nature of Mass Movements</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=From+Dictatorship+to+Democracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From Dictatorship to Democracy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Beautiful+trouble&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beautiful trouble</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

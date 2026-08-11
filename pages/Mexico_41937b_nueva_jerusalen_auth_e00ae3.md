@@ -358,7 +358,7 @@ These questions remain relevant wherever tightly organised religious communities
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-
+        
 <p class="fr-book-desc">Highly relevant to prophetic communities and authority.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ These questions remain relevant wherever tightly organised religious communities
 <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The True Believer:Thoughts on the Nature of Mass Movements">The True Believer:Thoughts on the Nature of Mass Movements</a>
 </h4>
 <p class="fr-book-author">By Eric Hoffer, Eric Hoffer</p>
-
+        
 <p class="fr-book-desc">First published 1951. Subjects: communism, reactionary, mass movements, extremism, radical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+True+Believer%3AThoughts+on+the+Nature+of+Mass+Movements+Eric+Hoffer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ These questions remain relevant wherever tightly organised religious communities
 <a href="https://www.amazon.com/s?k=The+Labyrinth+of+Solitude+Octavio+Paz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Labyrinth of Solitude">The Labyrinth of Solitude</a>
 </h4>
 <p class="fr-book-author">By Octavio Paz</p>
-
+        
 <p class="fr-book-desc">First published 1961. Subjects: Social life and customs, Vida social y costumbres, Civilización, Características nacionales mexicanas, Cr...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Labyrinth+of+Solitude+Octavio+Paz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ These questions remain relevant wherever tightly organised religious communities
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
 </h4>
 <p class="fr-book-author">By Clifford Geertz</p>
-
+        
 <p class="fr-book-desc">First published 1973. Subjects: Culturele antropologie, Culture, Ethnology, Ethnologie, Ethnolo.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -348,89 +348,89 @@ For this reason, analysts increasingly describe the killings not simply as expre
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Drought Turns Rainmakers Into Scapegoats. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Drought Turns Rainmakers Into Scapegoats. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuer religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5806469-M.jpg" alt="Cover for Nuer religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuer religion">Nuer religion</a>
-        </h4>
-        <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-
-        <p class="fr-book-desc">First published 1956. Subjects: Nuer (African people), Religion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nuer religion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5806469-M.jpg" alt="Cover for Nuer religion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nuer religion">Nuer religion</a>
+</h4>
+<p class="fr-book-author">By E. E. Evans-Pritchard</p>
+        
+<p class="fr-book-desc">First published 1956. Subjects: Nuer (African people), Religion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nuer+religion+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drought, Flood, Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11380411-M.jpg" alt="Cover for Drought, Flood, Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drought, Flood, Fire">Drought, Flood, Fire</a>
-        </h4>
-        <p class="fr-book-author">By Chris C. Funk</p>
-
-        <p class="fr-book-desc">Clarifies how warming intensifies drought, food insecurity and other disasters, helping readers understand the environmental pressures th...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drought, Flood, Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11380411-M.jpg" alt="Cover for Drought, Flood, Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drought, Flood, Fire">Drought, Flood, Fire</a>
+</h4>
+<p class="fr-book-author">By Chris C. Funk</p>
+        
+<p class="fr-book-desc">Clarifies how warming intensifies drought, food insecurity and other disasters, helping readers understand the environmental pressures th...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire+Chris+C.+Funk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emma&#x27;s war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6918336-M.jpg" alt="Cover for Emma&#x27;s war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emma&#x27;s war">Emma&#x27;s war</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Offers an accessible human account of violence, belief, loyalty and power during the conflicts that shaped modern South Sudan.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Emma&#x27;s war on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6918336-M.jpg" alt="Cover for Emma&#x27;s war" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Emma&#x27;s war">Emma&#x27;s war</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Offers an accessible human account of violence, belief, loyalty and power during the conflicts that shaped modern South Sudan.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Emma%27s+war+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peacemaking on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peacemaking">South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peac...</a>
-        </h4>
-        <p class="fr-book-author">By John Young</p>
-
-        <p class="fr-book-desc">Explains the weak institutions, armed mobilisation, customary authority and impunity that form the wider political setting for killings a...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peacemaking on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peacemaking">South Sudan&#x27;s Civil War: Violence, Insurgency and Failed Peac...</a>
+</h4>
+<p class="fr-book-author">By John Young</p>
+        
+<p class="fr-book-desc">Explains the weak institutions, armed mobilisation, customary authority and impunity that form the wider political setting for killings a...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=South+Sudan%27s+Civil+War%3A+Violence%2C+Insurgency+and+Failed+Peacemaking+John+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuer+religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuer religion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drought, Flood, Fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Emma%27s+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emma&#x27;s war</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nuer+religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nuer religion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drought%2C+Flood%2C+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drought, Flood, Fire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Emma%27s+war&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Emma&#x27;s war</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

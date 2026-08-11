@@ -209,13 +209,13 @@ description: Cuba’s history of collective fear is not a neat catalogue of spec
 hero_summary: Cuba’s history of collective fear is not a neat catalogue of spectacular “mass hysteria” outbreaks.
 layout: default
 permalink: /when-fear-became-a-force-in-cuba/
-nav_short_title: "Cuba: Panics, Beliefs and Mass Movements"
-title: "Cuba: Panics, Beliefs and Mass Movements"
-title_full: "Cuba: Panics, Beliefs and Mass Movements"
-display_title_short: "Cuba: Panics, Beliefs and Mass Movements"
-display_title: "Cuba: Panics, Beliefs and Mass Movements"
-heading_title: "Cuba: Panics, Beliefs and Mass Movements"
-page_heading_title: "Cuba: Panics, Beliefs and Mass Movements"
+nav_short_title: When Fear Became a Force in Cuba
+title: When Fear Became a Force in Cuba
+title_full: When Fear Became a Force in Cuba
+display_title_short: When Fear Became a Force in Cuba
+display_title: When Fear Became a Force in Cuba
+heading_title: When Fear Became a Force in Cuba
+page_heading_title: When Fear Became a Force in Cuba
 source_count: 76
 infographic_count: 3
 page_website_name: Cuba's Collective Fears
@@ -1292,95 +1292,95 @@ The larger lesson is that collective fear seldom begins from nothing. It grows w
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Became a Force in Cuba. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Became a Force in Cuba. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
-        </h4>
-        <p class="fr-book-author">By C. L. R. James</p>
-
-        <p class="fr-book-desc">Broadens understanding of Caribbean politics and race.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Jacobins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14349219-M.jpg" alt="Cover for The Black Jacobins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
+</h4>
+<p class="fr-book-author">By C. L. R. James</p>
+        
+<p class="fr-book-desc">Broadens understanding of Caribbean politics and race.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil&#x27;s chessboard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11618679-M.jpg" alt="Cover for The devil&#x27;s chessboard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil&#x27;s chessboard">The devil&#x27;s chessboard</a>
-        </h4>
-        <p class="fr-book-author">By David Talbot</p>
-
-        <p class="fr-book-desc">Explores Cold War intelligence culture relevant to Cuban fear narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The devil&#x27;s chessboard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11618679-M.jpg" alt="Cover for The devil&#x27;s chessboard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The devil&#x27;s chessboard">The devil&#x27;s chessboard</a>
+</h4>
+<p class="fr-book-author">By David Talbot</p>
+        
+<p class="fr-book-desc">Explores Cold War intelligence culture relevant to Cuban fear narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+devil%27s+chessboard+David+Talbot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Insane clown president on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823592-M.jpg" alt="Cover for Insane clown president" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Insane clown president">Insane clown president</a>
-        </h4>
-        <p class="fr-book-author">By Matt Taibbi</p>
-
-        <p class="fr-book-desc">Helps explain how public narratives and panic can spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Insane clown president on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823592-M.jpg" alt="Cover for Insane clown president" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Insane clown president">Insane clown president</a>
+</h4>
+<p class="fr-book-author">By Matt Taibbi</p>
+        
+<p class="fr-book-desc">Helps explain how public narratives and panic can spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Insane+clown+president+Matt+Taibbi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
-
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cuba
+            
                 What Everyone Needs to Know Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7737685-M.jpg" alt="Cover for Cuba
-
+            
                 What Everyone Needs to Know Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
-
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cuba
+            
                 What Everyone Needs to Know Paper">Cuba What Everyone Needs to Know Paper</a>
-        </h4>
-        <p class="fr-book-author">By Julia E. Sweig</p>
-
-        <p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+</h4>
+<p class="fr-book-author">By Julia E. Sweig</p>
+        
+<p class="fr-book-desc">First published 2012. Subjects: Cuba, history, Cuba, politics and government, Politics and government, History, Foreign relations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cuba+What+Everyone+Needs+to+Know+Paper+Julia+E.+Sweig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil%27s+chessboard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil&#x27;s chessboard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Insane+clown+president&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Insane clown president</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Jacobins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Jacobins</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+devil%27s+chessboard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The devil&#x27;s chessboard</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Insane+clown+president&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Insane clown president</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

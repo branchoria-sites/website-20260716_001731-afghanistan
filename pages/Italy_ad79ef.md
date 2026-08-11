@@ -209,13 +209,13 @@ description: Italy’s history of collective fear and contagious belief is not o
 hero_summary: Italy’s history of collective fear and contagious belief is not one continuous story of “mass hysteria”. It is a series of different episodes shaped by famine, religious authority, village conflict, political upheaval, changing ideas about childhood and abuse, and the power of newspapers, television and social media.
 layout: default
 permalink: /when-fear-and-belief-took-hold-in-italy/
-nav_short_title: "How Fear and Belief Shaped Italy"
-title: "How Fear and Belief Shaped Italy"
-title_full: "How Fear and Belief Shaped Italy"
-display_title_short: "How Fear and Belief Shaped Italy"
-display_title: "How Fear and Belief Shaped Italy"
-heading_title: "How Fear and Belief Shaped Italy"
-page_heading_title: "How Fear and Belief Shaped Italy"
+nav_short_title: When Fear and Belief Took Hold in Italy
+title: When Fear and Belief Took Hold in Italy
+title_full: When Fear and Belief Took Hold in Italy
+display_title_short: When Fear and Belief Took Hold in Italy
+display_title: When Fear and Belief Took Hold in Italy
+heading_title: When Fear and Belief Took Hold in Italy
+page_heading_title: When Fear and Belief Took Hold in Italy
 source_count: 127
 infographic_count: 3
 page_website_name: Italy's Strange Beliefs
@@ -1360,7 +1360,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Europe+John+Morris+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin history of Europe">The Penguin history of Europe</a>
 </h4>
 <p class="fr-book-author">By John Morris Roberts</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: History, Europe, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+history+of+Europe+John+Morris+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=The+Cheese+and+the+Worms+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cheese and the Worms">The Cheese and the Worms</a>
 </h4>
 <p class="fr-book-author">By Carlo Ginzburg</p>
-
+        
 <p class="fr-book-desc">Explores belief, authority and popular religion in Italy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cheese+and+the+Worms+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ The strongest lesson is procedural rather than cynical. Take suffering seriously
 <a href="https://www.amazon.com/s?k=Ecstasies%3A+Deciphering+the+Witches%27+Sabbath+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ecstasies: Deciphering the Witches&#x27; Sabbath">Ecstasies: Deciphering the Witches&#x27; Sabbath</a>
 </h4>
 <p class="fr-book-author">By Carlo Ginzburg</p>
-
+        
 <p class="fr-book-desc">Examines witch beliefs, folklore and persecution.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ecstasies%3A+Deciphering+the+Witches%27+Sabbath+Carlo+Ginzburg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

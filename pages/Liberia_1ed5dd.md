@@ -209,13 +209,13 @@ description: Liberia’s history of collective fear is not best described as a s
 hero_summary: Liberia’s history of collective fear is not best described as a sequence of classic “mass hysteria” outbreaks. Its most important episodes centre instead on witchcraft accusations, suspected ritual killings, rumours of supernatural protection during civil war, and epidemic fears during the 2014–16 Ebola crisis.
 layout: default
 permalink: /when-fear-became-power-in-liberia/
-nav_short_title: "How Panic, Rumour and Belief Took Hold in Liberia"
-title: "How Panic, Rumour and Belief Took Hold in Liberia"
-title_full: "How Panic, Rumour and Belief Took Hold in Liberia"
-display_title_short: "How Panic, Rumour and Belief Took Hold in Liberia"
-display_title: "How Panic, Rumour and Belief Took Hold in Liberia"
-heading_title: "How Panic, Rumour and Belief Took Hold in Liberia"
-page_heading_title: "How Panic, Rumour and Belief Took Hold in Liberia"
+nav_short_title: When Fear Became Power in Liberia
+title: When Fear Became Power in Liberia
+title_full: When Fear Became Power in Liberia
+display_title_short: When Fear Became Power in Liberia
+display_title: When Fear Became Power in Liberia
+heading_title: When Fear Became Power in Liberia
+page_heading_title: When Fear Became Power in Liberia
 source_count: 132
 infographic_count: 3
 page_website_name: Liberia
@@ -1330,89 +1330,89 @@ The danger begins when this symbolic language is treated as sufficient evidence 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Became Power in Liberia. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Became Power in Liberia. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/392738-M.jpg" alt="Cover for King Leopold&#x27;s ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
-        </h4>
-        <p class="fr-book-author">By Adam Hochschild</p>
-
-        <p class="fr-book-desc">Broadens understanding of regional historical legacies affecting West Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open King Leopold&#x27;s ghost on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/392738-M.jpg" alt="Cover for King Leopold&#x27;s ghost" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
+</h4>
+<p class="fr-book-author">By Adam Hochschild</p>
+        
+<p class="fr-book-desc">Broadens understanding of regional historical legacies affecting West Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
-        </h4>
-        <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-
-        <p class="fr-book-desc">Relevant to Liberia&#x27;s Ebola-related fear and public panic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
+</h4>
+<p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
+        
+<p class="fr-book-desc">Relevant to Liberia&#x27;s Ebola-related fear and public panic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The house at Sugar Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2579664-M.jpg" alt="Cover for The house at Sugar Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
-        </h4>
-        <p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
-
-        <p class="fr-book-desc">Explains Liberian society before, during and after conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The house at Sugar Beach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2579664-M.jpg" alt="Cover for The house at Sugar Beach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The house at Sugar Beach">The house at Sugar Beach</a>
+</h4>
+<p class="fr-book-author">By Helene Cooper, Helene Cooper</p>
+        
+<p class="fr-book-desc">Explains Liberian society before, during and after conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach+Helene+Cooper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mask of anarchy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1544155-M.jpg" alt="Cover for The mask of anarchy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
-        </h4>
-        <p class="fr-book-author">By Ellis, Stephen</p>
-
-        <p class="fr-book-desc">Covers witchcraft, ritual power, civil war and fear in Liberia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The mask of anarchy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1544155-M.jpg" alt="Cover for The mask of anarchy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The mask of anarchy">The mask of anarchy</a>
+</h4>
+<p class="fr-book-author">By Ellis, Stephen</p>
+        
+<p class="fr-book-desc">Covers witchcraft, ritual power, civil war and fear in Liberia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+mask+of+anarchy+Ellis%2C+Stephen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s ghost</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The house at Sugar Beach</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=King+Leopold%27s+ghost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">King Leopold&#x27;s ghost</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+house+at+Sugar+Beach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The house at Sugar Beach</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

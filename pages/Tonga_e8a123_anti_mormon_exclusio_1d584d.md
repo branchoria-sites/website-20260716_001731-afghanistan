@@ -345,7 +345,7 @@ For historians of collective fear, the 1922 exclusion demonstrates how moral pan
 <a href="https://www.amazon.com/s?k=The+Mormon+People+Matthew+Bowman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mormon People">The Mormon People</a>
 </h4>
 <p class="fr-book-author">By Matthew Bowman</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Mormons.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mormon+People+Matthew+Bowman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For historians of collective fear, the 1922 exclusion demonstrates how moral pan
 <a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Friendly Islands">Friendly Islands</a>
 </h4>
 <p class="fr-book-author">By Noel Rutherford</p>
-
+        
 <p class="fr-book-desc">First published 1977. Subjects: History, Tonga, Tongan language, Texts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For historians of collective fear, the 1922 exclusion demonstrates how moral pan
 <a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Tonga">A History of Tonga</a>
 </h4>
 <p class="fr-book-author">By I. C. Campbell</p>
-
+        
 <p class="fr-book-desc">Explains the political and religious setting of the exclusion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For historians of collective fear, the 1922 exclusion demonstrates how moral pan
 <a href="https://www.amazon.com/s?k=Massacre+at+Mountain+Meadows+Ronald+W.+Walker%2C+Richard+E.+Turley+Jr.+and+Glen+M.+Leonard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Massacre at Mountain Meadows">Massacre at Mountain Meadows</a>
 </h4>
 <p class="fr-book-author">By Ronald W. Walker, Richard E. Turley Jr. and Glen M. Leonard</p>
-
+        
 <p class="fr-book-desc">Provides historical context for international perceptions of Mormonism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Massacre+at+Mountain+Meadows+Ronald+W.+Walker%2C+Richard+E.+Turley+Jr.+and+Glen+M.+Leonard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1333,7 +1333,7 @@ Taken together, these episodes make Nicaragua an important case for understandin
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
 </h4>
 <p class="fr-book-author">By Dr. Steven Novella</p>
-
+        
 <p class="fr-book-desc">Helps evaluate extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ Taken together, these episodes make Nicaragua an important case for understandin
 <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blood of Brothers">Blood of Brothers</a>
 </h4>
 <p class="fr-book-author">By Stephen Kinzer</p>
-
+        
 <p class="fr-book-desc">First published 1991. Subjects: History, Politics and government, Nicaragua, history, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Blood+of+Brothers+Stephen+Kinzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1367,7 +1367,7 @@ Taken together, these episodes make Nicaragua an important case for understandin
 <a href="https://www.amazon.com/s?k=The+spirits+and+the+law+Kate+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spirits and the law">The spirits and the law</a>
 </h4>
 <p class="fr-book-author">By Kate Ramsey</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Religion, Religion and law, Nationalism, Vodou, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+spirits+and+the+law+Kate+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1384,7 +1384,7 @@ Taken together, these episodes make Nicaragua an important case for understandin
 <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="By Alejo Carpentier The Kingdom of This World (Tra)">By Alejo Carpentier The Kingdom of This World (Tra)</a>
 </h4>
 <p class="fr-book-author">By Alejo Carpentier</p>
-
+        
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=By+Alejo+Carpentier+The+Kingdom+of+This+World+%28Tra%29+Alejo+Carpentier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

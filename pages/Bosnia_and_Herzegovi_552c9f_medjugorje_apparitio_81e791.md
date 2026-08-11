@@ -364,7 +364,7 @@ Within Bosnia and Herzegovina, Medjugorje has become one of the country's most i
 <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s first love">The world&#x27;s first love</a>
 </h4>
 <p class="fr-book-author">By Fulton J. Sheen</p>
-
+        
 <p class="fr-book-desc">First published 1952. Subjects: Mary, Blessed Virgin, Saint, Duchowość, Mariologia, Teologia katolicka.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world%27s+first+love+Fulton+J.+Sheen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Within Bosnia and Herzegovina, Medjugorje has become one of the country's most i
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
 </h4>
 <p class="fr-book-author">By Lee Strobel</p>
-
+        
 <p class="fr-book-desc">First published 2018. Subjects: Miracles, Supernatural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Within Bosnia and Herzegovina, Medjugorje has become one of the country's most i
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medjugorje the Message (Christian Classics)">Medjugorje the Message (Christian Classics)</a>
 </h4>
 <p class="fr-book-author">By Wayne Weible</p>
-
+        
 <p class="fr-book-desc">First published 2006. Subjects: Apparitions and miracles, Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Within Bosnia and Herzegovina, Medjugorje has become one of the country's most i
 <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia">Bosnia</a>
 </h4>
 <p class="fr-book-author">By Noel Malcolm</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Ethnic relations, History, Bosnia and hercegovina, history, Bosnia and hercegovina, ethnic relations, Bos...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bosnia+Noel+Malcolm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

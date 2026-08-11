@@ -352,7 +352,7 @@ For that reason, Nueva Germania is remembered less as a successful colony than a
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
 </h4>
 <p class="fr-book-author">By Benedict Anderson</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Nationalism, History, Nationalisme, Nacionalismo, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For that reason, Nueva Germania is remembered less as a successful colony than a
 <a href="https://www.amazon.com/s?k=The+Road+to+Unfreedom+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Road to Unfreedom">The Road to Unfreedom</a>
 </h4>
 <p class="fr-book-author">By Timothy Snyder</p>
-
+        
 <p class="fr-book-desc">First published 2018. Subjects: Politics and government, Authoritarianism, Democracy, New York Times reviewed, nyt:paperback-nonfiction=2...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Road+to+Unfreedom+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For that reason, Nueva Germania is remembered less as a successful colony than a
 <a href="https://www.amazon.com/s?k=Utopian+Thought+In+The+Western+World+Frank+Edward+Manuel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Utopian Thought In The Western World">Utopian Thought In The Western World</a>
 </h4>
 <p class="fr-book-author">By Frank Edward Manuel</p>
-
+        
 <p class="fr-book-desc">First published 1979. Subjects: Utopias, History, Utopias in literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Utopian+Thought+In+The+Western+World+Frank+Edward+Manuel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For that reason, Nueva Germania is remembered less as a successful colony than a
 <a href="https://www.amazon.com/s?k=Hitler%27s+Forgotten+Children+Tim+Tate+%28author%29+Ingrid+Von+Oelhafen+%28author%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hitler&#x27;s Forgotten Children">Hitler&#x27;s Forgotten Children</a>
 </h4>
 <p class="fr-book-author">By Tim Tate (author) Ingrid Von Oelhafen (author)</p>
-
+        
 <p class="fr-book-desc">First published 2017.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hitler%27s+Forgotten+Children+Tim+Tate+%28author%29+Ingrid+Von+Oelhafen+%28author%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

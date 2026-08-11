@@ -209,13 +209,13 @@ description: Burkina Faso’s clearest documented history of contagious belief a
 hero_summary: Burkina Faso’s clearest documented history of contagious belief and collective fear is not a single spectacular outbreak of “mass hysteria”. It is the repeated accusation and expulsion of people—especially older women—said to have caused illness or death through witchcraft.
 layout: default
 permalink: /burkina-faso/
-nav_short_title: "Rumour, Belief and Collective Panic in Burkina Faso"
-title: "Rumour, Belief and Collective Panic in Burkina Faso"
-title_full: "Rumour, Belief and Collective Panic in Burkina Faso"
-display_title_short: "Rumour, Belief and Collective Panic in Burkina Faso"
-display_title: "Rumour, Belief and Collective Panic in Burkina Faso"
-heading_title: "Rumour, Belief and Collective Panic in Burkina Faso"
-page_heading_title: "Rumour, Belief and Collective Panic in Burkina Faso"
+nav_short_title: When Fear Turns Neighbours Into Suspects
+title: When Fear Turns Neighbours Into Suspects
+title_full: When Fear Turns Neighbours Into Suspects
+display_title_short: When Fear Turns Neighbours Into Suspects
+display_title: When Fear Turns Neighbours Into Suspects
+heading_title: When Fear Turns Neighbours Into Suspects
+page_heading_title: When Fear Turns Neighbours Into Suspects
 source_count: 127
 infographic_count: 3
 page_website_name: Burkina Faso
@@ -1353,7 +1353,7 @@ The most useful lesson is the distinction between **belief and harm**. Governmen
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
 </h4>
 <p class="fr-book-author">By Anne Fadiman</p>
-
+        
 <p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ The most useful lesson is the distinction between **belief and harm**. Governmen
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
 </h4>
 <p class="fr-book-author">By Mbiti, John S.</p>
-
+        
 <p class="fr-book-desc">First published 1970. Subjects: Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ The most useful lesson is the distinction between **belief and harm**. Governmen
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
 </h4>
 <p class="fr-book-author">By Katherine Howe</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Witchcraft, History, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1404,7 +1404,7 @@ The most useful lesson is the distinction between **belief and harm**. Governmen
 <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fear">The fear</a>
 </h4>
 <p class="fr-book-author">By Peter Godwin</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Politics and government, Social conditions, Economic conditions, Mugabe, robert gabriel, 1924-2019, Zimba...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fear+Peter+Godwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

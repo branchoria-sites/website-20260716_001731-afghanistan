@@ -342,89 +342,89 @@ The movement also illustrates the importance of examining colonial language crit
 For historians of collective belief, Nyabingi is significant not because it represents a case of mass hysteria, but because it shows how shared spiritual convictions can shape political action during periods of upheaval. The tradition reminds us that belief systems are embedded in social and historical circumstances, and that understanding them requires taking both religious experience and political grievance seriously rather than dismissing either one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.africabib.org/rec.php?RID=153786779" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: africabib.org">[Africabib]</a><span class="citation-popover" role="note"><span class="citation-popover-source">africabib.org</span><span class="citation-popover-title">Africa Bib &#124; The colonial control of spirit cults in Uganda</span><span class="citation-popover-snippet">AfricaBib &#124; The colonial control of spirit cults in Uganda...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Nyabingi a Cult or Resistance Movement?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Nyabingi a Cult or Resistance Movement?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
-        </h4>
-        <p class="fr-book-author">By Philip Gourevitch</p>
-
-        <p class="fr-book-desc">Offers accessible Rwanda background for related topics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We wish to inform you that tomorrow we will be killed with our families on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/196945-M.jpg" alt="Cover for We wish to inform you that tomorrow we will be killed with our families" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
+</h4>
+<p class="fr-book-author">By Philip Gourevitch</p>
+        
+<p class="fr-book-desc">Offers accessible Rwanda background for related topics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When victims become killers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/441780-M.jpg" alt="Cover for When victims become killers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When victims become killers">When victims become killers</a>
-        </h4>
-        <p class="fr-book-author">By Mahmood Mamdani</p>
-
-        <p class="fr-book-desc">Explains long-term political and colonial context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When victims become killers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/441780-M.jpg" alt="Cover for When victims become killers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When victims become killers">When victims become killers</a>
+</h4>
+<p class="fr-book-author">By Mahmood Mamdani</p>
+        
+<p class="fr-book-desc">Explains long-term political and colonial context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+victims+become+killers+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
-        </h4>
-        <p class="fr-book-author">By Mbiti, John S.</p>
-
-        <p class="fr-book-desc">Provides context for African religious traditions including spirit belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
+</h4>
+<p class="fr-book-author">By Mbiti, John S.</p>
+        
+<p class="fr-book-desc">Provides context for African religious traditions including spirit belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa, 1876-1912" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
-        </h4>
-        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-
-        <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
+</h4>
+<p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+        
+<p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+victims+become+killers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When victims become killers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We wish to inform you that tomorrow we will be killed with our families</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+victims+become+killers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When victims become killers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

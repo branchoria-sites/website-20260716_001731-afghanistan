@@ -366,89 +366,89 @@ For historians of collective belief, Contestado illustrates that prophecy spread
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Prophecy Took Hold in Contestado. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Prophecy Took Hold in Contestado. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brazilians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134745-M.jpg" alt="Cover for The Brazilians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brazilians">The Brazilians</a>
-        </h4>
-        <p class="fr-book-author">By Joseph A. Page</p>
-
-        <p class="fr-book-desc">Provides accessible national context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Brazilians on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/134745-M.jpg" alt="Cover for The Brazilians" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Brazilians">The Brazilians</a>
+</h4>
+<p class="fr-book-author">By Joseph A. Page</p>
+        
+<p class="fr-book-desc">Provides accessible national context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Brazilians+Joseph+A.+Page&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brazil on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10149897-M.jpg" alt="Cover for Brazil" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brazil">Brazil</a>
-        </h4>
-        <p class="fr-book-author">By Lilia M. Schwarcz, Heloisa M. Starling</p>
-
-        <p class="fr-book-desc">First published 2017. Subjects: Brazil, history, Brazil, civilization, Brazil, description and travel, History, Civilization.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brazil on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10149897-M.jpg" alt="Cover for Brazil" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brazil">Brazil</a>
+</h4>
+<p class="fr-book-author">By Lilia M. Schwarcz, Heloisa M. Starling</p>
+        
+<p class="fr-book-desc">First published 2017. Subjects: Brazil, history, Brazil, civilization, Brazil, description and travel, History, Civilization.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brazil+Lilia+M.+Schwarcz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6802812-M.jpg" alt="Cover for The pursuit of the millennium" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Directly relevant to prophetic religious communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pursuit of the millennium on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6802812-M.jpg" alt="Cover for The pursuit of the millennium" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pursuit of the millennium">The pursuit of the millennium</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Directly relevant to prophetic religious communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha (1957-09-15) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha (1957-09-15)">Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha...</a>
-        </h4>
-        <p class="fr-book-author">By Euclides da Cunha</p>
-
-        <p class="fr-book-desc">First published 1716.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha (1957-09-15) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha (1957-09-15)">Rebellion in the Backlands (Os Sertoes ) by Euclides da Cunha...</a>
+</h4>
+<p class="fr-book-author">By Euclides da Cunha</p>
+        
+<p class="fr-book-desc">First published 1716.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rebellion+in+the+Backlands+%28Os+Sertoes+%29+by+Euclides+da+Cunha+%281957-09-15%29+Euclides+da+Cunha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brazilians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brazilians</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brazil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brazil</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pursuit of the millennium</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Brazilians&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Brazilians</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brazil&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brazil</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pursuit+of+the+millennium&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pursuit of the millennium</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

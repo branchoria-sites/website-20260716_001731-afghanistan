@@ -316,7 +316,8 @@ Scholars therefore argue that the crisis cannot be dismissed simply as irrationa
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/50VvBkOLblA" title="&#x27;Grease devil&#x27; boomeranged back to the govt - Tilvin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=50VvBkOLblA" target="_blank" rel="noopener noreferrer">&#x27;Grease devil&#x27; boomeranged back to the govt - Tilvin</a></p><p class="youtube-embed-meta">Channel: adaderana</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=50VvBkOLblA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=50VvBkOLblA">Open on YouTube</a></p></div></div></div>
 
-## What Grease Devils reveals about public fear
+## Why the episode still matters
+
 The grease devil panic remains one of Sri Lanka's clearest examples of how rumours become socially powerful when they resonate with existing fears.
 
 Its significance lies not in proving whether every reported attacker existed, but in demonstrating how communities experiencing insecurity interpret uncertain events. Genuine crimes, sensational reporting, historical folklore and political mistrust reinforced one another until collective vigilance itself became a source of violence.
@@ -324,89 +325,89 @@ Its significance lies not in proving whether every reported attacker existed, bu
 The episode also illustrates why broad labels such as "mass hysteria" are often inadequate. The panic contained documented assaults, false accusations, vigilantism, ethnic and political tensions, institutional failures and deeply rooted memories of conflict. Understanding all of these elements together explains why the fear spread so rapidly, why official reassurances failed to calm it, and why the grease devil crisis remains a defining case in Sri Lanka's modern history of rumour panics and collective fear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchonline.lse.ac.uk/57210/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchonline.lse.ac.uk">[lse.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchonline.lse.ac.uk</span><span class="citation-popover-snippet">LSE Research OnlineDemonic violence and moral panic in post-war Sri Lanka:explaining the “Grease Devils”June 30, 2014...</span><span class="citation-popover-meta">Published: June 30, 2014</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Sri Lanka&#x27;s Grease Devils Real?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Sri Lanka&#x27;s Grease Devils Real?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Strong fit for rumor-driven nationwide panic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Strong fit for rumor-driven nationwide panic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5272015-M.jpg" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
-        </h4>
-        <p class="fr-book-author">By Gavin de Becker</p>
-
-        <p class="fr-book-desc">Explores fear, threat perception, and misjudgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gift of Fear on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5272015-M.jpg" alt="Cover for The Gift of Fear" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gift of Fear">The Gift of Fear</a>
+</h4>
+<p class="fr-book-author">By Gavin de Becker</p>
+        
+<p class="fr-book-desc">Explores fear, threat perception, and misjudgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gift+of+Fear+Gavin+de+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
-        </h4>
-        <p class="fr-book-author">By Jan-Willem van Prooijen</p>
-
-        <p class="fr-book-desc">Explains why alarming stories spread and persist.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Conspiracy Theories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q8ZUDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Conspiracy Theories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Conspiracy Theories">The Psychology of Conspiracy Theories</a>
+</h4>
+<p class="fr-book-author">By Jan-Willem van Prooijen</p>
+        
+<p class="fr-book-desc">Explains why alarming stories spread and persist.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories+Jan-Willem+van+Prooijen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crowds and Power by Elias Canetti (1984-04-01) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crowds and Power by Elias Canetti (1984-04-01)">Crowds and Power by Elias Canetti (1984-04-01)</a>
-        </h4>
-        <p class="fr-book-author">By Elias Canetti</p>
-
-        <p class="fr-book-desc">First published 1783.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crowds and Power by Elias Canetti (1984-04-01) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crowds and Power by Elias Canetti (1984-04-01)">Crowds and Power by Elias Canetti (1984-04-01)</a>
+</h4>
+<p class="fr-book-author">By Elias Canetti</p>
+        
+<p class="fr-book-desc">First published 1783.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gift+of+Fear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gift of Fear</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Conspiracy+Theories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Conspiracy Theories</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

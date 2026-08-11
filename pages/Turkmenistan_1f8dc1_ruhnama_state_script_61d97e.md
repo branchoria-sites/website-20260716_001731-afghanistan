@@ -343,89 +343,89 @@ For historians of collective belief, the episode demonstrates how political powe
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did a President&#x27;s Book Become Sacred?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did a President&#x27;s Book Become Sacred?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future Is History: How Totalitarianism Reclaimed Russia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8489642-M.jpg" alt="Cover for The Future Is History: How Totalitarianism Reclaimed Russia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future Is History: How Totalitarianism Reclaimed Russia">The Future Is History: How Totalitarianism Reclaimed Russia</a>
-        </h4>
-        <p class="fr-book-author">By Masha Gessen</p>
-
-        <p class="fr-book-desc">Examines ideology and authoritarianism in the post-Soviet world.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future Is History: How Totalitarianism Reclaimed Russia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8489642-M.jpg" alt="Cover for The Future Is History: How Totalitarianism Reclaimed Russia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future Is History: How Totalitarianism Reclaimed Russia">The Future Is History: How Totalitarianism Reclaimed Russia</a>
+</h4>
+<p class="fr-book-author">By Masha Gessen</p>
+        
+<p class="fr-book-desc">Examines ideology and authoritarianism in the post-Soviet world.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia+Masha+Gessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Successor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10227387-M.jpg" alt="Cover for The Great Successor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Successor">The Great Successor</a>
-        </h4>
-        <p class="fr-book-author">By Anna Fifield</p>
-
-        <p class="fr-book-desc">Illustrates modern personality cults and political symbolism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Successor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10227387-M.jpg" alt="Cover for The Great Successor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Successor">The Great Successor</a>
+</h4>
+<p class="fr-book-author">By Anna Fifield</p>
+        
+<p class="fr-book-desc">Illustrates modern personality cults and political symbolism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+Successor+Anna+Fifield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13840192-M.jpg" alt="Cover for The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)">The Italian Road to Totalitarianism (Totalitarianism Movement...</a>
-        </h4>
-        <p class="fr-book-author">By Emilio Gentile</p>
-
-        <p class="fr-book-desc">First published 1995. Subjects: Totalitarianism, Fascism, Italy, politics and government, Politics and government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13840192-M.jpg" alt="Cover for The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)">The Italian Road to Totalitarianism (Totalitarianism Movement...</a>
+</h4>
+<p class="fr-book-author">By Emilio Gentile</p>
+        
+<p class="fr-book-desc">First published 1995. Subjects: Totalitarianism, Fascism, Italy, politics and government, Politics and government.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29+Emilio+Gentile&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-        </h4>
-        <p class="fr-book-author">By Adeeb Khalid</p>
-
-        <p class="fr-book-desc">Supplies historical background to Turkmen nation-building.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+</h4>
+<p class="fr-book-author">By Adeeb Khalid</p>
+        
+<p class="fr-book-desc">Supplies historical background to Turkmen nation-building.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future Is History: How Totalitarianism Reclaimed Russia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Successor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Successor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+Is+History%3A+How+Totalitarianism+Reclaimed+Russia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future Is History: How Totalitarianism Reclaimed Russia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Successor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Successor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Italian+Road+to+Totalitarianism+%28Totalitarianism+Movements+and+Political+Religions%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Italian Road to Totalitarianism (Totalitarianism Movements and Political Religions)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

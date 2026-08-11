@@ -358,89 +358,89 @@ Within the broader history of collective belief in Belarus, Soviet atheism marks
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Belief Became a Soviet Enemy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Belief Became a Soviet Enemy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everyday Stalinism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/121239-M.jpg" alt="Cover for Everyday Stalinism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
-        </h4>
-        <p class="fr-book-author">By Sheila Fitzpatrick</p>
-
-        <p class="fr-book-desc">Shows how Soviet ideology affected daily life.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Everyday Stalinism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/121239-M.jpg" alt="Cover for Everyday Stalinism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Everyday Stalinism">Everyday Stalinism</a>
+</h4>
+<p class="fr-book-author">By Sheila Fitzpatrick</p>
+        
+<p class="fr-book-desc">Shows how Soviet ideology affected daily life.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Everyday+Stalinism+Sheila+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7636393-M.jpg" alt="Cover for The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century">The Penguin History Of Modern Russia From Tsarism To The Twen...</a>
-        </h4>
-        <p class="fr-book-author">By Robert Service</p>
-
-        <p class="fr-book-desc">First published 2009. Subjects: Soviet union, history, Russia (federation), history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7636393-M.jpg" alt="Cover for The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century">The Penguin History Of Modern Russia From Tsarism To The Twen...</a>
+</h4>
+<p class="fr-book-author">By Robert Service</p>
+        
+<p class="fr-book-desc">First published 2009. Subjects: Soviet union, history, Russia (federation), history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century+Robert+Service&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
-        </h4>
-        <p class="fr-book-author">By Timothy Snyder</p>
-
-        <p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bloodlands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6713085-M.jpg" alt="Cover for Bloodlands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bloodlands">Bloodlands</a>
+</h4>
+<p class="fr-book-author">By Timothy Snyder</p>
+        
+<p class="fr-book-desc">First published 2010. Subjects: Massacres, Genocide, World War, 1939-1945, Holocaust, Jewish (1939-1945), Atrocities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bloodlands+Timothy+Snyder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
-        </h4>
-        <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-
-        <p class="fr-book-desc">First published 1973.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
+</h4>
+<p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
+        
+<p class="fr-book-desc">First published 1973.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Everyday+Stalinism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everyday Stalinism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Everyday+Stalinism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Everyday Stalinism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+History+Of+Modern+Russia+From+Tsarism+To+The+Twentyfirst+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin History Of Modern Russia From Tsarism To The Twentyfirst Century</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bloodlands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bloodlands</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

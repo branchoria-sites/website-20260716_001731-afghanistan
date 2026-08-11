@@ -330,7 +330,8 @@ Unlike classic cases of mass psychogenic illness or rumour panics, the Niger vio
 
 The event nevertheless belongs in the broader history of collective fear because international images and narratives rapidly transformed into local perceptions of threat. For some participants, the cartoons became evidence of a wider assault on Islam, while churches and Christian institutions came to represent that perceived attack despite having no involvement in the French publication.
 
-## Cartoon Protests in historical perspective
+## Lasting significance
+
 The January 2015 riots remain one of Niger's clearest examples of how global events can interact with local politics to produce deadly collective violence.
 
 They exposed the risks created when international religious controversies intersect with domestic political competition, youth frustration and anti-colonial sentiment. They also demonstrated the dangers of reducing complex episodes to simple explanations about religious extremism alone. The strongest scholarly interpretations instead present the violence as the product of several reinforcing forces: symbolic outrage over the cartoons, local political conflict, socio-economic exclusion, regional identities and the mobilisation of marginalised young men.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/000203971505000104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe “Protests against Charlie Hebdo” in Niger: A Background Analysis - Jannik Schritt, 2015April 1, 2015...</span><span class="citation-popover-meta">Published: April 1, 2015</span></span></span>
@@ -343,89 +344,89 @@ For Niger's history of collective fear and moral mobilisation, the riots illustr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Did Cartoon Protests Turn Deadly in Niger?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Did Cartoon Protests Turn Deadly in Niger?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Wright</p>
-
-        <p class="fr-book-desc">Provides essential background for understanding religious protest, extremism and political violence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Looming Tower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8172445-M.jpg" alt="Cover for The Looming Tower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
+</h4>
+<p class="fr-book-author">By Lawrence Wright</p>
+        
+<p class="fr-book-desc">Provides essential background for understanding religious protest, extremism and political violence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is Islam? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881756-M.jpg" alt="Cover for What Is Islam?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
-        </h4>
-        <p class="fr-book-author">By Shahab Ahmed</p>
-
-        <p class="fr-book-desc">Helps explain the diversity of Muslim responses to religious controversy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open What Is Islam? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8881756-M.jpg" alt="Cover for What Is Islam?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="What Is Islam?">What Is Islam?</a>
+</h4>
+<p class="fr-book-author">By Shahab Ahmed</p>
+        
+<p class="fr-book-desc">Helps explain the diversity of Muslim responses to religious controversy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=What+Is+Islam%3F+Shahab+Ahmed&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
-        </h4>
-        <p class="fr-book-author">By John Reader</p>
-
-        <p class="fr-book-desc">Explains regional historical and political conditions shaping Niger.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: A Biography of the Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420380-M.jpg" alt="Cover for Africa: A Biography of the Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: A Biography of the Continent">Africa: A Biography of the Continent</a>
+</h4>
+<p class="fr-book-author">By John Reader</p>
+        
+<p class="fr-book-desc">Explains regional historical and political conditions shaping Niger.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Africa%3A+A+Biography+of+the+Continent+John+Reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/121565-M.jpg" alt="Cover for Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam">Islam</a>
-        </h4>
-        <p class="fr-book-author">By John L. Esposito</p>
-
-        <p class="fr-book-desc">First published 1988. Subjects: Islam, Doctrines, Doctrinas, Islam and state, Islam and politics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Islam on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/121565-M.jpg" alt="Cover for Islam" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam">Islam</a>
+</h4>
+<p class="fr-book-author">By John L. Esposito</p>
+        
+<p class="fr-book-desc">First published 1988. Subjects: Islam, Doctrines, Doctrinas, Islam and state, Islam and politics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+Islam%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is Islam?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Did+Cartoon+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Did Cartoon biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Looming+Tower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Looming Tower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=What+Is+Islam%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">What Is Islam?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Did+Cartoon+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Did Cartoon biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

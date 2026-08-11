@@ -327,7 +327,8 @@ The result was a tragic interaction between two different forms of collective fe
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqRhjni-TYU" title="Do plants tell a hidden story about slavery?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqRhjni-TYU" target="_blank" rel="noopener noreferrer">Do plants tell a hidden story about slavery?</a></p><p class="youtube-embed-meta">Channel: Wellcome Collection</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqRhjni-TYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqRhjni-TYU">Open on YouTube</a></p></div></div></div>
 
-## Forced Labour: fear, rumour and collective belief
+## Why this history remains important
+
 The labour rumours of early 1953 illustrate an important distinction between baseless panic and justified suspicion. Historians generally argue that the fears of compulsory labour cannot be dismissed as irrational because they rested on genuine patterns of coercion already visible in colonial policy.
 
 Rather than viewing the episode as an example of mass hysteria, scholars more often interpret it as a colonial rumour crisis rooted in unequal power. The rumours spread because many islanders reasonably believed the administration was capable of imposing exactly the kind of labour system they feared. In this sense, the credibility of the rumours tells us as much about colonial society itself as about the events that followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B628B49145E08B04021177B3DAC465BE/S0165115314000072a.pdf/forced-labour-in-the-gorgulho-years-understanding-reform-and-repression-in-rural-sao-tome-e-principe-19451953.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentForced Labour in the “Gorgulho Years”: Understanding Reform and Repression in Rural São Tomé e Prí...</span></span></span>
@@ -350,7 +351,7 @@ Rather than viewing the episode as an example of mass hysteria, scholars more of
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
 </h4>
 <p class="fr-book-author">By Adam Hochschild</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Politics and government, Race relations, Forced labor, Human rights movements, Indigenous peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +368,7 @@ Rather than viewing the episode as an example of mass hysteria, scholars more of
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +385,7 @@ Rather than viewing the episode as an example of mass hysteria, scholars more of
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
 </h4>
 <p class="fr-book-author">By Howard W. French</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Africa, history, Slave trade, History, African diaspora, Modern History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +402,7 @@ Rather than viewing the episode as an example of mass hysteria, scholars more of
 <a href="https://www.amazon.com/s?k=Chocolate+islands+Catherine+Higgs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chocolate islands">Chocolate islands</a>
 </h4>
 <p class="fr-book-author">By Catherine Higgs</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Moral and ethical aspects, Cacao growers, Cadbury Brothers, Travel, Administration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chocolate+islands+Catherine+Higgs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

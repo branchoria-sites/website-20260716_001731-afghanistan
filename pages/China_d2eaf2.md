@@ -1302,7 +1302,8 @@ It is also important not to confuse these events with mass psychogenic illness. 
 
 Nor does disbelief erase real harm. Imagined sorcery led to beatings, torture and death. Supernatural confidence contributed to disastrous military choices during the Boxer conflict. Apocalyptic and healing teachings can influence vulnerable people’s medical or financial decisions. Conversely, accusations of cult activity have been used to justify imprisonment, forced ideological conversion and abuse. The central historical question is therefore not merely whether a supernatural claim was true. It is how the claim reorganised relationships, authorised action and changed who could safely belong.
 
-## What China reveals about public fear
+## Why this history still matters
+
 China’s long record of scares and salvation movements helps explain why religious organisation, rumour control and “social stability” remain closely connected in official thinking. Imperial memories of sectarian rebellion were repeatedly retold, and modern leaders have their own experience of mass political mobilisation. An independently organised belief community can appear threatening even when its members are peaceful, because officials judge not only doctrine but numbers, loyalty and communication capacity.
 
 The history also challenges the comforting idea that panic belongs to an uneducated past. The qigong boom flourished through the language of modern science. Radiation rumours spread through smartphones and social media. Government institutions, journalists, commercial sellers and educated consumers all participated in producing or amplifying collective belief. Modern technology changes the route by which a rumour travels; it does not remove the emotional conditions that make the rumour persuasive.
@@ -1315,89 +1316,89 @@ The most durable lesson is that extraordinary beliefs become socially powerful w
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Belief Became a Public Crisis in China. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Belief Became a Public Crisis in China. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s Chinese Son on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246948-M.jpg" alt="Cover for God&#x27;s Chinese Son" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Chinese Son">God&#x27;s Chinese Son</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan D. Spence</p>
-
-        <p class="fr-book-desc">Central to understanding religious upheaval in China.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open God&#x27;s Chinese Son on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246948-M.jpg" alt="Cover for God&#x27;s Chinese Son" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="God&#x27;s Chinese Son">God&#x27;s Chinese Son</a>
+</h4>
+<p class="fr-book-author">By Jonathan D. Spence</p>
+        
+<p class="fr-book-desc">Central to understanding religious upheaval in China.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=God%27s+Chinese+Son+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan D. Spence</p>
-
-        <p class="fr-book-desc">Provides broad context for belief, politics and crises.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The search for modern China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/246705-M.jpg" alt="Cover for The search for modern China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The search for modern China">The search for modern China</a>
+</h4>
+<p class="fr-book-author">By Jonathan D. Spence</p>
+        
+<p class="fr-book-desc">Provides broad context for belief, politics and crises.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+search+for+modern+China+Jonathan+D.+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Boxer Rebellion and the Great Game in China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9399443-M.jpg" alt="Cover for The Boxer Rebellion and the Great Game in China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boxer Rebellion and the Great Game in China">The Boxer Rebellion and the Great Game in China</a>
-        </h4>
-        <p class="fr-book-author">By David J. Silbey</p>
-
-        <p class="fr-book-desc">Examines millenarian violence and foreign intervention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Boxer Rebellion and the Great Game in China on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9399443-M.jpg" alt="Cover for The Boxer Rebellion and the Great Game in China" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Boxer Rebellion and the Great Game in China">The Boxer Rebellion and the Great Game in China</a>
+</h4>
+<p class="fr-book-author">By David J. Silbey</p>
+        
+<p class="fr-book-desc">Examines millenarian violence and foreign intervention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China+David+J.+Silbey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Soulstealers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4030944-M.jpg" alt="Cover for Soulstealers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Soulstealers">Soulstealers</a>
-        </h4>
-        <p class="fr-book-author">By Philip A. Kuhn</p>
-
-        <p class="fr-book-desc">Explains the 1768 soul-stealing panic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Soulstealers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4030944-M.jpg" alt="Cover for Soulstealers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Soulstealers">Soulstealers</a>
+</h4>
+<p class="fr-book-author">By Philip A. Kuhn</p>
+        
+<p class="fr-book-desc">Explains the 1768 soul-stealing panic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Soulstealers+Philip+A.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=God%27s+Chinese+Son&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">God&#x27;s Chinese Son</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Boxer Rebellion and the Great Game in China</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=God%27s+Chinese+Son&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">God&#x27;s Chinese Son</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+search+for+modern+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The search for modern China</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Boxer+Rebellion+and+the+Great+Game+in+China&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Boxer Rebellion and the Great Game in China</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

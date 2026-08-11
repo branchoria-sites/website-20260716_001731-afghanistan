@@ -334,89 +334,89 @@ The Damascus massacre remains an important case study because it demonstrates ho
 For historians of collective fear, the episode is less an example of irrational "mass hysteria" than of rumour-driven communal mobilisation. It illustrates how uncertainty, selective information and political weakness can rapidly erode trust between communities that had lived alongside one another for generations, turning ordinary urban relationships into a landscape of suspicion and violence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/comparative-studies-in-society-and-history/article/abs/litigants-and-neighbors-the-communal-topography-of-ottoman-damascus/9AB936A08703A563CD83C19D4B63D03B" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentLitigants and Neighbors: The Communal Topography of Ottoman Damascus &#124; Comparative Studies in Soci...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Rumours Helped Ignite the Damascus Massacre. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Rumours Helped Ignite the Damascus Massacre. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great War for Civilisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10206460-M.jpg" alt="Cover for The Great War for Civilisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great War for Civilisation">The Great War for Civilisation</a>
-        </h4>
-        <p class="fr-book-author">By Robert Fisk</p>
-
-        <p class="fr-book-desc">Provides broad historical context for sectarian conflict and Syria.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great War for Civilisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10206460-M.jpg" alt="Cover for The Great War for Civilisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great War for Civilisation">The Great War for Civilisation</a>
+</h4>
+<p class="fr-book-author">By Robert Fisk</p>
+        
+<p class="fr-book-desc">Provides broad historical context for sectarian conflict and Syria.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation+Robert+Fisk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-        </h4>
-        <p class="fr-book-author">By Peter Frankopan</p>
-
-        <p class="fr-book-desc">Places Syria within wider regional history and exchange.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+</h4>
+<p class="fr-book-author">By Peter Frankopan</p>
+        
+<p class="fr-book-desc">Places Syria within wider regional history and exchange.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ottoman endgame on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12892068-M.jpg" alt="Cover for The Ottoman endgame" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ottoman endgame">The Ottoman endgame</a>
-        </h4>
-        <p class="fr-book-author">By Sean McMeekin</p>
-
-        <p class="fr-book-desc">Helps readers understand the late Ottoman political environment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ottoman endgame on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12892068-M.jpg" alt="Cover for The Ottoman endgame" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ottoman endgame">The Ottoman endgame</a>
+</h4>
+<p class="fr-book-author">By Sean McMeekin</p>
+        
+<p class="fr-book-desc">Helps readers understand the late Ottoman political environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ottoman+endgame+Sean+McMeekin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A peace to end all peace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580826-M.jpg" alt="Cover for A peace to end all peace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A peace to end all peace">A peace to end all peace</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Explains the historical development of the region and Ottoman legacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A peace to end all peace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/580826-M.jpg" alt="Cover for A peace to end all peace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A peace to end all peace">A peace to end all peace</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Explains the historical development of the region and Ottoman legacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+peace+to+end+all+peace+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great War for Civilisation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ottoman+endgame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ottoman endgame</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+War+for+Civilisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great War for Civilisation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ottoman+endgame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ottoman endgame</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

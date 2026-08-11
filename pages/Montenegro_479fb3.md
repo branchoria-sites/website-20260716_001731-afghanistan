@@ -1335,7 +1335,8 @@ Modern religious mobilisation must also be described with care. The Serbian Orth
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IOWzACMogAk" title="Montenegro protesters, police clash over church head inauguration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IOWzACMogAk" target="_blank" rel="noopener noreferrer">Montenegro protesters, police clash over church head inauguration</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IOWzACMogAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IOWzACMogAk">Open on YouTube</a></p></div></div></div>
 
-## What Montenegro reveals about public fear
+## Why these episodes matter
+
 Montenegro’s history suggests that collective belief becomes most powerful when it offers an answer to a crisis of authority. Šćepan Mali appeared when divided clans wanted unity and Orthodox communities hoped for Russian rescue. [Witch accusations]({{ 'witch-fears/' | relative_url }}) assigned personal responsibility for disasters that were otherwise difficult to explain. Miracle stories made suffering meaningful and offered the possibility of healing. Modern disinformation campaigns convert complicated disputes over law, identity and sovereignty into struggles between sacred survival and national betrayal.
 
 None of these cases is adequately explained by calling an entire population hysterical. People act within inherited stories, unequal institutions and real political pressures. Some sincerely believe; some remain uncertain; some exploit the belief; and many participate because the movement provides community or practical hope.
@@ -1343,89 +1344,89 @@ None of these cases is adequately explained by calling an entire population hyst
 The most useful lesson from Montenegro is therefore not that crowds are easily fooled. It is that a story becomes socially effective when it joins **desire, fear and organisation**. A rumour needs people who repeat it, authorities who oppose or endorse it, rituals that make it visible and circumstances that make it feel plausible. Once those elements align, even a dead emperor can return, a neighbour can become a witch, or a property law can be experienced as the possible end of a nation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Rumour and Belief Reshaped Montenegro. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Rumour and Belief Reshaped Montenegro. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
-        </h4>
-        <p class="fr-book-author">By Charles Mackay</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
-        <p class="fr-book-desc">Useful framework for examining collective belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Extraordinary Popular Delusions and the Madness of Crowds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JVwcP0fXmC4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Extraordinary Popular Delusions and the Madness of Crowds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Extraordinary Popular Delusions and the Madness of Crowds">Extraordinary Popular Delusions and the Madness of Crowds</a>
+</h4>
+<p class="fr-book-author">By Charles Mackay</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 5 Google Books ratings</p>
+<p class="fr-book-desc">Useful framework for examining collective belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds+Charles+Mackay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Balkan Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420794-M.jpg" alt="Cover for Balkan Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Balkan Ghosts">Balkan Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Robert D. Kaplan</p>
-
-        <p class="fr-book-desc">Introduces regional identities, myths and historical tensions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Balkan Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/420794-M.jpg" alt="Cover for Balkan Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Balkan Ghosts">Balkan Ghosts</a>
+</h4>
+<p class="fr-book-author">By Robert D. Kaplan</p>
+        
+<p class="fr-book-desc">Introduces regional identities, myths and historical tensions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Balkan+Ghosts+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War, and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War, and the Great Powers, 1804-2012" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War, and the Great Powers, 1804-2012">The Balkans: Nationalism, War, and the Great Powers, 1804-2012</a>
-        </h4>
-        <p class="fr-book-author">By Mark Mazower</p>
-
-        <p class="fr-book-desc">Places Montenegro within broader regional developments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balkans: Nationalism, War, and the Great Powers, 1804-2012 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6822825-M.jpg" alt="Cover for The Balkans: Nationalism, War, and the Great Powers," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balkans: Nationalism, War, and the Great Powers,">The Balkans: Nationalism, War, and the Great Powers,</a>
+</h4>
+<p class="fr-book-author">By Mark Mazower</p>
+        
+<p class="fr-book-desc">Places Montenegro within broader regional developments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804-2012+Mark+Mazower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro: A Modern History">Montenegro: A Modern History</a>
-        </h4>
-        <p class="fr-book-author">By Morrison, Kenneth.</p>
-
-        <p class="fr-book-desc">Covers the political and cultural background for major belief episodes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Montenegro: A Modern History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9755068-M.jpg" alt="Cover for Montenegro: A Modern History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montenegro: A Modern History">Montenegro: A Modern History</a>
+</h4>
+<p class="fr-book-author">By Morrison, Kenneth.</p>
+        
+<p class="fr-book-desc">Covers the political and cultural background for major belief episodes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Montenegro%3A+A+Modern+History+Morrison%2C+Kenneth.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Balkan+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Balkan Ghosts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War, and the Great Powers, 1804 2012</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Extraordinary+Popular+Delusions+and+the+Madness+of+Crowds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Extraordinary Popular Delusions and the Madness of Crowds</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Balkan+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Balkan Ghosts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balkans%3A+Nationalism%2C+War%2C+and+the+Great+Powers%2C+1804+2012&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balkans: Nationalism, War, and the Great Powers,</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

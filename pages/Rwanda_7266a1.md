@@ -1300,7 +1300,8 @@ The responsible conclusion is not that witchcraft fears were absent, but that Rw
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/izDR4W68txE" title="Not My Words: The Actor Who Carries the Voice of Genocide | United Nations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=izDR4W68txE" target="_blank" rel="noopener noreferrer">Not My Words: The Actor Who Carries the Voice of Genocide | United Nations</a></p><p class="youtube-embed-meta">Channel: United Nations</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=izDR4W68txE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=izDR4W68txE">Open on YouTube</a></p></div></div></div>
 
-## What connects the episodes around Rwanda
+## What these episodes reveal
+
 Rwanda’s cases show that contagious belief grows most powerfully where it connects with existing pressures. Nyabingi offered sacred authority in a landscape transformed by royal conflict and colonial rule. Kibeho’s visions emerged in a deeply Catholic society already marked by political violence and later became a language through which genocide was remembered. The Rambura illness spread within the enclosed social world of a girls’ school. Genocidal propaganda exploited war, insecurity and inherited narratives of victimhood.
 
 They also show why labels matter. “Cult” can turn a political-religious movement into a curiosity. “Hysteria” can belittle real physical suffering. “Ancient tribal hatred” can conceal modern institutions, propaganda and deliberate organisation. “Prophecy” can make a complex warning appear more precise after the event than it was before it.
@@ -1330,7 +1331,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We wish to inform you that tomorrow we will be killed with our families">We wish to inform you that tomorrow we will be killed with ou...</a>
 </h4>
 <p class="fr-book-author">By Philip Gourevitch</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Ethnic relations, Genocide, History, Human rights, Personal narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=We+wish+to+inform+you+that+tomorrow+we+will+be+killed+with+our+families+Philip+Gourevitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1348,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shake hands with the devil">Shake hands with the devil</a>
 </h4>
 <p class="fr-book-author">By Roméo Dallaire</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Atrocities, Canadian Personal narratives, Genocide, History, Peacekeeping forces.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shake+hands+with+the+devil+Rom%C3%A9o+Dallaire&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1365,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;Leave none to tell the story&quot;">&quot;Leave none to tell the story&quot;</a>
 </h4>
 <p class="fr-book-author">By Alison Liebhafsky Des Forges</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Atrocities, Crimes against, Ethnic relations, Genocide, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=%22Leave+none+to+tell+the+story%22+Alison+Liebhafsky+Des+Forges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1382,7 @@ The clearest lesson is that collective fear is neither purely imaginary nor auto
 <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Machete Season">Machete Season</a>
 </h4>
 <p class="fr-book-author">By Jean Hatzfeld, Linda Coverdale et al.</p>
-
+        
 <p class="fr-book-desc">First published 2006. Subjects: Africa, central, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Machete+Season+Jean+Hatzfeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

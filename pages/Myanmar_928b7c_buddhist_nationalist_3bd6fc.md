@@ -338,7 +338,8 @@ Scholars also point to what some describe as a narrative of collective victimhoo
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rzBZFN-QZwY" title="The Venerable W. | Trailer | NYFF55" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rzBZFN-QZwY" target="_blank" rel="noopener noreferrer">The Venerable W. | Trailer | NYFF55</a></p><p class="youtube-embed-meta">Channel: Film at Lincoln Center</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rzBZFN-QZwY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rzBZFN-QZwY">Open on YouTube</a></p></div></div></div>
 
-## Nationalist Panic in historical perspective
+## Lasting significance
+
 The Muslim threat panic became one of the defining examples of how organised fear can reshape modern politics. Unsupported claims about demographic replacement, religious conversion and cultural extinction moved from sermons and rumours into electoral politics, legislation and, in some places, mass violence. The episode also illustrates that moral panics rarely emerge from misinformation alone. They are most powerful when old historical grievances, political incentives, religious symbolism and new communication technologies reinforce one another.
 
 Although organisations such as Ma Ba Tha lost some formal influence after government restrictions and internal disputes, the broader nationalist ideas they popularised have not disappeared. Scholars continue to argue that understanding the colonial roots, political uses and emotional appeal of these narratives is essential for explaining why a small and diverse religious minority could be widely portrayed as an existential national danger despite the absence of evidence for the conspiracy that nationalist movements claimed to expose.
@@ -366,7 +367,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Rohingyas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rohingyas">Rohingyas</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Documents the persecution of the Rohingya and discusses the role of Buddhist clergy, state discrimination and nationalist narratives in l...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rohingyas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +384,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Islam+and+the+State+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Islam and the State in Myanmar">Islam and the State in Myanmar</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Traces Muslim-Buddhist relations and state policy, helping explain the historical grievances and legal structures that enabled Muslims to...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Islam+and+the+State+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +401,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Buddhism%2C+Politics+and+Political+Thought+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Buddhism, Politics and Political Thought in Myanmar">Buddhism, Politics and Political Thought in Myanmar</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Provides the intellectual and historical background needed to understand how Buddhist concepts became intertwined with nationalism, polit...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Buddhism%2C+Politics+and+Political+Thought+in+Myanmar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +418,7 @@ Although organisations such as Ma Ba Tha lost some formal influence after govern
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
 </h4>
 <p class="fr-book-author">By Francis Wade</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Islam and state, Buddhism and state, Burma, politics and government, Burma, religion, Rohingya (Burmese p...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

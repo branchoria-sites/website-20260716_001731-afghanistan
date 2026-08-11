@@ -209,13 +209,13 @@ description: Ukraine’s history of collective fear and contagious belief is not
 hero_summary: Ukraine’s history of collective fear and contagious belief is not a simple catalogue of “mass hysteria”.
 layout: default
 permalink: /when-fear-and-belief-gripped-ukraine/
-nav_short_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-title_full: "How Panic, Rumour and Belief Took Hold in Ukraine"
-display_title_short: "How Panic, Rumour and Belief Took Hold in Ukraine"
-display_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-heading_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
-page_heading_title: "How Panic, Rumour and Belief Took Hold in Ukraine"
+nav_short_title: When Fear and Belief Gripped Ukraine
+title: When Fear and Belief Gripped Ukraine
+title_full: When Fear and Belief Gripped Ukraine
+display_title_short: When Fear and Belief Gripped Ukraine
+display_title: When Fear and Belief Gripped Ukraine
+heading_title: When Fear and Belief Gripped Ukraine
+page_heading_title: When Fear and Belief Gripped Ukraine
 source_count: 96
 infographic_count: 3
 page_website_name: Ukraine
@@ -1286,7 +1286,8 @@ These claims differ from spontaneous mass psychogenic illness, in which stress a
 
 <img src="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" alt="When Fear and Belief Gripped Ukraine illustration 3" data-theme-src-dark="{{ "/assets/images/Ukraine_c951ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ukraine_c951ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Patterns linking the events in Ukraine
+## What these episodes reveal
+
 Ukraine’s cases show why “mass hysteria” is often too blunt a label. It can imply that everyone involved became irrational at once, when the historical record usually reveals several interacting processes.
 
 **Witchcraft cases were persecutions conducted through recognised courts.** Belief and rumour mattered, but so did law, testimony, social status and judicial restraint. Ukraine’s trials were real and sometimes deadly, yet they did not form a single national witch craze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/slavic-review/article/ukrainian-witchcraft-trials-volhynia-podolia-and-ruthenia-17th18th-centuries-by-kateryna-dysa-budapest-new-york-central-european-university-press-2020-x-254-pp-notes-bibliography-index-7500-hardbound/5D24F02DE9A61945534BB0C5A70DE4C3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">witch craze, and only periodic mass accusations and trials. One</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentUkrainian Witchcraft Trials: Volhynia, Podolia, and...by G Marker · 2022 — Dysa situates Ukrainia...</span></span></span>
@@ -1305,89 +1306,89 @@ Ukraine’s history also demonstrates the value of proportion. Strange claims sh
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear and Belief Gripped Ukraine. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear and Belief Gripped Ukraine. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe: A History of Ukraine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe: A History of Ukraine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe: A History of Ukraine">The Gates of Europe: A History of Ukraine</a>
-        </h4>
-        <p class="fr-book-author">By Serhii Plokhy</p>
-
-        <p class="fr-book-desc">Provides essential historical context for belief, fear and conflict.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gates of Europe: A History of Ukraine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8872269-M.jpg" alt="Cover for The Gates of Europe: A History of Ukraine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gates of Europe: A History of Ukraine">The Gates of Europe: A History of Ukraine</a>
+</h4>
+<p class="fr-book-author">By Serhii Plokhy</p>
+        
+<p class="fr-book-desc">Provides essential historical context for belief, fear and conflict.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witch: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The Witch: A History of Fear, from Ancient Times to the Present" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witch: A History of Fear, from Ancient Times to the Present">The Witch: A History of Fear, from Ancient Times to the Present</a>
-        </h4>
-        <p class="fr-book-author">By Ronald Hutton</p>
-
-        <p class="fr-book-desc">Explains recurring patterns of fear and supernatural belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Witch: A History of Fear, from Ancient Times to the Present on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10693514-M.jpg" alt="Cover for The Witch: A History of Fear, from Ancient Times to the Present" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witch: A History of Fear, from Ancient Times to the Present">The Witch: A History of Fear, from Ancient Times to the Present</a>
+</h4>
+<p class="fr-book-author">By Ronald Hutton</p>
+        
+<p class="fr-book-desc">Explains recurring patterns of fear and supernatural belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
-        </h4>
-        <p class="fr-book-author">By Katherine Howe</p>
-
-        <p class="fr-book-desc">Introduces the broader history of witch beliefs and trials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
+</h4>
+<p class="fr-book-author">By Katherine Howe</p>
+        
+<p class="fr-book-desc">Introduces the broader history of witch beliefs and trials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy: Why the Rational Believe the Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy: Why the Rational Believe the Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy: Why the Rational Believe the Irrational">Conspiracy: Why the Rational Believe the Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-
-        <p class="fr-book-desc">Helps explain conspiracy thinking relevant to modern Ukraine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy: Why the Rational Believe the Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy: Why the Rational Believe the Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy: Why the Rational Believe the Irrational">Conspiracy: Why the Rational Believe the Irrational</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+        
+<p class="fr-book-desc">Helps explain conspiracy thinking relevant to modern Ukraine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe: A History of Ukraine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Witch: A History of Fear, from Ancient Times to the Present</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gates+of+Europe%3A+A+History+of+Ukraine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gates of Europe: A History of Ukraine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Witch%3A+A+History+of+Fear%2C+from+Ancient+Times+to+the+Present&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Witch: A History of Fear, from Ancient Times to the Present</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

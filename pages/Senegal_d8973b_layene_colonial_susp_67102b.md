@@ -316,89 +316,89 @@ The episode also shows how labels can outlive the circumstances that produced th
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Colonial Officials Feared the Layene Movement. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Colonial Officials Feared the Layene Movement. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Muslim societies in African history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/344116-M.jpg" alt="Cover for Muslim societies in African history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Muslim societies in African history">Muslim societies in African history</a>
-        </h4>
-        <p class="fr-book-author">By Robinson, David</p>
-
-        <p class="fr-book-desc">Explains how African Muslim communities developed and how religious authority interacted with political power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Muslim societies in African history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/344116-M.jpg" alt="Cover for Muslim societies in African history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Muslim societies in African history">Muslim societies in African history</a>
+</h4>
+<p class="fr-book-author">By Robinson, David</p>
+        
+<p class="fr-book-desc">Explains how African Muslim communities developed and how religious authority interacted with political power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Muslim+societies+in+African+history+Robinson%2C+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open West Africa before the colonial era on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3792780-M.jpg" alt="Cover for West Africa before the colonial era" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="West Africa before the colonial era">West Africa before the colonial era</a>
-        </h4>
-        <p class="fr-book-author">By Basil Davidson</p>
-
-        <p class="fr-book-desc">Provides useful background on West African societies and religious traditions preceding French colonial rule.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open West Africa before the colonial era on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3792780-M.jpg" alt="Cover for West Africa before the colonial era" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="West Africa before the colonial era">West Africa before the colonial era</a>
+</h4>
+<p class="fr-book-author">By Basil Davidson</p>
+        
+<p class="fr-book-desc">Provides useful background on West African societies and religious traditions preceding French colonial rule.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era+Basil+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Citizen and subject on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1341009-M.jpg" alt="Cover for Citizen and subject" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizen and subject">Citizen and subject</a>
-        </h4>
-        <p class="fr-book-author">By Mahmood Mamdani</p>
-
-        <p class="fr-book-desc">Helps explain the colonial administrative mindset that viewed independent religious authority with suspicion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Citizen and subject on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1341009-M.jpg" alt="Cover for Citizen and subject" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Citizen and subject">Citizen and subject</a>
+</h4>
+<p class="fr-book-author">By Mahmood Mamdani</p>
+        
+<p class="fr-book-desc">Helps explain the colonial administrative mindset that viewed independent religious authority with suspicion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Citizen+and+subject+Mahmood+Mamdani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mourides of Senegal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9980009-M.jpg" alt="Cover for The Mourides of Senegal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mourides of Senegal">The Mourides of Senegal</a>
-        </h4>
-        <p class="fr-book-author">By Donal Brian Cruise O&#x27;Brien</p>
-
-        <p class="fr-book-desc">Although focused on the Mourides, it illuminates the relationship between colonial authorities and Senegalese religious movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mourides of Senegal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9980009-M.jpg" alt="Cover for The Mourides of Senegal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mourides of Senegal">The Mourides of Senegal</a>
+</h4>
+<p class="fr-book-author">By Donal Brian Cruise O&#x27;Brien</p>
+        
+<p class="fr-book-desc">Although focused on the Mourides, it illuminates the relationship between colonial authorities and Senegalese religious movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mourides+of+Senegal+Donal+Brian+Cruise+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Muslim+societies+in+African+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Muslim societies in African history</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">West Africa before the colonial era</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Citizen+and+subject&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Citizen and subject</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Muslim+societies+in+African+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Muslim societies in African history</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=West+Africa+before+the+colonial+era&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">West Africa before the colonial era</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Citizen+and+subject&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Citizen and subject</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

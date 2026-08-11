@@ -364,89 +364,89 @@ Seen in this light, the Kim personality cult is best understood as a mechanism o
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is North Korea a Political Religion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is North Korea a Political Religion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cleanest race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9516159-M.jpg" alt="Cover for The cleanest race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
-        </h4>
-        <p class="fr-book-author">By B. R. Myers</p>
-
-        <p class="fr-book-desc">Focuses on propaganda and the personality cult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The cleanest race on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9516159-M.jpg" alt="Cover for The cleanest race" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
+</h4>
+<p class="fr-book-author">By B. R. Myers</p>
+        
+<p class="fr-book-desc">Focuses on propaganda and the personality cult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Under the Loving Care of the Fatherly Leader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179879-M.jpg" alt="Cover for Under the Loving Care of the Fatherly Leader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Loving Care of the Fatherly Leader">Under the Loving Care of the Fatherly Leader</a>
-        </h4>
-        <p class="fr-book-author">By Bradley K. Martin, Bradley K. Martin</p>
-
-        <p class="fr-book-desc">Details the emergence of the Kim cult.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Under the Loving Care of the Fatherly Leader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179879-M.jpg" alt="Cover for Under the Loving Care of the Fatherly Leader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the Loving Care of the Fatherly Leader">Under the Loving Care of the Fatherly Leader</a>
+</h4>
+<p class="fr-book-author">By Bradley K. Martin, Bradley K. Martin</p>
+        
+<p class="fr-book-desc">Details the emergence of the Kim cult.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader+Bradley+K.+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
-
-        <p class="fr-book-desc">Shows how ideology shapes everyday behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nothing to envy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7948097-M.jpg" alt="Cover for Nothing to envy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
+</h4>
+<p class="fr-book-author">By Barbara Demick, Demick Barbara</p>
+        
+<p class="fr-book-desc">Shows how ideology shapes everyday behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nothing+to+envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real North Korea on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real North Korea">Real North Korea</a>
-        </h4>
-        <p class="fr-book-author">By Andrei Lankov</p>
-
-        <p class="fr-book-desc">Explains the development of the Kim system.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Real North Korea on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Real North Korea">Real North Korea</a>
+</h4>
+<p class="fr-book-author">By Andrei Lankov</p>
+        
+<p class="fr-book-desc">Explains the development of the Kim system.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Real+North+Korea+Andrei+Lankov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cleanest+race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cleanest race</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Under the Loving Care of the Fatherly Leader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing to envy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+cleanest+race&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The cleanest race</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Under+the+Loving+Care+of+the+Fatherly+Leader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Under the Loving Care of the Fatherly Leader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nothing to envy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

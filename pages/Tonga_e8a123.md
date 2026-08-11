@@ -1289,7 +1289,8 @@ Contemporary religious-freedom assessments generally describe relations among fa
 
 The contrast with 1922 is striking. A church once formally treated as an imported danger is now a major Tongan institution. That change does not mean the earlier fear was imaginary in every respect; it shows that claims about a group’s permanent disloyalty or incompatibility can collapse as the group becomes locally led, embedded in families and familiar through everyday contact.
 
-## The wider legacy of Tonga
+## Why this history still matters
+
 Tonga’s history warns against searching only for spectacular outbreaks of collective irrationality. The most consequential episodes may look ordinary at first: sermons describing opponents as evil, restrictions defended as protection, royal conversions treated as national destiny, or rumours about a minority converted into law.
 
 The nineteenth-century Christian conflicts show how a new faith can spread through conviction and education while also becoming a weapon of political unification. The anti-Mormon campaign shows how foreignness, sexual suspicion and denominational rivalry can create a moral panic even without frenzied crowds. Together they demonstrate that collective fear becomes most powerful when religious language, state authority and genuine social uncertainty reinforce one another.
@@ -1302,89 +1303,89 @@ They also show why later accounts require caution. Missionary victories were oft
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Faith, Fear and Power Reshaped Tonga. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Faith, Fear and Power Reshaped Tonga. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Friendly Islands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9955971-M.jpg" alt="Cover for Friendly Islands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Friendly Islands">Friendly Islands</a>
-        </h4>
-        <p class="fr-book-author">By Noel Rutherford</p>
-
-        <p class="fr-book-desc">Covers conversion, monarchy and social change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Friendly Islands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9955971-M.jpg" alt="Cover for Friendly Islands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Friendly Islands">Friendly Islands</a>
+</h4>
+<p class="fr-book-author">By Noel Rutherford</p>
+        
+<p class="fr-book-desc">Covers conversion, monarchy and social change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Friendly+Islands+Noel+Rutherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pacific islands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4844350-M.jpg" alt="Cover for The Pacific islands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pacific islands">The Pacific islands</a>
-        </h4>
-        <p class="fr-book-author">By Moshe Rapaport</p>
-
-        <p class="fr-book-desc">Provides background on Tonga and neighbouring societies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pacific islands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4844350-M.jpg" alt="Cover for The Pacific islands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pacific islands">The Pacific islands</a>
+</h4>
+<p class="fr-book-author">By Moshe Rapaport</p>
+        
+<p class="fr-book-desc">Provides background on Tonga and neighbouring societies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pacific+islands+Moshe+Rapaport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The covenant makers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The covenant makers">The covenant makers</a>
-        </h4>
-        <p class="fr-book-author">By Doug Munro, Andrew Thornley et al.</p>
-
-        <p class="fr-book-desc">Explains missionary expansion across the Pacific.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The covenant makers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The covenant makers">The covenant makers</a>
+</h4>
+<p class="fr-book-author">By Doug Munro, Andrew Thornley et al.</p>
+        
+<p class="fr-book-desc">Explains missionary expansion across the Pacific.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+covenant+makers+Doug+Munro&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Tonga on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Tonga">A History of Tonga</a>
-        </h4>
-        <p class="fr-book-author">By I. C. Campbell</p>
-
-        <p class="fr-book-desc">Broad coverage of nineteenth-century political and religious history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of Tonga on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of Tonga">A History of Tonga</a>
+</h4>
+<p class="fr-book-author">By I. C. Campbell</p>
+        
+<p class="fr-book-desc">Broad coverage of nineteenth-century political and religious history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+Tonga+I.+C.+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Friendly+Islands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Friendly Islands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pacific+islands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pacific islands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+covenant+makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The covenant makers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Friendly+Islands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Friendly Islands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pacific+islands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pacific islands</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+covenant+makers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The covenant makers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

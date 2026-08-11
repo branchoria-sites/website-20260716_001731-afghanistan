@@ -399,7 +399,7 @@ For historians of collective belief, Chuuk demonstrates that religious tradition
 <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
 </h4>
 <p class="fr-book-author">By Margaret Mead</p>
-
+        
 <p class="fr-book-desc">First published 1928. Subjects: Adolescence, Children, Children in the Samoan Islands, Girls, Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For historians of collective belief, Chuuk demonstrates that religious tradition
 <a href="https://www.amazon.com/s?k=The+Elementary+Forms+Of+Religious+Life+%C3%89mile+Durkheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elementary Forms Of Religious Life">The Elementary Forms Of Religious Life</a>
 </h4>
 <p class="fr-book-author">By Émile Durkheim</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Sociology, philosophy, Religion and sociology, Sociology, Philosophy, Long Now Manual for Civilization.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Elementary+Forms+Of+Religious+Life+%C3%89mile+Durkheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For historians of collective belief, Chuuk demonstrates that religious tradition
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interpretation of Cultures">Interpretation of Cultures</a>
 </h4>
 <p class="fr-book-author">By Clifford Geertz</p>
-
+        
 <p class="fr-book-desc">First published 1973. Subjects: Culturele antropologie, Culture, Ethnology, Ethnologie, Ethnolo.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Interpretation+of+Cultures+Clifford+Geertz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ For historians of collective belief, Chuuk demonstrates that religious tradition
 <a href="https://www.amazon.com/s?k=Shamans%2C+nostalgias%2C+and+the+IMF+Laurel+Kendall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shamans, nostalgias, and the IMF">Shamans, nostalgias, and the IMF</a>
 </h4>
 <p class="fr-book-author">By Laurel Kendall</p>
-
+        
 <p class="fr-book-desc">First published 2009. Subjects: Religion, Shamanism, Civilization, Shamanistic influences, Schamanin.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shamans%2C+nostalgias%2C+and+the+IMF+Laurel+Kendall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

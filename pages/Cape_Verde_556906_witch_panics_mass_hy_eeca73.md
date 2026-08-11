@@ -368,7 +368,7 @@ For that reason, the country's place in the history of collective fear is unusua
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When Prophecy Fails">When Prophecy Fails</a>
 </h4>
 <p class="fr-book-author">By Leon Festinger, Stanley Schachter</p>
-
+        
 <p class="fr-book-desc">Provides framework for evaluating alleged panics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=When+Prophecy+Fails+by+Leon+Festinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For that reason, the country's place in the history of collective fear is unusua
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imagined communities">Imagined communities</a>
 </h4>
 <p class="fr-book-author">By Benedict Anderson</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Nationalism, History, Nationalisme, Nacionalismo, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imagined+communities+Benedict+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For that reason, the country's place in the history of collective fear is unusua
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch-hunt in early modern Europe">The witch-hunt in early modern Europe</a>
 </h4>
 <p class="fr-book-author">By Brian P. Levack</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Witchcraft, History, Hexenglaube, Geschichte (1450-1750), Heksenvervolgingen.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+witch-hunt+in+early+modern+Europe+Brian+P.+Levack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For that reason, the country's place in the history of collective fear is unusua
 <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
 </h4>
 <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Origin, Manners and customs, Rites and ceremonies, Folklore, Tradition (philosophy).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

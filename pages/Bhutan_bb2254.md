@@ -1349,7 +1349,7 @@ The principal lesson is one of classification. A rumour panic is not a medical e
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Made to Stick">Made to Stick</a>
 </h4>
 <p class="fr-book-author">By Chip Heath, Dan Heath</p>
-
+        
 <p class="fr-book-desc">Explains why memorable stories and rumours spread.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Made+to+Stick+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The principal lesson is one of classification. A rumour panic is not a medical e
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
 </h4>
 <p class="fr-book-author">By Jamie Zeppa</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Nonfiction, Travel, Bhutan, description and travel, Women travelers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1383,7 +1383,7 @@ The principal lesson is one of classification. A rumour panic is not a medical e
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan: A History">Bhutan: A History</a>
 </h4>
 <p class="fr-book-author">By Karma Phuntsho</p>
-
+        
 <p class="fr-book-desc">Provides essential context for social change, belief and public life.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bhutan%3A+A+History+Karma+Phuntsho&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1400,7 +1400,7 @@ The principal lesson is one of classification. A rumour panic is not a medical e
 <a href="https://www.amazon.com/s?k=The+Raven+Crown+Jigme+Y.+Thinley+and+Helen+Tworkov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Raven Crown">The Raven Crown</a>
 </h4>
 <p class="fr-book-author">By Jigme Y. Thinley and Helen Tworkov</p>
-
+        
 <p class="fr-book-desc">Explores Bhutanese governance and national identity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Raven+Crown+Jigme+Y.+Thinley+and+Helen+Tworkov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

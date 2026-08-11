@@ -335,7 +335,8 @@ Finally, the combination of religious persecution and political conflict remains
 
 <img src="{{ "/assets/images/Armenia_5f4599_medieval_heretics_tr_32718c-Illustration-3-dark.svg" | relative_url }}" alt="Medieval Heresy illustration 3" data-theme-src-dark="{{ "/assets/images/Armenia_5f4599_medieval_heretics_tr_32718c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Armenia_5f4599_medieval_heretics_tr_32718c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Medieval Heresy entered public memory
+## Why this history still matters
+
 The stories of the Paulicians and Tondrakians illustrate a recurring pattern in Armenian history: religious disagreement was often interpreted through the lens of national survival. Because the Armenian Church played such a central role in preserving identity during centuries of political uncertainty, dissent was frequently understood not simply as theological error but as a challenge to the community itself.
 
 For modern readers, the most important insight is not whether every medieval accusation was true or false. It is recognising how labels such as "heretic" and "traitor" were constructed, repeated and reinforced by institutions with political as well as religious interests. Understanding that process helps explain why these medieval movements continue to occupy an important place in discussions of religious minorities, persecution and the relationship between belief and political loyalty in Armenian history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchnow.flinders.edu.au/en/publications/sunk-in-thegulf-of-perdition-the-heretical-paulician-and-tondraki/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchnow.flinders.edu.au">[edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchnow.flinders.edu.au</span><span class="citation-popover-snippet">yzantine Empire - Research @ Flinders...</span></span></span>
@@ -363,7 +364,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=The+formation+of+a+persecuting+society+R.+I.+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The formation of a persecuting society">The formation of a persecuting society</a>
 </h4>
 <p class="fr-book-author">By R. I. Moore</p>
-
+        
 <p class="fr-book-desc">First published 1987. Subjects: Deviant behavior, History, Persecution, Power (Social sciences), Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+formation+of+a+persecuting+society+R.+I.+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +381,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Concise History of the Armenian People">A Concise History of the Armenian People</a>
 </h4>
 <p class="fr-book-author">By George A. Bournoutian</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: History, Armenians.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Concise+History+of+the+Armenian+People+George+A.+Bournoutian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +398,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=The+medieval+Manichee+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The medieval Manichee">The medieval Manichee</a>
 </h4>
 <p class="fr-book-author">By Steven Runciman</p>
-
+        
 <p class="fr-book-desc">First published 1947. Subjects: Christian sects, Medieval, Dualism, Manichaeism, Medieval Christian sects, Medieval Sects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+medieval+Manichee+Steven+Runciman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +415,7 @@ For modern readers, the most important insight is not whether every medieval acc
 <a href="https://www.amazon.com/s?k=Armenians+Edmund+Herzig&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenians">Armenians</a>
 </h4>
 <p class="fr-book-author">By Edmund Herzig, Marina Kurkchiyan</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Armenia (republic), history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Armenians+Edmund+Herzig&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

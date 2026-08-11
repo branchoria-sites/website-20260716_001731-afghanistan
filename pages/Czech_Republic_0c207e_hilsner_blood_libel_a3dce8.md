@@ -363,7 +363,7 @@ Within the broader history of collective fears in the Czech lands, the affair st
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Shows how extraordinary claims persist without reliable evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Within the broader history of collective fears in the Czech lands, the affair st
 <a href="https://www.amazon.com/s?k=Prague+winter+Madeleine+Korbel+Albright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague winter">Prague winter</a>
 </h4>
 <p class="fr-book-author">By Madeleine Korbel Albright</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: BIOGRAPHY &amp; AUTOBIOGRAPHY / Personal Memoirs, Family, HISTORY / General, Jewish families, World War, 1939...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Prague+winter+Madeleine+Korbel+Albright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Within the broader history of collective fears in the Czech lands, the affair st
 <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anti-Judaism">Anti-Judaism</a>
 </h4>
 <p class="fr-book-author">By David Nirenberg</p>
-
+        
 <p class="fr-book-desc">First published 2013. Subjects: Antisemitism, Jewish influences, Judaism and philosophy, Western Civilization, Ethnic relations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Anti-Judaism+David+Nirenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Within the broader history of collective fears in the Czech lands, the affair st
 <a href="https://www.amazon.com/s?k=Blood+Libel+Magda+Teter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blood Libel">Blood Libel</a>
 </h4>
 <p class="fr-book-author">By Magda Teter</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Blood accusation, Christianity and antisemitism, Anti-jewish propaganda, Europe, history, Judaism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Blood+Libel+Magda+Teter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

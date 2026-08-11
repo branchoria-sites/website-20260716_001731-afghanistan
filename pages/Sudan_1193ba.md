@@ -1345,7 +1345,7 @@ Sudan’s wider history therefore suggests that collective belief is most powerf
 <a href="https://www.amazon.com/s?k=The+river+war+Winston+S.+Churchill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The river war">The river war</a>
 </h4>
 <p class="fr-book-author">By Winston S. Churchill</p>
-
+        
 <p class="fr-book-desc">First published 1899. Subjects: History, Sudan, history, British, Egypt, history, Military history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+river+war+Winston+S.+Churchill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ Sudan’s wider history therefore suggests that collective belief is most powerf
 <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
 </h4>
 <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-
+        
 <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ Sudan’s wider history therefore suggests that collective belief is most powerf
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crowds and Power by Elias Canetti (1984-04-01)">Crowds and Power by Elias Canetti (1984-04-01)</a>
 </h4>
 <p class="fr-book-author">By Elias Canetti</p>
-
+        
 <p class="fr-book-desc">First published 1783.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Crowds+and+Power+by+Elias+Canetti+%281984-04-01%29+Elias+Canetti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

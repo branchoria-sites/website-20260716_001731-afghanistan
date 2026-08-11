@@ -380,89 +380,89 @@ Rather than proving or disproving supernatural beliefs, these episodes demonstra
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Strange Symptoms Spread Through Schools?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Strange Symptoms Spread Through Schools?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s All in Your Head on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8901737-M.jpg" alt="Cover for It&#x27;s All in Your Head" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s All in Your Head">It&#x27;s All in Your Head</a>
-        </h4>
-        <p class="fr-book-author">By Suzanne O&#x27;Sullivan</p>
-
-        <p class="fr-book-desc">Explains how psychological distress can produce genuine bodily symptoms without implying that sufferers are pretending.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s All in Your Head on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8901737-M.jpg" alt="Cover for It&#x27;s All in Your Head" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s All in Your Head">It&#x27;s All in Your Head</a>
+</h4>
+<p class="fr-book-author">By Suzanne O&#x27;Sullivan</p>
+        
+<p class="fr-book-desc">Explains how psychological distress can produce genuine bodily symptoms without implying that sufferers are pretending.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head+Suzanne+O%27Sullivan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The geography of madness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8849323-M.jpg" alt="Cover for The geography of madness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The geography of madness">The geography of madness</a>
-        </h4>
-        <p class="fr-book-author">By Frank Bures</p>
-
-        <p class="fr-book-desc">Investigates culturally shaped illnesses and shows how belief and local interpretation can influence authentic physical experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The geography of madness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8849323-M.jpg" alt="Cover for The geography of madness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The geography of madness">The geography of madness</a>
+</h4>
+<p class="fr-book-author">By Frank Bures</p>
+        
+<p class="fr-book-desc">Investigates culturally shaped illnesses and shows how belief and local interpretation can influence authentic physical experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+geography+of+madness+Frank+Bures&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hystories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/144276-M.jpg" alt="Cover for Hystories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hystories">Hystories</a>
-        </h4>
-        <p class="fr-book-author">By Elaine Showalter</p>
-
-        <p class="fr-book-desc">Explores how symptoms, diagnoses and fears can spread through shared stories, authority figures and public attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hystories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/144276-M.jpg" alt="Cover for Hystories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hystories">Hystories</a>
+</h4>
+<p class="fr-book-author">By Elaine Showalter</p>
+        
+<p class="fr-book-desc">Explores how symptoms, diagnoses and fears can spread through shared stories, authority figures and public attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hystories+Elaine+Showalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mass psychogenic illness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11361713-M.jpg" alt="Cover for Mass psychogenic illness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mass psychogenic illness">Mass psychogenic illness</a>
-        </h4>
-        <p class="fr-book-author">By Michael Colligan, James W. Pennebaker et al.</p>
-
-        <p class="fr-book-desc">Directly analyses outbreaks in which physical symptoms spread through groups without an identified toxic or infectious cause.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mass psychogenic illness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11361713-M.jpg" alt="Cover for Mass psychogenic illness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mass psychogenic illness">Mass psychogenic illness</a>
+</h4>
+<p class="fr-book-author">By Michael Colligan, James W. Pennebaker et al.</p>
+        
+<p class="fr-book-desc">Directly analyses outbreaks in which physical symptoms spread through groups without an identified toxic or infectious cause.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mass+psychogenic+illness+Michael+Colligan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s All in Your Head</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+geography+of+madness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The geography of madness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hystories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hystories</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+All+in+Your+Head&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s All in Your Head</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+geography+of+madness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The geography of madness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hystories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hystories</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -209,13 +209,13 @@ description: Guinea’s best-documented history of contagious fear is not a clas
 hero_summary: Guinea’s best-documented history of contagious fear is not a classic story of a secretive “cult” or an unexplained outbreak of mass psychogenic illness.
 layout: default
 permalink: /when-fear-became-a-force-in-guinea/
-nav_short_title: "Rumour, Belief and Collective Panic in Guinea"
-title: "Rumour, Belief and Collective Panic in Guinea"
-title_full: "Rumour, Belief and Collective Panic in Guinea"
-display_title_short: "Rumour, Belief and Collective Panic in Guinea"
-display_title: "Rumour, Belief and Collective Panic in Guinea"
-heading_title: "Rumour, Belief and Collective Panic in Guinea"
-page_heading_title: "Rumour, Belief and Collective Panic in Guinea"
+nav_short_title: When Fear Became a Force in Guinea
+title: When Fear Became a Force in Guinea
+title_full: When Fear Became a Force in Guinea
+display_title_short: When Fear Became a Force in Guinea
+display_title: When Fear Became a Force in Guinea
+heading_title: When Fear Became a Force in Guinea
+page_heading_title: When Fear Became a Force in Guinea
 source_count: 131
 infographic_count: 3
 page_website_name: Guinea
@@ -1317,7 +1317,8 @@ Finally, Womé should not be treated as representative of all Guineans or even o
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/haWCqhx16ho" title="When Sékou Touré Held All Americans in Guinea Hostage in 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=haWCqhx16ho" target="_blank" rel="noopener noreferrer">When Sékou Touré Held All Americans in Guinea Hostage in 1966</a></p><p class="youtube-embed-meta">Channel: Talking Africa</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=haWCqhx16ho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=haWCqhx16ho">Open on YouTube</a></p></div></div></div>
 
-## How Guinea entered public memory
+## Why this history still matters
+
 Guinea’s panic history shows that collective fear is rarely separate from institutional history. Rumours become dangerous when they supply an explanation for experiences that authorities have failed to explain convincingly. A frightening story can spread because it is dramatic, but it survives because it fits what people already believe about power.
 
 The Touré years demonstrate how a government can turn conspiracy into a governing method, repeatedly discovering hidden enemies while preventing independent scrutiny of the evidence. The Ebola years show the reverse problem: a life-saving response can be perceived as conspiracy when it arrives through institutions that communities do not trust.
@@ -1327,89 +1328,89 @@ The practical lesson is not merely to “fight misinformation”. It is to reduc
 In Guinea, the most consequential contagious beliefs were not bizarre curiosities at society’s margins. They formed where disease, state power, memory and fear met—and where the question “Who is causing this?” became almost as important as the danger itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Became a Force in Guinea. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Became a Force in Guinea. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RMmxxYUBQhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-
-        <p class="fr-book-desc">Explores emerging diseases and human reactions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spillover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RMmxxYUBQhgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spillover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
+        
+<p class="fr-book-desc">Explores emerging diseases and human reactions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
-        </h4>
-        <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-
-        <p class="fr-book-desc">Introduces Ebola and public fear in an engaging way.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hot Zone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/417976-M.jpg" alt="Cover for The Hot Zone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
+</h4>
+<p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
+        
+<p class="fr-book-desc">Introduces Ebola and public fear in an engaging way.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
-        </h4>
-        <p class="fr-book-author">By Martin Meredith</p>
-
-        <p class="fr-book-desc">Provides historical context for Guinea&#x27;s political development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fate of Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/852880-M.jpg" alt="Cover for The fate of Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
+</h4>
+<p class="fr-book-author">By Martin Meredith</p>
+        
+<p class="fr-book-desc">Provides historical context for Guinea&#x27;s political development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ebola: The Natural and Human History of a Deadly Virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13051756-M.jpg" alt="Cover for Ebola: The Natural and Human History of a Deadly Virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ebola: The Natural and Human History of a Deadly Virus">Ebola: The Natural and Human History of a Deadly Virus</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-
-        <p class="fr-book-desc">Explains Ebola, outbreaks and public response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ebola: The Natural and Human History of a Deadly Virus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13051756-M.jpg" alt="Cover for Ebola: The Natural and Human History of a Deadly Virus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ebola: The Natural and Human History of a Deadly Virus">Ebola: The Natural and Human History of a Deadly Virus</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
+        
+<p class="fr-book-desc">Explains Ebola, outbreaks and public response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ebola%3A+The+Natural+and+Human+History+of+a+Deadly+Virus+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hot+Zone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hot Zone</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fate+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fate of Africa</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

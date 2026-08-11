@@ -368,7 +368,7 @@ For Chile, the former colony has therefore become both a symbol of authoritarian
 <a href="https://www.amazon.com/s?k=Combatting+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Combatting cult mind control">Combatting cult mind control</a>
 </h4>
 <p class="fr-book-author">By Steven Hassan</p>
-
+        
 <p class="fr-book-desc">First published 1988. Subjects: Controversial literature, Cults, Psychological aspects of Cults, Psychology, Psychological aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Combatting+cult+mind+control+Steven+Hassan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For Chile, the former colony has therefore become both a symbol of authoritarian
 <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pinochet File">The Pinochet File</a>
 </h4>
 <p class="fr-book-author">By Peter Kornbluh</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Human rights, Subversive activities, Relations, United States, Sources.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pinochet+File+Peter+Kornbluh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Chile, the former colony has therefore become both a symbol of authoritarian
 <a href="https://www.amazon.com/s?k=The+Cult+of+We+Eliot+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cult of We">The Cult of We</a>
 </h4>
 <p class="fr-book-author">By Eliot Brown, Maureen Farrell</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Economic history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Cult+of+We+Eliot+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For Chile, the former colony has therefore become both a symbol of authoritarian
 <a href="https://www.amazon.com/s?k=Colonia+Dignidad+Gero+Gemballa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Colonia Dignidad">Colonia Dignidad</a>
 </h4>
 <p class="fr-book-author">By Gero Gemballa</p>
-
+        
 <p class="fr-book-desc">First published 1988. Subjects: Baptists, Christian sects, Germans, Politics and government, Religious communities.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Colonia+Dignidad+Gero+Gemballa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

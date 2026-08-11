@@ -6,7 +6,9 @@
   "dataAsset": "world-countries.json",
   "mapLabel": "Interactive country map",
   "fallbackSummary": "Open this country file from the map.",
-  "panelCopy": "Use the map to jump into a country file, or browse the full country list below.",
+  "panelTitle": "Explore UFO reports worldwide",
+  "panelCopy": "Use the map to explore a country file, or browse the full country list.",
+  "browseLabel": "Browse all countries",
   "items": [
     {
       "id": "KP",

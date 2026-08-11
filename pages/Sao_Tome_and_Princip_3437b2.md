@@ -1301,7 +1301,8 @@ This does not make the massacre a myth. The violence is firmly documented. What 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MvEYcOZDwW8" title="The Bizarre Story of the Blackburn Fainting Epidemic. 1965" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MvEYcOZDwW8" target="_blank" rel="noopener noreferrer">The Bizarre Story of the Blackburn Fainting Epidemic. 1965</a></p><p class="youtube-embed-meta">Channel: The Dark Side of the Moor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MvEYcOZDwW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MvEYcOZDwW8">Open on YouTube</a></p></div></div></div>
 
-## What Sao Tome and Principe reveals about public fear
+## Why the episode still matters
+
 Batepá shows that a destructive collective belief need not centre on magic, prophecy or supernatural possession. Political authorities can create an equally powerful panic by naming an invisible enemy, presenting ordinary resistance as conspiracy and persuading one group that violence against another is preventive self-defence.
 
 The episode also warns against treating every rumour as equally false. São Toméan fears of forced labour were grounded in an exploitative plantation order. The colonial story of a communist insurrection, by contrast, lacked supporting evidence and was promoted by people able to imprison or kill those they accused. Understanding the difference requires asking not only whether a belief was verified, but also who circulated it, what experiences made it credible and what power followed from accepting it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/351091344_The_February_1953_Massacre_in_Sao_Tome_Crack_in_the_Salazarist_Image_of_Multiracial_Harmony_and_Impetus_for_Nationalist_Demands_for_Independence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The February 1953 Massacre in São ToméJanuary 1, 2003 — The article analyses the causes of the massacre, reconstructs t...</span><span class="citation-popover-meta">Published: February 1953</span></span></span>
@@ -1326,7 +1327,7 @@ For the social history of panics and contagious fear, São Tomé and Príncipe�
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
 </h4>
 <p class="fr-book-author">By Adam Hochschild</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Politics and government, Race relations, Forced labor, Human rights movements, Indigenous peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1344,7 @@ For the social history of panics and contagious fear, São Tomé and Príncipe�
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1361,7 @@ For the social history of panics and contagious fear, São Tomé and Príncipe�
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Born in Blackness">Born in Blackness</a>
 </h4>
 <p class="fr-book-author">By Howard W. French</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Africa, history, Slave trade, History, African diaspora, Modern History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Born+in+Blackness+Howard+W.+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1378,7 @@ For the social history of panics and contagious fear, São Tomé and Príncipe�
 <a href="https://www.amazon.com/s?k=Chocolate+islands+Catherine+Higgs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chocolate islands">Chocolate islands</a>
 </h4>
 <p class="fr-book-author">By Catherine Higgs</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Moral and ethical aspects, Cacao growers, Cadbury Brothers, Travel, Administration.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chocolate+islands+Catherine+Higgs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -330,7 +330,8 @@ Survivors, historians and archivists have therefore played a major role in prese
 
 Today the massacre remains one of the defining episodes through which many Thais debate state violence, freedom of expression, historical memory and the dangers of political dehumanisation.
 
-## What 1976 Panic reveals about public fear
+## Why the episode remains important
+
 The Thammasat massacre demonstrates that political moral panics need not depend on irrational crowds acting independently. They can emerge through sustained interaction between media, organised movements, official institutions and genuine public anxieties.
 
 For Thailand, the lesson extends beyond the Cold War. The episode shows how fear can narrow the boundary between legitimate political disagreement and imagined national betrayal. When opponents are consistently portrayed as existential enemies rather than fellow citizens, extraordinary violence becomes easier to justify, accountability becomes more difficult to secure, and the struggle over historical memory can continue for generations.
@@ -341,89 +342,89 @@ For Thailand, the lesson extends beyond the Cold War. The episode shows how fear
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Anti-Communist Fear Helped Enable a Massacre. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Anti-Communist Fear Helped Enable a Massacre. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World">The Jakarta Method: Washington&#x27;s Anticommunist Crusade and th...</a>
-        </h4>
-        <p class="fr-book-author">By Vincent Bevins</p>
-
-        <p class="fr-book-desc">Places Thailand’s anti-communist panic within the wider regional and global pattern of Cold War propaganda, repression and mass killing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13158267-M.jpg" alt="Cover for The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World">The Jakarta Method: Washington&#x27;s Anticommunist Crusade and th...</a>
+</h4>
+<p class="fr-book-author">By Vincent Bevins</p>
+        
+<p class="fr-book-desc">Places Thailand’s anti-communist panic within the wider regional and global pattern of Cold War propaganda, repression and mass killing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World+Vincent+Bevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thailand: A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159477-M.jpg" alt="Cover for Thailand: A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thailand: A Short History">Thailand: A Short History</a>
-        </h4>
-        <p class="fr-book-author">By David K. Wyatt</p>
-
-        <p class="fr-book-desc">Provides the historical background needed to understand Thailand’s monarchy, military politics, Cold War tensions and the forces surround...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thailand: A Short History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/159477-M.jpg" alt="Cover for Thailand: A Short History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thailand: A Short History">Thailand: A Short History</a>
+</h4>
+<p class="fr-book-author">By David K. Wyatt</p>
+        
+<p class="fr-book-desc">Provides the historical background needed to understand Thailand’s monarchy, military politics, Cold War tensions and the forces surround...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History+David+K.+Wyatt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6405401-M.jpg" alt="Cover for The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej">The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adu...</a>
-        </h4>
-        <p class="fr-book-author">By Paul M. Handley</p>
-
-        <p class="fr-book-desc">Illuminates the monarchy’s political position and the royalist atmosphere that shaped anti-communist mobilisation in modern Thailand.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6405401-M.jpg" alt="Cover for The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adulyadej">The King Never Smiles: A Biography of Thailand&#x27;s Bhumibol Adu...</a>
+</h4>
+<p class="fr-book-author">By Paul M. Handley</p>
+        
+<p class="fr-book-desc">Illuminates the monarchy’s political position and the royalist atmosphere that shaped anti-communist mobilisation in modern Thailand.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+King+Never+Smiles%3A+A+Biography+of+Thailand%27s+Bhumibol+Adulyadej+Paul+M.+Handley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Thailand on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Thailand">History of Thailand</a>
-        </h4>
-        <p class="fr-book-author">By Chris Baker, Pasuk Phongpaichit</p>
-
-        <p class="fr-book-desc">Explains Thailand’s twentieth-century political development, authoritarianism, social conflict and the broader setting of the Thammasat v...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open History of Thailand on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="History of Thailand">History of Thailand</a>
+</h4>
+<p class="fr-book-author">By Chris Baker, Pasuk Phongpaichit</p>
+        
+<p class="fr-book-desc">Explains Thailand’s twentieth-century political development, authoritarianism, social conflict and the broader setting of the Thammasat v...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=History+of+Thailand+Chris+Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thailand: A Short History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anti+Communist+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anti Communist biography</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Jakarta+Method%3A+Washington%27s+Anticommunist+Crusade+and+the+Mass+Murder+Program+That+Shaped+Our+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Jakarta Method: Washington&#x27;s Anticommunist Crusade and the Mass Murder Program That Shaped Our World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thailand%3A+A+Short+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thailand: A Short History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Anti+Communist+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anti Communist biography</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

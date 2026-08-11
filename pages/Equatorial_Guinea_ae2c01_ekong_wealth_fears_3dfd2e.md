@@ -337,7 +337,7 @@ For understanding Equatorial Guinea's history of collective belief, Ekong is the
 <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The state of Africa">The state of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: History, Politics and government, Africa, history, Africa, politics and government.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+state+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For understanding Equatorial Guinea's history of collective belief, Ekong is the
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fate of Africa">The fate of Africa</a>
 </h4>
 <p class="fr-book-author">By Martin Meredith</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Politics and government, Social conditions, Economic conditions, Politique et gouvernement, Conditions so...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+fate+of+Africa+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For understanding Equatorial Guinea's history of collective belief, Ekong is the
 <a href="https://www.amazon.com/s?k=Persuasions+and+performances+James+W.+Fernandez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persuasions and performances">Persuasions and performances</a>
 </h4>
 <p class="fr-book-author">By James W. Fernandez</p>
-
+        
 <p class="fr-book-desc">First published 1986. Subjects: Ethnology, Philosophy, Rites and ceremonies, Social life and customs, Symbolism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Persuasions+and+performances+James+W.+Fernandez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For understanding Equatorial Guinea's history of collective belief, Ekong is the
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+Among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic Among the Azande">Witchcraft, Oracles and Magic Among the Azande</a>
 </h4>
 <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-
+        
 <p class="fr-book-desc">Explains how witchcraft beliefs interpret inequality and misfortune.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+Among+the+Azande+E.+E.+Evans+Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

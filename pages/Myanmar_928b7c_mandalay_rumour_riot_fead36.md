@@ -330,89 +330,89 @@ Within Myanmar's recent history, the Mandalay rumour stands as one of the cleare
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How One False Story Set Mandalay Alight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How One False Story Set Mandalay Alight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
-        </h4>
-        <p class="fr-book-author">By Max Fisher</p>
-
-        <p class="fr-book-desc">Investigates how engagement-driven platforms amplify outrage, misinformation and group hostility, including their role in real-world ethn...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Chaos Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Fz5JEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Chaos Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Chaos Machine">The Chaos Machine</a>
+</h4>
+<p class="fr-book-author">By Max Fisher</p>
+        
+<p class="fr-book-desc">Investigates how engagement-driven platforms amplify outrage, misinformation and group hostility, including their role in real-world ethn...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Chaos+Machine+Max+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myanmar&#x27;s Enemy Within on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10869040-M.jpg" alt="Cover for Myanmar&#x27;s Enemy Within" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
-        </h4>
-        <p class="fr-book-author">By Francis Wade</p>
-
-        <p class="fr-book-desc">Explains the Buddhist nationalism, communal prejudice and political conditions that made inflammatory rumours capable of triggering viole...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myanmar&#x27;s Enemy Within on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10869040-M.jpg" alt="Cover for Myanmar&#x27;s Enemy Within" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myanmar&#x27;s Enemy Within">Myanmar&#x27;s Enemy Within</a>
+</h4>
+<p class="fr-book-author">By Francis Wade</p>
+        
+<p class="fr-book-desc">Explains the Buddhist nationalism, communal prejudice and political conditions that made inflammatory rumours capable of triggering viole...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within+Francis+Wade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Ugly Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10916236-M.jpg" alt="Cover for An Ugly Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Ugly Truth">An Ugly Truth</a>
-        </h4>
-        <p class="fr-book-author">By Sheera Frenkel, Cecilia Kang</p>
-
-        <p class="fr-book-desc">Examines Facebook&#x27;s failures to control misinformation, hate speech and violent rhetoric, providing corporate context for the platform dy...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Ugly Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10916236-M.jpg" alt="Cover for An Ugly Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Ugly Truth">An Ugly Truth</a>
+</h4>
+<p class="fr-book-author">By Sheera Frenkel, Cecilia Kang</p>
+        
+<p class="fr-book-desc">Examines Facebook&#x27;s failures to control misinformation, hate speech and violent rhetoric, providing corporate context for the platform dy...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+Ugly+Truth+Sheera+Frenkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century">The Hidden History of Burma: Race, Capitalism, and the Crisis...</a>
-        </h4>
-        <p class="fr-book-author">By Thant Myint-U</p>
-
-        <p class="fr-book-desc">Supplies the broader historical, ethnic, economic and political background needed to understand Myanmar&#x27;s communal tensions and fragile i...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden History of Burma: Race, Capitalism, and the Crisis of Democracy in the 21st Century">The Hidden History of Burma: Race, Capitalism, and the Crisis...</a>
+</h4>
+<p class="fr-book-author">By Thant Myint-U</p>
+        
+<p class="fr-book-desc">Supplies the broader historical, ethnic, economic and political background needed to understand Myanmar&#x27;s communal tensions and fragile i...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hidden+History+of+Burma%3A+Race%2C+Capitalism%2C+and+the+Crisis+of+Democracy+in+the+21st+Century+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myanmar&#x27;s Enemy Within</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Ugly+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Ugly Truth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Chaos+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Chaos Machine</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myanmar%27s+Enemy+Within&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myanmar&#x27;s Enemy Within</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Ugly+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Ugly Truth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

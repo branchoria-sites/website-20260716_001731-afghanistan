@@ -324,7 +324,8 @@ Modern historians generally interpret this as a case where genuine resistance an
 
 <img src="{{ "/assets/images/Barbados_93409a_bussa_rebellion_spir_890677-Illustration-3-dark.svg" | relative_url }}" alt="1816 Revolt illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_bussa_rebellion_spir_890677-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_bussa_rebellion_spir_890677-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## 1816 Revolt in historical perspective
+## Lasting Significance
+
 Bussa's Rebellion remains one of the defining events in Barbadian history because it demonstrated organised resistance to slavery and helped expose the instability of the plantation system. At the same time, it illustrates how governments confronted with real threats can broaden suspicion far beyond those directly responsible.
 
 For the history of collective fear in Barbados, the important lesson is not that the rebellion was based on supernatural belief. Rather, it is that colonial officials came to believe—or at least acted as though they believed—that African spiritual traditions themselves represented a continuing political danger. The fear of hidden ritual power became part of the machinery of colonial control, shaping legal policy and public attitudes long after the fighting had ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/education/resources/bussas-rebellion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives Bussa&#x27;s rebellion</span><span class="citation-popover-snippet">The National ArchivesBussa&#x27;s rebellion - The National Archives...</span></span></span>
@@ -335,89 +336,89 @@ For the history of collective fear in Barbados, the important lesson is not that
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Spiritual Belief Fuel Bussa&#x27;s Rebellion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Spiritual Belief Fuel Bussa&#x27;s Rebellion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bury the Chains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6790195-M.jpg" alt="Cover for Bury the Chains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury the Chains">Bury the Chains</a>
-        </h4>
-        <p class="fr-book-author">By Adam Hochschild, Derek Perkins et al.</p>
-
-        <p class="fr-book-desc">Frames the era surrounding Bussa&#x27;s Rebellion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bury the Chains on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6790195-M.jpg" alt="Cover for Bury the Chains" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bury the Chains">Bury the Chains</a>
+</h4>
+<p class="fr-book-author">By Adam Hochschild, Derek Perkins et al.</p>
+        
+<p class="fr-book-desc">Frames the era surrounding Bussa&#x27;s Rebellion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bury+the+Chains+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black and British on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8839319-M.jpg" alt="Cover for Black and British" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black and British">Black and British</a>
-        </h4>
-        <p class="fr-book-author">By David Olusoga</p>
-
-        <p class="fr-book-desc">Explains the imperial context of Caribbean slavery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black and British on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8839319-M.jpg" alt="Cover for Black and British" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black and British">Black and British</a>
+</h4>
+<p class="fr-book-author">By David Olusoga</p>
+        
+<p class="fr-book-desc">Explains the imperial context of Caribbean slavery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Black+and+British+David+Olusoga&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire of cotton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7353342-M.jpg" alt="Cover for Empire of cotton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of cotton">Empire of cotton</a>
-        </h4>
-        <p class="fr-book-author">By Sven Beckert, Sven Beckert</p>
-
-        <p class="fr-book-desc">Places plantation economies into global perspective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Empire of cotton on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7353342-M.jpg" alt="Cover for Empire of cotton" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of cotton">Empire of cotton</a>
+</h4>
+<p class="fr-book-author">By Sven Beckert, Sven Beckert</p>
+        
+<p class="fr-book-desc">Places plantation economies into global perspective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Empire+of+cotton+Sven+Beckert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interesting Narrative of the Life of Olaudah Equiano on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
-        </h4>
-        <p class="fr-book-author">By Olaudah Equiano</p>
-
-        <p class="fr-book-desc">Essential background on slavery and African experience.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interesting Narrative of the Life of Olaudah Equiano on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interesting Narrative of the Life of Olaudah Equiano">Interesting Narrative of the Life of Olaudah Equiano</a>
+</h4>
+<p class="fr-book-author">By Olaudah Equiano</p>
+        
+<p class="fr-book-desc">Essential background on slavery and African experience.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Interesting+Narrative+of+the+Life+of+Olaudah+Equiano+Olaudah+Equiano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bury+the+Chains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bury the Chains</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+and+British&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black and British</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire+of+cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire of cotton</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bury+the+Chains&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bury the Chains</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+and+British&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black and British</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Empire+of+cotton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Empire of cotton</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

@@ -345,89 +345,89 @@ For historians of political violence, Mongolia's "lama question" therefore repre
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the State Made Monks into Enemies. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the State Made Monks into Enemies. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The history of Mongolia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13754749-M.jpg" alt="Cover for The history of Mongolia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Mongolia">The history of Mongolia</a>
-        </h4>
-        <p class="fr-book-author">By David Sneath, C. Kaplonski</p>
-
-        <p class="fr-book-desc">Explains the socialist era and destruction of Buddhist institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The history of Mongolia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13754749-M.jpg" alt="Cover for The history of Mongolia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The history of Mongolia">The history of Mongolia</a>
+</h4>
+<p class="fr-book-author">By David Sneath, C. Kaplonski</p>
+        
+<p class="fr-book-desc">Explains the socialist era and destruction of Buddhist institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+history+of+Mongolia+David+Sneath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mongolia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11536480-M.jpg" alt="Cover for Mongolia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mongolia">Mongolia</a>
-        </h4>
-        <p class="fr-book-author">By Michael Dillon</p>
-
-        <p class="fr-book-desc">First published 2019. Subjects: Mongolia, history, Asia, politics and government, History, Politics and government.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mongolia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11536480-M.jpg" alt="Cover for Mongolia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mongolia">Mongolia</a>
+</h4>
+<p class="fr-book-author">By Michael Dillon</p>
+        
+<p class="fr-book-desc">First published 2019. Subjects: Mongolia, history, Asia, politics and government, History, Politics and government.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mongolia+Michael+Dillon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genghis Khan and the Making of the Modern World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/391676-M.jpg" alt="Cover for Genghis Khan and the Making of the Modern World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genghis Khan and the Making of the Modern World">Genghis Khan and the Making of the Modern World</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
-
-        <p class="fr-book-desc">Provides wider Mongolian historical background.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Genghis Khan and the Making of the Modern World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/391676-M.jpg" alt="Cover for Genghis Khan and the Making of the Modern World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genghis Khan and the Making of the Modern World">Genghis Khan and the Making of the Modern World</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
+        
+<p class="fr-book-desc">Provides wider Mongolian historical background.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
-        </h4>
-        <p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
-
-        <p class="fr-book-desc">First published 1973.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn">The Gulag Archipelago 1918 by Aleksandr I. Solzhenitsyn</a>
+</h4>
+<p class="fr-book-author">By Aleksandr I. Solzhenitsyn</p>
+        
+<p class="fr-book-desc">First published 1973.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gulag+Archipelago+1918+by+Aleksandr+I.+Solzhenitsyn+Aleksandr+I.+Solzhenitsyn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Mongolia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mongolia</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Genghis Khan and the Making of the Modern World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+history+of+Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The history of Mongolia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mongolia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mongolia</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Genghis Khan and the Making of the Modern World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

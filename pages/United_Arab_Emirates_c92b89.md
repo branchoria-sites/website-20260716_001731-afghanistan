@@ -209,13 +209,13 @@ description: The United Arab Emirates has no well-documented equivalent of the S
 hero_summary: The United Arab Emirates has no well-documented equivalent of the Salem witch trials, a nationwide satanic panic or a large home-grown apocalyptic sect.
 layout: default
 permalink: /united-arab-emirates/
-nav_short_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-title_full: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-display_title_short: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-display_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-heading_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
-page_heading_title: "United Arab Emirates: Panics, Beliefs and Mass Movements"
+nav_short_title: When Fear Spread Across the United Arab Emirates
+title: When Fear Spread Across the United Arab Emirates
+title_full: When Fear Spread Across the United Arab Emirates
+display_title_short: When Fear Spread Across the United Arab Emirates
+display_title: When Fear Spread Across the United Arab Emirates
+heading_title: When Fear Spread Across the United Arab Emirates
+page_heading_title: When Fear Spread Across the United Arab Emirates
 source_count: 92
 infographic_count: 3
 page_website_name: UAE Panics
@@ -1302,89 +1302,89 @@ The lasting lesson is not that Emirati society is unusually prone to panic. Comp
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fear Spread Across the United Arab Emirates. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fear Spread Across the United Arab Emirates. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Pandemics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11980085-M.jpg" alt="Cover for The Psychology of Pandemics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
-        </h4>
-        <p class="fr-book-author">By Steven Taylor</p>
-
-        <p class="fr-book-desc">Explains how fear spreads through communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Pandemics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11980085-M.jpg" alt="Cover for The Psychology of Pandemics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Pandemics">The Psychology of Pandemics</a>
+</h4>
+<p class="fr-book-author">By Steven Taylor</p>
+        
+<p class="fr-book-desc">Explains how fear spreads through communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics+Steven+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open City of Gold: Dubai and the Dream of Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305371-M.jpg" alt="Cover for City of Gold: Dubai and the Dream of Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of Gold: Dubai and the Dream of Capitalism">City of Gold: Dubai and the Dream of Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Jim Krane</p>
-
-        <p class="fr-book-desc">Provides background on the modern UAE.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open City of Gold: Dubai and the Dream of Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6305371-M.jpg" alt="Cover for City of Gold: Dubai and the Dream of Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="City of Gold: Dubai and the Dream of Capitalism">City of Gold: Dubai and the Dream of Capitalism</a>
+</h4>
+<p class="fr-book-author">By Jim Krane</p>
+        
+<p class="fr-book-desc">Provides background on the modern UAE.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy: Why the Rational Believe the Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy: Why the Rational Believe the Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy: Why the Rational Believe the Irrational">Conspiracy: Why the Rational Believe the Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
-
-        <p class="fr-book-desc">Relevant to moral panics and modern rumours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Conspiracy: Why the Rational Believe the Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12566613-M.jpg" alt="Cover for Conspiracy: Why the Rational Believe the Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Conspiracy: Why the Rational Believe the Irrational">Conspiracy: Why the Rational Believe the Irrational</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
+        
+<p class="fr-book-desc">Relevant to moral panics and modern rumours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptic&#x27;s Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
-        </h4>
-        <p class="fr-book-author">By Steven Novella</p>
-
-        <p class="fr-book-desc">Helps readers evaluate extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptic&#x27;s Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptic&#x27;s Guide to the Universe">The Skeptic&#x27;s Guide to the Universe</a>
+</h4>
+<p class="fr-book-author">By Steven Novella</p>
+        
+<p class="fr-book-desc">Helps readers evaluate extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Skeptic%27s+Guide+to+the+Universe+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Pandemics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of Gold: Dubai and the Dream of Capitalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy: Why the Rational Believe the Irrational</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Pandemics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Pandemics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=City+of+Gold%3A+Dubai+and+the+Dream+of+Capitalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">City of Gold: Dubai and the Dream of Capitalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Conspiracy%3A+Why+the+Rational+Believe+the+Irrational&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Conspiracy: Why the Rational Believe the Irrational</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes

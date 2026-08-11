@@ -292,7 +292,8 @@ After the clash, surviving members were arrested on charges including sedition. 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8uXIFZ5SyaQ" title="Ang Katotohanan sa Madugong Lapiang Malaya Massacre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8uXIFZ5SyaQ" target="_blank" rel="noopener noreferrer">Ang Katotohanan sa Madugong Lapiang Malaya Massacre</a></p><p class="youtube-embed-meta">Channel: YOUMUSTKNOW TV</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8uXIFZ5SyaQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8uXIFZ5SyaQ">Open on YouTube</a></p></div></div></div>
 
-## How Lapiang Malaya entered public memory
+## Why the episode still matters
+
 The Lapiang Malaya killings occupy an important place in Philippine discussions of religion, protest and state power because they resist simple explanation.
 
 Several lessons stand out:
@@ -327,7 +328,7 @@ Within the broader history of collective belief in the Philippines, Lapiang Mala
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Noli Me Tangere">Noli Me Tangere</a>
 </h4>
 <p class="fr-book-author">By José Rizal</p>
-
+        
 <p class="fr-book-desc">First published 1902. Subjects: Economics, Classic Literature, Fiction, Fiction, historical, general, Philippines, fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Noli+Me+Tangere+Jos%C3%A9+Rizal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +345,7 @@ Within the broader history of collective belief in the Philippines, Lapiang Mala
 <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pasyon and revolution">Pasyon and revolution</a>
 </h4>
 <p class="fr-book-author">By Reynaldo Clemeña Ileto</p>
-
+        
 <p class="fr-book-desc">First published 1979. Subjects: History, Kasaysayan ng pasiong mahal ni Hesukristong Panginoon natin, Revolutions, Casaysayan nang pasion...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pasyon+and+revolution+Reynaldo+Cleme%C3%B1a+Ileto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +362,7 @@ Within the broader history of collective belief in the Philippines, Lapiang Mala
 <a href="https://www.amazon.com/s?k=An+Anarchy+of+Families+Alfred+W.+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Anarchy of Families">An Anarchy of Families</a>
 </h4>
 <p class="fr-book-author">By Alfred W. McCoy</p>
-
+        
 <p class="fr-book-desc">First published 1993. Subjects: Politics and government, Family, Families, History, Family, asia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=An+Anarchy+of+Families+Alfred+W.+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +379,7 @@ Within the broader history of collective belief in the Philippines, Lapiang Mala
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Barangay">Barangay</a>
 </h4>
 <p class="fr-book-author">By William Henry Scott</p>
-
+        
 <p class="fr-book-desc">First published 1994. Subjects: Ethnology, Civilization, Filipinos, Social life and customs, Bisaya (Philippine people).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Barangay+William+Henry+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

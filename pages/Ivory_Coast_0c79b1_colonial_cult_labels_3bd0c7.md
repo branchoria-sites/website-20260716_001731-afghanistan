@@ -348,95 +348,96 @@ The result is a more nuanced picture in which prophetic Christianity is understo
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DkSE3If78io" title="The Night the Angel Gabriel Visited a Liberian Prison | True Story of Faith (William Wadé Harris)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DkSE3If78io" target="_blank" rel="noopener noreferrer">The Night the Angel Gabriel Visited a Liberian Prison | True Story of Faith (William Wadé Harris)</a></p><p class="youtube-embed-meta">Channel: Faith Ablaze</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DkSE3If78io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DkSE3If78io">Open on YouTube</a></p></div></div></div>
 
-## What Colonial Labels reveals about public fear
+## Why this history still matters
+
 The colonial habit of labelling unfamiliar religious movements as dangerous has had lasting effects on how Ivorian religious history is remembered. It reminds readers that terms such as "cult", "sect" and "fanatic" are not neutral descriptions but can be tools of power, especially when applied by governments or dominant religious institutions to minority groups.
 
 For Ivory Coast, modern scholarship places less emphasis on sensational stories about supposed colonial "cults" and more on the social struggles beneath them: who controlled religious authority, how communities adapted to colonial rule, and why African-led churches became powerful expressions of both Christian faith and local autonomy. Understanding that distinction helps separate documented episodes of social fear from the more complex historical reality of religious innovation under colonial rule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2077-1444/15/9/1128" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Multilingual Complexities in the Origins and Development of the Harrist Movement and Its Worship Patterns in Ivory CoastSeptember 19...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Decided Which Ivorian Movements Were Cults?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Decided Which Ivorian Movements Were Cults?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Things Fall Apart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12816943-M.jpg" alt="Cover for Things Fall Apart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
-        </h4>
-        <p class="fr-book-author">By Chinua Achebe</p>
-
-        <p class="fr-book-desc">Illustrates colonial encounters with African belief systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Things Fall Apart on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12816943-M.jpg" alt="Cover for Things Fall Apart" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Things Fall Apart">Things Fall Apart</a>
+</h4>
+<p class="fr-book-author">By Chinua Achebe</p>
+        
+<p class="fr-book-desc">Illustrates colonial encounters with African belief systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Things+Fall+Apart+Chinua+Achebe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
-        </h4>
-        <p class="fr-book-author">By Mbiti, John S.</p>
-
-        <p class="fr-book-desc">Explains African religious traditions beyond colonial labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
+</h4>
+<p class="fr-book-author">By Mbiti, John S.</p>
+        
+<p class="fr-book-desc">Explains African religious traditions beyond colonial labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decolonising the Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14346706-M.jpg" alt="Cover for Decolonising the Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decolonising the Mind">Decolonising the Mind</a>
-        </h4>
-        <p class="fr-book-author">By Ngũgĩ wa Thiongʼo, Blanca Busquets</p>
-
-        <p class="fr-book-desc">Supports understanding of colonial narratives and labels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Decolonising the Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14346706-M.jpg" alt="Cover for Decolonising the Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Decolonising the Mind">Decolonising the Mind</a>
+</h4>
+<p class="fr-book-author">By Ngũgĩ wa Thiongʼo, Blanca Busquets</p>
+        
+<p class="fr-book-desc">Supports understanding of colonial narratives and labels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Decolonising+the+Mind+Ng%C5%A9g%C4%A9+wa+Thiong%CA%BCo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African traditional religions in contemporary society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273340-M.jpg" alt="Cover for African traditional religions in contemporary society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
-        </h4>
-        <p class="fr-book-author">By Jacob K. Olupona</p>
-
-        <p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African traditional religions in contemporary society on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273340-M.jpg" alt="Cover for African traditional religions in contemporary society" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African traditional religions in contemporary society">African traditional religions in contemporary society</a>
+</h4>
+<p class="fr-book-author">By Jacob K. Olupona</p>
+        
+<p class="fr-book-desc">First published 1991. Subjects: Religion, Study and teaching, Congresses, Étude et enseignement, PRO Shaw, Gwendolyn Dubois, 1968- (donor).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=African+traditional+religions+in+contemporary+society+Jacob+K.+Olupona&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Things+Fall+Apart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Things Fall Apart</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Decolonising+the+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decolonising the Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Things+Fall+Apart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Things Fall Apart</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Decolonising+the+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Decolonising the Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
