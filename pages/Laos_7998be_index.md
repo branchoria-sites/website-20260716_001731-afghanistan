@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /laos-7998be-index/
 description: Focused pages that expand on When Belief Became Power and Danger in Laos.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Laos_7998be
 parent_title: When Belief Became Power and Danger in Laos

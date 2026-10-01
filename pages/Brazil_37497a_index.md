@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /brazil-37497a-index/
 description: Focused pages that expand on Brazil.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Brazil_37497a
 parent_title: Brazil

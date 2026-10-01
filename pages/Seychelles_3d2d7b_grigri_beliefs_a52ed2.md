@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:16:54'
+last_modified_at: '2026-07-15 01:16:54'
 parent_title: Seychelles Panics
 parent_permalink: /when-witchcraft-fear-entered-seychelles/
 parent_nav_short_title: Seychelles Panics

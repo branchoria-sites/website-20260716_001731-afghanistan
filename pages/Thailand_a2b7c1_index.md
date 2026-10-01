@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /thailand-a2b7c1-index/
 description: Focused pages that expand on When Fear and Belief Swept Through Thailand.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Thailand_a2b7c1
 parent_title: When Fear and Belief Swept Through Thailand

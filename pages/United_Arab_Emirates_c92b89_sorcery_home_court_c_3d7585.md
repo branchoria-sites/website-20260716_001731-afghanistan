@@ -244,6 +244,7 @@ next_link:
   short_title: State Response
   heading_title: How the UAE Polices Claims of Black Magic
 date: '2026-07-15 23:55:11 '
+last_modified_at: '2026-07-15 23:55:11 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_sorcery_home_court_c_3d7585-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_sorcery_home_court_c_3d7585-Illustration-1.webp

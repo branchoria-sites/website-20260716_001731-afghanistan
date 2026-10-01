@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /new-zealand-3d3336-index/
 description: Focused pages that expand on When Did Belief Become Fear in New Zealand?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: New_Zealand_3d3336
 parent_title: When Did Belief Become Fear in New Zealand?

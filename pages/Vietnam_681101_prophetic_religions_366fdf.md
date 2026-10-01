@@ -244,6 +244,7 @@ next_link:
   short_title: Religion Scares
   heading_title: Who Decides Which Religions Are Dangerous?
 date: '2026-07-15 23:55:51 '
+last_modified_at: '2026-07-15 23:55:51 '
 header:
   og_image: /assets/images/Vietnam_681101_prophetic_religions_366fdf-Illustration-1-social.jpg
   preview_image: /assets/images/Vietnam_681101_prophetic_religions_366fdf-Illustration-1.webp

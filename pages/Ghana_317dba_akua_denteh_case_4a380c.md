@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 02:48:28'
+last_modified_at: '2026-07-13 02:48:28'
 parent_title: Ghana Panics
 parent_permalink: /when-fear-became-social-power-in-ghana/
 parent_nav_short_title: Ghana Panics

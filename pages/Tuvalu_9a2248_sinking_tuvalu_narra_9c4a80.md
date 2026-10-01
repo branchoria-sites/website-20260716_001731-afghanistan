@@ -238,6 +238,7 @@ prev_link:
   short_title: Noah and Climate
   heading_title: Does Noah's Promise Protect Tuvalu From Flooding?
 date: '2026-07-15 23:54:54 '
+last_modified_at: '2026-07-15 23:54:54 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_sinking_tuvalu_narra_9c4a80-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_sinking_tuvalu_narra_9c4a80-Illustration-1.webp

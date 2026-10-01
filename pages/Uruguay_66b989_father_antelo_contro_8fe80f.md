@@ -244,6 +244,7 @@ next_link:
   short_title: Miracle Crowds
   heading_title: How Supposed Miracles Become Public Crowds
 date: '2026-07-15 23:55:29 '
+last_modified_at: '2026-07-15 23:55:29 '
 header:
   og_image: /assets/images/Uruguay_66b989_father_antelo_contro_8fe80f-Illustration-1-social.jpg
   preview_image: /assets/images/Uruguay_66b989_father_antelo_contro_8fe80f-Illustration-1.webp

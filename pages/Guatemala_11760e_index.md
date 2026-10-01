@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /guatemala-11760e-index/
 description: Focused pages that expand on When Fear Became Dangerous in Guatemala.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Guatemala_11760e
 parent_title: When Fear Became Dangerous in Guatemala

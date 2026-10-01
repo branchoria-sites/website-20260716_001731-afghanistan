@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /senegal-d8973b-index/
 description: Focused pages that expand on How Fear and Belief Spread Across Senegal.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Senegal_d8973b
 parent_title: How Fear and Belief Spread Across Senegal

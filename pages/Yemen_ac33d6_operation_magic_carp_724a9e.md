@@ -238,6 +238,7 @@ prev_link:
   short_title: Messianic Movements
   heading_title: Why Did Messiahs Keep Appearing in Yemen?
 date: '2026-07-15 23:55:57 '
+last_modified_at: '2026-07-15 23:55:57 '
 header:
   og_image: /assets/images/Yemen_ac33d6_operation_magic_carp_724a9e-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_operation_magic_carp_724a9e-Illustration-1.webp

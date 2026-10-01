@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lesotho-93b12b-index/
 description: Focused pages that expand on When Fear Gripped Colonial Lesotho.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lesotho_93b12b
 parent_title: When Fear Gripped Colonial Lesotho

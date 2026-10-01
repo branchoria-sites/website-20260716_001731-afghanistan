@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lithuania-74a788-index/
 description: Focused pages that expand on When Fear and Faith Shaped Lithuania.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lithuania_74a788
 parent_title: When Fear and Faith Shaped Lithuania

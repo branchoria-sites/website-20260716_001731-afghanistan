@@ -244,6 +244,7 @@ next_link:
   short_title: Watch Tower
   heading_title: Why Watch Tower Frightened Colonial Zambia
 date: '2026-07-15 23:56:02 '
+last_modified_at: '2026-07-15 23:56:02 '
 header:
   og_image: /assets/images/Zambia_dcf25e_ritual_murder_occult_dd172c-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_ritual_murder_occult_dd172c-Illustration-1.webp

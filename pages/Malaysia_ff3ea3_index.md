@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /malaysia-ff3ea3-index/
 description: Focused pages that expand on Why Collective Fear Takes Hold in Malaysia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Malaysia_ff3ea3
 parent_title: Why Collective Fear Takes Hold in Malaysia

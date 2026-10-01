@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-reshaped-life-in-paraguay/
   short_title: Paraguay Belief
 date: '2026-07-15 23:55:34 '
+last_modified_at: '2026-07-15 23:55:34 '
 header:
   og_image: /assets/images/Uruguay_66b989-overview-social.jpg
   preview_image: /assets/images/Uruguay_66b989-overview.webp

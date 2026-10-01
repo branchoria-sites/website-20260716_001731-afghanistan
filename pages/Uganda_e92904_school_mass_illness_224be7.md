@@ -244,6 +244,7 @@ next_link:
   short_title: Spirit Armies
   heading_title: How a Spirit Led Army Marched South
 date: '2026-07-15 23:54:58 '
+last_modified_at: '2026-07-15 23:54:58 '
 header:
   og_image: /assets/images/Uganda_e92904_school_mass_illness_224be7-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_school_mass_illness_224be7-Illustration-1.webp

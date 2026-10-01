@@ -238,6 +238,7 @@ next_link:
   short_title: Betania
   heading_title: What Happened at the Betania Apparitions?
 date: '2026-07-15 23:55:45 '
+last_modified_at: '2026-07-15 23:55:45 '
 header:
   og_image: /assets/images/Venezuela_9d4ac4_caracas_earthquake_o_ba7df1-Illustration-1-social.jpg
   preview_image: /assets/images/Venezuela_9d4ac4_caracas_earthquake_o_ba7df1-Illustration-1.webp

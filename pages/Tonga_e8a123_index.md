@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /tonga-e8a123-index/
 description: Focused pages that expand on When Faith, Fear and Power Reshaped Tonga.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Tonga_e8a123
 parent_title: When Faith, Fear and Power Reshaped Tonga

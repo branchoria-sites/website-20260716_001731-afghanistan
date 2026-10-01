@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cambodia-314ccd-index/
 description: Focused pages that expand on Why Collective Fear Took Hold in Cambodia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cambodia_314ccd
 parent_title: Why Collective Fear Took Hold in Cambodia

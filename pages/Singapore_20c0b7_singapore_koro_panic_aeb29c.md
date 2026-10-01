@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:17:02'
+last_modified_at: '2026-07-15 01:17:02'
 parent_title: Singapore Panics
 parent_permalink: /how-fear-became-contagious-in-singapore/
 parent_nav_short_title: Singapore Panics

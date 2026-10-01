@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /canada-cd6a7b-index/
 description: Focused pages that expand on When Fear and Faith Gripped Canada.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Canada_cd6a7b
 parent_title: When Fear and Faith Gripped Canada

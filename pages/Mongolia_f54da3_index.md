@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mongolia-f54da3-index/
 description: Focused pages that expand on When Belief and Fear Reshaped Mongolia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mongolia_f54da3
 parent_title: When Belief and Fear Reshaped Mongolia

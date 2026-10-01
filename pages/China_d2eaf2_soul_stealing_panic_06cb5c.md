@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 18:14:59'
+last_modified_at: '2026-07-12 18:14:59'
 parent_title: China
 parent_permalink: /when-belief-became-a-public-crisis-in/
 parent_nav_short_title: China

@@ -238,6 +238,7 @@ next_link:
   short_title: Popobawa
   heading_title: How Popobawa Turned Night Terror Into Panic
 date: '2026-07-15 23:55:18 '
+last_modified_at: '2026-07-15 23:55:18 '
 header:
   og_image: /assets/images/Tanzania_7e380b_tanganyika_laughter_5a5b15-Illustration-1-social.jpg
   preview_image: /assets/images/Tanzania_7e380b_tanganyika_laughter_5a5b15-Illustration-1.webp

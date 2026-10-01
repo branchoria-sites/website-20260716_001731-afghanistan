@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /palau-e5e0b6-index/
 description: Focused pages that expand on When Belief Became a Threat in Palau.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Palau_e5e0b6
 parent_title: When Belief Became a Threat in Palau

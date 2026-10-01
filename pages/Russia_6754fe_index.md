@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /russia-6754fe-index/
 description: Focused pages that expand on When Fear and Belief Swept Across Russia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Russia_6754fe
 parent_title: When Fear and Belief Swept Across Russia

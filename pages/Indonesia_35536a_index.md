@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /indonesia-35536a-index/
 description: Focused pages that expand on When Fear and Belief Swept Indonesia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Indonesia_35536a
 parent_title: When Fear and Belief Swept Indonesia

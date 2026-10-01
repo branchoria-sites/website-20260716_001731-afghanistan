@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /qatar-83ef3e-index/
 description: Focused pages that expand on When Fear and Rumour Gripped Qatar.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Qatar_83ef3e
 parent_title: When Fear and Rumour Gripped Qatar

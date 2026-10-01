@@ -244,6 +244,7 @@ next_link:
   short_title: Sinking Nation
   heading_title: Is Tuvalu Really Disappearing Beneath the Sea?
 date: '2026-07-15 23:54:52 '
+last_modified_at: '2026-07-15 23:54:52 '
 header:
   og_image: /assets/images/Tuvalu_9a2248_noah_climate_belief_5fa8c5-Illustration-1-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248_noah_climate_belief_5fa8c5-Illustration-1.webp

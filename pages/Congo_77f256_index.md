@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /congo-77f256-index/
 description: Focused pages that expand on When Belief Became a Threat in Congo.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Congo_77f256
 parent_title: When Belief Became a Threat in Congo

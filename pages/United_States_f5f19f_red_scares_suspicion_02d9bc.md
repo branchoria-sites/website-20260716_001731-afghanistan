@@ -244,6 +244,7 @@ next_link:
   short_title: Salem
   heading_title: How Invisible Evidence Condemned Salem's Accused
 date: '2026-07-15 23:55:23 '
+last_modified_at: '2026-07-15 23:55:23 '
 header:
   og_image: /assets/images/United_States_f5f19f_red_scares_suspicion_02d9bc-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_red_scares_suspicion_02d9bc-Illustration-1.webp

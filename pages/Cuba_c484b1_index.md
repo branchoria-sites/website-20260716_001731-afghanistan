@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cuba-c484b1-index/
 description: Focused pages that expand on When Fear Became a Force in Cuba.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cuba_c484b1
 parent_title: When Fear Became a Force in Cuba

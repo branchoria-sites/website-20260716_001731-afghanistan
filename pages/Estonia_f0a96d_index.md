@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /estonia-f0a96d-index/
 description: Focused pages that expand on When Fear and Hope Gripped Estonia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Estonia_f0a96d
 parent_title: When Fear and Hope Gripped Estonia

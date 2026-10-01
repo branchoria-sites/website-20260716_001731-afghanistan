@@ -238,6 +238,7 @@ prev_link:
   short_title: Red Scares
   heading_title: When Suspicion Became Proof of Disloyalty
 date: '2026-07-15 23:55:24 '
+last_modified_at: '2026-07-15 23:55:24 '
 header:
   og_image: /assets/images/United_States_f5f19f_salem_evidence_failu_2cc2e0-Illustration-1-social.jpg
   preview_image: /assets/images/United_States_f5f19f_salem_evidence_failu_2cc2e0-Illustration-1.webp

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 10:24:04'
+last_modified_at: '2026-07-12 10:24:04'
 parent_title: Afghanistan Panics
 parent_permalink: /when-fear-became-fact-in-afghanistan/
 parent_nav_short_title: Afghanistan Panics

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /singapore-20c0b7-index/
 description: Focused pages that expand on How Fear Became Contagious in Singapore.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Singapore_20c0b7
 parent_title: How Fear Became Contagious in Singapore

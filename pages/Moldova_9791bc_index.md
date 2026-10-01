@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /moldova-9791bc-index/
 description: Focused pages that expand on When Belief Became a Threat in Moldova.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Moldova_9791bc
 parent_title: When Belief Became a Threat in Moldova

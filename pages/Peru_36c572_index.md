@@ -8,6 +8,7 @@ permalink: /peru-36c572-index/
 description: Focused pages that expand on When Belief, Fear and Power Collided in
   Peru.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Peru_36c572
 parent_title: When Belief, Fear and Power Collided in Peru

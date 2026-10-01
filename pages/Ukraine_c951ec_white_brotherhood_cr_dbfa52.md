@@ -244,6 +244,7 @@ next_link:
   short_title: Witch Trials
   heading_title: Was There Really a Ukrainian Witch Craze?
 date: '2026-07-15 23:55:00 '
+last_modified_at: '2026-07-15 23:55:00 '
 header:
   og_image: /assets/images/Ukraine_c951ec_white_brotherhood_cr_dbfa52-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_white_brotherhood_cr_dbfa52-Illustration-1.webp

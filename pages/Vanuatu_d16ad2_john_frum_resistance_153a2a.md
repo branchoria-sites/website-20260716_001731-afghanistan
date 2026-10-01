@@ -244,6 +244,7 @@ next_link:
   short_title: Prince Philip
   heading_title: Did Tanna Really Worship Prince Philip?
 date: '2026-07-15 23:55:43 '
+last_modified_at: '2026-07-15 23:55:43 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_john_frum_resistance_153a2a-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_john_frum_resistance_153a2a-Illustration-1.webp

@@ -238,6 +238,7 @@ prev_link:
   short_title: School Outbreaks
   heading_title: Why Do Strange Symptoms Spread Through Schools?
 date: '2026-07-15 23:54:58 '
+last_modified_at: '2026-07-15 23:54:58 '
 header:
   og_image: /assets/images/Uganda_e92904_spirit_armies_northe_551941-Illustration-1-social.jpg
   preview_image: /assets/images/Uganda_e92904_spirit_armies_northe_551941-Illustration-1.webp

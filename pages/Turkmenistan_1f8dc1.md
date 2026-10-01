@@ -1184,6 +1184,7 @@ next_link:
   permalink: /united-arab-emirates/
   short_title: UAE Panics
 date: '2026-07-15 23:54:47 '
+last_modified_at: '2026-07-15 23:54:47 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1-overview-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1-overview.webp

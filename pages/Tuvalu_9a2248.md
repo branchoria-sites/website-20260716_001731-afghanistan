@@ -1184,6 +1184,7 @@ next_link:
   permalink: /how-fear-and-belief-spread-in-brunei/
   short_title: Brunei Panics
 date: '2026-07-15 23:54:51 '
+last_modified_at: '2026-07-15 23:54:51 '
 header:
   og_image: /assets/images/Tuvalu_9a2248-overview-social.jpg
   preview_image: /assets/images/Tuvalu_9a2248-overview.webp

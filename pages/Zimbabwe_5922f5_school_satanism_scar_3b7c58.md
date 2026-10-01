@@ -244,6 +244,7 @@ next_link:
   short_title: Witchcraft Law
   heading_title: When Witchcraft Belief Becomes a Legal Danger
 date: '2026-07-15 23:55:06 '
+last_modified_at: '2026-07-15 23:55:06 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_school_satanism_scar_3b7c58-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_school_satanism_scar_3b7c58-Illustration-1.webp

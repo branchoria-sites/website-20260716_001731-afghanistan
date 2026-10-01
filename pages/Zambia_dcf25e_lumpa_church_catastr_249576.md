@@ -238,6 +238,7 @@ next_link:
   short_title: Occult Panics
   heading_title: How Ritual Murder Rumours Turned Into Mob Violence
 date: '2026-07-15 23:56:01 '
+last_modified_at: '2026-07-15 23:56:01 '
 header:
   og_image: /assets/images/Zambia_dcf25e_lumpa_church_catastr_249576-Illustration-1-social.jpg
   preview_image: /assets/images/Zambia_dcf25e_lumpa_church_catastr_249576-Illustration-1.webp

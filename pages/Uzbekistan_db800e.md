@@ -1184,6 +1184,7 @@ next_link:
   permalink: /what-collective-fears-shaped-modern/
   short_title: Eritrea
 date: '2026-07-15 23:55:33 '
+last_modified_at: '2026-07-15 23:55:33 '
 header:
   og_image: /assets/images/Uzbekistan_db800e-overview-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e-overview.webp

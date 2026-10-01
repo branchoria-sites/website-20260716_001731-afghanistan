@@ -244,6 +244,7 @@ next_link:
   short_title: The Hujum
   heading_title: Why Unveiling Became a Life or Death Choice
 date: '2026-07-15 23:55:38 '
+last_modified_at: '2026-07-15 23:55:38 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_namangan_islamist_sc_c3fe8a-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_namangan_islamist_sc_c3fe8a-Illustration-1.webp

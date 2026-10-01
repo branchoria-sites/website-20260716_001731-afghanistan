@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 02:48:12'
+last_modified_at: '2026-07-13 02:48:12'
 parent_title: Gabon
 parent_permalink: /when-fear-faith-and-power-collided-in-3d979f/
 parent_nav_short_title: Gabon

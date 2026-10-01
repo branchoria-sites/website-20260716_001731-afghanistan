@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:14:43'
+last_modified_at: '2026-07-15 01:14:43'
 parent_title: Norway's Collective Fears
 parent_permalink: /when-did-fear-take-hold-in-norway/
 parent_nav_short_title: Norway's Collective Fears

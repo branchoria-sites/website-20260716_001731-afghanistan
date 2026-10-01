@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bhutan-bb2254-index/
 description: Focused pages that expand on How Fear and Rumour Spread in Bhutan.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bhutan_bb2254
 parent_title: How Fear and Rumour Spread in Bhutan

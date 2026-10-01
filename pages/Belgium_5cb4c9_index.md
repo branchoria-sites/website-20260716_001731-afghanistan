@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /belgium-5cb4c9-index/
 description: Focused pages that expand on When Fear and Faith Swept Through Belgium.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Belgium_5cb4c9
 parent_title: When Fear and Faith Swept Through Belgium
