@@ -244,6 +244,7 @@ next_link:
   short_title: Witchcraft Violence
   heading_title: When Witchcraft Fear Becomes Persecution
 date: '2026-07-15 23:55:18 '
+last_modified_at: '2026-07-15 23:55:18 '
 header:
   og_image: /assets/images/Tanzania_7e380b_popobawa_zanzibar_pa_5b4aa9-Illustration-1-social.jpg
   preview_image: /assets/images/Tanzania_7e380b_popobawa_zanzibar_pa_5b4aa9-Illustration-1.webp

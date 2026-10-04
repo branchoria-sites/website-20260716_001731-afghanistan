@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 18:14:48'
+last_modified_at: '2026-07-12 18:14:48'
 parent_title: Canada's Strange Beliefs
 parent_permalink: /when-fear-and-faith-gripped-canada/
 parent_nav_short_title: Canada's Strange Beliefs

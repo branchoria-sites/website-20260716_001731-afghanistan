@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /chad-6c6b1b-index/
 description: Focused pages that expand on When Fear and Power Shaped Belief in Chad.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Chad_6c6b1b
 parent_title: When Fear and Power Shaped Belief in Chad

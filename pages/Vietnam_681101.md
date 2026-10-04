@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-fear-and-power-collided-in/
   short_title: Fiji Belief Scares
 date: '2026-07-15 23:55:48 '
+last_modified_at: '2026-07-15 23:55:48 '
 header:
   og_image: /assets/images/Vietnam_681101-overview-social.jpg
   preview_image: /assets/images/Vietnam_681101-overview.webp

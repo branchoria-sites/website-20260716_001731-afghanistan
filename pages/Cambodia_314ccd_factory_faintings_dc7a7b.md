@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 16:53:24'
+last_modified_at: '2026-07-12 16:53:24'
 parent_title: Cambodia Belief Panics
 parent_permalink: /why-collective-fear-took-hold-in/
 parent_nav_short_title: Cambodia Belief Panics

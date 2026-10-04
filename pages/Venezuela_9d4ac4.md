@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-fear-and-crisis-swept/
   short_title: Vietnam Belief Scares
 date: '2026-07-15 23:55:48 '
+last_modified_at: '2026-07-15 23:55:48 '
 header:
   og_image: /assets/images/Venezuela_9d4ac4-overview-social.jpg
   preview_image: /assets/images/Venezuela_9d4ac4-overview.webp

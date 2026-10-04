@@ -238,6 +238,7 @@ next_link:
   short_title: White Brotherhood
   heading_title: Did Kyiv Narrowly Avoid a Mass Suicide?
 date: '2026-07-15 23:55:00 '
+last_modified_at: '2026-07-15 23:55:00 '
 header:
   og_image: /assets/images/Ukraine_c951ec_wartime_conspiracy_s_fdbdda-Illustration-1-social.jpg
   preview_image: /assets/images/Ukraine_c951ec_wartime_conspiracy_s_fdbdda-Illustration-1.webp

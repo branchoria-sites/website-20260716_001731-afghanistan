@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /uruguay-66b989-index/
 description: Focused pages that expand on When Belief Challenged Uruguay's Secular....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Uruguay_66b989
 parent_title: When Belief Challenged Uruguay's Secular...

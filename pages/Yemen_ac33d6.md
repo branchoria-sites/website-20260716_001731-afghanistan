@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-became-a-public-crisis-in/
   short_title: China
 date: '2026-07-15 23:55:55 '
+last_modified_at: '2026-07-15 23:55:55 '
 header:
   og_image: /assets/images/Yemen_ac33d6-overview-social.jpg
   preview_image: /assets/images/Yemen_ac33d6-overview.webp

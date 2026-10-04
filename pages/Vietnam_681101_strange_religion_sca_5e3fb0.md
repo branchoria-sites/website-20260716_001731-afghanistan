@@ -238,6 +238,7 @@ prev_link:
   short_title: Prophetic Religions
   heading_title: Why Prophetic Religions Flourished in Southern Vietnam
 date: '2026-07-15 23:55:52 '
+last_modified_at: '2026-07-15 23:55:52 '
 header:
   og_image: /assets/images/Vietnam_681101_strange_religion_sca_5e3fb0-Illustration-1-social.jpg
   preview_image: /assets/images/Vietnam_681101_strange_religion_sca_5e3fb0-Illustration-1.webp

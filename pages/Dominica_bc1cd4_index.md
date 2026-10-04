@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dominica-bc1cd4-index/
 description: Focused pages that expand on When Fear Became Law in Dominica.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dominica_bc1cd4
 parent_title: When Fear Became Law in Dominica

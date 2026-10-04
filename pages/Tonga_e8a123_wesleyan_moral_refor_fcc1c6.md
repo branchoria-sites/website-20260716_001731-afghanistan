@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:19:10'
+last_modified_at: '2026-07-15 01:19:10'
 parent_title: Tonga
 parent_permalink: /when-faith-fear-and-power-reshaped-tonga/
 parent_nav_short_title: Tonga

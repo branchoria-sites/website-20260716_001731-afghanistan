@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mauritius-26160d-index/
 description: Focused pages that expand on When Fear and Belief Took Hold in Mauritius.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Mauritius_26160d
 parent_title: When Fear and Belief Took Hold in Mauritius

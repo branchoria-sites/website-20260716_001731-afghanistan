@@ -238,6 +238,7 @@ prev_link:
   short_title: John Frum
   heading_title: Why Did John Frum Endure?
 date: '2026-07-15 23:55:41 '
+last_modified_at: '2026-07-15 23:55:41 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2_prince_philip_tanna_16130a-Illustration-1-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2_prince_philip_tanna_16130a-Illustration-1.webp

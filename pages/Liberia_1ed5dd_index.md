@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /liberia-1ed5dd-index/
 description: Focused pages that expand on When Fear Became Power in Liberia.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Liberia_1ed5dd
 parent_title: When Fear Became Power in Liberia

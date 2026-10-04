@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /jordan-674027-index/
 description: Focused pages that expand on How Fear Spread Through Modern Jordan.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Jordan_674027
 parent_title: How Fear Spread Through Modern Jordan

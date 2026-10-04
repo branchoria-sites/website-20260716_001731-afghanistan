@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 19:53:23'
+last_modified_at: '2026-07-12 19:53:23'
 parent_title: Ivory Coast Beliefs
 parent_permalink: /how-belief-and-fear-reshaped-ivory-coast/
 parent_nav_short_title: Ivory Coast Beliefs

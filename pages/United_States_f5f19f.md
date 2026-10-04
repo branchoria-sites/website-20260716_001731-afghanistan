@@ -1184,6 +1184,7 @@ next_link:
   permalink: /uzbekistan/
   short_title: Uzbekistan
 date: '2026-07-15 23:55:21 '
+last_modified_at: '2026-07-15 23:55:21 '
 header:
   og_image: /assets/images/United_States_f5f19f-overview-social.jpg
   preview_image: /assets/images/United_States_f5f19f-overview.webp

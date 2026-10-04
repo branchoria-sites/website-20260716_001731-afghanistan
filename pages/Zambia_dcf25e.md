@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-and-fear-swept-across-egypt/
   short_title: Egyptian Panics
 date: '2026-07-15 23:55:59 '
+last_modified_at: '2026-07-15 23:55:59 '
 header:
   og_image: /assets/images/Zambia_dcf25e-overview-social.jpg
   preview_image: /assets/images/Zambia_dcf25e-overview.webp

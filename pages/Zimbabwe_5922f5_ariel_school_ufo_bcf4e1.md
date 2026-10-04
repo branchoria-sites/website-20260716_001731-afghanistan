@@ -238,6 +238,7 @@ next_link:
   short_title: School Scares
   heading_title: Why Satanism Scares Spread Through Schools
 date: '2026-07-15 23:55:05 '
+last_modified_at: '2026-07-15 23:55:05 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_ariel_school_ufo_bcf4e1-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_ariel_school_ufo_bcf4e1-Illustration-1.webp

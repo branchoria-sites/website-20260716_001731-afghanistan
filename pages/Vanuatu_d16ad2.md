@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-belief-challenged-uruguays-secular/
   short_title: Uruguay Belief Scares
 date: '2026-07-15 23:55:39 '
+last_modified_at: '2026-07-15 23:55:39 '
 header:
   og_image: /assets/images/Vanuatu_d16ad2-overview-social.jpg
   preview_image: /assets/images/Vanuatu_d16ad2-overview.webp

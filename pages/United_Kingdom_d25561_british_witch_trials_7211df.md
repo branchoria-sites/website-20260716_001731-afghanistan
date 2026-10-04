@@ -238,6 +238,7 @@ prev_link:
   short_title: Prophets
   heading_title: Why Failed Prophecies Kept British Movements Alive
 date: '2026-07-15 23:55:16 '
+last_modified_at: '2026-07-15 23:55:16 '
 header:
   og_image: /assets/images/United_Kingdom_d25561_british_witch_trials_7211df-Illustration-1-social.jpg
   preview_image: /assets/images/United_Kingdom_d25561_british_witch_trials_7211df-Illustration-1.webp

@@ -238,6 +238,7 @@ prev_link:
   short_title: Religion Control
   heading_title: Who Was Branded Dangerous in Turkmenistan?
 date: '2026-07-15 23:54:50 '
+last_modified_at: '2026-07-15 23:54:50 '
 header:
   og_image: /assets/images/Turkmenistan_1f8dc1_ruhnama_state_script_61d97e-Illustration-1-social.jpg
   preview_image: /assets/images/Turkmenistan_1f8dc1_ruhnama_state_script_61d97e-Illustration-1.webp

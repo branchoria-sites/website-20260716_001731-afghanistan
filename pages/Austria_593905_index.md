@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /austria-593905-index/
 description: Focused pages that expand on When Fear Became Persecution in Austria.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Austria_593905
 parent_title: When Fear Became Persecution in Austria

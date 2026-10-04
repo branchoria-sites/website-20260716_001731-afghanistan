@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /botswana-180c89-index/
 description: Focused pages that expand on When Fear Gripped Botswana's Schools and....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Botswana_180c89
 parent_title: When Fear Gripped Botswana's Schools and...

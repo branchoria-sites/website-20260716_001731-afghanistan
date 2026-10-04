@@ -238,6 +238,7 @@ prev_link:
   short_title: School Scares
   heading_title: Why Satanism Scares Spread Through Schools
 date: '2026-07-15 23:55:06 '
+last_modified_at: '2026-07-15 23:55:06 '
 header:
   og_image: /assets/images/Zimbabwe_5922f5_witchcraft_law_and_h_e3cad5-Illustration-1-social.jpg
   preview_image: /assets/images/Zimbabwe_5922f5_witchcraft_law_and_h_e3cad5-Illustration-1.webp

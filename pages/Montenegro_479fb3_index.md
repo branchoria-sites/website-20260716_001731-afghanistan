@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /montenegro-479fb3-index/
 description: Focused pages that expand on When Rumour and Belief Reshaped Montenegro.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Montenegro_479fb3
 parent_title: When Rumour and Belief Reshaped Montenegro

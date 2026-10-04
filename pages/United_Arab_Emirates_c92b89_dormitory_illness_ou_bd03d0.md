@@ -238,6 +238,7 @@ next_link:
   short_title: Sorcery Cases
   heading_title: When Ordinary Objects Became Proof of Sorcery
 date: '2026-07-15 23:55:10 '
+last_modified_at: '2026-07-15 23:55:10 '
 header:
   og_image: /assets/images/United_Arab_Emirates_c92b89_dormitory_illness_ou_bd03d0-Illustration-1-social.jpg
   preview_image: /assets/images/United_Arab_Emirates_c92b89_dormitory_illness_ou_bd03d0-Illustration-1.webp

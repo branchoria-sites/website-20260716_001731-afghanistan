@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /benin-373616-index/
 description: Focused pages that expand on When Fear, Faith and Power Collided in Benin.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Benin_373616
 parent_title: When Fear, Faith and Power Collided in Benin

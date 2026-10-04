@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:18:43'
+last_modified_at: '2026-07-15 01:18:43'
 parent_title: Tajikistan
 parent_permalink: /when-fear-became-policy-in-tajikistan/
 parent_nav_short_title: Tajikistan

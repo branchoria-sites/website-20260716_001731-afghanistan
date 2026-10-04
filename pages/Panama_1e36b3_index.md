@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /panama-1e36b3-index/
 description: Focused pages that expand on Panama.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Panama_1e36b3
 parent_title: Panama

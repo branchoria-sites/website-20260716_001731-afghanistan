@@ -1184,6 +1184,7 @@ next_link:
   permalink: /when-fear-and-belief-swept-across-india/
   short_title: India Panics
 date: '2026-07-15 23:55:16 '
+last_modified_at: '2026-07-15 23:55:16 '
 header:
   og_image: /assets/images/Tanzania_7e380b-overview-social.jpg
   preview_image: /assets/images/Tanzania_7e380b-overview.webp

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 21:07:23'
+last_modified_at: '2026-07-12 21:07:23'
 parent_title: Denmark's Collective Fears
 parent_permalink: /how-did-fear-become-contagious-in/
 parent_nav_short_title: Denmark's Collective Fears

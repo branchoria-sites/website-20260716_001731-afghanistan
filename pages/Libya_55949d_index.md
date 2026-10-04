@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /libya-55949d-index/
 description: Focused pages that expand on When Fear Became Power in Libya.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Libya_55949d
 parent_title: When Fear Became Power in Libya

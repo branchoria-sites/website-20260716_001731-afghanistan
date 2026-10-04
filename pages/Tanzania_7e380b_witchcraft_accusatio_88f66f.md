@@ -238,6 +238,7 @@ prev_link:
   short_title: Popobawa
   heading_title: How Popobawa Turned Night Terror Into Panic
 date: '2026-07-15 23:55:19 '
+last_modified_at: '2026-07-15 23:55:19 '
 header:
   og_image: /assets/images/Tanzania_7e380b_witchcraft_accusatio_88f66f-Illustration-1-social.jpg
   preview_image: /assets/images/Tanzania_7e380b_witchcraft_accusatio_88f66f-Illustration-1.webp

@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-13 00:28:30'
+last_modified_at: '2026-07-13 00:28:30'
 parent_title: Eritrea
 parent_permalink: /what-collective-fears-shaped-modern/
 parent_nav_short_title: Eritrea

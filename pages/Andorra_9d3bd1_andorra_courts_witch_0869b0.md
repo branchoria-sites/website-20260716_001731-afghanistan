@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-12 10:24:19'
+last_modified_at: '2026-07-12 10:24:19'
 parent_title: Andorra Witch Trials
 parent_permalink: /how-witch-fear-took-hold-in-andorra/
 parent_nav_short_title: Andorra Witch Trials

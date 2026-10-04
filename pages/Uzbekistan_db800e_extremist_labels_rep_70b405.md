@@ -238,6 +238,7 @@ next_link:
   short_title: Namangan
   heading_title: How Namangan Shaped Uzbekistan's Fear of Islamism
 date: '2026-07-15 23:55:36 '
+last_modified_at: '2026-07-15 23:55:36 '
 header:
   og_image: /assets/images/Uzbekistan_db800e_extremist_labels_rep_70b405-Illustration-1-social.jpg
   preview_image: /assets/images/Uzbekistan_db800e_extremist_labels_rep_70b405-Illustration-1.webp

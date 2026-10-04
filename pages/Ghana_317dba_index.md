@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ghana-317dba-index/
 description: Focused pages that expand on When Fear Became Social Power in Ghana.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ghana_317dba
 parent_title: When Fear Became Social Power in Ghana

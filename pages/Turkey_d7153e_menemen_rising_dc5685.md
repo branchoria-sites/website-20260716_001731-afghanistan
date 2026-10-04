@@ -238,6 +238,7 @@ next_link:
   short_title: Rumour Violence
   heading_title: When Rumours Made Neighbours Seem Dangerous
 date: '2026-07-15 23:54:44 '
+last_modified_at: '2026-07-15 23:54:44 '
 header:
   og_image: /assets/images/Turkey_d7153e_menemen_rising_dc5685-Illustration-1-social.jpg
   preview_image: /assets/images/Turkey_d7153e_menemen_rising_dc5685-Illustration-1.webp

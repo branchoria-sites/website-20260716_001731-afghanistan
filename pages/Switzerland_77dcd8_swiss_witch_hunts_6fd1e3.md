@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:18:26'
+last_modified_at: '2026-07-15 01:18:26'
 parent_title: Swiss Collective Fears
 parent_permalink: /when-hidden-enemies-haunted-switzerland/
 parent_nav_short_title: Swiss Collective Fears

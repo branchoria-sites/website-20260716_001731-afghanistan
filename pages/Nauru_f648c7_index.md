@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nauru-f648c7-index/
 description: Focused pages that expand on What Nauru Reveals About Fear and Belief.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nauru_f648c7
 parent_title: What Nauru Reveals About Fear and Belief

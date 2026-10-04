@@ -244,6 +244,7 @@ next_link:
   short_title: Rescue Myth
   heading_title: Was Operation Magic Carpet Really a Miracle?
 date: '2026-07-15 23:55:59 '
+last_modified_at: '2026-07-15 23:55:59 '
 header:
   og_image: /assets/images/Yemen_ac33d6_yemen_messianic_move_23645b-Illustration-1-social.jpg
   preview_image: /assets/images/Yemen_ac33d6_yemen_messianic_move_23645b-Illustration-1.webp

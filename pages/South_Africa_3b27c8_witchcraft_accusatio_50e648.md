@@ -202,6 +202,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-15 01:17:38'
+last_modified_at: '2026-07-15 01:17:38'
 parent_title: South Africa
 parent_permalink: /when-fear-and-prophecy-shaped-south/
 parent_nav_short_title: South Africa

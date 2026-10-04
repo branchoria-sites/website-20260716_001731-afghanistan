@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /romania-d6b897-index/
 description: Focused pages that expand on When Belief and Fear Gripped Romania.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Romania_d6b897
 parent_title: When Belief and Fear Gripped Romania

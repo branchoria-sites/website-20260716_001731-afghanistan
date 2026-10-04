@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /japan-fcf29f-index/
 description: Focused pages that expand on When Fear and Belief Swept Through Japan.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Japan_fcf29f
 parent_title: When Fear and Belief Swept Through Japan

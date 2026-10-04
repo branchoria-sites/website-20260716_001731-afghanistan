@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oman-c14c36-index/
 description: Focused pages that expand on Oman.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oman_c14c36
 parent_title: Oman
