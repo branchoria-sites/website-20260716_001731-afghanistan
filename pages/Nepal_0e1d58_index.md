@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nepal-0e1d58-index/
 description: Focused pages that expand on When Fear and Belief Spread Across Nepal.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Nepal_0e1d58
 parent_title: When Fear and Belief Spread Across Nepal

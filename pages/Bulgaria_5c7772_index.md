@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bulgaria-5c7772-index/
 description: Focused pages that expand on Who Defined Truth and Danger in Bulgaria?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Bulgaria_5c7772
 parent_title: Who Defined Truth and Danger in Bulgaria?

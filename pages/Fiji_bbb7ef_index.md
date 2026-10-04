@@ -7,8 +7,8 @@ nav_short_title: Sub-Topic Index
 permalink: /fiji-bbb7ef-index/
 description: Focused pages that expand on When Belief, Fear and Power Collided in
   Fiji.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Fiji_bbb7ef
 parent_title: When Belief, Fear and Power Collided in Fiji

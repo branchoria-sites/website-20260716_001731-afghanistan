@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /namibia-bfe79d-index/
 description: Focused pages that expand on When Fear Spreads Through Namibia.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Namibia_bfe79d
 parent_title: When Fear Spreads Through Namibia
