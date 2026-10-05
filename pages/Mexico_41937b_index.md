@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /mexico-41937b-index/
 description: Focused pages that expand on When Fear and Belief Gripped Mexico.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Mexico_41937b
 parent_title: When Fear and Belief Gripped Mexico
