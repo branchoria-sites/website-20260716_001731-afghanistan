@@ -211,7 +211,7 @@ site_image_description: A crowded Kabul street, a girls' school courtyard and a 
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/North_Korea_ccbbbb-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/North_Korea_ccbbbb-overview-social.jpg' | relative_url }}" alt="{{ site.title | escape }} overview image" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">KP</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="asia" data-uap-world-map-region-focus="asia" aria-label="Focus map on Asia">Asia</button>
