@@ -210,8 +210,8 @@ hero_summary: 'Iraq’s history of collective belief and fear is not a catalogue
 layout: default
 permalink: /iraq/
 nav_short_title: When Belief and Fear Became Public Threats
-title: When Belief and Fear Became Public Threats
-title_full: When Belief and Fear Became Public Threats
+title: "When Belief and Fear Became Public Threats (iraq)"
+title_full: "When Belief and Fear Became Public Threats (iraq)"
 display_title_short: When Belief and Fear Became Public Threats
 display_title: When Belief and Fear Became Public Threats
 heading_title: When Belief and Fear Became Public Threats

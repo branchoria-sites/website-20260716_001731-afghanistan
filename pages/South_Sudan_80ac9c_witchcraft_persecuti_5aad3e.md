@@ -21,8 +21,8 @@ permalink: /witchcraft-0c3ab9/
 sidebar_expanded_urls:
 - /when-fear-becomes-power-in-south-sudan/
 nav_short_title: Witchcraft
-title: How Witchcraft Accusations Become Collective Violence
-title_full: How Witchcraft Accusations Become Collective Violence
+title: "How Witchcraft Accusations Become Collective Violence - South Sudan"
+title_full: "How Witchcraft Accusations Become Collective Violence - South Sudan"
 display_title_short: Witchcraft
 display_title: Witchcraft
 heading_title: How Witchcraft Accusations Become Collective Violence

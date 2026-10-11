@@ -21,8 +21,8 @@ permalink: /witchcraft-462ecc/
 sidebar_expanded_urls:
 - /when-fear-and-prophecy-shaped-south/
 nav_short_title: Witchcraft
-title: How Witchcraft Accusations Become Collective Violence
-title_full: How Witchcraft Accusations Become Collective Violence
+title: "How Witchcraft Accusations Become Collective Violence - South Africa"
+title_full: "How Witchcraft Accusations Become Collective Violence - South Africa"
 display_title_short: Witchcraft
 display_title: Witchcraft
 heading_title: How Witchcraft Accusations Become Collective Violence

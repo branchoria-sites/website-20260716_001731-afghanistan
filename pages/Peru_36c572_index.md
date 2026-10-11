@@ -5,7 +5,7 @@ display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /peru-36c572-index/
-description: Focused pages that expand on When Belief, Fear and Power Collided in
+description: "Focused pages that expand on When Belief, Fear and Power Collided in - Peru."
   Peru.
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'

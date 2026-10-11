@@ -210,8 +210,8 @@ hero_summary: Brazil’s history of collective belief and fear is not one story 
 layout: default
 permalink: /brazil/
 nav_short_title: When Belief Became a Public Threat
-title: When Belief Became a Public Threat
-title_full: When Belief Became a Public Threat
+title: "When Belief Became a Public Threat (brazil)"
+title_full: "When Belief Became a Public Threat (brazil)"
 display_title_short: When Belief Became a Public Threat
 display_title: When Belief Became a Public Threat
 heading_title: When Belief Became a Public Threat
