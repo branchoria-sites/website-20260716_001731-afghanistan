@@ -21,8 +21,8 @@ permalink: /witchcraft-persecution/
 sidebar_expanded_urls:
 - /when-fear-and-belief-spread-across-nepal/
 nav_short_title: Witchcraft Persecution
-title: How Witchcraft Accusations Become Collective Violence
-title_full: How Witchcraft Accusations Become Collective Violence
+title: "How Witchcraft Accusations Become Collective Violence - Nepal"
+title_full: "How Witchcraft Accusations Become Collective Violence - Nepal"
 display_title_short: Witchcraft Persecution
 display_title: Witchcraft Persecution
 heading_title: How Witchcraft Accusations Become Collective Violence

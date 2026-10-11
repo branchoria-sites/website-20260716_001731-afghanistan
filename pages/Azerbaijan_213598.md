@@ -210,8 +210,8 @@ hero_summary: Azerbaijan has no well-established equivalent of the Salem witch t
 layout: default
 permalink: /azerbaijan/
 nav_short_title: When Belief Became a Public Threat
-title: When Belief Became a Public Threat
-title_full: When Belief Became a Public Threat
+title: "When Belief Became a Public Threat (azerbaijan)"
+title_full: "When Belief Became a Public Threat (azerbaijan)"
 display_title_short: When Belief Became a Public Threat
 display_title: When Belief Became a Public Threat
 heading_title: When Belief Became a Public Threat

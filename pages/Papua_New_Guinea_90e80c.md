@@ -210,8 +210,8 @@ hero_summary: Papua New Guinea’s history of collective belief is not best unde
 layout: default
 permalink: /papua-new-guinea/
 nav_short_title: When Belief Became Power, Panic and Persecution
-title: When Belief Became Power, Panic and Persecution
-title_full: When Belief Became Power, Panic and Persecution
+title: "When Belief Became Power, Panic and Persecution (papua new guinea)"
+title_full: "When Belief Became Power, Panic and Persecution (papua new guinea)"
 display_title_short: When Belief Became Power, Panic and Persecution
 display_title: When Belief Became Power, Panic and Persecution
 heading_title: When Belief Became Power, Panic and Persecution

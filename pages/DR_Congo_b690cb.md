@@ -210,8 +210,8 @@ hero_summary: The Democratic Republic of the Congo’s history of contagious bel
 layout: default
 permalink: /dr-congo/
 nav_short_title: When Belief Became Power, Panic and Persecution
-title: When Belief Became Power, Panic and Persecution
-title_full: When Belief Became Power, Panic and Persecution
+title: "When Belief Became Power, Panic and Persecution (dr congo)"
+title_full: "When Belief Became Power, Panic and Persecution (dr congo)"
 display_title_short: When Belief Became Power, Panic and Persecution
 display_title: When Belief Became Power, Panic and Persecution
 heading_title: When Belief Became Power, Panic and Persecution
